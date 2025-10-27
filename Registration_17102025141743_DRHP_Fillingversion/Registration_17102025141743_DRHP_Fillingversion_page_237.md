@@ -1,0 +1,11 @@
+<table><thead><tr><td>Clause</td><td>Details</td></tr></thead><tbody><tr><td>Term</td><td>Typically, 3 or 5 Years for Colocation (Retail and Wholesale), Minimum 5 years for hyperscalers</td></tr><tr><td>Payment Terms</td><td>Monthly/Quarterly in Arrears</td></tr></tbody></table>
+
+Tenure, escalations and payment terms
+
+Source: C&W Research
+
+## 3.6 Data center GTM
+
+### 3.6.1 Bundling IT and managed services
+
+Bundling IT and managed services allows data centers to move beyond offering just infrastructure and become full-service providers for their clients. For businesses, especially small and midsized ones, it may be convenient dealing with a single vendor who can handle all their IT needs. By offering these services together, data centers make it easier for customers to manage operations, reduce vendor coordination, and avoid the complexity of multiple service level agreements (SLAs). This approach not only improves customer convenience and satisfaction but also helps data centers grow their revenue per client and build longer-term relationships. Some of the key services offered by data center players under bundled IT and managed services are outlined below, which can help their business grow by delivering greater value, increasing retention, and creating stronger market differentiation.

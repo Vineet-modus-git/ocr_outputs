@@ -1,0 +1,25 @@
+a comprehensive suite of services, including data centers, network, cloud, digital, and IT solutions, all under one roof. We are able to offer integrated end-to-end solutions that address the full spectrum of our clients' ICT requirements. We also capitalize on multiple cross-sell and upsell opportunities within the Sify Group, enhancing value for our clients and driving business growth.
+
+## Our Clients
+
+As of June 30, 2025, we had a client base of over 500 clients, comprising a mix of Hyperscaler and Enterprise clients. As of June 30, 2025, our client base included 3 of the top 4 global Hyperscaler companies, based on cloud services revenue in the second quarter of calendar year 2024, operating in India, according to the 1Lattice and C&W Report. Our Enterprise client base includes large clients BFSI clients, as well as leading companies across sectors such as financial services, fintech, social media, manufacturing, retail, healthcare and pharma and media and communications. As of June 30, 2025, our operations served 7 of the top 10 Indian banks (based on Fiscal 2024 revenues), 4 of the top 10 Indian insurance companies (based on Fiscal 2024 revenues), a leading European payments company, as well as 2 of the top 5 social media companies globally (based on the number of smartphone handsets housing these applications as of the end of Fiscal 2025), according to the 1Lattice and C&W Report.
+
+## Pricing Models
+
+We typically enter into service agreements with our clients, which broadly set out the framework relating to the services we offer, and separate work orders are executed thereunder in respect of individual engagements, along with the commercial terms in respect thereof. Our agreements with our clients are fixed-term contracts with options to extend or renew and typically contain fixed pricing rates for a period of time. Our agreements also typically provide for periodic price increases for the services and solutions we provide, which are linked to general inflation metrics and other factors.
+
+In our contractual arrangements with clients, we also assume certain ancillary obligations in respect of the services being provided by us, such as the maintenance of insurance policies and support services. We also maintain a business continuity plan which prescribes standard operating procedures designed for effectively managing any incident that may disrupt our operations, ensuring that key services are resumed within agreed timelines, and reducing the impact of any disruptions in the services we offer to our clients.
+
+## Sales and Marketing
+
+Our sales and marketing activities are centered around keeping existing and potential future clients informed of our capabilities and developments in the data center industry more generally. We organize site visits for company CEOs and CTOs to present and discuss our capabilities and answer any questions they may have. We also host discussion events and submit white papers for various industry forums.
+
+Our dedicated sales and marketing staff work closely with members of our Senior Management to identify new client business opportunities, strengthen our long-standing relationships with existing clients and forge new partnerships with Hyperscaler and Enterprise clients.
+
+In addition, we have a unified GTM strategy, through which we augment our colocation, build-to-suit, interconnection, and value-added services with complementary offerings from STL and SDSL, and advance a converged portfolio of services to our Enterprise clients. This strategy allows for effective cross-selling of services among us and STL and SDSL. For example, we are able to offer colocation or other data center services to clients who avail themselves of STL's network connectivity services or SDSL's digital IT tools and services, and vice versa. Our clients benefit from the availability of an integrated services offering when they partner with us, STL or SDSL.
+
+## Competition
+
+We operate in an increasingly competitive industry in India. We face competition from large international players, who increasingly penetrate the Indian data center market, by leveraging on their global scale, brand strength and vast financial resources. In addition, we face competition from boutique, private-equity-backed players. According to the 1Lattice and C&W Report, several new private equity-backed platforms have recently entered or are entering the Indian data center market, signaling growing investor confidence and heightened interest in the sector's long-term potential.
+
+For more details on our competition, see “Risk Factors—11. We operate in a highly competitive and dynamic environment and may not be able to compete successfully which could result in price reductions, reduced operating margins and loss of market share.” on page 41.

@@ -1,0 +1,15 @@
+Day from the date of receipt of such notification and also inform the Bankers to the Offer to process refunds to the Anchor Investors, as the case may be. The notice of withdrawal will be issued in the same newspapers where the pre-Offer and Price Band advertisements have appeared, and the Stock Exchanges will also be informed promptly. In terms of the UPI Circulars, in relation to the Offer, the BRLMs will submit reports of compliance with T+3 listing timelines and activities, identifying non-adherence to timelines and processes and an analysis of entities responsible for the delay and the reasons associated with it. Further, in case of any delay in unblocking of amounts in the ASBA Accounts (including amounts blocked through the UPI Mechanism) exceeding four Working Days from the Bid/ Offer Closing Date, the Bidder shall be compensated at a uniform rate of ₹100 per day or 15% p.a. of the Bid Amount, whichever is higher, for the entire duration of delay exceeding two Working Days from the Bid/ Offer Closing Date by the intermediary responsible for causing such delay in unblocking. The BRLMs shall, in their sole discretion, identify and fix the liability on such intermediary or entity responsible for such delay in unblocking.
+
+If our Company and the Selling Shareholders, in consultation with the BRLMs withdraws the Offer after the Bid/ Offer Closing Date and thereafter determines that it will proceed with a public offering of the Equity Shares, our Company shall file a fresh draft red herring prospectus with SEBI. Notwithstanding the foregoing, the Offer is also subject to obtaining (i) the final listing and trading approvals of the Stock Exchanges, which our Company shall apply for after Allotment; and (ii) the filing of the Prospectus with the RoC.
+
+## Restrictions, if any on transfer and transmission of Equity Shares
+
+Except for lock-in of the pre-Offer capital of our Company, lock-in of our Promoters' minimum contribution under the SEBI ICDR Regulations and the Anchor Investor lock-in as provided in "Capital Structure" beginning on page 93 and except as provided under the Articles of Association and under SEBI ICDR Regulations, there are no restrictions on transfer of the Equity Shares. Further, there are no restrictions on transmission of any shares of our Company and on their consolidation or splitting, except as provided in the Articles of Association. For details, see "Description of Equity Shares and Terms of the Articles Of Association" beginning on page 528.
+
+## New financial instruments
+
+Our Company is not issuing any new financial instruments through this Offer.
+
+## Allotment of Equity Shares only in Dematerialized Form
+
+Allotment of Equity Shares to successful Bidders will only be in the dematerialized form. Bidders will not have the option of Allotment of the Equity Shares in physical form. The Equity Shares on Allotment will be traded only in the dematerialized segment of the Stock Exchanges.

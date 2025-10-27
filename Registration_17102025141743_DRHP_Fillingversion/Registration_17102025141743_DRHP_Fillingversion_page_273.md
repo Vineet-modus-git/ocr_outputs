@@ -1,0 +1,29 @@
+demonstrates a strong commitment to innovation-led enterprise transformation.⁸⁴ SISL data centers provide a flexible, scalable infrastructure platform that meets global hosting practices.
+
+SISL data centers in Navi Mumbai, Chennai and Noida are equipped to handle high-performance AI and mission-critical workloads, supporting up to 130 kW per rack. SISL's facility at Siruseri, Chennai which is also South India's largest AI-ready campus is a Rated 4 and Platinum rated green facility. Backed by Sify's converged ICT ecosystem, including global connectivity, White Glove IT infrastructure, and managed services, solidify its leadership in high-performance AI infrastructure in India.⁸⁵ Advanced cooling solutions include rear door heat exchangers (20–50 kW), direct-to-chip and liquid immersion cooling (50–130 kW).
+
+**5. Pay-per-use business model innovation**
+
+In May 2025, SISL introduced a pay-per-use colocation pricing model across its three NVIDIA-Certified AI-Ready hyperscale data center campuses. The offering provides hourly rates inclusive of hosting, power, and Infrastructure costs under NVIDIA's DGX-Ready program purpose-built to support power and cooling loads of up to 130 kW per rack. This innovation removes upfront entry barriers and fixed-cost infrastructure risks, enabling GPU cloud partners to deploy rapidly and scale on demand.
+
+**6. Deep understanding of Indian enterprises**
+
+Decades of experience in the Indian market, Sify Technologies Limited, the parent company of SISL has built a strong legacy of delivering tailored digital services across industries. As the pioneer of India's data center industry, SISL has been at the forefront of digital transformation. The Vashi data center by SISL in Mumbai holds the distinction of being the country's first commercial data center—now completing 25 years of continuous operation. SISL's deep industry insight allows it to serve diverse sectors including BFSI, manufacturing, logistics, and public services. Today, SISL continues to deliver strategic business value to over 500 clients across the country.
+
+**7. Proximity to demand pockets enabling low latency:**
+
+SISL data centers are strategically located in key demand pockets of India namely Mumbai, Chennai, Noida and Hyderabad. Presence in these demand pockets enables low latency for SISL data center, which in turn minimizes transmission delays and ensures faster response times for applications and services and is a significant benefit for SISL clients.
+
+**8. Sustainable operations with renewable energy**
+
+SISL demonstrates a strong commitment to environmental responsibility by integrating sustainability into its core operations. They have signed PPAs of solar and wind energy capacity to power their latest hyperscale data centers and use best practices from ASHRAE guidelines to achieve low PUE. The PUE levels for SISL will mature as their data center's capacity gets fully utilized. SISL also implements innovative best practices through Green Grid guidelines to achieve low WUE. This positions Sify as a preferred partner for climate-conscious enterprises, aligning with global sustainability goals and regulatory expectations. Long-term PPAs, combined with industry-parallel PUE, help minimize operational risks for SISL by securing power supply. This aligns well with all of SISL hyperscaler clients, who are practitioners of environmental mandates and carbon targets. As of June 30, 2025, approximately 58.69% of power capacity utilized by SISL data centers in Mumbai during the last 12 months was generated from renewable energy sources which is notably high compared to the broader industry landscape. However, the first quarter of Fiscal 2026 i.e., April to June 2025 the same split of renewable energy sourced compared to total energy used for Mumbai data centers goes up to 63%.
+
+**5.3.1.2 Challenges**
+
+**1. Increasing pressure on profit margin owing to depreciation and interest costs**
+
+The company's revenue from operations have witnessed a substantial increase, nearly doubling from INR 5,628.69 million in Fiscal 2021 to INR 11,141.70 million in Fiscal 2024. During the same period, profit before tax (PBT) rose from INR 724.60 million to INR 1,141.78 million. Despite this growth, the profit
+
+Sify Technologies Limited / cloud services
+
+Sify Technologies Limited announces Pay-Per-Use Colocation Pricing at all NVIDIA-certified AI-Ready Hyperscale Data Center Campuses across India, May 2025

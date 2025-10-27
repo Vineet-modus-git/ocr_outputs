@@ -1,0 +1,7 @@
+## Other agreements
+
+Our Key Managerial Personnel or members of Senior Management, Directors, Promoters, or any other employee either by themselves or on behalf of any other person, have not entered into any agreement with any shareholder or any third party with regard to compensation or profit sharing in connection with dealings in the securities of our Company.
+
+As of the date of this Draft Red Herring Prospectus, there are no agreements entered into by our Company pertaining to the primary and secondary transactions of securities of our Company including any financial arrangements thereof.
+
+Except as disclosed in "- Details regarding material acquisitions or divestments of business/undertakings, mergers, amalgamations or any revaluation of assets, since incorporation" above, there are no arrangements or agreements, deeds of assignment, acquisition agreements, shareholders' agreements, inter se agreements, any agreements between our Company, the Promoters and the Shareholders, agreements of like nature or agreements comprising any clauses/ covenants which are material to our Company, and which are required to be disclosed, or the non-disclosure of which may have a bearing on the investment decision of prospective investors in the Offer.

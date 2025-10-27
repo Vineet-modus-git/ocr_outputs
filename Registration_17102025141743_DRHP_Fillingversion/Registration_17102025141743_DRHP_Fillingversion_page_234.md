@@ -1,0 +1,30 @@
+Microsoft was the first global cloud provider to launch local data centers in India, opening three regions—Pune, Chennai, and Mumbai—in September 2015¹, securing key enterprise and public sector contracts through data residency. It expanded further with a new Azure region in Hyderabad in March 2022² and announced a USD 3 billion investment in January 2025 to scale its cloud and AI infrastructure³, including new self-built facilities. Google, initially slower in physical expansion, shifted strategy with plans in March 2024 to acquire a 22.5-acre site in Navi Mumbai for its first self-built data center⁴, marking a move from leased to dedicated infrastructure in line with its global approach.
+
+### 3.4.2 Hyperscale land acquisitions to secure tomorrow's infrastructure and cloud foundation
+
+With surging digital demand and a sharp focus on future scalability, hyperscale operators are aggressively securing strategic land parcels across key geographies. Large land acquisition was led by Amazon Web Services (AWS) acquired 38.18 acres in Palava near Mumbai for INR 396 crore, reinforcing its India expansion strategy.⁵⁶ Google is also a finalizing a 22.5-acre land deal in Navi Mumbai's Juinagar for its first self-owned data center, focused on deploying its Gemini 1.5 Flash AI model.⁵⁷ Meanwhile, Microsoft bought 16.4 acres in Pune's Hinjewadi for INR 520 crore, raising its total Pune investment to ₹848 crore.⁵⁸ Earlier in May 2024, Microsoft also acquired 48 acres in Hyderabad for INR 267 crore to scale its cloud infrastructure across India.⁵⁹
+
+### 3.4.3 Government backed developments catalyzing the data center ecosystem
+
+Driven by strategic national priorities and a growing digital economy, government-backed initiatives have emerged as key enablers of data center infrastructure across India. Several Government backed projects have been initiated between December 2024 and April 2025. It includes major AI and data center initiatives across India. NTT and Neysa announced a INR 10,500 crore investment to build a 400 MW AI data center cluster in Hyderabad, Telangana, featuring 25,000 GPUs and sustainable energy solutions.⁶⁰ Additionally, NBCC (India) Limited and RailTel Corporation signed an MoU to jointly develop data centers domestically and internationally. These initiatives are expected to significantly boost India's AI capabilities, drive demand for high-performance computing infrastructure, and foster employment, innovation, and digital transformation across sectors.⁶¹⁶² Maharashtra saw two major partnerships: one with Microsoft to set up three AI Centers of Excellence in Mumbai, Nagpur, and Pune for governance, forensics, and geospatial analytics; and another with the Adani Group for a INR 50,000 crore investment to develop a 1 GW data center across cities like Thane, Navi Mumbai, Pune, or Amravati.⁶³ In Andhra Pradesh, Google signed an MoU to establish an AI data center in Visakhapatnam, focusing on AI applications in healthcare and agriculture, along with digital infrastructure and skill development.⁶⁴ SISL has also announced large investments in Visakhapatnam. State Investment Promotion Board (SIPB) has approved the first phase of INR 1,466 crore investments that can create 600 jobs in the region.⁶⁵
+
+### 3.4.4 Infrastructure partnerships fueling the data center sector in India
+
+Meta is setting up its first Indian data center in Chennai with Reliance, Brookfield, and Digital Realty, supporting 100 MW IT load and AI workloads like Llama.⁶⁶ Meta's 50,000 km Project Waterworth subsea cable will enhance India's global connectivity and digital infrastructure.⁶⁷ While, NTT is launching the 8,100 km MIST cable and expanding its India data center capacity by 400 MW, aiming to make India a top-5 market.⁶⁸ Blackstone and Panchshil are investing INR 20,000 crore in a 500 MW hyperscale data center in Navi Mumbai, powered by 65% renewable energy.⁶⁹ Reliance plans the world's largest AI-driven data center in Jamnagar with 3 GW capacity and NVIDIA partnership, investing up to INR 2.5 lakh crore.⁷⁰ India's subsea connectivity will also grow with two Africa Pearls (Meta and Airtel) and Reliance Jio's IAX/IEX cables, enhancing digital infrastructure.⁷¹
+
+56 Data Center Dynamics - AWS acquires 38 acres near Mumbai, India, for potential data center build, December 2024
+57 Firstpost - Google to expand data centers in India, allegedly looking to acquire 22.5 acres of land in Navi Mumbai, October 2024
+58 Business Standard - Microsoft acquires Rs 520 cr land in Pune for data center expansion plans | Company News, September 2024
+59 Business Standard - Microsoft acquires a 48-acre plot in Hyderabad. Here's how much it paid | Company News, May 2024
+60 Deccan Chronicle - NTT DATA To Set Up Rs.10,500 Cr AI Data Center Cluster in Hyderabad, April 2025
+61 Economic Times Telecom - NBCC, RailTel sign pact to develop data center projects in India, overseas, April 2025
+62 The Times of India - Maharashtra, Microsoft join hands to establish AI center in Nagpur, Mumbai and Pune | Nagpur News, April 2025
+63 The Times of India - Maharashtra, Microsoft join hands to establish AI centers in Nagpur, Mumbai and Pune | Nagpur News, April 2025
+64 New Indian Express - Google inks MoU with Andhra government to establish AI Data Centre in Vizag, December 2024
+65 The Hindu Businessline - Sify arm to set up data center in Vizag with investment of ₹16,466 cr, July 2025
+66 Data Center Dynamics - Meta to lease Digital Connexion Data Center in Chennai - report, April 2024
+67 Telegraph online India - Digital infrastructure | Meta to boost digital backbone with massive investment in subsea cable project, March 2025
+68 NTT DATA Accelerates India Digital Future with Multi Billion AI and Infrastructure Investments, March 2025
+69 Manufacturing Today India - Blackstone and Panchshil Realty to develop data center, February 2025
+70 Financial Express, Mukesh Ambani's Reliance to build world's largest AI data center in Jamnagar, targeting 3-gigawatt capacity, January 2025
+71 India Briefing - India's Three Subsea Cable Projects to Go Live By 2025, August 2024

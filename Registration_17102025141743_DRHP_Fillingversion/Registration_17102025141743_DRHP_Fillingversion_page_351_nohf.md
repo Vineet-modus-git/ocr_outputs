@@ -1,0 +1,3 @@
+<table><tr><td>22.</td><td>Sify Technologies (Singapore) Pte Ltd</td></tr><tr><td>23.</td><td>Sify Technologies North America Corporation</td></tr><tr><td>24.</td><td>SKVR Software Solution Private Limited</td></tr><tr><td>25.</td><td>Ananda Aqua Exports Private Limited</td></tr><tr><td>26.</td><td>Ananda Enterprises (India) Private Limited</td></tr><tr><td>27.</td><td>Ananda Bhagavati Foods Private Limited</td></tr><tr><td>28.</td><td>Indus Mega Food Park Private Limited</td></tr></table>
+
+(1) Also a Promoter.

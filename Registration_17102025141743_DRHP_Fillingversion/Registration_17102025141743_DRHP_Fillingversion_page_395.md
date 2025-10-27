@@ -1,0 +1,19 @@
+Notes forming part of the Restated Consolidated financial information
+
+(All amounts are in Indian Rupees millions except share data and as stated)
+
+13. Borrowings
+
+<table><thead><tr><th rowspan="2"></th><th colspan="2">Consolidated</th><th colspan="2">Standalone</th></tr><tr><th>As at<br>June 30,<br>2025</th><th>As at<br>March 31,<br>2025</th><th>As at<br>March 31,<br>2024</th><th>As at<br>March 31,<br>2023</th></tr></thead><tbody><tr><td><strong>Secured</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Term loan from banks [Refer Note (a) and (b) below]</td><td>9,671.43</td><td>11,843.24</td><td>11,450.07</td><td>8,130.00</td></tr><tr><td>6% p.a. Compulsorily Convertible Debentures [Refer Note 12(e) above]</td><td>3,041.11</td><td>3,142.90</td><td>4,218.30</td><td>2,617.30</td></tr><tr><td>8.95% p.a. Non Convertible Debentures [Refer Note (c) below]</td><td>2,500.00</td><td>2,500.00</td><td>-</td><td>-</td></tr><tr><td>From others [Refer Note (a) below]</td><td>2,761.47</td><td>2,781.66</td><td>320.83</td><td>18.70</td></tr><tr><td><strong>Unsecured</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>6% p.a. Compulsorily Convertible Debentures [Refer Note 12 (e) above]</td><td>686.63</td><td>709.42</td><td>796.40</td><td>1,432.10</td></tr><tr><td>6% Non-Cumulative Compulsorily Convertible Preference Shares [Refer Note (h) below]</td><td>-</td><td>-</td><td>-</td><td>500.00</td></tr><tr><td>Loan from holding company [Refer Note (d) below]</td><td>-</td><td>-</td><td>208.00</td><td>90.00</td></tr><tr><td>Loan from fellow subsidiary [Refer Note (e) below]</td><td>-</td><td>-</td><td>90.00</td><td>100.00</td></tr></tbody><tfoot><tr><td></td><td><strong>18,660.64</strong></td><td><strong>20,977.22</strong></td><td><strong>17,083.60</strong></td><td><strong>12,888.10</strong></td></tr></tfoot></table>
+
+a. Of the above, facilities amounting to ₹ 11,772.60 (March 31, 2025: ₹ 16,348.80, March 31, 2024: ₹ 13,837.60, March 31, 2023: ₹9,738.70) by the Company are primarily secured by way of a pari-passu charge on the project Receivables and charge on movable fixed assets disbursed for the Specific DC Project. Out of this, ₹ 348.50 (March 31, 2025: ₹ 362.40, March 31, 2024: ₹ 390.29, March 31, 2023: ₹37.86) is loan availed from others (NBFC). Of the above, the facility amounting to ₹ 2,468.70 (March 31, 2025: ₹ 2500.00, March 31, 2024: ₹ NIL, March 31, 2023: ₹ NIL) has been utilised for part-refinancing of existing Term Debt for Specific DC Project on 2nd April 2025.
+
+b. During the FY 2020-21, the company has entered into External Commercial Borrowing (ECB) facility agreement for $5 Million and drawn down $5 Million out of sanctioned loan during FY 2020-21 and repaid $ 0.5 Million in FY 2021-22, $ 1 Million in FY 2022-23, $ 1 Million in FY 2023-24 & $ 1 Million in FY 2024-25 & $ 0.25 Million during the Q1 of FY 2025-26. The Company has also entered into agreement for currency swap (from USD to ₹) to fully hedge foreign currency exposure towards principal repayment and interest rate swap from floating to fixed in order to hedge the foreign currency exposure.
+
+c. Listed Non-Convertible Debentures (NCD) facility issued for re-financing the existing debt for specific Data Centre Towers amounting to ₹ 2,500 (March 31, 2025: ₹ 2,500, March 31, 2024 & March 31, 2023: ₹ NIL) by the Company is primarily secured by way of pari-passu charge on the project Receivables and charge on movable fixed assets.
+
+d. The Company has repaid the unsecured term loan of ₹ 208.00 received from its holding company at an interest rate of 7% p.a during the FY 24-25.
+
+e. The Company has repaid the unsecured term loan of ₹ 90.00 received from its fellow subsidiary at an interest rate of 7% p.a during the FY 24-25.
+
+f. The current maturities of the above borrowings, carrying the aforesaid security and repayment terms are grouped under Note D (16).

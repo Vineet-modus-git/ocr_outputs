@@ -1,0 +1,19 @@
+## Notes forming part of the Restated Consolidated financial information
+
+(All amounts are in Indian Rupees millions except share data and as stated)
+
+b) The activity in allowance for doubtful deposits are given below:
+
+<table><thead><tr><th rowspan="2"></th><th colspan="2">Consolidated</th><th colspan="2">Standalone</th></tr><tr><th>As at<br>June 30, 2025</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Balance at the beginning of the quarter/ year</td><td>3.40</td><td>3.40</td><td>1.60</td><td>0.60</td></tr><tr><td>Add: Additional provision during the quarter/ year</td><td>-</td><td>-</td><td>1.80</td><td>1.00</td></tr><tr><td><strong>Balance at the end of the quarter/ year</strong></td><td><strong>3.40</strong></td><td><strong>3.40</strong></td><td><strong>3.40</strong></td><td><strong>1.60</strong></td></tr></tbody></table>
+
+### 10. Other current assets
+
+<table><thead><tr><th rowspan="2"></th><th colspan="2">Consolidated</th><th colspan="2">Standalone</th></tr><tr><th>As at<br>June 30, 2025</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Balance with Government Authorities</td><td>812.03</td><td>738.22</td><td>534.53</td><td>475.50</td></tr><tr><td>Prepaid expenses</td><td>71.52</td><td>32.37</td><td>27.43</td><td>18.80</td></tr><tr><td>Advance tax and tax deducted at source (Net off Provision for Tax)</td><td>-</td><td>-</td><td>352.16</td><td>170.24</td></tr><tr><td>Deferred Contract Cost</td><td>147.64</td><td>107.31</td><td>107.70</td><td>73.11</td></tr><tr><td>Other advances</td><td>74.73</td><td>76.36</td><td>1.30</td><td>19.39</td></tr><tr><td></td><td><strong>1,105.92</strong></td><td><strong>954.26</strong></td><td><strong>1,023.12</strong></td><td><strong>757.04</strong></td></tr></tbody></table>
+
+Refer Note D (38) for the movement in Contract cost.
+
+### 11. Equity Share Capital
+
+<table><thead><tr><th rowspan="2"></th><th colspan="2">Consolidated</th><th colspan="2">Standalone</th></tr><tr><th>As at<br>June 30,<br>2025</th><th>As at<br>March 31,<br>2025</th><th>As at<br>March 31,<br>2024</th><th>As at<br>March 31,<br>2023</th></tr></thead><tbody><tr><td><strong>Authorized</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>80,02,50,000 (March 31, 2025: 80,02,50,000, March 31, 2024 &amp; March 31, 2023: 80,00,00,000) equity shares of ₹10 each</td><td>8,002.50</td><td>8,002.50</td><td>8,000.00</td><td>8,000.00</td></tr><tr><td>27,00,00,000 (March 31, 2025, March 31, 2024 &amp; March 31, 2023: 27,00,00,000) preference shares of ₹10 each</td><td>2,700.00</td><td>2,700.00</td><td>2,700.00</td><td>2,700.00</td></tr><tr><td><strong>Issued</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>51,01,31,127 (March 31, 2025: 51,01,31,127, March 31, 2024 &amp; March 31, 2023: 50,58,59,762) equity shares of ₹10 each</td><td>5,101.31</td><td>5,058.60</td><td>5,058.60</td><td>5,050.00</td></tr><tr><td>Increase on account of Merger (refer note (c) &amp; (d) below)</td><td>-</td><td>42.71</td><td>-</td><td>8.60</td></tr><tr><td></td><td><strong>5,101.31</strong></td><td><strong>5,101.31</strong></td><td><strong>5,058.60</strong></td><td><strong>5,058.60</strong></td></tr><tr><td><strong>Subscribed and fully paid</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>51,01,31,127 (March 31, 2025: 51,01,31,127, March 31, 2024 &amp; March 31, 2023: 50,58,59,762) equity shares of ₹10 each fully paid up</td><td>5,101.31</td><td>5,101.31</td><td>5,058.60</td><td>5,058.60</td></tr><tr><td></td><td><strong>5,101.31</strong></td><td><strong>5,101.31</strong></td><td><strong>5,058.60</strong></td><td><strong>5,058.60</strong></td></tr></tbody></table>
+
+(a) The Company has two classes of authorised share capital i.e., equity shares and preference shares having a par value of ₹10 per share.

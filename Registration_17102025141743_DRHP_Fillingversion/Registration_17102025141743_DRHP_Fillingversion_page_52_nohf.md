@@ -1,0 +1,19 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2">Three months ended<br/>June 30, 2025<sup>(1)</sup></th><th rowspan="2">Fiscal 2025</th><th colspan="2">% change<br/>compared to<br/>previous fiscal<br/>year</th><th rowspan="2">Fiscal 2023</th></tr><tr><th>(₹ in million, except percentages)</th><th>Fiscal 2024</th></tr></thead><tbody><tr><td>Revenue from<br/>operations</td><td>3,985.98</td><td>14,283.65</td><td>28.20%</td><td>11,141.70</td><td>9.09%</td><td>10,213.40</td></tr><tr><td>EBITDA<sup>(2)</sup></td><td>1,767.18</td><td>6,342.46</td><td>36.32%</td><td>4,652.65</td><td>12.76%</td><td>4,126.06</td></tr><tr><td>Profit after tax</td><td>136.32</td><td>1,263.60</td><td>35.51%</td><td>932.48</td><td>(3.56)%</td><td>966.86</td></tr></tbody></table>
+
+Notes:
+
+(1) Percentage change compared to the three months ended June 30, 2024, is not available, as the Company has not reported restated consolidated financial statements for the three months ended June 30, 2024.
+
+(2) EBITDA is calculated as earnings before interest expense, taxes, depreciation and amortization less other income.
+
+We may not be able to sustain our historical growth rate for various reasons beyond our control. Success in executing our growth strategy is contingent upon, among other factors: making accurate estimates of market demand; designing appropriate facilities that meet the needs of our clients; procuring materials and parts, such as IT hardware, at cost-effective prices; employing skilled employees; obtaining financing for our expansion plans; negotiating favorable payment terms with clients and entering into contractual arrangements that are commercially acceptable to us; and continued availability of economic incentives along expected lines.
+
+Our existing operations, personnel and systems may not be adequate to support our growth and expansion plans and we may be required to make additional investments in our business systems and processes, and manage our employee base.
+
+As we expand our operations, we also expect to encounter additional challenges in relation to regulatory hurdles and capital financing. These factors may restrict our ability to take advantage of market opportunities, execute our expansion plans successfully, respond to competitive pressures and maintain our historical growth rates.
+
+## 21. Under-utilization of our data center capacity could have an adverse effect on our business, prospects, financial performance and cash flows.
+
+The following table sets forth certain information relating to capacity utilization of our operational data centers, calculated on the basis of the design capacity, installed capacity and actual utilized capacity for each of the relevant periods, as certified by the Independent Chartered Engineer by way of his letter certificate, dated October 16, 2025.
+
+*(The remainder of this page has been left intentionally blank)*

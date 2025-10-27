@@ -1,0 +1,22 @@
+Our Company has made the abovementioned issuances and allotments of securities from the date of incorporation of our Company till the date of filing of this Draft Red Herring Prospectus in compliance with the relevant provisions of the Companies Act, 2013, to the extent applicable.
+
+## 2. Secondary Transactions
+
+Except as disclosed in “- Build-up of the preference shareholding of our Promoters in our Company” on page 100, there has been no acquisition or transfer of securities through secondary transactions by our Promoters, Selling Shareholders and members of the Promoter Group, as on the date of this Draft Red Herring Prospectus.
+
+## 3. Issue of specified securities at a price lower than the Offer Price in the last year
+
+The Offer Price is [●]. Except as disclosed in “- Notes to the Capital Structure – Share capital history of our Company” on page 95, our Company has not issued specified securities at a price that may be lower than the Offer Price in the last one year preceding the date of this Draft Red Herring Prospectus.
+
+## 4. Issue of shares out of revaluation reserves
+
+Our Company has not issued any Equity Shares or Preference Shares out of revaluation reserves since its incorporation.
+
+## 5. Issue of shares for consideration other than cash or by way of bonus issue
+
+Except as disclosed below, our Company has not issued any Equity Shares or Preference Shares for consideration other than cash or by way of bonus issuance as on the date of this Draft Red Herring Prospectus:
+
+<table><thead><tr><th>Date of allotment of equity shares</th><th>Number of equity shares allotted</th><th>Details of allottees</th><th>Face value per equity share (in ₹)</th><th>Issue price per equity share (in ₹)</th><th>Reason/Nature of allotment</th><th>Benefits accrued to our Company</th></tr></thead><tbody><tr><td colspan="7"><strong>Equity Shares</strong></td></tr><tr><td>February 1, 2021</td><td>500,000,000</td><td>Allotment of 500,000,000 Equity Shares to STL</td><td>10</td><td>Not applicable</td><td>Allotment pursuant to business transfer agreement dated January 28, 2021 executed between our Company and STL<sup>(1)</sup></td><td>Business growth with greater focus on data center business</td></tr><tr><td>December 22, 2023</td><td>859,762</td><td>Allotment of 859,762 Equity Shares to STL (in its capacity as equity shareholder of Print House)</td><td>10</td><td>Not applicable</td><td>Allotment pursuant to Print House Scheme<sup>(2)</sup></td><td>Simplification of group structure, greater synergies in business and operations, and efficiency of management</td></tr><tr><td>March 13, 2025</td><td>4,271,365</td><td>Allotment of 4,271,365 Equity Shares to STL (in its capacity as equity shareholder of Patel Auto)</td><td>10</td><td>Not applicable</td><td>Allotment pursuant to Patel Auto Scheme<sup>(3)</sup></td><td>Efficiency of management and reduction in administrative, operational, financial, managerial and other costs.</td></tr><tr><td colspan="7"><strong>Preference Shares</strong></td></tr><tr><td>December 22, 2023</td><td>50,000,000</td><td>Allotment of 50,000,000 Preference Share to RVIIPL (in its capacity as preference shareholder of Print House)<sup>(4)</sup></td><td>10</td><td>Not applicable</td><td>Allotment pursuant to Print House Scheme<sup>(4)</sup></td><td>Simplification of group structure, greater synergies in business and operations, and efficiency of management</td></tr></tbody></table>
+
+(1) Our Company allotted 500,000,000 Equity Shares to STL, in consideration for acquisition of data center business of STL pursuant to the business transfer agreement dated January 28, 2021, executed between our Company and STL. For further details, please see “History and Certain Corporate Matters - Details regarding material acquisitions or divestments of business/undertakings, mergers, amalgamations or any revaluation of assets, since incorporation - Business Transfer Agreement dated January 28, 2021 executed between our Company and STL” on page 321 of this DRHP.
+(2) Our Company issued and allotted 859,762 Equity Shares of our Company to the shareholders of Print House for 10,000,000 fully paid up equity shares of face value of ₹10 held by them. For further details, please see “History and Certain Corporate Matters - Details regarding material acquisitions or divestments of business/undertakings, mergers, amalgamations or any revaluation of assets, since

@@ -1,0 +1,35 @@
+* the industry sector in which the investee company operates: not more than 15% of the fund of a life insurer or a general insurer or a reinsurer or health insurer or 15% of the investment asset, whichever is lower.
+
+The maximum exposure limit, in the case of an investment in equity shares, cannot exceed the lower of an amount of 10% of the investment assets of a life insurer or general insurer and the amount calculated under (a), (b) and (c) above, as the case may be.
+
+* The above limit of 10% shall stand substituted as 15% of outstanding equity shares (face value) for insurance companies with investment assets of ₹2,500,000.00 million or more and 12% of outstanding equity shares (face value) for insurers with investment assets of ₹0.50 million or more but less than ₹2,500,000.00 million.
+
+Insurance companies participating in the Offer are advised to refer to the IRDAI Investment Regulations for specific investment limits applicable to them and shall comply with all applicable regulations, guidelines and circulars issued by IRDAI from time to time.
+
+## Bids by Provident Funds/Pension Funds
+
+In case of Bids made by provident funds/pension funds with minimum corpus of ₹250 million, registered with the Pension Fund Regulatory and Development Authority established under sub-section (1) of section 3 of the Pension Fund Regulatory and Development Authority Act, 2013, subject to applicable law, a certified copy of a certificate from a chartered accountant certifying the corpus of the provident fund/pension fund must be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLMs reserve the right to reject any Bid, without assigning any reason thereof.
+
+## Bids by Systemically Important Non-Banking Financial Companies
+
+In case of Bids made by Systemically Important Non-Banking Financial Companies registered with RBI, certified copies of: (i) the certificate of registration issued by RBI, (ii) certified copy of its last audited financial statements on a standalone basis, (iii) a net worth certificate from its statutory auditors, and (iv) such other approval as may be required by the Systemically Important Non-Banking Financial Companies, are required to be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLMs, reserves the right to reject any Bid without assigning any reason thereof, subject to applicable law. Systemically Important NBFCs participating in the Offer shall comply with all applicable regulations, guidelines and circulars issued by RBI from time to time.
+
+The investment limit for Systemically Important NBFCs shall be as prescribed by RBI from time to time.
+
+## Bids by Anchor Investors
+
+In accordance with the SEBI ICDR Regulations, in addition to details and conditions mentioned in this section, the key terms for participation by Anchor Investors are provided below:
+
+1) Anchor Investor Application Forms will be made available for the Anchor Investor Portion at the offices of the Book Running Lead Managers.
+
+2) The Bid must be for a minimum of such number of Equity Shares so that the Bid Amount exceeds ₹ 100.00 million. A Bid cannot be submitted for over 60% of the QIB Portion. In case of a Mutual Fund, separate Bids by individual schemes of a Mutual Fund will be aggregated to determine the minimum application size of ₹ 100 million.
+
+3) One-third of the Anchor Investor Portion will be reserved for allocation to domestic Mutual Funds.
+
+4) Bidding for Anchor Investors will open one Working Day before the Bid/Offer Opening Date, and will be completed on the same day.
+
+5) Our Company, in consultation with the BRLMs will finalize allocation to the Anchor Investors on a discretionary basis, provided that the minimum number of Allottees in the Anchor Investor Portion will not be less than: (a) maximum of two Anchor Investors, where allocation under the Anchor Investor Portion is up to ₹ 100 million; (b) minimum of two and maximum of 15 Anchor Investors, where the allocation under the Anchor Investor Portion is more than ₹ 100 million but up to ₹2,500 million, subject to a minimum Allotment of ₹ 50 million per Anchor Investor; and (c) in case of allocation above ₹2,500 million under the Anchor Investor Portion, a minimum of five such investors and a maximum of 15 Anchor Investors for allocation up to ₹ 2,500 million, and an additional 10 Anchor Investors for every additional ₹ 2,500 million, subject to minimum Allotment of ₹ 50 million per Anchor Investor.
+
+6) Allocation to Anchor Investors will be completed on the Anchor Investor Bidding Date. The number of Equity Shares allocated to Anchor Investors and the price at which the allocation is made, will be made available in the public domain by the Book Running Lead Managers before the Bid/Offer Opening Date, through intimation to the Stock Exchanges.
+
+516

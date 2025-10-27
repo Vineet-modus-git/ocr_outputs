@@ -1,0 +1,21 @@
+The data center business model is characterized by high upfront capital deployment followed by long-term annuity-like revenue cash flows. Accordingly, Return on Capital Employed (RoCE) and Internal Rate of Return (IRR) follow a gradual but structurally improving trend over the project lifecycle.
+
+* **RoCE** begins at modest levels during the initial ramp-up phase, when capacity utilization is low and fixed costs weigh heavily on earnings. However, as occupancy improves and the facility nears stabilization, operating leverage comes into play, driving RoCE meaningfully higher. Importantly, direct costs as a share of revenue remain relatively stable over time, rising modestly year-on-year, ensuring that profitability is not materially diluted. RoCE is further supported by limited reinvestment requirements post-commissioning and high-margin recurring revenue from contracted clients.
+* **IRR** reflects the time-weighted cash flow profile of the project. It remains muted in the early years due to significant capital outflows and staggered revenue inflow. However, once the asset stabilizes and generates consistent free cash flow, IRR improves materially.
+
+Overall, the combination of front-ended CapEx, predictable long-term revenues, and margin expansion underpins a strong and improving return profile, with **RoCE maturing over time and IRR converging to reflect the long-term value creation** inherent in the data center operating model.
+
+**Limitations and assumptions:**
+
+The RoCE and IRR presented are based on a representative case of a 50 MW, G+8, Rated-3 data center in suburban Navi Mumbai, with 10-12 kW rack density. These are indicative estimates meant to illustrate how returns mature over a data center's lifecycle. Key assumptions and caveats:
+
+* **Illustrative:** Returns vary by project size, location, client mix, and ramp-up trajectory.
+* **Static environment:** Assumes constant technology, tariffs, and regulatory norms (ceteris paribus). Real-world deviations are likely.
+* **CapEx/OpEx benchmarks:** Based on current cost levels; future inflation or input price changes may impact economics.
+  CapEx profile: A 50MW facility with total capital investment in the range of INR 17-18 billion (based on site specifications and technology configurations mentioned above). Land acquisition and shell construction generally account for 25-30% of total project cost, concentrated in the first 12-18 months. Power-based building (PBB) systems, primarily the gas-insulated substation (GIS) and associated high-voltage infrastructure, contribute 4-6%. The largest share, 60-65%, is attributable to power-optimized design (POD) fit-outs, including electrical, mechanical and cooling systems, fire suppression and life safety systems, building management systems, security systems, interior finishes, professional fees, and other soft costs. POD investments are phased in line with capacity build-out and client onboarding, ensuring capital efficiency and aligning major expenditure with revenue visibility.
+
+<table><thead><tr><td>CapEx components</td><td>% share of CapEx</td></tr></thead><tbody><tr><td>Land</td><td rowspan="2">25-30%</td></tr><tr><td>Shell</td></tr><tr><td>PBB (Power-based building)</td><td>4-6%</td></tr><tr><td>POD (Power optimized design)</td><td>60-65%</td></tr></tbody></table>
+
+* **Land area:** Land size considered is 4 acres.
+* **Financing excluded:** Model reflects asset-level returns without incorporating capital structure or funding costs.
+* **Occupancy ramp risk:** Assumes base case utilization; delays or underutilization can depress early-year RoCE.

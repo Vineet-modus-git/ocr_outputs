@@ -1,0 +1,19 @@
+<table><thead><tr><th>Installed Capacity (in MW)</th><th>Delhi</th><th>Karnataka</th><th>Maharashtra</th><th>Tamil Nadu</th><th>Telangana</th><th>West Bengal</th></tr></thead><tbody><tr><td>Coal</td><td>-</td><td>9,480</td><td>24,666</td><td>14,163</td><td>10,243</td><td>13,487</td></tr><tr><td>Oil and Gas</td><td>2,208</td><td>395</td><td>3,207</td><td>1,229</td><td>-</td><td>80</td></tr><tr><td colspan="7"><strong>Renewable sources</strong></td></tr><tr><td>Hydro</td><td>-</td><td>3,689</td><td>3,047</td><td>2,178</td><td>2,406</td><td>1,341</td></tr><tr><td>Nuclear</td><td>-</td><td>880</td><td>1,400</td><td>2,440</td><td>-</td><td>-</td></tr><tr><td>Bio power</td><td>84</td><td>1,910</td><td>2,993</td><td>1,045</td><td>222</td><td>348</td></tr><tr><td>Small hydro</td><td>-</td><td>1,285</td><td>384</td><td>123</td><td>91</td><td>99</td></tr><tr><td>Solar</td><td>313</td><td>9,313</td><td>9,881</td><td>9,724</td><td>4,842</td><td>321</td></tr><tr><td>Wind</td><td>-</td><td>6,878</td><td>5,279</td><td>11,515</td><td>128</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>2,606</strong></td><td><strong>33,830</strong></td><td><strong>50,857</strong></td><td><strong>42,417</strong></td><td><strong>17,931</strong></td><td><strong>15,676</strong></td></tr><tr><td><strong>Renewable Energy %</strong></td><td><strong>15%</strong></td><td><strong>71%</strong></td><td><strong>45%</strong></td><td><strong>64%</strong></td><td><strong>43%</strong></td><td><strong>13%</strong></td></tr></tbody></table>
+
+Source: India's Climate and Energy Dashboard - NITI Aayog, accessed as of May 2025
+
+## B. Power generation profile (million unit):
+
+This data determines actual availability and stability of power supply across states:
+
+### State-wise deep dive on power generation in MU-selected states
+
+<table><thead><tr><th>Power Generation in MU</th><th>Delhi</th><th>Karnataka</th><th>Maharashtra</th><th>Tamil Nadu</th><th>Telangana</th><th>West Bengal</th></tr></thead><tbody><tr><td colspan="7"><strong>Fossil fuels</strong></td></tr><tr><td>Coal</td><td>-</td><td>39,551</td><td>118,522</td><td>66,216</td><td>51,394</td><td>84,817</td></tr><tr><td>Oil and Gas</td><td>3,688</td><td>-</td><td>5,084</td><td>1,538</td><td>-</td><td>-</td></tr><tr><td colspan="7"><strong>Renewable sources</strong></td></tr><tr><td>Hydro</td><td>-</td><td>12,637</td><td>4,883</td><td>4,378</td><td>5,068</td><td>2,498</td></tr><tr><td>Nuclear</td><td>-</td><td>6,697</td><td>7,751</td><td>15,836</td><td>-</td><td>-</td></tr><tr><td>Bio power</td><td>457</td><td>1,943</td><td>2,469</td><td>380</td><td>273</td><td>1,212</td></tr><tr><td>Small hydro</td><td>-</td><td>2,091</td><td>692</td><td>228</td><td>69</td><td>159</td></tr><tr><td>Solar</td><td>172</td><td>14,038</td><td>6,719</td><td>13,705</td><td>6,191</td><td>245</td></tr><tr><td>Wind</td><td>-</td><td>12,626</td><td>7,306</td><td>16,795</td><td>270</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>4,317</strong></td><td><strong>89,584</strong></td><td><strong>153,426</strong></td><td><strong>119,076</strong></td><td><strong>63,264</strong></td><td><strong>88,931</strong></td></tr><tr><td><strong>Renewable energy %</strong></td><td><strong>15%</strong></td><td><strong>56%</strong></td><td><strong>19%</strong></td><td><strong>43%</strong></td><td><strong>19%</strong></td><td><strong>5%</strong></td></tr></tbody></table>
+
+Source: India's Climate and Energy Dashboard - NITI Aayog, accessed as of May 2025
+
+### Key takeaways for data centers as per the installed capacity and power generation profile:
+
+<table><tr><td rowspan="2">Karnataka and Tamil Nadu stand out with</td><td>Strong renewable penetration</td></tr><tr><td>Balanced mix of solar, wind, and hydro</td></tr></table>
+
+183

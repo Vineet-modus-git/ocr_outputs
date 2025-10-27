@@ -1,0 +1,33 @@
+We are subject to interest rate risk, primarily because of interest rate changes to fixed deposits with banks and borrowings from banks As of June 30, 2025, 69.06% of our indebtedness consisted of variable rate indebtedness.
+
+## Unusual or Infrequent Events or Transactions
+
+Except as described in this Draft Red Herring Prospectus, there have been no other events or transactions, including unusual trends due to the business activity, unusual items of income, change of accounting policies and discretionary reduction of expenses etc., that, to our knowledge, may be described as “unusual” or “infrequent”.
+
+## Known Trends or Uncertainties
+
+Other than as described in the sections “Risk Factors” starting on page 35 and this section “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, to our knowledge there are no known trends or uncertainties that have or had or are expected to have a material adverse impact on our revenues or income from continuing operations.
+
+## Future Relationship between Cost and Income
+
+Except as disclosed in this Draft Red Herring Prospectus, there are no known factors that will have a material adverse impact on our operations and financial condition. For further information, see “Risk Factors”, “Our Business” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” on pages 35, 276 and 440, respectively.
+
+## New products or business segments / material increases in revenue due to increased disbursements and introduction of new products
+
+Apart from the disclosures in “Our Business” on page 276, we currently have no plans to develop new products or establish new business segments that are expected to have a material impact on our business, results of operations or financial condition.
+
+## Significant Dependence on single or few customers or suppliers
+
+We do not have a material dependence on a single or few suppliers. A significant portion of our revenues are derived from our top 10 clients.
+
+Set forth below are details of the revenue from operations attributable to our top 10 clients (determined on the basis of their contribution to our revenue from contracts with clients), for the period/Fiscals indicated.
+
+<table><thead><tr><th rowspan="3">Client Details</th><th colspan="2">Three months ended June 30, 2025</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount</th><th>Percentage of total revenue from operations</th><th>Amount</th><th>Percentage of total revenue from operations</th><th>Amount</th><th>Percentage of total revenue from operations</th><th>Amount</th><th>Percentage of total revenue from operations</th></tr><tr><th>(₹ in million)</th><th>(%)</th><th>(₹ in million)</th><th>(%)</th><th>(₹ in million)</th><th>(%)</th><th>(₹ in million)</th><th>(%)</th></tr></thead><tbody><tr><td>Client 1</td><td>1,780.76</td><td>44.68</td><td>6,615.32</td><td>46.31</td><td>4,223.44</td><td>37.91</td><td>3,899.22</td><td>38.18</td></tr><tr><td>Client 2</td><td>478.57</td><td>12.01</td><td>1,602.43</td><td>11.22</td><td>1,552.02</td><td>13.93</td><td>1,597.13</td><td>15.64</td></tr><tr><td>Client 3</td><td>412.73</td><td>10.35</td><td>1,543.88</td><td>10.81</td><td>1,361.92</td><td>12.22</td><td>1,350.30</td><td>13.22</td></tr><tr><td>Client 4</td><td>226.54</td><td>5.68</td><td>812.16</td><td>5.69</td><td>640.50</td><td>5.75</td><td>521.64</td><td>5.11</td></tr><tr><td>Client 5</td><td>112.67</td><td>2.83</td><td>409.10</td><td>2.86</td><td>287.63</td><td>2.58</td><td>201.79</td><td>1.98</td></tr><tr><td>Client 6</td><td>68.66</td><td>1.72</td><td>288.01</td><td>2.02</td><td>269.14</td><td>2.42</td><td>192.23</td><td>1.88</td></tr><tr><td>Client 7</td><td>68.30</td><td>1.71</td><td>148.56</td><td>1.04</td><td>137.28</td><td>1.23</td><td>153.85</td><td>1.51</td></tr><tr><td>Client 8</td><td>53.63</td><td>1.35</td><td>140.15</td><td>0.98</td><td>134.17</td><td>1.20</td><td>148.69</td><td>1.46</td></tr><tr><td>Client 9</td><td>42.64</td><td>1.07</td><td>117.70</td><td>0.82</td><td>126.98</td><td>1.14</td><td>140.71</td><td>1.38</td></tr><tr><td>Client 10</td><td>34.16</td><td>0.86</td><td>97.40</td><td>0.68</td><td>118.40</td><td>1.06</td><td>109.77</td><td>1.07</td></tr></tbody><tfoot><tr><td><strong>Total (Top 10)</strong></td><td><strong>3,278.66</strong></td><td><strong>82.26</strong></td><td><strong>11,774.71</strong></td><td><strong>82.43</strong></td><td><strong>8,851.48</strong></td><td><strong>79.44</strong></td><td><strong>8,315.33</strong></td><td><strong>81.43</strong></td></tr></tfoot></table>
+
+Note:
+
+(1) The names of the top 10 clients have not been disclosed in this Draft Red Herring Prospectus due to confidentiality reasons and non-receipt of consent from these clients. The clients shown are the top 10 clients in terms of revenue from operations for each of the respective years/ periods and may not necessarily be the same customers.
+
+For further information, see “Risk Factors— 1. In the three months ended June 30, 2025, and Fiscals 2025, 2024 and 2023, we derived 82.26%, 82.43%, 79.44% and 81.43% of our revenue from operations, respectively, from our top 10 clients, which include all of our Hyperscaler clients and key Enterprise clients. The loss of such key clients may materially and adversely affect our business, future prospects, and financial performance.” on page 35.
+
+## Seasonality of Business

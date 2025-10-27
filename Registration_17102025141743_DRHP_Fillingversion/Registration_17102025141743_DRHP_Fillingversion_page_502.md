@@ -1,0 +1,29 @@
+Any person who becomes a nominee by virtue of the provisions of Section 72 of the Companies Act, 2013 shall upon the production of such evidence as may be required by our Board, elect either:
+
+a) to register himself or herself as the holder of the Equity Shares; or
+
+b) to make such transfer of the Equity Shares, as the deceased holder could have made.
+
+Further, our Board may at any time give notice requiring any nominee to choose either to be registered himself or herself or to transfer the Equity Shares, and if the notice is not complied with within a period of 90 days, the Board may thereafter withhold payment of all dividends, interests, bonuses or other monies payable in respect of the Equity Shares, until the requirements of the notice have been complied with.
+
+Since the Allotment of Equity Shares in the Offer will be made only in dematerialised mode, there is no need to make a separate nomination with our Company. Nominations registered with respective Depository Participant of the Bidder would prevail. If the Bidder wants to change the nomination, they are requested to inform their respective Depository Participant.
+
+## Bid/ Offer Programme
+
+An indicative timetable in respect of the Offer is set out below:
+
+<table><thead><tr><td>Event</td><td>Indicative Date</td></tr></thead><tbody><tr><td>BID/OFFER OPENS ON</td><td>[●]<sup>(1)</sup></td></tr><tr><td>BID/OFFER CLOSES ON</td><td>[●]<sup>(2)(3)</sup></td></tr><tr><td>Finalisation of Basis of Allotment with the Designated Stock Exchange</td><td>On or about [●]</td></tr><tr><td>Initiation of refunds (if any, for Anchor Investors)/unblocking of funds from ASBA Account*</td><td>On or about [●]</td></tr><tr><td>Credit of Equity Shares to dematerialized accounts of Allottees</td><td>On or about [●]</td></tr><tr><td>Commencement of trading of the Equity Shares on the Stock Exchanges</td><td>On or about [●]</td></tr></tbody></table>
+
+(1) Our Company and the Selling Shareholders, in consultation with the BRLMs, may consider participation by Anchor Investors. The Anchor Investor Bid/ Offer Date shall be one Working Day prior to the Bid/Offer Opening Date in accordance with the SEBI ICDR Regulations.
+
+(2) Our Company and the Selling Shareholders, in consultation with the BRLMs, may consider closing the Bid/Offer Period for QIBs one day prior to the Bid/Offer Closing Date in accordance with the SEBI ICDR Regulations
+
+(3) UPI mandate end time and date shall be at 5:00 pm IST on Bid/ Offer Closing Date, i.e. [●].
+
+* In case of any delay in unblocking of amounts in the ASBA Accounts (including amounts blocked through the UPI Mechanism) exceeding two Working Days from the Bid/Offer Closing Date, the Bidder shall be compensated in accordance with applicable law. Further, investors shall be entitled to compensation in the manner specified in the SEBI ICDR Master Circular, which for the avoidance of doubt, shall be deemed to be incorporated in the agreements to be entered into between our Company with the relevant intermediaries, to the extent applicable, in case of delays in resolving investor grievances in relation to blocking/unblocking of funds. Further, in terms of circulars prescribed by SEBI from time to time, the payment of processing fees to the SCSBs shall be undertaken pursuant to an application made by the SCSBs to the Book Running Lead Managers, and such application shall be made only after (i) unblocking of application amounts for each application received by the SCSB has been fully completed, and (ii) applicable compensation relating to investor complaints has been paid by the SCSB. RIBs and individual investors Bidding under the Non-Institutional Portion Bidding for more than ₹ 0.20 million and up to ₹ 0.50 million, using the UPI Mechanism, shall provide their UPI ID in the Bid-cum-Application Form for Bidding through Syndicate, sub-syndicate members, Registered Brokers, RTAs or CDPs, or online using the facility of linked online trading, demat and bank account (3 in 1 type accounts), provided by certain brokers
+
+The above timetable, other than the Bid/Offer Closing Date, is indicative and does not constitute any obligation or liability on our Company, any of the Selling Shareholders or the BRLMs.
+
+Any circulars or notifications from the SEBI after the date of this Draft Red Herring Prospectus may result in changes to the above-mentioned timelines. Further, the offer procedure is subject to change to any revised circulars issued by the SEBI to this effect.
+
+Whilst our Company shall ensure that all steps for the completion of the necessary formalities for the listing and the commencement of trading of the Equity Shares on the Stock Exchanges are taken within three Working Days from the Bid/Offer Closing Date or such other time as prescribed by SEBI, the timetable may be extended due to various factors, such as extension of the Bid/ Offer Period by our Company and the Selling Shareholders, in consultation with the BRLMs, revision of the Price Band by our Company, in consultation with the BRLMs, or any delay in receiving the final listing and trading approval from the Stock Exchanges. The commencement of trading of the Equity Shares will be entirely at the discretion of the Stock Exchanges and in accordance with the applicable laws. Each Selling Shareholder confirms that it shall severally and not jointly extend such reasonable support and co-operation as may be reasonably requested by our Company and/or the BRLMs, in relation to itself and its respective portion of the Offered Shares to facilitate the process of listing and commencement of trading of the Equity Shares on the Stock Exchanges within such time prescribed under applicable laws.

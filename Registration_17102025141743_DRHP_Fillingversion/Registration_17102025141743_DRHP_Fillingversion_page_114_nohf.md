@@ -1,0 +1,27 @@
+funding requirements and deployment on account of a variety of factors such as our financial and market condition, business and strategy, competition, and other external factors such as changes in the business environment and interest or exchange rate fluctuations, which may not be within the control of our management. This may entail rescheduling or revising the planned expenditure and funding requirements, including the expenditure for a particular purpose at the discretion of our management, subject to compliance with applicable laws. For details on risks involved, see “Risk Factors – 31 Our funding requirements and the proposed deployment of Net Proceeds are based on management estimates and have not been appraised by any bank or financial institution or any other independent agency and our management will have broad discretion over the use of the Net Proceeds.” on page 54.
+
+In the event that the estimated utilization of the Net Proceeds in a scheduled Financial Year is not completely met, due to the reasons stated above, the same shall be utilised in the next Financial Year, as may be determined by our Company, in accordance with applicable laws. If the actual utilisation towards any of the Objects is lower than the proposed deployment, such balance will be used towards general corporate purposes, to the extent that the total amount to be utilised towards general corporate purposes is within the permissible limits in accordance with the SEBI ICDR Regulations.
+
+## Means of Finance
+
+*Part funding of capital expenditure requirements towards (i) completion of tower B of Chennai 02 Data Center and (ii) setting up of towers 11 and 12 of Rabale Data Center*
+
+As of August 31, 2025, an amount of ₹4,418.17 million has already been incurred towards the setting up of tower B of Chennai 02 Data Center and towers 11 and 12 of the Rabale Data Center, the balance amount of ₹ 18,878.83 million to be spent shall be financed in the manner set forth below:
+
+(in ₹ million)
+
+<table><thead><tr><th>S.no.</th><th>Particulars</th><th>Completion of tower B of Chennai 02 Data Center</th><th>Setting up of towers 11 and 12 of Rabale Data Center</th></tr></thead><tbody><tr><td>1.</td><td>Amount to be spent out of Net Proceeds*</td><td>4,650.00</td><td>8,600.00</td></tr><tr><td>2.</td><td>From borrowing arrangements (as provided in the table below)</td><td>2,962.66</td><td>2,666.17</td></tr><tr><td colspan="2"><strong>Total balance amount</strong></td><td><strong>7,612.66</strong></td><td><strong>11,266.17</strong></td></tr></tbody></table>
+
+* Exclusive of GST
+
+In accordance with Regulation 7(1)(e) of the SEBI ICDR Regulations, we have made firm arrangements through verifiable means towards 75% of the stated means of finance for the setting up of tower B of Chennai 02 Data Center and towers 11 and 12 of Rabale Data Center, excluding the Net Proceeds allocated towards it.
+
+Our Company has entered into following borrowing arrangements:
+
+<table><thead><tr><th>Name of the Lender</th><th>Nature of borrowing</th><th>Date of Sanction Letter</th><th>Amount Sanctioned (in ₹ million)</th><th>Repayment period</th><th>Purpose</th></tr></thead><tbody><tr><td>Aseem Infrastructure Finance Limited*</td><td>Term loan</td><td>Original term sheet dated March 2, 2023</td><td>1,000.00</td><td>Nine years (including two years moratorium)</td><td>Capital expenditure for development of tower B of Chennai 02 Data Center</td></tr><tr><td>Bank of Baroda</td><td>Term loan</td><td>Original term sheet dated December 21, 2022</td><td>3,000.00</td><td>Nine years (including two years moratorium)</td><td>Capital expenditure for development of tower B of Chennai 02 Data Center</td></tr><tr><td>Kotak Mahindra Bank</td><td>Term loan</td><td>Original term sheet dated September 5, 2022 and Addendum term sheet dated: April 20, 2023</td><td>2,000.00</td><td>Nine years (including two years moratorium)</td><td>Capital expenditure for development of tower B of Chennai 02 Data Center</td></tr><tr><td>Canara Bank</td><td>Term loan</td><td>August 19, 2025</td><td>9,950.00</td><td>13 Years (including 3 years moratorium)</td><td>Development of towers 11 and 12 of Rabale</td></tr><tr><td><strong>Total</strong></td><td></td><td></td><td><strong>15,950.00</strong></td><td></td><td></td></tr></tbody></table>
+
+* A non-banking financial company registered with RBI.
+
+*Repayment / prepayment, in full or in part, of certain borrowings availed by our Company*
+
+The fund requirements towards the Repayment / prepayment, in full or in part, of certain borrowings availed by our Company proposed to be entirely funded from the Net Proceeds. Accordingly, our Company confirms that there is no requirement to make firm arrangements of finance under Regulation 7(1)(e) of the SEBI ICDR Regulations through verifiable means towards at least 75% of the stated means of finance, excluding the amount to be raised from the Fresh Issue and internal accruals as required under the SEBI ICDR Regulations.

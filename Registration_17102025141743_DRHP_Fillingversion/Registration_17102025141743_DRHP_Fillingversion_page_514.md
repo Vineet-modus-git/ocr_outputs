@@ -1,0 +1,27 @@
+under the UPI Mechanism) in the electronic bidding system of the Stock Exchanges and the Stock Exchanges validate the electronic bids with the records of the CDP for DP ID/Client ID and PAN, on a real time basis and bring inconsistencies to the notice of the relevant Designated Intermediaries, for rectification and re-submission within the time specified by Stock Exchanges. The Stock Exchanges shall accept the ASBA applications in their electronic bidding system only with a mandatory confirmation on application monies blocked. For UPI Bidders, the Stock Exchanges shall allow modification of either DP ID/Client ID or PAN ID, bank code and location code in the Bid details already uploaded.
+
+For UPI Bidders using UPI Mechanism, the Stock Exchanges shall share the Bid details (including UPI ID) with the Sponsor Banks on a continuous basis through API integration to enable the Sponsor Banks to initiate UPI Mandate Request to RIBs for blocking of funds. The Sponsor Banks shall initiate request for blocking of funds through NPCI to RIBs, who shall accept the UPI mandate request for blocking of funds on their respective mobile applications associated with UPI ID linked bank account. In accordance with BSE Circular No: 20220803-40 and NSE circular No: 25/2022, each dated August 3, 2022, for all pending UPI Mandate Requests, the Sponsor Banks shall initiate requests for blocking of funds in the ASBA Accounts of relevant Bidders with a confirmation cut-off time of 5:00 pm on the Bid/Offer Closing Date ("Cut-Off Time"). Accordingly, UPI Bidders Bidding using through the UPI Mechanism should accept UPI mandate requests for blocking of funds prior to the Cut-Off Time and all pending UPI mandate requests at the Cut-Off Time shall lapse. For ensuring timely information to investors, SCSBs shall send SMS alerts as specified in the SEBI ICDR Master Circular. The NPCI shall maintain an audit trail for every bid entered in the Stock Exchanges bidding platform, and the liability to compensate UPI Bidders (using the UPI Mechanism) in case of failed transactions shall be with the concerned entity (i.e. the Sponsor Banks, NPCI or the bankers to an issue) at whose end the lifecycle of the transaction has come to a halt. The NPCI shall share the audit trail of all disputed transactions/ investor complaints to the Sponsor Banks and the bankers to an issue.
+
+The Sponsor Banks and Bankers to the Offer shall provide the audit trail to the Book Running Lead Managers for analysing the same and fixing liability. For ensuring timely information to investors, SCSBs shall send SMS alerts as specified in the SEBI ICDR Master Circular.
+
+The processing fees for applications made by the UPI Bidders using the UPI Mechanism may be released to the SCSBs only after such SCSBs provide a written confirmation in compliance with the SEBI RTA Master Circular, in a format prescribed by SEBI in accordance the SEBI RTA Master Circular in a format as prescribed by SEBI, from time to time, and such payment of processing fees to the SCSBs shall be made in compliance with circulars prescribed by SEBI and applicable law.
+
+Pursuant to NSE circular No. 25/2022 dated August 3, 2022, the following is applicable to all initial public offers opening on or after September 1, 2022:
+
+a. Cut-off time for acceptance of UPI Mandate shall be up to 5:00 pm on the initial public offer closure date and existing process of UPI bid entry by syndicate members, registrars to the offer and depository participants shall continue till further notice.
+
+b. There shall be no T+1 mismatch modification session for PAN-DP mismatch and bank/ location code on T+1 day for already uploaded bids. The dedicated window provided for mismatch modification on T+1 day shall be discontinued.
+
+c. Bid entry and modification/ cancellation (if any) shall be allowed in parallel to the regular bidding period up to 5:00 pm on the initial public offer closure day.
+
+d. Exchanges shall display bid details of only successful ASBA blocked applications i.e. Application with latest status as RC 100 - Block Request Accepted by Investor/ Client.
+
+### Electronic registration of Bids
+
+a) The Designated Intermediary may register the Bids using the on-line facilities of the Stock Exchanges. The Designated Intermediaries can also set up facilities for off-line electronic registration of Bids, subject to the condition that they may subsequently upload the off-line data file into the on-line facilities for Book Building on a regular basis before the closure of the Offer, subject to applicable laws.
+
+b) On the Bid/Offer Closing Date, the Designated Intermediaries may upload the Bids until such time as may be permitted by the Stock Exchanges and as disclosed in the Red Herring Prospectus.
+
+c) Only Bids that are uploaded on the Stock Exchanges Platform are considered for allocation/Allotment. The Designated Intermediaries are given until 5:00 pm IST for Retail Individual Bidders, and 4:00 pm for Non-Institutional Bidders and QIBs, on the Bid/Offer Closing Date to modify select fields uploaded in the Stock Exchange Platform during the Bid/Offer Period after which the Stock Exchange(s) send the bid information to the Registrar to the Offer for further processing.
+
+d) QIBs and Non-Institutional Bidders can neither revise their bids downwards nor cancel/withdraw their bids.

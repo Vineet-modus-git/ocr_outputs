@@ -1,0 +1,33 @@
+<table><thead><tr><th>Date of Shareholders' resolution/Effective date</th><th>Details of amendment</th></tr></thead><tbody><tr><td></td><td>3. To attract relevant trained manpower for both IT and non IT services to operate and maintain such Data Centers to the highest standards globally.<br>4. To ensure all operations are in line with the country's regulatory demands and within the ambit of the law.<br>5. To carry on the business of data processing, word processing, software consultancy, system studies, management consultancy, techno-economic feasibility studies of projects, design and development of management information systems, share / debenture issues management and / or registration and share/debenture transfer agency."</td></tr><tr><td></td><td>Clause V of the MoA was altered to reflect the increase in authorized share capital of the Company from ₹10,702,500,000 divided into 800,250,000 equity shares of face value of ₹10 each and 270,000,000 preference shares of face value of ₹10 each, to ₹12,700,000,000 divided into 1,000,000,000 equity shares of ₹10 each and 270,000,000 preference shares of ₹10 each.</td></tr></tbody></table>
+
+*Pursuant to order of the National Company Law Tribunal, Division Bench II, Chennai dated July 10, 2023, approving the Print House Scheme.
+
+**Pursuant to the order of the National Company Law Tribunal, Division Bench I, Chennai dated January 9, 2025 approving the Patel Auto Scheme.
+
+## Key awards, accreditations, and recognition
+
+The table below sets forth some of the awards and accreditations received by our Company:
+
+<table><thead><tr><th>Calendar Year</th><th>Particulars</th></tr></thead><tbody><tr><td>2024</td><td>Our Company obtained 'Precertified Platinum' certification for our Chennai 02 Data Center by Indian Green Building Council.</td></tr></tbody></table>
+
+## Major events and milestones
+
+The table below sets forth some of the major events in the history of our Company. For details, also see "Our Business" beginning on page 276:
+
+<table><thead><tr><th>Calendar Year</th><th>Details*</th></tr></thead><tbody><tr><td>2000</td><td>Established India's first commercial data center at Vashi in Maharashtra through our Holding Company (Source: 1Lattice and C&W Report).</td></tr><tr><td>2008</td><td>Established our first cloud data center at Airoli in Maharashtra, through our Holding Company.<br>Established our 3.58 MW data center at TIDEL Park in Chennai, Tamil Nadu, through our Holding Company.</td></tr><tr><td>2011</td><td>Established our 4.82 MW purpose-built data center at Electronic City in Bengaluru, Karnataka, through our Holding Company.</td></tr><tr><td>2013</td><td>Commenced operations at our hyperscale data center campus at Rabale in Maharashtra, through our Holding Company.</td></tr><tr><td>2015</td><td>Established our 10.96 MW hyperscale data center at Noida in Uttar Pradesh, through our Holding Company.</td></tr><tr><td>2017</td><td>Incorporation of our Company.</td></tr><tr><td>2021</td><td>Commenced operations at our 1.08 MW cloud data center in Kolkata, West Bengal.<br>Acquired our Holding Company's data center business pursuant to a business transfer agreement dated January 28, 2021.</td></tr><tr><td>2022</td><td>Commenced operations at our 14.40 MW hyperscale data center at Financial District in Hyderabad, Telangana.</td></tr><tr><td>2024</td><td>First in India to obtain NVIDIA-certified DGX-Ready status for air and liquid cooling (Source: 1Lattice and C&W Report).</td></tr><tr><td>2025</td><td>Commenced operations at our AI-ready hyperscale data center campus at Noida in Uttar Pradesh.<br>Commenced operations at our AI-ready hyperscale data center campus at Siruseri in Tamil Nadu.</td></tr></tbody></table>
+
+*Includes IT power capacity of certain data centers indicated in 'MW'.
+
+## Significant financial and/or strategic partners
+
+Our Company does not have any significant financial and/or strategic partners as on the date of this Draft Red Herring Prospectus.
+
+## Time and cost overruns
+
+As on the date of this Draft Red Herring Prospectus, our Company has not experienced any time or cost overruns in respect of setting up data centers.
+
+## Defaults or rescheduling, restructuring of borrowings with financial institutions or banks
+
+As on the date of this Draft Red Herring Prospectus, there are no instances of defaults, restructuring or rescheduling of borrowings availed by our Company from financial institutions or banks.
+
+316

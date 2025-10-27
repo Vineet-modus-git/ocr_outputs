@@ -1,0 +1,29 @@
+Moreover, Sify Group started publishing an annual integrated report on sustainability in 2016, which includes transparent reporting of sustainability performance of the Sify Group and the disclosure of sustainability indicators relevant to our clients and stakeholders, which started in Fiscal 2022. In Fiscal 2025, we commenced publishing an annual sustainability report in respect of our Company's performance. This demonstrates our commitment to transparency and environmental responsibility. Our sustainability report is independently audited, as are our periodic environment and social impact assessments.
+
+**Robust financial profile with a strong combination of scale, growth, profitability, returns and cash flows**
+
+We have consistently demonstrated robust financial performance in recent years, and our contractual arrangements with our clients provide cash flow visibility. The following table shows our total income, revenue growth, EBITDA and EBITDA margin for the period/Fiscals indicated.
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>Three months ended<br/>June 30, 2025</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr><tr><th colspan="4">(₹ million, except percentages)</th></tr></thead><tbody><tr><td>Total income<sup>(1)</sup></td><td>4,055.42</td><td>14,542.75</td><td>11,417.10</td><td>10,390.70</td></tr><tr><td>Total income growth<sup>(3)</sup></td><td>N/A<sup>2</sup></td><td>27.38%</td><td>9.88%</td><td>36.12%</td></tr><tr><td>EBITDA<sup>(4)</sup></td><td>1,767.18</td><td>6,342.46</td><td>4,652.65</td><td>4,126.06</td></tr><tr><td>EBITDA margin<sup>(5)</sup></td><td>44.33%</td><td>44.40%</td><td>41.76%</td><td>40.40%</td></tr></tbody></table>
+
+Notes:
+
+1. Total income comprises revenue from operations and other income.
+2. Total income growth for the three months period ended June 30, 2025, is not available, as the Company has not reported Restated Consolidated Financial Statements in respect of the three months period ended June 30, 2024.
+3. Total income growth (%) is calculated as a percentage of Total income of the relevant period/year minus Total income of the preceding period/year, divided by Total income of the preceding period/year.
+4. EBITDA is calculated as earnings before interest expense, taxes, depreciation and amortization less other income.
+5. EBITDA Margin is computed as percentage of EBITDA divided by Revenue from operations for the respective period/Fiscal.
+
+See “Other Financial Information—Reconciliation of Non-GAAP Measures” on page 434, for more information.
+
+Our financial strength is also demonstrated by the longevity of SISL, including in the past as part of the Sify Group, in the data center space in India, which has enabled us to develop efficiencies in capital deployment demonstrates prudent fiscal management over time. We have achieved returns on capital employed (“ROCE”) of 9.88%, 6.75%, 7.92% and 1.62% in Fiscal 2023, Fiscal 2024, Fiscal 2025 and the three months ended June 30, 2025 (on an unannualized basis), respectively, which was significantly higher than our global peers in Fiscal 2023 and Fiscal 2024, according to the 1Lattice and C&W Report, due to a rapid increase in our built IT power capacity scale-up over the period. As our data centers mature, improved utilization and a lower PUE factor enhance operational efficiency and drive higher ROCE, especially as these long-life assets continue to generate returns beyond their depreciable life. Given that POD-based assets represent roughly 75–80% of total capital expenditure and have a depreciable life of 8 years, ROCE generally stabilizes in the 15–20% range during this period. After the POD-based depreciation period concludes, ROCE typically rises to 26–32%. For further information, see “Industry Overview—2.1.5.9 IRR and ROCE of a Data Center” on page 196.
+
+Further, the long-term and sticky nature of our client relationships supports cash flow visibility. Since Fiscal 2023, our clients have renewed all of their expiring contracts with us, and recurring revenue from our top clients has increased over the period. As of June 30, 2025, the average remaining contract period with our top 3 clients was 5 years. Moreover, the majority of our contracts include built-in rental increases, ranging from 2.00% to 4.00% per annum, which provides us with a level of insulation against operating expense growth and supports margin stability.
+
+For more information, see “—Key Financial and Operating Indicators”, “Management's Discussion and Analysis of Financial Condition and Results of Operations” and “Financial Information—Restated Consolidated Financial Information”, on pages 282, 440 and 349, respectively.
+
+**Our strategies**
+
+**Expanding power capacity and expertise**
+
+We are committed to bringing new data center capacity online and expanding and upgrading our digital infrastructure to meet growing demand for data center hosting solutions in India. According to the 1Lattice and C&W Report, factors like rising digitalization and AI adoption are expected to push data center demand in India from current levels of 1.3 GW in Fiscal 2025 to between 4.7 GW to 5.7 GW in Fiscal 2030, representing a compounded annual growth rate (“CAGR”) of between 30.1% to 35.1% over the period. We aim to capitalize on this anticipated demand by developing new data centers in strategic locations. As of June 30, 2025, we had 11 data center facilities under development located in Mumbai, Noida, Chennai, Bengaluru, Lucknow and Chandigarh. Development of such additional data centers will allow us to increase our data center hosting

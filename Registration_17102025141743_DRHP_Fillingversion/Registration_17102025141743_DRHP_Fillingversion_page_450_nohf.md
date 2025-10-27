@@ -1,0 +1,37 @@
+# Fiscal 2024 compared to Fiscal 2023
+
+## Total Income
+
+Our total income increased by 9.88% from ₹10,390.70 million in Fiscal 2023 to ₹11,417.10 million in Fiscal 2024 primarily due to the reasons discussed below.
+
+**Revenue from operations.** Our revenue from operations increased by 9.09% from ₹10,213.40 million in Fiscal 2023 to ₹11,141.70 million in Fiscal 2024, primarily due to an increase in data center capacity at Tower 4 of our Rabale Data Center during Fiscal 2024 and the associated increase in capacity offered to existing and new clients, which resulted in an increase in service revenue for our data center operations.
+
+**Other income.** Other income increased by 55.33% from ₹177.30 million in Fiscal 2023 to ₹275.40 million in Fiscal 2024, primarily due to a 256.80% increase in interest income relating to the deposit of the proceeds of the ₹6,000.00 million compulsorily convertible debentures issued to the Kotak Data Center Fund, from ₹61.80 million in Fiscal 2023 to ₹220.50 million in Fiscal 2024, which was partly offset by a decrease in other interest income from ₹25.00 million in Fiscal 2023 to ₹9.30 million in Fiscal 2024.
+
+## Total Expenses
+
+Total expenses increased by 12.64% from ₹9,122.24 million in Fiscal 2023 to ₹10,275.32 million in Fiscal 2024 primarily due to the reasons discussed below.
+
+**Cost of services rendered.** Cost of services rendered increased by 2.77% from ₹4,645.00 million in Fiscal 2023 to ₹4,773.70 million in Fiscal 2024, driven by a 7.95% increase in power expenses, from ₹4,282.60 million in Fiscal 2023 to ₹4,622.90 million in Fiscal 2024 due to an increase in client occupancy levels in newly-commissioned data centers and also an increase in operations in existing data centers. This was partly offset by a decrease in other direct costs by 58.39% from ₹362.40 million in Fiscal 2023 to ₹150.80 million in Fiscal 2024 due to the lower expenditure on cost of hardware during Fiscal 2024.
+
+As a percentage of total income, our cost of services rendered decreased from 44.70% to 41.81% from Fiscal 2023 to Fiscal 2024, primarily due to the lower expenditure on hardware for client specifications during Fiscal 2023.
+
+**Employee benefit expense.** Employee benefit expense increased by 28.13% from ₹318.90 million in Fiscal 2023 to ₹408.60 million in Fiscal 2024, primarily due to an increase in salaries and wages of 27.52% from ₹296.50 million in Fiscal 2023 to ₹378.10 million in Fiscal 2024 due to an increase in employee headcount and periodic salary increases during Fiscal 2024.
+
+Contribution to provident and other funds increased by 42.59% from ₹16.20 million in Fiscal 2023 to ₹23.10 million in Fiscal 2024 due to an increase in employee numbers and periodic salary increases during Fiscal 2024.
+
+Further, staff welfare expenses increased by 54.35% from ₹4.60 million in Fiscal 2023 to ₹7.10 million in Fiscal 2024 as a result of certain bonus payments we issued to our employees during Fiscal 2024.
+
+**Finance costs.** Finance costs increased by 26.12% from ₹951.90 million in Fiscal 2023 to ₹1,200.50 million in Fiscal 2024, due to the following factors:
+
+* an increase in interest expenses of 24.85% from ₹696.30 million in Fiscal 2023 to ₹869.30 million in Fiscal 2024 on account of an increase in borrowings, namely term loans in connection with the expansion of our data center capacity,
+
+* an increase in other finance costs of 26.50% from ₹48.30 million in Fiscal 2023 to ₹61.10 million in Fiscal 2024 due to an increase in processing charges on account of the availment of new term loans, and
+
+* an increase in interest on lease liabilities of 30.29% from ₹207.30 million in Fiscal 2023 to ₹270.10 million in Fiscal 2024 due to an increase in leases of land for data center developments.
+
+**Depreciation and amortization expense.** Depreciation and amortization expense increased by 22.67% from ₹2,083.00 million in Fiscal 2023 to ₹2,555.17 million in Fiscal 2024 due to an increase in capital expenditures relating to data center infrastructure.
+
+**Other expenses.** Other expenses increased by 19.04% from ₹1,123.44 million in Fiscal 2023 to ₹1,337.35 million in Fiscal 2024, primarily due to the following:
+
+* an increase in rent expenses of 58.87% from ₹29.30 million in Fiscal 2023 to ₹46.55 million in Fiscal 2024 due to the expansion of leased land at the Rabale Data Center campus for capacity expansion; an increase in repairs and maintenance expenses (buildings) of 35.62% from ₹51.47 million in Fiscal 2023 to ₹69.80 million in Fiscal 2024 relating to general maintenance expenses at our existing data centers;

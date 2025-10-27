@@ -1,0 +1,31 @@
+* Section 90/ section 91 of the Act provides that where a resident taxpayer who has suffered double taxation in respect of his income is eligible to avail relief of taxes paid in foreign country in accordance with the provisions provided under the Act.
+
+**3. Deduction in respect of specified expenditure under section 35D of the Act (Public issue expenses)**
+
+* In accordance with and subject to the fulfillment of conditions as laid out under section 35D of the IT Act, the Company may be entitled to amortize preliminary expenditure, being specified expenditure incurred in connection with the issue for public subscription or such expenditure as prescribed under section 35D of the Act, subject to the limit specified in section 35D(3) of the Act. The deduction is allowable for an amount equal to one-fifth of such expenditure for each of five successive assessment years beginning with the assessment year in which the business commences or as the case may be, in the previous year in which the extension of the undertaking is completed or the new unit commences production or operation.
+
+**4. Deduction in respect of merger/demerger expenditure – Section 35DD of the Act**
+
+* In accordance with and subject to the fulfilment of conditions as laid out under section 35DD of the Act, the company may be entitled to amortize expenditure incurred wholly and exclusively for the purposes of amalgamation or demerger of an undertaking, expenditure as prescribed under section 35DD of the Act.
+
+* The deduction is allowable for an amount equal to one-fifth of such expenditure for each of five successive previous years beginning with the previous year in which the amalgamation or demerger takes place.
+
+**B. SPECIAL DIRECT TAX BENEFITS AVAILABLE TO THE SHAREHOLDERS**
+
+**1. Dividend Income**
+
+* The Company would be required to deduct tax at source ('TDS') on the dividend paid to the shareholders, at applicable rates. The shareholders would be eligible to claim the credit of such tax in their return of income. In case of non-resident shareholders, the Company is required to deduct TDS on the amount of dividend paid/distributed at applicable rate specified under the Act read with applicable Double Taxation Avoidance Agreement (if any), subject to eligibility.
+
+* However, as per the provisions of section 194 of the Act, no deduction of tax at source would be required in case of an individual, where dividend is distributed in modes other than cash and the aggregate amount of such dividends distributed during the year by the Company to the shareholder does not exceed INR 5,000.
+
+Further, the provisions of section 194 of the Act shall not apply to such income credited or paid to:
+
+a) the Life Insurance Corporation of India established under the Life Insurance Corporation Act, 1956 (31 of 1956), in respect of any shares owned by it or in which it has full beneficial interest;
+
+b) the General Insurance Corporation of India (hereafter in this proviso referred to as the Corporation) or to any of the four companies (hereafter in this proviso referred to as such company), formed by virtue of the schemes framed under sub-section (1) of section 16 of the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972), in respect of any shares owned by the Corporation or such company or in which the Corporation or such company has full beneficial interest;
+
+c) any other insurer in respect of any shares owned by it or in which it has full beneficial interest;
+
+d) a "business trust", as defined in clause (13A) of section 2, by a special purpose vehicle referred to in the Explanation to clause (23FC) of section 10; e) any other person as may be notified by the Central Government in the Official Gazette in this behalf.
+
+* Further, in case the shareholder is a domestic company, deduction under Section 80M of the Act would be available on fulfilling the conditions as mentioned above in para A(3).

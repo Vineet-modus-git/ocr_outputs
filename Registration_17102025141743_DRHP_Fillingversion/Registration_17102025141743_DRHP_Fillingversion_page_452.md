@@ -1,0 +1,29 @@
+Our net cash flows generated from operating activities were ₹5,474.16 million in Fiscal 2025 and our operating profit before working capital changes was ₹6,390.74 million in Fiscal 2025. Our net changes in working capital in Fiscal 2025 primarily included (i) an increase in other financial assets – non-current of ₹1,856.25 million, (ii) a decrease in other bank balances of ₹1,281.05 million, (iii) an increase in trade payables of ₹653.15 million, (iv) an increase in other financial liabilities – current of ₹292.21 million, (v) an increase in other current assets of ₹283.40 million and (vi) an increase in trade receivables – current of ₹283.18 million.
+
+Our net cash flows generated from operating activities were ₹2,111.40 million in Fiscal 2024 and our operating profit before working capital changes was ₹4,740.40 million in Fiscal 2024. Our net changes in working capital in Fiscal 2024 primarily included (i) an increase in other financial assets – non-current of ₹1,168.26 million, (ii) an increase in other bank balances of ₹885.10 million, (iii) an increase in trade payables of ₹438.60 million and (iv) a decrease in other financial liabilities – current of ₹299.00 million.
+
+Our net cash flows generated from operating activities were ₹3,734.00 million in Fiscal 2023 and our operating profit before working capital changes was ₹4,197.66 million in Fiscal 2023. Our net changes in working capital in Fiscal 2023 primarily included (i) a decrease in trade receivables – current of ₹582.80 million, (ii) an increase in other financial assets – non-current of ₹407.70 million, (iii) an increase in trade payables of ₹411.91 million, (iv) a decrease in other financial liabilities – current of ₹389.12 million, and (v) a decrease in other non-current assets of ₹237.91 million.
+
+### Net cash generated from / (used in) investing activities
+
+Our net cash flows used in investing activities were ₹1,602.44 million in the three months ended June 30, 2025, which primarily included (i) purchase of property, plant and equipment of ₹1,146.02 million, (ii) acquisition of right of use assets of ₹423.40 million, and (iii) investment in equity shares of ₹103.60 million.
+
+Our net cash flows used in investing activities were ₹5,683.97 million in Fiscal 2025, which primarily included (i) purchase of property, plant and equipment of ₹4,182.41 million, (ii) investment made in preference shares of ₹1,000.00 million, (iii) acquisition of right of use assets of ₹722.74 million, (iv) interest income received of ₹203.21 million and (v) sale proceeds of property, plant and equipment of ₹17.97 million.
+
+Our net cash flows used in investing activities were ₹9,907.55 million in Fiscal 2024, which primarily included (i) purchase of property, plant and equipment of ₹9,227.20 million, (ii) investment made in preference shares of ₹500.00 million, (iii) investment made in equity shares of ₹196.00 million, (iv) interest income received of ₹183.30 million, and (v) amount paid for acquisition of right of use assets of ₹167.65 million.
+
+Net cash flows used in investing activities were ₹9,578.34 million for Fiscal 2023, which primarily included (i) purchase of property, plant and equipment of ₹8,540.44 million, (ii) amount paid for acquisition of right of use assets of ₹943.60 million, (iii) investment made in equity shares of ₹150.30 million, (iv) interest income received of ₹51.50 million, (v) sale proceeds of property, plant and equipment of ₹4.40 million, and (vi) rental income of ₹0.10 million.
+
+### Net cash generated from / (used in) financing activities
+
+Our net cash flows used in financing activities were ₹2,107.80 million in the three months ended June 30, 2025, which primarily included (i) repayment of long-term borrowings of ₹3,118.46 million, (ii) an increase in short-term borrowings of ₹692.50 million, (iii) interest paid of ₹415.71 million, and (iv) proceeds from long term borrowings of ₹963.14 million.
+
+Our net cash flows generated from financing activities were ₹1,896.16 million in Fiscal 2025, which primarily included (i) proceeds from long-term borrowings of ₹8,356.10 million, (ii) repayment of long-term borrowings of ₹5,884.81 million, (iii) proceeds from the issue of non-convertible debentures of ₹2,500.00 million, (iv) interest paid of ₹2,035.03 million, and (v) a decrease in lease liabilities of ₹445.85 million.
+
+Our net cash flows generated from financing activities were ₹7,272.14 million in Fiscal 2024, which primarily included (i) proceeds from the issue of compulsorily convertible debentures of ₹6,000.00 million, (ii) proceeds from long-term borrowings of ₹5,840.41 million, (iii) repayment of long-term borrowings of ₹2,077.76 million, (iv) interest paid of ₹1,691.71 million, (v) decrease in short-term borrowings of ₹495.60 million, and (vi) decrease of lease liabilities of ₹411.20 million.
+
+Our net cash flows generated from financing activities were ₹6,081.76 million in Fiscal 2023, which primarily included (i) proceeds from long-term borrowings of ₹5,936.30 million, (ii) proceeds from the issue of compulsorily convertible debentures of ₹2,980.00 million, (iii) repayment of long-term borrowings of ₹1,403.91 million, (iv) interest paid of ₹763.73 million, and (v) decrease in short-term borrowings of ₹464.90 million.
+
+### Capital Expenditures
+
+Capital expenditures consist of primarily property, plant and equipment and land (comprising plant and equipment, building, office equipment, leasehold improvements and furniture and fittings) intangible assets such as software and licenses. We intend to continue to expand our data center facilities, which may lead us to incur further capital expenditure. The following table sets forth details of our capital expenditures on data center development for the period/Fiscals indicated.

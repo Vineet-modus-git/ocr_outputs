@@ -1,0 +1,27 @@
+As required, a copy of this Draft Red Herring Prospectus will be submitted to BSE. The disclaimer clause as intimated by BSE to our Company, post scrutiny of this Draft Red Herring Prospectus, shall be included in the Red Herring Prospectus and the Prospectus prior to the RoC filing.
+
+### Disclaimer Clause of NSE
+
+As required, a copy of this Draft Red Herring Prospectus will be submitted to NSE. The disclaimer clause as intimated by NSE to our Company, post scrutiny of this Draft Red Herring Prospectus, shall be included in the Red Herring Prospectus and the Prospectus prior to the RoC filing.
+
+### Listing
+
+The Equity Shares offered through the Red Herring Prospectus and the Prospectus are proposed to be listed on BSE and NSE. Applications will be made to the Stock Exchanges for obtaining permission for listing and trading of the Equity Shares. [●] will be the Designated Stock Exchange with which the Basis of Allotment will be finalised.
+
+If the permission to deal in and for an official quotation of the Equity Shares is not granted by the Stock Exchanges, our Company shall forthwith repay, without interest, all monies received from the applicants in pursuance of the Red Herring Prospectus in accordance with applicable law. Our Company shall ensure that all steps for the completion of the necessary formalities for listing and commencement of trading of Equity Shares at the Stock Exchanges are taken within three Working Days from the Bid/Offer Closing Date or such other time as prescribed by SEBI. If our Company does not Allot Equity Shares pursuant to the Offer within such timeline as prescribed by SEBI, it shall repay without interest all monies received from Bidders, failing which interest shall be due to be paid to the Bidders at the rate of 15% p.a. for the delayed period or such other rate prescribed by SEBI. Any expense incurred by our Company on behalf of any of the Selling Shareholders with regard to interest on such refunds as required under the Companies Act, 2013 and any other applicable law will be reimbursed by the Selling Shareholders as agreed among our Company and the Selling Shareholders in writing, in proportion to the Offered Shares and as per the Applicable Law, provided that none of the Selling Shareholders shall be responsible or liable for payment of such interest, unless such delay is solely and directly attributable to an act or omission by such Selling Shareholder and such liability shall be limited to the extent of its / his portion of the Offered Shares.
+
+### Consents
+
+Consents in writing of each of the Selling Shareholders, our Directors, our Company Secretary and Compliance Officer, KMPs, members of our Senior Management, legal counsel to our Company as to Indian law, Bankers to our Company, the BRLMs, the Registrar to the Offer, Lattice Technologies Private Limited and Cushman & Wakefield India, practising company secretary, the independent chartered engineer and Statutory Auditors, have been obtained and such consents have not been withdrawn as of the date of this Draft Red Herring Prospectus. Further, consents in writing of the Syndicate Members, Monitoring Agency, Escrow Collection Bank(s)/Refund Bank(s)/ Public Offer Account Bank(s)/ Sponsor Bank(s) to act in their respective capacities, will be obtained and filed along with a copy of the Red Herring Prospectus with the RoC as required under the Companies Act.
+
+### Experts to the Offer
+
+Except as stated below, our Company has not obtained any expert opinions:
+
+Our Company has received written consent dated October 16, 2025 from M/s Manohar Chowdhry & Associates, Statutory Auditors, to include their name as required under Section 26(1) of the Companies Act, 2013 read with SEBI ICDR Regulations, in this Draft Red Herring Prospectus, and as an “expert” as defined under Section 2(38) of the Companies Act, 2013 to the extent and in their capacity as our Statutory Auditors, and in respect of their (i) examination report dated September 25, 2025 on our Restated Consolidated Financial Information; and (ii) their report dated October 16, 2025 on the Statement of Special Tax Benefits in this Draft Red Herring Prospectus, and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term “expert” shall not be construed to mean an “expert” as defined under the U.S. Securities Act.
+
+Our Company has received written consent dated October 16, 2025, from Vignesh Madhavan, independent chartered engineer, to include his name in this Draft Red Herring Prospectus and as an “expert” as defined under Section 2(38) of the Companies Act, 2013, to the extent and in his capacity as a chartered engineer (i) to the extent of information from the Project Reports included in this Draft Red Herring Prospectus and (ii) in relation to his certificate dated October 16, 2025 certifying the details of certain operational and capacity utilization data pertaining to our Company, included in this Draft Red Herring Prospectus, and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term “expert” shall not be construed to mean an “expert” as defined under the U.S. Securities Act.
+
+### Particulars regarding public or rights issues during the last five years
+
+Our Company has not made any rights issue of securities during the five years immediately preceding the date of this Draft Red Herring Prospectus.

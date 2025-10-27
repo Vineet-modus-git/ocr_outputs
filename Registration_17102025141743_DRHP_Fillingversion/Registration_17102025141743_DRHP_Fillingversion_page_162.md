@@ -1,0 +1,28 @@
+* **Nominal GDP:** Global nominal GDP expanded from USD88.0 trillion1 in calendar year 2019 to USD 110.5 trillion in calendar year 2024, growing at a compound annual growth rate ("CAGR") of 4.7%, and is projected to reach USD 144.6 trillion by calendar year 2030 at a CAGR of 4.6%. India stands out as a clear outperformer. Its nominal GDP grew from USD 2.8 trillion in calendar year 2019 to USD 3.9 trillion in calendar year 2024 at a CAGR of 6.9% and is expected to climb to USD 6.8 trillion by calendar year 2030, implying a robust CAGR of 9.6%. This highlights India's accelerating momentum relative to global averages.
+* **Real GDP:** In calendar year 2024, global real GDP increased by 3.3%, despite challenges such as higher interest rates, tighter financial conditions, and geopolitical tensions. India continues to deliver the highest real GDP growth globally, with a 6.5% year-on-year increase in calendar year 2024, a trend projected to continue through calendar year 2030. This sustained growth is supported by strong domestic demand and a favorable demographic dividend.
+
+**Global nominal GDP (at current prices) –**
+**Top economies**
+(USD T, CY19-30P)
+
+<table><thead><tr><th>Top economies</th><th>CY19</th><th>CY24</th><th>CY30P</th><th>CAGR CY19-24</th><th>CAGR CY24-30P</th></tr></thead><tbody><tr><td>World 🌐</td><td>88.0</td><td>110.5</td><td>144.6</td><td>4.7%</td><td>4.6%</td></tr><tr><td>USA 🇺ıldAU</td><td>21.5</td><td>29.2</td><td>37.2</td><td>6.3%</td><td>4.1%</td></tr><tr><td>China 🇺ained</td><td>14.6</td><td>18.7</td><td>25.8</td><td>5.2%</td><td>5.5%</td></tr><tr><td>India 🇮emann</td><td>2.8</td><td>3.9</td><td>6.8</td><td>6.9%</td><td>9.6%</td></tr></tbody></table>
+
+Source(s): International Monetary Fund, 1Lattice analysis
+
+**Global real GDP growth –**
+**Top economies**
+(Y-o-Y growth %, CY19-30P)
+
+<table><thead><tr><th>Top economies</th><th>CY19</th><th>CY24</th><th>CY30P</th></tr></thead><tbody><tr><td>World 🌐</td><td>2.9%</td><td>3.3%</td><td>3.1%</td></tr><tr><td>USA 🇺ıldAU</td><td>2.6%</td><td>2.8%</td><td>2.1%</td></tr><tr><td>China 🇺ained</td><td>6.1%</td><td>5.0%</td><td>3.4%</td></tr><tr><td>India 🇮emann</td><td>3.9%</td><td>6.5%</td><td>6.5%</td></tr></tbody></table>
+
+India is set to become the third-largest economy worldwide by calendar year 2030 with nominal GDP projected to reach USD 6.8 trillion – this follows on from India becoming the fourth largest economy in the world during calendar year 2025, surpassing Japan. This growth will be supported by rising domestic demand, robust expansion across key sectors, and increasing private consumption. Indian private consumption expenditure is expected to be driven by a growing working-age population (both male and female) and rising household incomes. India's GDP growth is underpinned by multiple structural drivers:
+
+* **Technological advancements and the digital economy:** Rising internet penetration, 5G expansion and accelerated digital adoption are transforming India's economic landscape. Sectors such as e-commerce, fintech, and manufacturing are seeing productivity gains, while financial services, healthcare, education, and government services are being digitized for greater inclusion and efficiency. Emerging areas like defense tech, space tech, and TMT (Technology, Media & Telecommunications) are also benefiting from innovation, contributing to GDP growth and global competitiveness.
+* **Digital transformation driving productivity:** Accelerated tech adoption across sectors is improving operational efficiency, expanding market access, and enhancing service delivery, contributing significantly to GDP growth.
+* **Technology-led innovation in industries:** The rise of AI, IoT, and cloud technologies is enabling smarter manufacturing, logistics, and services, boosting output, exports, and overall economic competitiveness.
+* **Population growth and expanding middle class:** India's growing population and expanding middle class are fueling consumer-driven growth, with the middle class expected to reach 715 million² (61% of the total population) by calendar year 2047, up from approximately 470 million (35% of the total population) in calendar year 2024.
+* **Rising data usage and device adoption:** Rising digital adoption is evident in data usage, with monthly average per user reaching 27.5 GB in calendar year 2024 and is projected to reach 50 GB by calendar year 2030. Smartphone and device penetration is also accelerating with India expected to ship over 160 million smartphones in calendar year 2025, with overall mobile connections expected to cross 1.2 billion.
+* **Data processing and consumption growth:** As data generation accelerates, the backend infrastructure for data processing, cloud storage, and analytics is expanding rapidly. This surge in data flow and consumption is enabling more informed decision-making, supporting new digital business models, and contributing to GDP growth through increased efficiency and innovation.
+
+1 International Monetary Fund
+2 Report – The Rise of India's Middle Class
