@@ -1,0 +1,31 @@
+## OTHER FINANCIAL INFORMATION
+
+The accounting ratios required under Clause 11 of Part A of Schedule VI of the SEBI ICDR Regulations derived from our Restated Consolidated Financial Information are given below:
+
+(in ₹ million, unless otherwise stated)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="4">As at and for the</th></tr><tr><th>Three months period ended June 30, 2025</th><th>Financial Year ended March 31, 2025</th><th>Financial Year ended March 31, 2024</th><th>Financial Year ended March 31, 2023</th></tr></thead><tbody><tr><td>Equity share capital</td><td>59.76</td><td>59.76</td><td>59.76</td><td>59.76</td></tr><tr><td>Profit/(Loss) for the period /year</td><td>56.39</td><td>471.63</td><td>112.00</td><td>(154.74)</td></tr><tr><td>Basic earnings per share (in ₹)<sup>(1)</sup></td><td>0.59</td><td>4.93</td><td>1.17</td><td>(1.62)</td></tr><tr><td>Diluted earnings per share (in ₹)<sup>(2)</sup></td><td>0.59</td><td>4.93</td><td>1.17</td><td>(1.62)</td></tr><tr><td>Net Worth<sup>(3)</sup></td><td>4,032.17</td><td>3,988.84</td><td>3,491.08</td><td>3,362.70</td></tr><tr><td>Return on Net Worth (%)<sup>(4)</sup></td><td>1.40%</td><td>11.82%</td><td>3.21%</td><td>(4.60%)</td></tr><tr><td>Net Asset Value per equity share (in ₹)<sup>(5)</sup></td><td>42.12</td><td>41.67</td><td>36.41</td><td>35.17</td></tr><tr><td>EBITDA<sup>(6)</sup></td><td>211.68</td><td>979.79</td><td>627.38</td><td>568.52</td></tr></tbody></table>
+
+**Notes:**
+
+(1) Basic earnings per share is calculated by dividing the profit/(loss) for the period/year attributable to equity Shareholders by the weighted average number of Equity Shares outstanding during the period/year.
+
+(2) Diluted earnings per share is calculated by dividing profit/(loss) for the period/year attributable to equity Shareholders by the weighted average number of Equity Shares outstanding during the period/year adjusted for the effect of potential equity shares on employee stock option outstanding.
+
+(3) As per Regulation 2(1)(hh) of SEBI ICDR Regulations, as amended, Net Worth means the aggregate value of the paid-up share capital and all reserves created out of the profits and securities premium account and debit or credit balance of profit and loss account, after deducting the aggregate value of the accumulated losses, deferred expenditure and miscellaneous expenditure not written off, as per the restated consolidated statement of assets and liabilities, but does not include reserves created out of revaluation of assets, write-back of depreciation and amalgamation. Further, Net Worth is calculated as sum of equity share capital and other equity excluding capital reserve, other comprehensive income and demerger deficit reserve.
+
+(4) Return on Net Worth (%) is computed as profit/(loss) for the period/year divided by Net Worth as at the end of the period/year. As per Regulation 2(1)(hh) of SEBI ICDR Regulations, as amended, net worth means the aggregate value of the paid-up share capital and all reserves created out of the profits and securities premium account and debit or credit balance of profit and loss account, after deducting the aggregate value of the accumulated losses, deferred expenditure and miscellaneous expenditure not written off, as per the restated consolidated statement of assets and liabilities, but does not include reserves created out of revaluation of assets, write-back of depreciation and amalgamation. Further, Net Worth is calculated as sum of equity share capital and other equity excluding capital reserve, other comprehensive income and demerger deficit reserve.
+
+(5) Net Asset Value per equity share represents Net Worth at the end of the period/year divided by number of equity shares outstanding at the end of the period/year end. Number of equity shares outstanding at the end of the period/year is an aggregate of number of equity shares considering dilutive number of shares and adjusted for equity shares issued due to stock split during the period / year and bonus issue of equity shares.
+
+(6) EBITDA is calculated as profit/(loss) for the period/year plus tax expense plus finance costs plus depreciation and amortisation expense. For details of reconciliation, please refer to "- Reconciliation of Non-GAAP Financial Measures" on page 347.
+
+### Non-GAAP Financial Measures
+
+This Draft Red Herring Prospectus includes certain Non-GAAP Measures and other statistical information relating to our operations and financial performance namely Gross profit, Gross profit margin, EBITDA, EBITDA Margin, EBITDA growth, PAT Margin, Return on equity, EBIT, Capital employed, Return on capital employed, Net working capital days, Net Asset Value per equity share, Net Worth and Return on Net Worth have been included in this Draft Red Herring Prospectus. Certain other industry measures such as Products wise volume, COCO Stores at the end of the period/ year, Trade Stores, Channel Wise Revenue as presented below. These Non-GAAP Measures are not required by or presented in accordance with Ind AS.
+
+Further, these Non-GAAP Measures are not a measurement of our financial performance or liquidity under Ind AS and should not be considered in isolation or construed as an alternative to cash flows, profit/ (loss) for the years/ period or any other measure of financial performance or as an indicator of our operating performance, liquidity, profitability or cash flows generated by operating, investing or financing activities derived in accordance with Ind AS. In addition, these Non-GAAP Measures are not standardized terms, hence a direct comparison of these Non-GAAP Measures between companies may not be possible. Other companies may calculate these Non-GAAP Measures differently from us, limiting their usefulness as a comparative measure. Although such Non-GAAP Measures are not a measure of performance calculated in accordance with applicable accounting standards, our Company's management believes that they are useful to an investor in evaluating us as they are widely used measures to evaluate a company's operating performance.
+
+Analysts, and other interested parties frequently use various Non-GAAP Measures as performance measures, and our management believes that providing such Non-GAAP Measure allows users to make additional comparisons and to understand our ongoing business.
+
+346

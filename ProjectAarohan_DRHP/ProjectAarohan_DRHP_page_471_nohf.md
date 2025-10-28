@@ -1,0 +1,41 @@
+electronic media in accordance with all applicable provisions of the Act and the Depositories Act, 1996. The register and index of beneficial owners maintained by a Depository under the Depositories Act, 1996 shall be deemed to be a register and index of members for the purposes of this Act. The Company shall have the power to keep in any state or country outside India, a Register of Members, resident in that state or country,
+
+(vii) Notwithstanding anything contained herein, in the case of transfer of shares or other securities where the Company has not issued any certificates and where such shares or oilier securities are being held in an electronic and fungible form, provisions of the Depositories Act. 1996 shall apply. Further, the provisions relating to progressive numbering shall not apply to the shares of the Company which have been dematerialised.
+
+## 77. BUY-BACK OF SHARES
+
+Notwithstanding anything contained in these Articles, but subject to all applicable provisions of the Act or any other law for the time being in force, the Company may purchase its own shares or other specified securities.
+
+## GENERAL MEETINGS
+
+### 78. ANNUAL GENERAL MEETINGS
+
+(a) The Company shall in each year hold a General Meeting as its Annual General Meeting in addition to any other meeting in that year.
+
+(b) An Annual General Meeting of the Company shall be held in accordance with the provisions of the Act and other applicable law.
+
+### 79. EXTRAORDINARY GENERAL MEETINGS
+
+All General Meetings other than the Annual General Meeting shall be called "Extraordinary General Meeting". Provided that, the Board may, whenever it thinks fit, call an Extraordinary General Meeting.
+
+### 80. EXTRAORDINARY MEETINGS ON REQUISITION
+
+The Board shall, on the requisition of Members, convene an Extraordinary General Meeting of the Company in the circumstances and in the manner provided under the Act.
+
+### 81. NOTICE FOR GENERAL MEETINGS
+
+All General Meetings shall be convened by giving not less than clear twenty one (21) days' notice, in such manner as is prescribed under the Act, specifying the place, date and hour of the meeting and a statement of the business proposed to be transacted at such a meeting, in the manner mentioned in the Act. Notice shall be given to all the Members and to such persons as are under the Act and/or these Articles entitled to receive such notice from the Company but any accidental omission to give notice to or non-receipt of the notice by any Member or other person to whom it should be given shall not invalidate the proceedings of any General Meetings.
+
+The Members may participate in General Meetings through such modes as permitted by applicable laws.
+
+### 82. SHORTER NOTICE ADMISSIBLE
+
+Upon compliance with the relevant provisions of the Act, an Annual General Meeting may be convened by giving a notice shorter than twenty one (21) days if consent is given in writing or by electronic mode by nor less than 95 (ninety five) percent of the Shareholders entitled to vote at that meeting. Any other General Meeting may be convened by giving a notice shorter than twenty one (21) days if consent is given in writing or by electronic mode by not less (i) the majority in number of Shareholders entitled to vote at that meeting and (ii) who represent not less than 95 (ninety five) percent of such part of the paid-up Share Capital of the Company as gives a right to vote at such meeting.
+
+### 83. CIRCULATION OF MEMBERS' RESOLUTION
+
+The Company shall comply with provisions of section 111 of the Act, as to giving notice of resolutions and circulating statements on the requisition of Members.
+
+### 84. SPECIAL AND ORDINARY BUSINESS
+
+(a) Subject to the provisions of the Act, all business shall be deemed special that is transacted at the Annual General Meeting with the exception of declaration of any dividend, the consideration of financial statements and reports of the Directors and auditors, the appointment of Directors in place of those retiring and the

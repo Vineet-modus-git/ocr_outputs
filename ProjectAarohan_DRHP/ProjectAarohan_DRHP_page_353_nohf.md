@@ -1,0 +1,3 @@
+## RELATED PARTY TRANSACTIONS
+
+For details of the related party transactions, as per the requirements under applicable Accounting Standards i.e., Ind AS 24 'Related Party Disclosures' for the three months period ended June 30, 2025 and the Financial Years ended March 31, 2025, March 31, 2024 and March 31, 2023, and as reported in the Restated Consolidated Financial Information, see "Restated Consolidated Financial Information – Note 46: Related Party Disclosures" on page 336.

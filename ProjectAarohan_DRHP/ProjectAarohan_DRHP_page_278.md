@@ -1,0 +1,71 @@
+Duroflex Limited (formerly known as Duroflex Private Limited)
+
+Annexure I - Restated Consolidated Statement of Assets and Liabilities
+
+(All amounts are in Rs. million, except share data and per share data, unless otherwise stated)
+
+<table><thead><tr><th></th><th>Annexure<br>VII Note</th><th>As at<br>30 June 2025</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td colspan="6"><strong>Assets</strong></td></tr><tr><td colspan="6"><strong>Non-current assets</strong></td></tr><tr><td>Property, plant and equipment</td><td>3</td><td>1,623.26</td><td>1,638.88</td><td>1,802.90</td><td>1,920.50</td></tr><tr><td>Capital work-in-progress</td><td>4</td><td>129.84</td><td>29.93</td><td>10.77</td><td>21.20</td></tr><tr><td>Investment property</td><td>5</td><td>-</td><td>12.56</td><td>13.06</td><td>13.56</td></tr><tr><td>Right-of-use assets</td><td>6</td><td>932.57</td><td>960.33</td><td>387.59</td><td>337.07</td></tr><tr><td>Goodwill</td><td>7</td><td>113.73</td><td>113.93</td><td>113.73</td><td>113.73</td></tr><tr><td>Other intangible assets</td><td>7</td><td>16.84</td><td>18.92</td><td>27.83</td><td>29.87</td></tr><tr><td>Intangible assets under development</td><td>8</td><td>0.82</td><td>0.82</td><td>-</td><td>6.60</td></tr><tr><td colspan="6">Financial assets</td></tr><tr><td>(i) Investments</td><td>9</td><td>-</td><td>-</td><td>-</td><td>42.32</td></tr><tr><td>(ii) Loans</td><td>10</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(iii) Other financial assets</td><td>11</td><td>389.13</td><td>271.11</td><td>163.03</td><td>182.72</td></tr><tr><td>Deferred tax assets (net)</td><td>39</td><td>161.24</td><td>148.79</td><td>104.91</td><td>82.77</td></tr><tr><td>Other tax assets (net)</td><td>39</td><td>64.64</td><td>127.97</td><td>155.96</td><td>21.69</td></tr><tr><td>Other non-current assets</td><td>12</td><td>80.66</td><td>59.75</td><td>2.33</td><td>8.54</td></tr><tr><td><strong>Total non-current assets</strong></td><td></td><td><strong>3,512.73</strong></td><td><strong>3,382.99</strong></td><td><strong>2,782.11</strong></td><td><strong>2,780.57</strong></td></tr><tr><td colspan="6"><strong>Current assets</strong></td></tr><tr><td>Inventories</td><td>13</td><td>1,063.41</td><td>1,003.87</td><td>882.56</td><td>1,016.57</td></tr><tr><td colspan="6">Financial assets</td></tr><tr><td>(i) Trade receivables</td><td>14</td><td>1,082.52</td><td>902.42</td><td>753.08</td><td>784.84</td></tr><tr><td>(ii) Cash and cash equivalents</td><td>15.1</td><td>278.11</td><td>1,028.97</td><td>276.00</td><td>903.14</td></tr><tr><td>(iii) Bank balances other than (ii) above</td><td>15.2</td><td>983.90</td><td>813.37</td><td>1,032.39</td><td>1,522.59</td></tr><tr><td>(iv) Loans</td><td>16</td><td>9.35</td><td>8.31</td><td>5.64</td><td>7.48</td></tr><tr><td>(v) Other financial assets</td><td>17</td><td>653.72</td><td>199.93</td><td>27.34</td><td>10.90</td></tr><tr><td>Other current assets</td><td>18</td><td>209.83</td><td>180.81</td><td>283.18</td><td>346.85</td></tr><tr><td><strong>Total current assets</strong></td><td></td><td><strong>4,280.84</strong></td><td><strong>4,137.68</strong></td><td><strong>3,260.19</strong></td><td><strong>4,592.37</strong></td></tr><tr><td><strong>Total assets</strong></td><td></td><td><strong>7,793.57</strong></td><td><strong>7,520.67</strong></td><td><strong>6,042.30</strong></td><td><strong>7,372.94</strong></td></tr><tr><td colspan="6"><strong>Equity and Liabilities</strong></td></tr><tr><td colspan="6"><strong>Equity</strong></td></tr><tr><td>Equity share capital</td><td>19</td><td>59.76</td><td>59.76</td><td>59.76</td><td>59.76</td></tr><tr><td>Other equity</td><td>20</td><td>3,894.22</td><td>3,895.67</td><td>3,397.91</td><td>3,311.85</td></tr><tr><td><strong>Equity attributable to owners of the Company</strong></td><td></td><td><strong>3,953.98</strong></td><td><strong>3,955.43</strong></td><td><strong>3,457.67</strong></td><td><strong>3,371.61</strong></td></tr><tr><td>Non-controlling interests</td><td>21</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total equity</strong></td><td></td><td><strong>3,953.98</strong></td><td><strong>3,955.43</strong></td><td><strong>3,457.67</strong></td><td><strong>3,371.61</strong></td></tr><tr><td colspan="6"><strong>Non-current liabilities</strong></td></tr><tr><td colspan="6">Financial liabilities</td></tr><tr><td>(i) Borrowings</td><td>22</td><td>24.56</td><td>36.48</td><td>97.54</td><td>231.68</td></tr><tr><td>(ii) Lease liabilities</td><td>6</td><td>875.36</td><td>883.98</td><td>285.88</td><td>252.02</td></tr><tr><td>(iii) Other financial liabilities</td><td>23</td><td>8.54</td><td>10.26</td><td>21.78</td><td>7.20</td></tr><tr><td>Provisions</td><td>24</td><td>76.46</td><td>65.53</td><td>70.58</td><td>61.09</td></tr><tr><td>Other non-current liabilities</td><td>25</td><td>151.99</td><td>154.90</td><td>51.13</td><td>55.38</td></tr><tr><td><strong>Total non-current liabilities</strong></td><td></td><td><strong>1,136.91</strong></td><td><strong>1,151.15</strong></td><td><strong>526.91</strong></td><td><strong>607.37</strong></td></tr><tr><td colspan="6"><strong>Current liabilities</strong></td></tr><tr><td colspan="6">Financial liabilities</td></tr><tr><td>(i) Borrowings</td><td>26</td><td>51.87</td><td>61.49</td><td>134.62</td><td>1,309.33</td></tr><tr><td>(ii) Lease liabilities</td><td>6</td><td>108.26</td><td>117.98</td><td>152.04</td><td>130.82</td></tr><tr><td>(iii) Trade payables</td><td>27</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(a) total outstanding dues of micro enterprises and small enterprises; and</td><td></td><td>186.23</td><td>116.63</td><td>169.37</td><td>151.81</td></tr><tr><td>(b) total outstanding dues of creditors other than micro enterprises and small enterprises</td><td></td><td>1,654.58</td><td>1,481.84</td><td>1,017.07</td><td>1,270.48</td></tr><tr><td>(iv) Other financial liabilities</td><td>28</td><td>438.92</td><td>432.77</td><td>411.88</td><td>366.24</td></tr><tr><td>Other current liabilities</td><td>29</td><td>154.73</td><td>104.00</td><td>80.84</td><td>50.88</td></tr><tr><td>Provisions</td><td>30</td><td>105.56</td><td>97.43</td><td>91.60</td><td>85.95</td></tr><tr><td>Current tax liabilities (net)</td><td>39</td><td>2.53</td><td>1.95</td><td>0.30</td><td>28.45</td></tr><tr><td><strong>Total current liabilities</strong></td><td></td><td><strong>2,702.68</strong></td><td><strong>2,414.09</strong></td><td><strong>2,057.72</strong></td><td><strong>3,393.96</strong></td></tr><tr><td><strong>Total liabilities</strong></td><td></td><td><strong>3,839.59</strong></td><td><strong>3,565.24</strong></td><td><strong>2,584.63</strong></td><td><strong>4,001.33</strong></td></tr><tr><td><strong>Total equity and liabilities</strong></td><td></td><td><strong>7,793.57</strong></td><td><strong>7,520.67</strong></td><td><strong>6,042.30</strong></td><td><strong>7,372.94</strong></td></tr></tbody></table>
+
+The above Annexure should be read with the basis of preparation and Material Accounting Policies appearing in Annexure V, Statement of Restated Adjustments to the Audited Consolidated Financial Statements appearing in Annexure VI and notes to Restated Consolidated Financial Information appearing in Annexure VII.
+
+As per our report of even date attached
+
+for B S R & Co. LLP
+
+Chartered Accountants
+
+Firm's Registration Number: 101248W/W-100022
+
+for and on behalf of the board of directors of
+Duroflex Limited (formerly known as Duroflex Private Limited)
+
+Vikash Gupta
+Partner
+
+Membership No: 064597
+
+Place: Bengaluru
+
+Date: 11 October 2025
+
+Jacob Joseph George
+Chairman and
+Managing Director
+
+DIN: 06603830
+
+Place: Bengaluru
+
+Date: 11 October 2025
+
+Mathew Chandy
+Whole-time Director
+
+DIN: 05289633
+
+Place: Bengaluru
+
+Date: 11 October 2025
+
+Sridhar Balakrishnan
+Chief Executive Officer
+
+Place: Bengaluru
+
+Date: 11 October 2025
+
+Solly Mathew
+Company Secretary
+
+Membership No.: 6028
+
+Place: Bengaluru
+
+Date: 11 October 2025
+
+Rajat Rastogi
+Chief Financial Officer
+
+Place: Bengaluru
+
+Date: 11 October 2025

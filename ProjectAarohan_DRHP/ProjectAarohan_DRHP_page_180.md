@@ -1,0 +1,25 @@
+This overlap enables:
+
+* cross-selling opportunities
+* Retail space efficiency
+* Strengthened “complete home solution” positioning
+
+The **shared route-to-market creates strategic synergy**: mattress brands can leverage established furniture distribution to expand product portfolios, while furniture brands can deepen customer engagement by offering complementary sleep products.
+
+**Total Addressable Market (TAM) for Leading Mattress Players**
+
+TAM for leading mattress players such as Duroflex, which are expanding into adjacent categories including sofas, beds, and home comfort, was valued at INR 1,357 billion in FY2025, reflecting a CAGR of 9.60% from INR 858 billion in FY2020. The market is further projected to grow at a CAGR of 13.65%, reaching INR 2,573 billion by FY2030.
+
+Exhibit 5.6: TAM for Key Categories for Leading Mattress Players (in INR billion) (FY)
+
+<table><thead><tr><th>Category</th><th>2020</th><th>2025</th><th>2030 P</th><th>CAGR 2020-2025</th><th>CAGR 2025-2030 P</th></tr></thead><tbody><tr><td>PU Foam Market</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mattress and Furniture Flexible Slab-stock PU Foam</td><td>38</td><td>63</td><td>119</td><td>10.64%</td><td>13.56%</td></tr><tr><td>Mattress Market</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Modern Mattress</td><td>108</td><td>163</td><td>271</td><td>8.58%</td><td>10.70%</td></tr><tr><td>Home Comfort and Accessories Market</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Modern Pillow &amp; Cushion</td><td>14</td><td>20</td><td>34</td><td>7.39%</td><td>11.20%</td></tr><tr><td>Mattress Protector</td><td>3.1</td><td>5.7</td><td>10.8</td><td>13.32%</td><td>13.63%</td></tr><tr><td>Comforters</td><td>6</td><td>10</td><td>21</td><td>10.76%</td><td>16.00%</td></tr><tr><td>Furniture Market</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Beds</td><td>390</td><td>615</td><td>1,180</td><td>9.54%</td><td>13.92%</td></tr><tr><td>Sofas &amp; Recliners</td><td>299</td><td>480</td><td>937</td><td>9.93%</td><td>14.31%</td></tr><tr><td>Total Addressable Market (TAM)</td><td>858</td><td>1,357</td><td>2,573</td><td>9.60%</td><td>13.65%</td></tr></tbody></table>
+
+Source: The Knowledge Company Analysis, Secondary Research
+
+**Operational Benchmarking**
+
+The mattress and foam industry in India is a fast-evolving sector driven by increasing consumer awareness around health and wellness, rising disposable incomes, and a growing preference for comfort-centric and orthopedic bedding solutions underscoring branded products within the organized sectors. The industry primarily comprises two key segments: mattresses (including coir, foam, spring, latex and hybrid varieties) and PU foam, which finds applications in mattresses, furniture, automotive products, and packaging. Although the unbranded play still holds a large share, particularly in foam production and low-cost mattresses, the branded segment is rapidly expanding with very few players like Duroflex, Sheela Foam etc. having capabilities to manufacture both foam and mattresses led by product innovation, better consumer outreach, and digital transformation. Legacy brands like Sleepwell and Duroflex are among the earliest established branded players in the mattress industry and remain dominant players across both mattresses and PU foam backed by integrated manufacturing and extensive retail networks. On the other hand, a new wave of direct-to-consumer (D2C) brands such as Wakefit, and The Sleep Company has disrupted the market with competitive pricing, strong digital marketing strategies, and innovations like smart grid technology and roll-packed mattresses to attract modern consumers.
+
+Exhibit 6.1: Company Overview
+
+<table><thead><tr><th>Key Players</th><th>Operating Company</th><th>Year of Inception</th><th>Key Brands</th><th>Key Categories Present in</th></tr></thead><tbody><tr><td rowspan="4">Duroflex</td><td rowspan="4">Duroflex Ltd</td><td rowspan="4">1981*</td><td>Duroflex</td><td>Mattress, PU foam, Furniture, Bed Linens, Comforter, Pillows</td></tr><tr><td>Sleepyhead</td><td>Mattress, Furniture, Comforter, Pillow, Cushion, Bed linen</td></tr><tr><td>Perfect Rest</td><td>Mattress</td></tr><tr><td>Durofoam</td><td>PU foam and other foam products</td></tr><tr><td rowspan="8">Sheela Foam Limited</td><td rowspan="8">Sheela Foam Ltd</td><td rowspan="8">1971</td><td>Sleepwell</td><td>Mattress, Comforter, Bed linen, Pillows, Furniture foam</td></tr><tr><td>Kurlon</td><td>Mattress, Pillow</td></tr><tr><td>Komfort Universe</td><td>PU foam and other foam products</td></tr><tr><td>Feather Foam</td><td>Mattress, Pillow, Sofa-Cum Bed, Furniture Foam</td></tr><tr><td>Lamiflex</td><td>Polyether/ Polyester foam for lamination</td></tr><tr><td>Furlenco</td><td>Furniture, Mattress</td></tr><tr><td>Starlite</td><td>Mattress, Pillow, Sofa-Cum Bed, Cushion</td></tr></tbody></table>

@@ -1,0 +1,25 @@
+operated by our Company from exclusively leased or sub-leased or licensed fee premises. In addition to the above, we also have an online presence through our own websites and other e-commerce marketplaces, which ensures easy access to our products for our customers. Our diversified network also includes general trade, institutional and OEM sales channels and branded foam. For further details, see "*Our Business*" on page 185.
+
+According to the TKC Report, we were one of the first few players to launch of customer experience stores in the Indian sleep and comfort solutions industry, opening our maiden store in the 2019. Since then, we have scaled our COCO Stores network to 73 as of June 30, 2025, located in 31 cities across 14 states and 2 union territories. Our COCO Stores comprise of exclusive Duroflex and Sleepyhead experience centres, which serve as key touchpoints for ensuring consistency in brand experience, strengthening consumer trust, and enhancing brand understanding. These outlets provide a controlled and branded environment where customers can have a hands-on experience with our products and engage with our staff, fostering a deeper connection with our brands. Our COCO Stores are operated by the Company from exclusively leased, sub-leased or licensed premises.
+
+Our strategy for COCO Stores, is to provide customers with a direct, hands-on experience with our products, thereby enhancing their understanding and trust in our brands. These stores function as experience centres, allow customers to engage with a wide range of our offerings, including mattresses, beds, sofas, and recliners. The expansion of these stores is a data-driven process, targeting locations with high business potential by analysing market demand, population density, demographic trends, and data from our e-commerce sales to pinpoint underserved areas. We also review the sales performance of existing COCO Stores to identify and replicate successful patterns in new locations.
+
+A key benefit of this model is improved capital efficiency, as many stores operate as experience centres without holding bulky inventory. These stores also serve as a strategic channel for introducing new and premium products to the market.
+
+The number of COCO Stores established by our Company in the last three Financial Years and for the three months period ended June 30, 2025, are as follows*^:
+
+<table><thead><tr><th>Particulars</th><th>As at and for the three months period ended June 30, 2025</th><th>As at and for the Financial Year 2025</th><th>As at and for the Financial Year 2024</th><th>As at and for the Financial Year 2023</th></tr></thead><tbody><tr><td>Number of COCO Stores opened/added during the relevant period*</td><td>2</td><td>4</td><td>14</td><td>12</td></tr><tr><td>Number of COCO Stores closed during the relevant period**</td><td>Nil</td><td>1</td><td>Nil</td><td>3</td></tr><tr><td>Number of COCO Stores open as on the last day of each period / Closing count of the COCO*</td><td>73</td><td>71</td><td>68</td><td>54</td></tr><tr><td>Total capital expenditure incurred on the COCO Stores opened (in ₹ million)*</td><td>12.69</td><td>14.89</td><td>47.30</td><td>35.13</td></tr><tr><td>Average capital expenditure incurred on per COCO Stores opened (in ₹ million) &amp;*</td><td>6.34</td><td>3.72</td><td>3.38</td><td>2.93</td></tr><tr><td>Total area of COCO Stores opened (square feet)*</td><td>4,423</td><td>11,474</td><td>22,598</td><td>16,120</td></tr><tr><td>Average size of COCO Stores opened (square feet)*</td><td>2,212</td><td>2,869</td><td>1,640</td><td>1,343</td></tr></tbody></table>
+
+* As certified by Architects IN, by way of their certificate dated October 15, 2025.
+
+^ As certified by P K Shah & Co, Chartered Accountants, having firm registration number 308150E, by way of their certificate dated October 15, 2025.
+
+# Reason for closure of certain COCO Stores is due to low revenue generation and relocation to other locations within India.
+
+& Average capital expenditure incurred on per COCO Store opened (in ₹ million) is computed as total capital expenditure incurred on the COCO Store opened (in ₹ million) divided by number of COCO Stores opened/added during the relevant period.
+
+As of June 30, 2025, our COCO Stores range in size from 330 square feet to 4,500 square feet, with an average store size of approximately 1,700 square feet. The size and layout of our COCO Stores are dependent on an evaluation of several factors, which include:
+
+(i) Market and demographic analysis, including an assessment of market demand, population density, and demographic trends to understand target customer profiles.
+
+(ii) The physical attributes of the location, such as high visibility, easy accessibility, and adequate parking, which are prioritized to attract footfall.

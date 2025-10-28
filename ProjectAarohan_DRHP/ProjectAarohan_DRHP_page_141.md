@@ -1,0 +1,13 @@
+1. The following provides an explanation to the Cap Price being [●] times of weighted average cost of acquisition of Equity Shares that were issued by our Company or acquired or sold by the Selling Shareholders or other shareholders with rights to nominate directors on our Board by way of primary and secondary transactions in the last three full Financial Years preceding the date of this Draft Red Herring Prospectus compared to our Company's KPIs and financial ratios for the three months period ended June 30, 2025 and Financial Years 2025, 2024 and 2023 and in view of external factors, if any.
+
+[●]*
+
+* To be included in the Price Band.
+
+2. The following provides an explanation to the Cap Price being [●] times of weighted average cost of acquisition of Equity Shares that were issued by our Company or acquired by the Selling Shareholders or other shareholders with the right to nominate directors on our Board by way of primary and secondary transactions in view of external factors, if any.
+
+[●]*
+
+* To be included in the Price Band
+
+The Offer Price of ₹[●] has been determined by our Company, in consultation with the BRLMs, on the basis of the demand from investors for the Equity Shares through the Book Building process. Bidders should read the abovementioned information along with “Risk Factors”, “Our Business” and “Financial Information” on pages 32, 185 and 269, respectively, to have a more informed view.

@@ -1,0 +1,23 @@
+### 3. Marketing and advertisement expenses toward enhancing the awareness and visibility of our brand
+
+Over the years, as our business has grown, we have built strong brand equity driven by a multi-pronged marketing approach designed to widen our customer base and actively acquire new consumers. The core of our marketing strategy is a ‘house of brands’ architecture, where each of our brands (Duroflex, Sleepyhead, Perfect Rest) has a differentiated value proposition to cater to distinct customer segments and price points. Our marketing efforts help customers discover our brands through a variety of online and offline touchpoints, and they can engage with us through our COCO Stores, websites, and e-commerce marketplaces. Through our content-based marketing and celebrity and influencer-driven campaigns, we aim to create thought leadership, health awareness on the importance of sleep, and customer aspiration for premium mattresses. For further details see, “*Our Business – Our Strategies*” on page 197.
+
+Our Company follows a multi-pronged approach towards marketing, spanning celebrity, cricket and athletic collaborations, community engagement, social media influencers and marketing campaign.
+
+Historically, our initiatives have involved collaborations with several celebrities across sports and films industry to enhance the reach and appeal of our brands and deepen consumer trust. For example, we have collaborated with prominent personalities such as Virat Kohli for our Duroflex brand and Ranveer Singh (from June 27, 2022 to June 26, 2024) for our Sleepyhead brand. We also we collaborated with a franchisee cricket team for the 2024 Indian Premier League season, as their official sleep partner and partnered with an Indian Olympic athlete training facility to support Indian Olympic-level athletes with high-performance sleep solutions. For further details, see “*Our Business - Competitive Strengths - Strong brand equity, driven by a multi-pronged marketing approach*” on page 192.
+
+We maintain a disciplined approach to our marketing spend, focusing on achieving significant brand visibility and customer engagement efficiently. In Fiscal 2025, our advertisement and sales promotion expenses represented 6.44% of our revenue from operations which is ₹730.11 million. For details see “*Our Business - Marketing and Promotion*” on page 207.
+
+Our marketing efforts have received industry recognition, including the ‘Best Celebrity Activation’ award at the India Influencer Awards in 2024 and the ‘Home and Lifestyle Retailer of the Year’ award from the Industry of Retail and eCommerce in 2024. For further details, see “*History and Certain Corporate Matters – Awards, accreditations and recognitions*” on page 234.
+
+*Historical expenditure on advertisement and sales promotion expenses*
+
+The total advertisement and sales promotion expenses incurred by our Company for the three months period ended June 30, 2025 and the year ended March 31, 2025, March 31, 2024, and March 31, 2023, are as follows:
+
+<table><thead><tr><th>Particulars</th><th>For the three months period ended June 30, 2025 (in ₹ million)</th><th>For the year ended March 31, 2025 (in ₹ million)</th><th>For the year ended March 31, 2024 (in ₹ million)</th><th>For the year ended March 31, 2023 (in ₹ million)</th></tr></thead><tbody><tr><td>Advertisement and sales promotion expenses*</td><td>160.56</td><td>730.11</td><td>850.14</td><td>758.81</td></tr></tbody></table>
+
+*The amounts disclosed above are based on the Restated Consolidated Financial Information of our Company for three months period ended June 30, 2025, and the Fiscals 2025, 2024 and 2023.
+
+*Proposed utilisation of Net Proceeds*
+
+We intend to utilize ₹451.88 million of our Net Proceeds towards funding of our marketing and advertisement spends, deployed as ₹141.60 million in Financial Year 2027, ₹162.40 million in Financial Year 2028 and ₹147.88 million in Financial Year 2029. Our deployment of the Net Proceeds for this Object and the medium through which marketing initiatives may be undertaken is contingent on various internal and external factors, such as our Company’s business and marketing plans, prevailing market conditions, expected viewership of our advertisements in different geographies, nature of our marketing campaigns etc. Further, maintaining and improving upon our marketing strategies involves expenditures which may not be proportionate to the revenue generated and customers acquired. Any additional expenses which may be incurred by our Company towards advertisement and marketing expenses would be funded through internal accruals of our Company or means other than the Net Proceeds.

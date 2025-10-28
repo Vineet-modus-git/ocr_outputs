@@ -1,0 +1,27 @@
+## Track record of past issues handled by the BRLMs
+
+For details regarding the track record of the BRLMs, as specified in the SEBI circular dated January 10, 2012, bearing reference number CIR/MIRSD/1/2012, see the websites of the BRLMs, as provided in the table below.
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the BRLM</td><td>Website</td></tr></thead><tbody><tr><td>1.</td><td>JM Financial Limited</td><td>www.jmfl.com</td></tr><tr><td>2.</td><td>Motilal Oswal Investment Advisors Limited</td><td>www.motilaloswalgroup.com</td></tr></tbody></table>
+
+For further details in relation to the BRLMs, see "General Information – Book Running Lead Managers" on page 78.
+
+## Stock Market Data of Equity Shares
+
+This being the initial public offer of Equity Shares of our Company, the Equity Shares are not listed on any stock exchange and accordingly, no stock market data is available for the Equity Shares.
+
+## Mechanism for Redressal of Investor Grievances
+
+The Registrar Agreement provides for the retention of records with the Registrar to the Offer for a period of at least eight years from the date of listing and commencement of trading of the Equity Shares on the Stock Exchanges, to enable the Bidders to approach the Registrar to the Offer for redressal of their grievances.
+
+In terms of the SEBI ICDR Master Circular and subject to applicable law, any ASBA Bidder whose Bid has not been considered for Allotment, due to failure on the part of any SCSB, shall have the option to seek redressal of the same by the concerned SCSB within three months of the date of listing of the Equity Shares. SCSBs are required to resolve these complaints within 15 days, failing which the concerned SCSB would have to pay interest at the rate of 15% per annum for any delay beyond this period of 15 days. Further, the Bidders shall be compensated by the SCSBs in accordance with the SEBI ICDR Master Circular in the events of delayed unblock for cancelled/withdrawn/deleted applications, blocking of multiple amounts for the same UPI application, blocking of more amount than the application amount, delayed unblocking of amounts for non-allotted/partially allotted applications, for the stipulated period and such compensation to Bidders shall be computed from T+3 day. In an event there is a delay in redressal of the investor grievance in relation to unblocking of amounts, the SCSBs and the Book Running Lead Managers shall compensate the Bidders at the rate higher of ₹100 or 15% per annum of the application amount for the period of such delay, in terms of the SEBI ICDR Master Circular. Further, in terms of the SEBI ICDR Master Circular, the payment of processing fees to the SCSBs shall be undertaken pursuant to an application made by the SCSBs to the BRLMs, and such application shall be made only after (i) unblocking of application amounts for each application received by the SCSB has been fully completed, and (ii) applicable compensation relating to investor complaints has been paid by the SCSB.
+
+All Offer-related grievances, other than for Anchor Investors, may be addressed to the Registrar to the Offer with a copy to the relevant Designated Intermediary to whom the Bid cum Application Form was submitted. The Bidder should give full details such as name of the sole or First Bidder, Bid cum Application Form number, Bidders' DP ID, Client ID, UPI ID, PAN, date of the submission of Bid cum Application Form, address of the Bidder, number of the Equity Shares applied for, ASBA Account number in which the amount equivalent to the Bid Amount was blocked or the UPI ID (for UPI Bidders who make the payment of Bid Amount through the UPI Mechanism) and the name and address of the Designated Intermediary where the Bid cum Application Form was submitted by the Bidder.
+
+In terms of the SEBI ICDR Master Circular, in case of any delay in unblocking of amounts in the ASBA Accounts exceeding two Working Days from the Bid / Offer Closing Date, the Bidder shall be compensated at a uniform rate of ₹100 per day or 15% per annum of the Bid Amount, whichever is higher, for the entire duration of delay exceeding two Working Days from the Bid/ Offer Closing Date by the intermediary responsible for causing such delay in unblocking. The BRLMs shall, in their sole discretion, identify and fix the liability on such intermediary or entity responsible for such delay in unblocking.
+
+The following compensation mechanism has become applicable for investor grievances in relation to Bids made through the UPI Mechanism for public issues opening on or after May 1, 2021, for which the relevant SCSBs shall be liable to compensate the investor:
+
+<table><thead><tr><td>Scenario</td><td>Compensation amount</td><td>Compensation period</td></tr></thead><tbody><tr><td>Delayed unblock for cancelled / withdrawn / deleted applications</td><td>₹100 per day or 15% per annum of the Bid Amount, whichever is higher</td><td>From the date on which the request for cancellation / withdrawal / deletion is placed on the bidding platform of the Stock Exchanges till the date of actual unblock</td></tr><tr><td>Blocking of multiple amounts for the same Bid made through the UPI Mechanism</td><td>1. Instantly revoke the blocked funds other than the original application amount; and</td><td>From the date on which multiple amounts were blocked - Till the date of actual unblock</td></tr></tbody></table>
+
+419

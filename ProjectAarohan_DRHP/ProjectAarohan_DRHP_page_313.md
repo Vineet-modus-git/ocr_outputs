@@ -1,0 +1,29 @@
+Duroflex Limited (formerly known as Duroflex Private Limited)
+
+Annexure VII - Notes to the Restated Consolidated Financial Information (continued)
+
+(All amounts are in Rs. million, except share data and per share data, unless otherwise stated)
+
+13 Inventories*
+
+<table><thead><tr><th>Particulars</th><th>As at<br>30 June 2025</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td>Raw materials [includes goods in transit of Rs. 6.84 million (31 March 2025: Rs. 121.70 million) (31 March 2024: Rs. 58.30 million) (31 March 2023: Rs. 125.80 million)]</td><td>338.85</td><td>364.97</td><td>263.61</td><td>361.46</td></tr><tr><td>Finished goods</td><td>338.64</td><td>283.14</td><td>293.69</td><td>240.21</td></tr><tr><td>Semi-finished goods</td><td>222.45</td><td>206.53</td><td>186.04</td><td>160.80</td></tr><tr><td>Packing material</td><td>38.97</td><td>26.02</td><td>19.57</td><td>24.52</td></tr><tr><td>Stores and spares</td><td>38.69</td><td>37.11</td><td>31.25</td><td>24.70</td></tr><tr><td>Stock in trade [includes goods in transit of Rs Nil (31 March 2025: Nil) (31 March 2024: Rs. Nil) (31 March 2023: Rs. 4.30 million)]</td><td>79.14</td><td>81.22</td><td>72.02</td><td>176.81</td></tr><tr><td>Right to recover return goods</td><td>6.67</td><td>4.88</td><td>16.38</td><td>28.07</td></tr></tbody><tfoot><tr><td></td><td><strong>1,063.41</strong></td><td><strong>1,003.87</strong></td><td><strong>882.56</strong></td><td><strong>1,016.57</strong></td></tr></tfoot></table>
+
+*Net of provision of Rs. 114.58 million (31 March 2025: Rs.97.12 million) (31 March 2024: Rs.122.17 million) (31 March 2023: Rs.135.00 million) as per breakup given below.
+
+<table><thead><tr><th>Particulars</th><th>As at<br>30 June 2025</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td>Raw materials</td><td>20.89</td><td>22.51</td><td>31.55</td><td>22.74</td></tr><tr><td>Finished goods</td><td>57.82</td><td>40.64</td><td>44.68</td><td>39.09</td></tr><tr><td>Semi-finished goods</td><td>10.44</td><td>10.26</td><td>12.63</td><td>16.02</td></tr><tr><td>Packing material</td><td>4.03</td><td>3.62</td><td>3.29</td><td>5.08</td></tr><tr><td>Stock in trade</td><td>21.40</td><td>20.09</td><td>30.02</td><td>52.07</td></tr></tbody><tfoot><tr><td></td><td><strong>114.58</strong></td><td><strong>97.12</strong></td><td><strong>122.17</strong></td><td><strong>135.00</strong></td></tr></tfoot></table>
+
+Refer note 2(xiv)
+
+Inventories have been pledged to secure the borrowings of the Group (refer note 22 & 26).
+
+The cost of material consumed recognised as an expense includes Rs. 1.87 million (31 March 2025: 0.44 million) (31 March 2024: Rs. 1.26 million) (31 March 2023: Rs. 2.00 million) in respect of write down of inventory to net-realisable value.
+
+14 Trade receivables
+
+<table><thead><tr><th>Particulars</th><th>As at<br>30 June 2025</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td>Trade receivables considered good - unsecured</td><td>1,082.52</td><td>902.42</td><td>769.50</td><td>817.63</td></tr><tr><td>Trade receivables - credit impaired</td><td>217.08</td><td>210.74</td><td>163.86</td><td>116.11</td></tr><tr><td><strong>Total trade receivables</strong></td><td><strong>1,299.60</strong></td><td><strong>1,113.16</strong></td><td><strong>933.36</strong></td><td><strong>933.74</strong></td></tr><tr><td>Less: Allowance for expected credit loss</td><td>(217.08)</td><td>(210.74)</td><td>(180.28)</td><td>(148.91)</td></tr><tr><td><strong>Net trade receivables</strong></td><td><strong>1,082.52</strong></td><td><strong>902.42</strong></td><td><strong>753.08</strong></td><td><strong>784.84</strong></td></tr><tr><td colspan="5">Of the above, trade receivables from related parties are as below:</td></tr><tr><td>Trade receivables due from related parties (refer note 46)</td><td>-</td><td>-</td><td>-</td><td>0.20</td></tr><tr><td>Less: Allowance for expected credit loss</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Net trade receivables</strong></td><td>-</td><td>-</td><td>-</td><td><strong>0.20</strong></td></tr></tbody></table>
+
+Ageing of trade receivables as at 30 June 2025
+
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2">Not due</th><th colspan="5">Outstanding for following periods from due date of payment</th><th rowspan="2">Total</th></tr><tr><th>Less than 6 months</th><th>6 months -1 year</th><th>1-2 years</th><th>2-3 years</th><th>More than 3 years</th></tr></thead><tbody><tr><td>Undisputed trade receivables - considered good</td><td>551.36</td><td>531.16</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1,082.52</td></tr><tr><td>Undisputed trade receivables - credit impaired</td><td>-</td><td>34.82</td><td>52.84</td><td>53.81</td><td>13.12</td><td>22.17</td><td>176.76</td></tr><tr><td>Disputed Trade receivables - considered good</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Trade Receivables - credit impaired</td><td>-</td><td>-</td><td>1.44</td><td>10.65</td><td>10.25</td><td>17.98</td><td>40.32</td></tr><tr><td><strong>Total</strong></td><td><strong>551.36</strong></td><td><strong>565.98</strong></td><td><strong>54.28</strong></td><td><strong>64.46</strong></td><td><strong>23.37</strong></td><td><strong>40.15</strong></td><td><strong>1,299.60</strong></td></tr><tr><td>Less: Allowance for expected credit loss</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(217.08)</td></tr><tr><td><strong>Net trade receivables</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td><strong>1,082.52</strong></td></tr></tbody></table>
+
+310

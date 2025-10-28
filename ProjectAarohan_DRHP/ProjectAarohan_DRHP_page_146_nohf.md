@@ -1,0 +1,41 @@
+ii) The Company is availing the benefit of exemption from payment of tax on zero rated supply of goods effected against Letter of Undertaking (LUT), in terms of Section 2(6) of the IGST Act, 2017.
+
+iii) The Company is availing rebate of taxes / duties on inputs under Remission of Duties and Taxes on Exported Products ("RoDTEP") scheme at the applicable rates subject to fulfilment of conditions and procedures as prescribed in relevant notifications.
+
+iv) The Company is availing the benefit of duty drawback on the duties paid on inputs used in the manufacture of export goods at the All-Industry Rate (AIR) on the FOB value of exports where the rate or amount of drawback has not been specifically determined for the goods exported subject to fulfilment of conditions and procedures as prescribed in relevant notifications.
+
+v) The Company is availing Exemption from basic customs duty on import of goods under Preferential Trade Agreements between ASEAN and India in terms of Notification No. 46/2011 – Customs dt. 01.06.2011, subject to fulfilment of conditions and procedures as prescribed in relevant notifications.
+
+vi) Company is availing export incentives under Foreign Trade Policy with respect to duty free import of inputs under Advance Authorization scheme subject to fulfilment of conditions and procedures as prescribed in relevant notifications.
+
+vii) The Company is availing the benefit of Authorized Economic Operator (AEO) Tier 2 which is a trade facilitation scheme.
+
+## B. Possible Special tax benefits available to Shareholders
+
+### Direct Tax Laws:
+
+i) **Dividend Income:** Individuals, HUFs, AOPs and BOIs have surcharge on dividends capped at 15%, regardless of dividend amount.
+
+ii) **Long term capital gains tax:** Long-term Capital Gains from listed equity shares/equity-oriented funds/units of a business trust taxed at 12.5% (without indexation) if conditions are met under Section 112A of the IT Act. Gains up to INR 1,25,000 are tax-free.
+
+iii) **Short term capital gains tax:** Short-term Capital Gains from listed equity shares/equity oriented funds/units of a business trust taxed at 20%, subject to conditions under Section 111A of the IT Act.
+
+iv) **Treaty Benefit to Non-resident Shareholders:** In respect of non-resident shareholders, the tax rates and the consequent taxation shall further be subject to any benefits available under the applicable Double Taxation Avoidance Agreement, if any, between India and the country of residence of such non-resident shareholders subject to satisfaction of conditions.
+
+v) **Deduction with respect to STT:** Where the gains arising on transfer of shares of the companies are included in the business income of a shareholder and assessable under the head "Profits and Gains from Business or Profession" and such transfer is subjected to Securities Transaction Tax ("STT"), then such STT shall be a deductible expense from the business income as per the provisions of Section 36(1)(xv) of the IT Act.
+
+Except for the above, the Shareholders of the Company are not entitled to any other special tax benefits under the IT Act.
+
+### Indirect Tax Laws:
+
+There are no special tax benefits available to the Shareholders of the Company under Indirect Tax Laws
+
+## C. Possible Special tax benefits available to Material Subsidiary- Shivaarna Technofoams Private Limited
+
+### Direct Tax Laws:
+
+i) The Material Subsidiary has not opted benefit provided under Section 115BAA of the Act.
+
+ii) The Material Subsidiary is entitled to claim deduction for dividends received from domestic/foreign companies or business trusts, up to the amount distributed before the income-tax return filing due date specified under Section 139(1) of the IT Act under Section 80M of the IT Act.
+
+iii) The Material Subsidiary is entitled to claim 30% of additional employee cost deductible for a period of three assessment years, subject to satisfaction of conditions under Section 80JJAA of the IT Act.

@@ -1,0 +1,27 @@
+In addition to our core mattress offerings, we intend to further expand our product range in furniture products, in particular sofas, recliners, upholstered beds and smart products and better distribute these products across our omnichannel distribution network, including via our COCO Stores, as described below. In order to support our strategy of innovation in new product categories, we will further expand our back-end manufacturing capabilities.
+
+**Further expand each of our distribution channels, especially experience centres in a profitable manner**
+
+We aim to follow focused growth strategies for each distribution channel, with a view to achieving greater diversification, as set forth below:
+
+*   **COCO Stores:** we intend to strategically expand into newer geographies by setting up newer COCO Stores for both Duroflex and Sleepyhead. These stores will serve as key touchpoints for market introduction of new and premium products under our brands. In line with our strategy to further strengthen and expand our range of furniture products, we plan to design our upcoming COCO Stores in slightly larger formats compared to some of our current COCO Stores network, in order to allow adequate space for showcasing our furniture products alongside the current mattress-focused format of a typical COCO Store. See also "*Objects of the Offer*" on page 116 of this Draft Red Herring Prospectus in relation to our plan for opening of new COCO stores.
+*   **General trade and trade stores:** we aim to follow a focused geographic expansion strategy to capture increased demand for products under the Duroflex brand. This includes deepening distribution in high-potential markets, expanding our distribution network and improving product availability. In addition, for Sleepyhead branded products, we will follow a differentiated geographic expansion strategy in areas where there is higher demand for Sleepyhead products enabling optimized resource allocation, stronger visibility, and sustainable growth across both brands.
+*   **E-commerce:** we aim to further increase e-commerce channels to capture demand and drive market penetration and build demand awareness for our COCO Stores. In particular, we aim to further expand sales growth from our own websites and will look to continuously revamp the appearance of our website.
+
+We continue to invest in building strong relationships with our online and offline channel partners by strategically expanding product assortments, launching exclusive products tailored to specific channels, and collaborating on joint brand promotions.
+
+**Further expand our Branded Foam and Institutions/OEM business**
+
+We intend to grow the institutional sales of our mattresses to hotels, resorts, PG, co-living providers, serviced apartments, educational institutions, hospitals and government agencies to leverage the expected high-volume growth of our customers in these sectors. For example, according to the TKC Report, India's hotel market is underpenetrated and has headroom to expand its room supply, with less than one organized hotel room for every eight hotel rooms in China as of December 31, 2024. Further, with respect to OEM customers, we are focused on increasing exports to key customers abroad, as well as institutional sales to prominent domestic retail chains.
+
+**Further strengthen our brand equity through targeted marketing initiatives**
+
+Over the last four decades, we have built a large base of customers across our brands and aim to continuously acquire new customers to drive growth. We intend to continue to invest in our brands to keep them fresh, engaging and relevant for our customers, with a view to further enhancing our brand equity and optimizing our existing brand equity to boost sales of our furniture and accessories products.
+
+We intend to deploy a holistic marketing strategy across digital, social, and traditional platforms and actively leverage our differentiated content, community, and commerce flywheels to improve our reach and drive effective engagement to acquire new customers. Moreover, to support our offline expansion plans, we intend to differentially focus on other modes of advertising, including television advertising, to reach and target a larger customer base.
+
+Further, we will continue to focus on creating thought leadership on the importance of sleep to health productivity, spinal health and well-being, following the example of our successful Energise product launch, see "—*Competitive Strengths— Strong brand equity, driven by a multi-pronged marketing approach*".
+
+**Continue to invest in technology to improve customer experience and operational efficiencies**
+
+We intend to leverage technology to enhance customer experience and drive operational efficiencies to build a future-ready enterprise. In the past, we have improved our integrated technology architecture to consolidate transactional and behavioural data generated across channels into a resilient data platform. This enables insight-led decision making, personalisation at scale, and disciplined operating control across commercial, supply chain, service, and finance workflows. Furthermore, we leverage our in-house developed, proprietary order management systems for our general trade channel and branded foam channels, respectively. These custom solutions enable us to better serve our distribution partners and business customers, providing them

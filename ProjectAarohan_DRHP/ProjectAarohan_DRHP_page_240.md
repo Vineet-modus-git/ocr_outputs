@@ -1,0 +1,25 @@
+consideration of ₹ 100,000. Basis the VEPL SPA, our Company acquired control of VEPL, making it a wholly-owned subsidiary of our Company with effect from February 19, 2025.
+
+A valuation report dated February 7, 2025 was obtained from a chartered accountant, in relation to this transaction. Our Promoters and Directors, Jacob Joseph George and Mathew George, were the sellers of the Sale Shares.
+
+## F. Demerger of the warehousing business of our Company to Vazhathoppil Enterprises Private Limited
+
+Pursuant to a resolution by our Board on March 5, 2025, and a special resolution by our Shareholders on June 6, 2025, our Company submitted an application for a scheme of demerger of the warehousing business of our Company (the “Demerged Undertaking”) into Vazhathoppil Enterprises Private Limited (“VEPL”), previously a wholly-owned subsidiary of our Company (hereinafter, the “Scheme” and “Resulting Company”, respectively), as prescribed by Section 233 of the Companies Act, before the Regional Director, Southern Region (referred to herein as the “Regional Director”). The underlying justification for this Scheme was, among other things, the restructuring within the group, the segregation of the warehousing business to enable focused management, unlock the potential of the Demerged Undertaking and the remaining business, and achieve a more efficient deployment of resources, leading to operational and cost efficiencies. Consequent to the Scheme’s implementation, the complete Demerged Undertaking, comprising, but not limited to, its debts, liabilities, properties, assets, licenses, employees, and extant legal proceedings, were formally transferred to and vested in the Resulting Company, with effect from the date the Scheme became operative. As consideration for the demerger, VEPL issued 129 compulsorily convertible preference shares of face value ₹10 each for every 1,000 equity shares held by the shareholders of our Company. These shares were allotted to the members of the Demerged Undertaking whose names appeared in its register of members, or to their recognised heirs, executors, administrators, other legal representatives, or successors in title. Simultaneously, our Company’s equity shares in VEPL (excluding those held in a nominee capacity) were cancelled, which resulted in VEPL ceasing to be a subsidiary. Furthermore, two equity shares held by our Company in a nominee capacity were transferred to Mathew Antony Joseph and Jacob Joseph George.
+
+The Scheme became effective on August 7, 2025 (being the date on which Board of Directors of the Demerged Company and Resulting Company acknowledge in writing that all the conditions and matters referred to in the scheme have occurred or have been fulfilled, obtained or waived, as applicable, in accordance with the scheme). A fairness opinion dated March 5, 2025, prepared by Ramgopal Krishnamurthy (IBBI registered valuer) was obtained for this demerger.
+
+## Shareholders’ agreements and other agreements
+
+Except as disclosed in Shareholders’ agreements and other agreements above, there are no other agreements/ arrangements entered into by our Company or clauses / covenants applicable to our Company which are material and which are required to be disclosed, or the non - disclosure of which may have a bearing on the investment decision of prospective investors in the Offer.
+
+All the terms defined below for a particular agreement shall be specific to the description of the agreements included in this section.
+
+### Shareholders’ agreements
+
+Details of subsisting shareholder’s agreements among our shareholders vis-à-vis our Company, as on the date of this Draft Red Herring Prospectus, are provided below:
+
+#### Shareholders’ Agreement
+
+Shareholders’ agreement dated October 12, 2021 (“SHA”), entered into by and amongst the Company, Lighthouse India Fund III, Limited (“Lighthouse Fund”), Sachin Kumar Bhartiya, (in his capacity as the trustee of Lighthouse India III Employee Trust) (“Lighthouse Trust” and together with Lighthouse Fund, “Lighthouse” or “Existing Investor”), Norwest Capital, LLC (“New Investor” or “Norwest”) (Norwest and Lighthouse, “SHA Investors”), Mathew Chandy, Mathew George, Mathew Antony Joseph, and Jacob Joseph George, (“Promoters”), read with deeds of adherence dated December 10, 2021 entered into by and amongst our Company, Miriam Chandy, Promoters, Lighthouse and Norwest, (“Deed of Adherence”), as amended pursuant to the amendment agreement dated November 23, 2022 (“SHA Amendment Agreement”) and waiver cum amendment agreement dated October 13, 2025 (“WCA”, and the SHA read together with the SHA Amendment Agreement and WCA, the “Shareholders Agreement” or “SHA”).
+
+The SHA sets out the rights and obligations of the parties thereto in relation to their respective shareholding in our Company and other rights including governance and management of our Company and matters in connection therewith.

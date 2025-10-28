@@ -1,0 +1,31 @@
+**Duroflex Limited (formerly known as Duroflex Private Limited)**
+**Annexure VII - Notes to the Restated Consolidated Financial Information (continued)**
+*(All amounts are in Rs. million, except share data and per share data, unless otherwise stated)*
+
+# 7 Intangible assets (continued)
+
+## 7.1 Impairment testing for CGUs
+
+For the purposes of impairment testing, goodwill has been allocated to the Group's cash generating units (operating divisions) representing the smallest identifiable group of assets that generates cash inflows that are largely independent of cash inflows from other assets or group of assets. Goodwill is tested for impairment at least annually in accordance with the Group's procedure for determining the reasonable value of the cash generating unit.
+
+The carrying value of goodwill allocated to the identified CGU's is as follows:
+
+<table><thead><tr><th>Particulars</th><th>As at<br>30 June 2025</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td>Shivaarna Technofoams Private Limited</td><td>113.73</td><td>113.73</td><td>113.73</td><td>113.73</td></tr><tr><td>Vazhathoppil Enterprises Private Limited</td><td>-</td><td>0.20</td><td>-</td><td>-</td></tr><tr><td><strong>Carrying value of goodwill</strong></td><td><strong>113.73</strong></td><td><strong>113.93</strong></td><td><strong>113.73</strong></td><td><strong>113.73</strong></td></tr></tbody></table>
+
+The recoverable amount of the CGUs are based on its value in use, determined by discounting the future cash flows to be generated from the continuing use of the CGUs. The fair value measurement was categorised as a Level 3 fair value based on inputs in the valuation technique used.
+
+The calculation uses cashflow projections based on financial budgets approved by the management covering a five year period. Cash flows beyond the five year period have been extrapolated using constant terminal growth rate. This growth does not exceed the long term growth of the market.
+
+The recoverable amount of the CGUs is determined to be higher than the carrying amount and accordingly no impairment loss has been recorded.
+
+The key assumptions used in the estimation of the recoverable amount of Shivaarna Technofoams Private Limited's CGU are set out below:
+
+<table><thead><tr><th>Particulars</th><th>30 June 2025</th><th>31 March 2025</th><th>31 March 2024</th><th>31 March 2023</th></tr></thead><tbody><tr><td>Discount rate</td><td>16.88%</td><td>16.88%</td><td>18.20%</td><td>15.49%</td></tr><tr><td>Terminal value growth rate</td><td>5.00%</td><td>5.00%</td><td>5.00%</td><td>5.00%</td></tr></tbody></table>
+
+Earnings before interest, tax, depreciation and amortisation ("EBITDA") growth rate is average of future projections.
+
+The discount rate was a post-tax measure estimated based on the historical industry average weighted-average cost of capital, with a possible debt leveraging of 3.5%-4.7% at a market interest rate of 6.47%-7.30%.
+
+The values assigned to the key assumptions represent management's assessment of future trends and based on historical data from both external and internal sources. The cash flow projections include specific estimates developed using internal forecasts. The Group believes that any reasonable possible change in the key assumptions on which the recoverable amount is based on, would not cause the aggregate carrying amount to exceed the recoverable amount of CGU.
+
+< This space has been intentionally left blank >

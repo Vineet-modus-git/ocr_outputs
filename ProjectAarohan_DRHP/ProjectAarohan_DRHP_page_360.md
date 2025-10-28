@@ -1,0 +1,31 @@
+Our ability to improve our manufacturing efficiency is important to improving our profit margins. We have implemented automation and integrated technology into our processes at key stages of design, manufacturing and distribution to increase efficiency and ensure quality in a cost-effective manner. To improve our manufacturing efficiency, we intend to continue improving our capacity utilisation and manage our operating costs through increased automation of certain manufacturing processes. We also intend to upgrade our existing machinery and purchase new machinery with modern technology to achieve better productivity and minimize our waste.
+
+### Our ability to compete effectively in the Indian home and furnishings market
+
+The home and furnishings industry in India is competitive, fragmented and largely unorganized. For further information, see "Risk Factors – The home and furnishings industry is competitive, fragmented and largely unorganized and our inability to compete effectively may adversely affect our business, results of operations, financial condition and cash flows" on page 41. Our products compete with local retailers, non-branded products and products of other established brands. In the future, some of our competitors may develop alliances to compete against us, acquire greater resources, market presence and geographic reach, as well as develop products with better brand recognition than ours. Some of our competitors may be able to procure raw materials or finished products at lower costs than us and consequently be able to sell their products at lower prices. As a result, our competitors may be able to withstand industry downturns better than us or sell their products at more competitive prices.
+
+## SUMMARY OF MATERIAL ACCOUNTING POLICIES
+
+The material accounting policies applied by us in the preparation of the Restated Consolidated Financial Information are listed below.
+
+### (i) Basis of Preparation
+
+#### Statement of compliance and basis of preparation
+
+Our Restated Consolidated Financial Information comprises the restated consolidated statement of assets and liabilities as on June 30, 2025, March 31, 2025, March 31, 2024 and March 31, 2023, the restated consolidated statement of profit and loss (including other comprehensive income), the restated consolidated statement of changes in equity, and the restated consolidated statement of cash flows for the three months period ended June 30, 2025 and for the years ended March 31, 2025, March 31, 2024, and March 31, 2023, the material accounting policies and other explanatory information and notes (collectively, the 'Restated Consolidated Financial Information').
+
+The Restated Consolidated Financial Information have been prepared on a going concern basis. The accounting policies are applied consistently to all the period/years presented in the Restated Consolidated Financial Information. These Restated Consolidated Financial Information have been prepared by the management as required under the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended ("ICDR Regulations") issued by the Securities and Exchange Board of India ("SEBI"), in pursuance of the Securities and Exchange Board of India Act, 1992, for the purpose of inclusion in the Draft Red Herring Prospectus ("DRHP") in connection with proposed issue of our equity shares through an offer for sale of equity shares by the existing shareholders and a fresh issue of equity shares by way of an initial public offer. Accordingly, the Restated Consolidated Financial Information may not be suitable for any other purpose and should not be used, referred to or distributed for any other purpose.
+
+These Restated Consolidated Financial Information have been prepared by us in terms of the requirements of:
+
+(a) Section 26 of Part I of Chapter III of the Companies Act, 2013 (the "Act");
+
+(b) The Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended; and
+
+(c) The Guidance Note on Reports in Company Prospectuses (Revised 2019) issued by the Institute of Chartered Accountants of India ("ICAI") (the "Guidance Note").
+
+The Restated Consolidated Financial Information have been prepared to comply in all material respects with the Indian Accounting Standards ("Ind AS") as specified under Section 133 of the Act read with the Companies (Indian Accounting Standards) Rules, 2015 (as amended from time to time), presentation requirements of Division II of Schedule III to the Act, as applicable to the consolidated financial statements and other relevant provisions of the Act.
+
+Our Restated Consolidated Financial Information have been compiled from the following:
+
+a) Our Audited Special Purpose Consolidated Interim Financial Statements as at and for the three months period ended June 30, 2025 prepared in accordance with Indian Accounting Standard (Ind AS) 34 "Interim Financial Reporting" specified under Section 133 of the Act, as amended and other accounting principles generally accepted in India and

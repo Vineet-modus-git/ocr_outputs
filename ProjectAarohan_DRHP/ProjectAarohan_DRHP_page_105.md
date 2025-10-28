@@ -1,0 +1,25 @@
+## 6. Details of equity shareholding of the major shareholders of our Company:
+
+a) Set forth below is a list of shareholders holding 1% or more of the issued and paid-up Equity Share capital of our Company, as on the date of this Draft Red Herring Prospectus:
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the Shareholder</td><td>Number of Equity Shares</td><td>Number of Equity Shares on a fully diluted basis^</td><td>Percentage of the pre- Offer Equity Share capital (%)</td><td>Percentage of the pre- Offer Equity Share capital on a fully diluted basis (%)^</td></tr></thead><tbody><tr><td>1.</td><td>Norwest Capital, LLC</td><td>18,427,568</td><td>18,427,568</td><td>19.27</td><td>19.17</td></tr><tr><td>2.</td><td>Mathew Antony Joseph</td><td>16,835,664</td><td>16,835,664</td><td>17.61</td><td>17.51</td></tr><tr><td>3.</td><td>Mathew Chandy</td><td>15,741,408</td><td>15,741,408</td><td>16.46</td><td>16.38</td></tr><tr><td>4.</td><td>Jacob Joseph George</td><td>15,722,656</td><td>15,722,656</td><td>16.44</td><td>16.36</td></tr><tr><td>5.</td><td>Mathew George</td><td>15,236,384</td><td>15,236,384</td><td>15.94</td><td>15.85</td></tr><tr><td>6.</td><td>Lighthouse India Fund III, Limited</td><td>13,505,168</td><td>13,505,168</td><td>14.12</td><td>14.05</td></tr></tbody></table>
+
+^ The percentage of the equity share capital on a fully diluted basis has been calculated on the basis of total Equity Shares held and such number of Equity Shares which will result upon conversion of vested options under the ESOP Schemes.
+
+b) Set forth below is a list of shareholders holding 1% or more of the issued and paid-up Equity Share capital of our Company, as of 10 days prior to the date of this Draft Red Herring Prospectus:
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the Shareholder</td><td>Number of Equity Shares</td><td>Number of Equity Shares on a fully diluted basis^</td><td>Percentage of the pre- Offer Equity Share capital (%)</td><td>Percentage of the pre- Offer Equity Share capital on a fully diluted basis (%)^</td></tr></thead><tbody><tr><td>1.</td><td>Norwest Capital, LLC</td><td>18,427,568</td><td>18,427,568</td><td>19.27</td><td>19.17</td></tr><tr><td>2.</td><td>Mathew Antony Joseph</td><td>16,835,664</td><td>16,835,664</td><td>17.61</td><td>17.51</td></tr><tr><td>3.</td><td>Mathew Chandy</td><td>15,741,408</td><td>15,741,408</td><td>16.46</td><td>16.38</td></tr><tr><td>4.</td><td>Jacob Joseph George</td><td>15,722,656</td><td>15,722,656</td><td>16.44</td><td>16.36</td></tr><tr><td>5.</td><td>Mathew George</td><td>15,236,384</td><td>15,236,384</td><td>15.94</td><td>15.85</td></tr><tr><td>6.</td><td>Lighthouse India Fund III, Limited</td><td>13,505,168</td><td>13,505,168</td><td>14.12</td><td>14.05</td></tr></tbody></table>
+
+^ The percentage of the equity share capital on a fully diluted basis has been calculated on the basis of total Equity Shares held and such number of Equity Shares which will result upon conversion of vested options under the ESOP Schemes.
+
+c) Set forth below is a list of shareholders holding 1% or more of the issued and paid-up Equity Share capital of our Company, as of one year prior to the date of this Draft Red Herring Prospectus:
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the Shareholder</td><td>Number of Equity Shares</td><td>Number of Equity Shares on a fully diluted basis^</td><td>Percentage of the pre- Offer Equity Share capital (%)</td><td>Percentage of the pre- Offer Equity Share capital on a fully diluted basis (%)^</td></tr></thead><tbody><tr><td>1.</td><td>Norwest Capital, LLC</td><td>1,151,723</td><td>1,151,723</td><td>19.27</td><td>19.25</td></tr><tr><td>2.</td><td>Mathew Antony Joseph</td><td>1,042,229</td><td>1,042,229</td><td>17.44</td><td>17.42</td></tr><tr><td>3.</td><td>Mathew Chandy</td><td>973,838</td><td>973,838</td><td>16.30</td><td>16.27</td></tr><tr><td>4.</td><td>Jacob Joseph George</td><td>972,666</td><td>972,666</td><td>16.28</td><td>16.26</td></tr><tr><td>5.</td><td>Mathew George</td><td>942,274</td><td>942,274</td><td>15.77</td><td>15.75</td></tr><tr><td>6.</td><td>Lighthouse India Fund III, Limited</td><td>844,073</td><td>844,073</td><td>14.12</td><td>14.11</td></tr></tbody></table>
+
+^ The percentage of the equity share capital on a fully diluted basis has been calculated on the basis of total Equity Shares held and such number of Equity Shares which will result upon conversion of vested options under the ESOP Schemes.
+
+Note: The Board, in their meeting held on September 8, 2025, considered and approved the transfer of 400,000 Equity Shares of face value ₹1 each, held by Coco-Latex Exports Private Limited, pursuant to the share transfer agreement dated July 15, 2025. The shares are being transferred in equal proportion of 100,000 Equity Shares of face value ₹1 each to Jacob Joseph George, Mathew Chandy, Mathew Antony Joseph and Mathew George.
+
+d) Set forth below is a list of shareholders holding 1% or more of the issued and paid-up Equity Share capital of our Company, as of two years prior to the date of this Draft Red Herring Prospectus:
+
+102

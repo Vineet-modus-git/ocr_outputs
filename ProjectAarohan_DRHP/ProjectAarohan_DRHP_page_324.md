@@ -1,0 +1,15 @@
+Duroflex Limited (formerly known as Duroflex Private Limited)
+
+Annexure VII - Notes to the Restated Consolidated Financial Information (continued)
+
+(All amounts are in Rs. million, except share data and per share data, unless otherwise stated)
+
+38 Other expenses (continued)
+
+(i) Details of expenditure on corporate social responsibility (CSR)
+
+<table><thead><tr><th>Particulars</th><th>For the three months<br>period ended<br>30 June 2025</th><th>For the year ended<br>31 March 2025</th><th>For the year ended<br>31 March 2024</th><th>For the year ended<br>31 March 2023</th></tr></thead><tbody><tr><td>a) Gross amount required to be spent by the Group during the period / year</td><td>1.57</td><td>4.63</td><td>7.48</td><td>5.65</td></tr><tr><td>b) Amount approved by the Board to be spent during the period / year</td><td>-</td><td>7.50</td><td>4.50</td><td>-</td></tr><tr><td>c) Amount spent during the period/year :</td><td></td><td></td><td></td><td></td></tr><tr><td>i) Construction/acquisition of any asset</td><td>refer table below</td><td>refer table below</td><td>refer table below</td><td>refer table below</td></tr><tr><td>ii) On purpose other than (i) above</td><td>refer table below</td><td>refer table below</td><td>refer table below</td><td>refer table below</td></tr><tr><td>d) Excess amount spent</td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Particulars</strong></td><td><strong>As at 30 June 2025</strong></td><td><strong>As at 31 March 2025</strong></td><td><strong>As at 31 March 2024</strong></td><td><strong>As at 31 March 2023</strong></td></tr><tr><td><strong>Opening Balance</strong></td><td><strong>3.06</strong></td><td><strong>0.19</strong></td><td><strong>3.17</strong></td><td><strong>8.82</strong></td></tr><tr><td>Amount required to be spent during the period / year</td><td>(1.57)</td><td>(4.63)</td><td>(7.48)</td><td>(5.65)</td></tr><tr><td>Amount spent during the period / year</td><td>-</td><td>7.50</td><td>4.50</td><td>-</td></tr><tr><td><strong>Closing balance</strong></td><td><strong>1.49</strong></td><td><strong>3.06</strong></td><td><strong>0.19</strong></td><td><strong>3.17</strong></td></tr><tr><td>e) Payment to related party</td><td>Nil</td><td>Nil</td><td>Nil</td><td>Nil</td></tr><tr><td>f) Nature of CSR activities</td><td colspan="4">CSR contribution for activities related to promotion of sports</td></tr></tbody></table>
+
+< This space has been intentionally left blank >
+
+321

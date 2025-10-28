@@ -1,0 +1,19 @@
+Other than as described in “Risk Factors”, “Our Business” on pages 32 and 185, and this section respectively, to our knowledge, there are no known factors that might affect the future relationship between costs and revenue.
+
+## COMPETITIVE CONDITIONS
+
+We operate in a competitive environment. See “Risk Factors”, “Industry Overview” and “Our Business”, on pages 32, 146 and 185, respectively, for further details on competitive conditions that we face.
+
+## SEASONALITY/CYCLICALITY OF BUSINESS
+
+See “Risk Factors – Sales of our products are affected by seasonality, particularly during the festive and wedding seasons and ecommerce sale events during which our sales are comparatively higher, which could result in fluctuations in our operating results.” on page 49.
+
+## SIGNIFICANT DEVELOPMENTS AFTER JUNE 30, 2025, THAT MAY AFFECT OUR FUTURE RESULTS OF OPERATIONS
+
+Except as disclosed below, to our knowledge no circumstances have arisen since June 30, 2025, that could materially and adversely affect or are likely to affect, our operations, trading or profitability, or the value of our assets or our ability to pay our material liabilities within the next 12 months:
+
+* Our Board of Directors, in their meeting held on September 8, 2025, considered and approved the transfer of 4,00,000 equity shares of face value Rs. 1 each, held by Coco-Latex Exports Private Limited, pursuant to the Share Transfer Agreements dated July 15, 2025. The shares are being transferred in equal proportion of 1,00,000 (One Lakh) equity shares each to Mr. Jacob Joseph George, Mr. Mathew Chandy, Mr. Mathew Antony Joseph and Mr. Mathew George.
+
+* Pursuant to the resolution passed in the board meeting and special resolution passed in the extraordinary general meeting of the shareholders of our Company held on September 9, 2025, our Company had filed an application with the Registrar of Companies, Kerala for conversion from a Private Limited Company to a Public Limited Company which was approved by the Registrar of Companies on September 17, 2025 and consequently our Company's name has changed from Duroflex Private Limited to Duroflex Limited vide the new certificate of incorporation.
+
+* The Board of Directors at its meeting held on September 8, 2025, has recommended the bonus issue of equity shares in the ratio of 3:5 i.e., 3 equity shares will be issued for every 5 existing fully paid-up equity share held by the shareholder, which was further approved by the shareholders by means of a special resolution in their Extra Ordinary General Meeting dated September 25, 2025. The record date for the bonus share is September 23, 2025.

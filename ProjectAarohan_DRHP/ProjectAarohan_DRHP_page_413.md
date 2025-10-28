@@ -1,0 +1,23 @@
+(vi) Our Company along with Registrar to the Offer has entered into tripartite agreements dated July 9, 2025, and July 19, 2025, with NSDL and CDSL, respectively, for dematerialisation of the Equity Shares;
+
+(vii) The Equity Shares held by our Shareholders are in dematerialised form, as on the date of this Draft Red Herring Prospectus;
+
+(viii) All the Equity Shares are fully paid-up and there are no partly paid-up Equity Shares as on the date of filing of this Draft Red Herring Prospectus; and
+
+(ix) There is no requirement for us to make firm arrangements of finance under Regulation 7(1)(e) of the SEBI ICDR Regulations through verifiable means towards 75% of the stated means of finance, excluding the amount to be raised from the Fresh Issue and existing identifiable accruals.
+
+Each of the Selling Shareholders, severally and not jointly, confirms that the Equity Shares offered by them as part of the Offer for Sale have been held in compliance with Regulations 8 and 8A of the SEBI ICDR Regulations and that they are the legal and beneficial owners of the Offered Shares.
+
+## DISCLAIMER CLAUSE OF SEBI
+
+IT IS TO BE DISTINCTLY UNDERSTOOD THAT SUBMISSION OF THIS DRAFT RED HERRING PROSPECTUS TO SECURITIES AND EXCHANGE BOARD OF INDIA ("SEBI") SHOULD NOT, IN ANY WAY, BE DEEMED OR CONSTRUED THAT THE SAME HAS BEEN CLEARED OR APPROVED BY SEBI. SEBI DOES NOT TAKE ANY RESPONSIBILITY EITHER FOR THE FINANCIAL SOUNDNESS OF ANY SCHEME OR THE PROJECT FOR WHICH THE OFFER IS PROPOSED TO BE MADE OR FOR THE CORRECTNESS OF THE STATEMENTS MADE OR OPINIONS EXPRESSED IN THIS DRAFT RED HERRING PROSPECTUS AND EACH SELLING SHAREHOLDERS WILL BE RESPONSIBLE ONLY FOR THE STATEMENTS SPECIFICALLY CONFIRMED OR UNDERTAKEN BY IT IN THIS DRAFT RED HERRING PROSPECTUS IN RELATION TO ITSELF AND ITS RESPECTIVE PORTION OF THE OFFERED SHARES. THE BOOK RUNNING LEAD MANAGERS, BEING JM FINANCIAL LIMITED AND MOTILAL OSWAL INVESTMENT ADVISORS LIMITED ("BRLMS"), HAVE CERTIFIED THAT THE DISCLOSURES MADE IN THIS DRAFT RED HERRING PROSPECTUS ARE GENERALLY ADEQUATE AND ARE IN CONFORMITY WITH THE SEBI ICDR REGULATIONS. THIS REQUIREMENT IS TO FACILITATE BIDDERS TO TAKE AN INFORMED DECISION FOR MAKING AN INVESTMENT IN THE PROPOSED OFFER.
+
+IT SHOULD ALSO BE CLEARLY UNDERSTOOD THAT WHILE THE COMPANY IS PRIMARILY RESPONSIBLE FOR THE CORRECTNESS, ADEQUACY AND DISCLOSURE OF ALL RELEVANT INFORMATION IN THIS DRAFT RED HERRING PROSPECTUS AND EACH OF THE SELLING SHAREHOLDERS, SEVERALLY AND NOT JOINTLY WILL BE RESPONSIBLE ONLY FOR THE STATEMENTS SPECIFICALLY CONFIRMED OR UNDERTAKEN BY IT IN THIS DRAFT RED HERRING PROSPECTUS IN RELATION TO ITSELF AND ITS RESPECTIVE PORTION OF THE OFFERED SHARES, THE BRLMS ARE EXPECTED TO EXERCISE DUE DILIGENCE TO ENSURE THAT THE COMPANY DISCHARGES ITS RESPONSIBILITIES ADEQUATELY IN THIS BEHALF AND TOWARDS THIS PURPOSE, THE BRLMS HAVE FURNISHED TO SEBI, A DUE DILIGENCE CERTIFICATE DATED OCTOBER 15, 2025 IN THE FORMAT PRESCRIBED UNDER SCHEDULE V (A) OF THE SEBI ICDR REGULATIONS.
+
+THE FILING OF THIS DRAFT RED HERRING PROSPECTUS DOES NOT, HOWEVER, ABSOLVE THE COMPANY FROM ANY LIABILITIES UNDER THE COMPANIES ACT, 2013, OR FROM THE REQUIREMENT OF OBTAINING SUCH STATUTORY OR OTHER CLEARANCES AS MAY BE REQUIRED FOR THE PURPOSE OF THE OFFER. SEBI FURTHER RESERVES THE RIGHT TO TAKE UP AT ANY POINT OF TIME, WITH THE BRLMS, ANY IRREGULARITIES OR LAPSES IN THIS DRAFT RED HERRING PROSPECTUS.
+
+All applicable legal requirements pertaining to the Offer will be complied with at the time of filing of the Red Herring Prospectus with the Registrar of Companies in terms of Section 32 of the Companies Act, 2013. All legal requirements pertaining to the Offer will be complied with at the time of filing of the Prospectus with the Registrar of Companies in terms of sections 26, 32, 33(1) and 33(2) of the Companies Act, 2013.
+
+## Disclaimer from our Company, the Directors, the Selling Shareholders and BRLMs
+
+Our Company, the Directors, each of the Selling Shareholders, severally and not jointly, and the BRLMs accept no responsibility for statements made otherwise than in this Draft Red Herring Prospectus or in the advertisements or any other material issued by or at our instance and anyone placing reliance on any other source of information, including our Company's

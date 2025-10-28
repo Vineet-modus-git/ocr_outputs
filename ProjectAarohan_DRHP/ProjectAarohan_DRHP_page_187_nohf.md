@@ -1,0 +1,35 @@
+Exhibit 7.9: Advertisement and sales promotion expenses (INR million) and Advertisement and sales promotion expenses as a percentage of revenue from operations
+
+<table><thead><tr><th rowspan="2">Key Players</th><th colspan="2">Fiscal 2023</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2025</th></tr><tr><th>Advertisement and sales promotion expenses</th><th>Advertisement and sales promotion expenses as a percentage of revenue from operations</th><th>Advertisement and sales promotion expenses</th><th>Advertisement and sales promotion expenses as a percentage of revenue from operations</th><th>Advertisement and sales promotion expenses</th><th>Advertisement and sales promotion expenses as a percentage of revenue from operations</th></tr></thead><tbody><tr><td>Duroflex</td><td>758.81</td><td>7.18%</td><td>850.14</td><td>7.76%</td><td>730.11</td><td>6.44%</td></tr><tr><td>Sheela Foam</td><td>1,551.70</td><td>5.40%</td><td>1,630.50</td><td>5.47%</td><td>1,961.60</td><td>5.70%</td></tr><tr><td>Wakefit</td><td>959.09</td><td>11.80%</td><td>773.64</td><td>7.84%</td><td>NA</td><td>NA</td></tr><tr><td>The Sleep Company</td><td>534.80</td><td>42.06%</td><td>1,014.39</td><td>32.48%</td><td>NA</td><td>NA</td></tr><tr><td>Peps Industries</td><td>315.97</td><td>7.91%</td><td>178.66</td><td>4.86%</td><td>NA</td><td>NA</td></tr></tbody></table>
+
+Source: Annual Reports, Secondary Research, The Knowledge Company Analysis, MCA reports
+
+NA: Not Available, Na(1): Can't be calculated due to unavailability, negative numerator, denominator or both.
+
+All figures are Consolidated except for The Sleep Company, Wakefit, Peps Industries
+
+Figures for Sheela Foam are taken as reported in the annual report/investor presentation
+
+Advertisement and sales promotion expenses as a percentage of revenue from operations = (Advertisement and sales promotion expenses / Revenue from Operations) * 100
+
+## EBITDA and EBITDA Margin
+
+EBITDA provides information regarding the operational efficiency of the business and EBITDA Margin indicates how efficiently a company converts revenue into profit before interest, taxes, and non-cash expenses. Duroflex recorded an EBITDA of INR 568.52 million in FY 2023 with an EBITDA Margin of 5.38%, which improved to INR 627.38 million with a margin of 5.73% in FY2024 and further increased to INR 979.79 million with an EBITDA Margin in FY 2025 of 8.64% showing highest improvement in EBITDA Margin compared to its listed peer.
+
+Exhibit 7.10: EBITDA (INR Million) and EBITDA Margin
+
+<table><thead><tr><th rowspan="2">Key Players</th><th colspan="2">Fiscal 2023</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2025</th><th rowspan="2">CAGR<br>2023-2025</th></tr><tr><th>EBITDA</th><th>EBITDA<br>Margin</th><th>EBITDA</th><th>EBITDA<br>Margin</th><th>EBITDA</th><th>EBITDA<br>Margin</th></tr></thead><tbody><tr><td>Duroflex</td><td>568.52</td><td>5.38%</td><td>627.38</td><td>5.73%</td><td>979.79</td><td>8.64%</td><td>31.28%</td></tr><tr><td>Sheela Foam</td><td>2,970.00</td><td>10.34%</td><td>3,010.00</td><td>10.09%</td><td>2,860.00</td><td>8.32%</td><td>-1.87%</td></tr><tr><td>Wakefit*</td><td>-857.52</td><td>-10.55%</td><td>658.49</td><td>6.68%</td><td>NA</td><td>NA</td><td>Na(1)</td></tr><tr><td>The Sleep Company*</td><td>-343.04</td><td>-26.98%</td><td>-509.32</td><td>-16.31%</td><td>NA</td><td>NA</td><td>48.47%</td></tr><tr><td>Peps Industries*</td><td>316.06</td><td>7.91%</td><td>200.97</td><td>5.46%</td><td>NA</td><td>NA</td><td>-36.41%</td></tr></tbody></table>
+
+Source: Annual Reports, Secondary Research, The Knowledge Company Analysis, MCA reports
+
+NA: Not Available, Na(1): Can't be calculated due to unavailability, negative numerator, denominator or both.
+
+All figures are Consolidated except for The Sleep Company, Wakefit, Peps Industries
+
+Figures for Sheela Foam are taken as reported in the annual report/investor presentation
+
+*CAGR is considered for FY2023-FY2024, for rest CAGR is considered for FY2023-FY2025
+
+EBITDA=(Finance Cost + Depreciation & Amortisation + PBT)
+
+EBITDA Margin=EBITDA/Revenue from Operations
