@@ -1,0 +1,37 @@
+tailored to customer needs, ranging from natural shades like beige or white to vibrant colors. Proper dyeing is crucial not only for appearance but also for color fastness, ensuring that the fabric does not bleed or fade with use.
+
+### Step 3: Stenter (First Time)
+
+Once dyed, the fabric is passed through a stenter machine, which stretches the material to align it and sets its width and structure using heat. This thermal process stabilizes the fabric and helps maintain dimensional accuracy. Essentially, it “locks in” the fabric's shape, preventing unwanted shrinkage or distortion later during brushing or printing. This is an important pre-treatment before additional enhancements.
+
+### Step 4: Printing
+
+In the next step, the fabric undergoes printing, where various patterns or textures are applied depending on the final product's design. Specialized printing machines are used to create detailed motifs, logos, or textures on the surface. This can range from simple solid prints to complex multi-color designs. For Sherpa, printing may also mimic the look of natural fleece or add visual appeal for fashion garments and accessories.
+
+### Step 5: Ager (Color Fixation)
+
+After printing, the fabric is placed in an Ager machine, where it is steamed at high temperatures. The purpose of this step is to fix the dyes and pigments applied during printing into the fibers of the fabric. Steaming locks the color and design, fixes dyes onto the fabric to minimize color loss during washing, bleed, or wear off easily during further processing or in end-use.
+
+### Step 6: Stenter (Second Time)
+
+Post-steaming, the fabric is again passed through a stenter. This second round ensures that any dimensional changes caused during printing and steaming are corrected. It further improves fabric stability, softens the texture, and prepares it for mechanical surface treatments like brushing and raising. Maintaining fabric width and shape at this stage is critical for uniform processing in the next steps.
+
+### Step 7: Brushing
+
+The fabric now enters the brushing stage, where wire-covered rollers gently brush the surface to raise its fibers. This gives the Sherpa fabric its signature soft and fluffy feel, similar to fleece. The brushing enhances warmth and comfort by increasing the air-trapping capacity of the fabric. This tactile improvement is vital for Sherpa's application in winterwear and soft home textiles.
+
+### Step 8: Raising
+
+Following brushing, raising machines lift the fibers even more intensively. This is done using rollers equipped with fine hooks that pull up fibers from the base fabric, creating a plush, deep-pile texture that mimics wool or sheepskin. Raising further boosts the thermal insulation and luxurious softness Sherpa is known for. It's one of the most defining processes in the entire manufacturing chain.
+
+### Step 9: Poly Cutting
+
+At this point, any excess polyester filaments or uneven threads are trimmed off using poly cutting machines. This step refines the look of the fabric and removes excess filaments to prepare fabric for finishing. It also prepares the fabric for final finishing processes. By removing loose or hanging fibers, poly cutting improves both the visual appeal and the usability of the material.
+
+### Step 10: Tumbler (Finishing)
+
+The final process is tumbling, where the fabric is placed in a rotating machine to soften it even further. This mechanical action helps in relaxing the fibers, enhancing drape, and removing any remaining surface stiffness. It also completes the softening process for consistent texture. After tumbling, the Sherpa fabric is ready for dispatch, quality-checked, and packaged for shipment.
+
+### Step 11: Final Product Out for Dispatch
+
+Once all the above steps are completed, the Sherpa fabric is rolled, labeled, and packed for delivery to customers. At this stage, the fabric is ready to be used in jackets, hoodies, baby blankets, home décor, and other cozy, warm products.

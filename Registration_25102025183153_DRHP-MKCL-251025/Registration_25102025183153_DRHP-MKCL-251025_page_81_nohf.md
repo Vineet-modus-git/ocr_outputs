@@ -1,0 +1,23 @@
+<table><tr><td>22.02.2024</td><td>Transfer from Rajesh Gupta</td><td>17,19,270</td><td>Other than cash (gift)</td><td>10</td><td>Gift</td><td>12.82%</td><td>●</td></tr><tr><td>20.04.2024</td><td>Transfer from Rajesh Gupta HUF</td><td>1,39,950</td><td>cash</td><td>10</td><td>17</td><td>1.04%</td><td>●</td></tr><tr><td>20.04.2024</td><td>Transfer from Ravi Gupta HUF</td><td>33,100</td><td>cash</td><td>10</td><td>16</td><td>0.25%</td><td>●</td></tr><tr><td>07.06.2024</td><td>Allotment</td><td>1,48,900</td><td>cash</td><td>10</td><td>21.5</td><td>1.11%</td><td>●</td></tr><tr><td>01.10.2024</td><td>Transfer from Vishnu Gupta HUF</td><td>96,083</td><td>cash</td><td>10</td><td>19</td><td>0.72%</td><td>●</td></tr><tr><td>12.06.2025</td><td>Allotment</td><td>5,34,326</td><td>Other than cash</td><td>10</td><td>0</td><td>3.98%</td><td>●</td></tr><tr><td>Total</td><td></td><td>26,71,629</td><td></td><td></td><td></td><td>19.92%</td><td>●</td></tr></table>
+
+## Exit Offer by Our Promoter
+
+None of the existing promoters or members of the promoter group are selling any shares in the proposed public issue. Consequently, there is no exit offer by the promoters as part of this issue.
+
+## Details of promoter's contribution and lock-in
+
+### Promoter Contribution Locked in for 3 years:
+
+As per Regulation 236 of the SEBI (ICDR) Regulations, 2018, an aggregate of 20% of the post-Issue Capital shall be considered as Minimum Promoters' Contribution.
+
+Pursuant to the Regulation 238(a) of SEBI ICDR Regulations, an aggregate of at least 20% of the post issue capital of our Company held by our Promoter shall be locked-in for a period of three years from the date of Allotment of this issue
+
+Our Promoters has granted consents to include such number of Equity Shares held by them as may constitute 20.00% of the post-issue Equity Share Capital of our Company as Minimum Promoters' Contribution and have agreed not to sell or transfer or pledge or otherwise dispose of in any manner, the Promoters' Contribution from the date of filing of this Draft Red Herring Prospectus until the completion of the lock-in period specified above or for such other time as required under SEBI ICDR Regulations, except as may be permitted, in accordance with the SEBI ICDR Regulations.
+
+The Minimum Promoters' Contribution has been brought into the extent of not less than the specified minimum lot and has been contributed by the persons defined as Promoters under the SEBI (ICDR) Regulations, 2018. The lock-in of the Minimum Promoters' Contribution will be created as per applicable regulations and procedure and details of the same shall also be provided to the Stock Exchange before listing of the Equity Shares.
+
+Equity Shares to be Locked in (Minimum Promoter's Contribution):
+
+<table><thead><tr><td>Name of Promoters</td><td>No. of Locked-in Shares *</td><td>Date of Allotment/Transfer</td><td>Nature of Transaction</td><td>Face Value (Rs.)</td><td>Offer/Acquisition Price (Rs)</td><td>% of Pre-Offer Capital</td><td>% of Post-Offer Capital</td></tr></thead><tbody><tr><td>Arun Gupta</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Piyush Gupta</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Chirag Gupta</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Total</td><td>●</td><td></td><td></td><td></td><td></td><td>20.00%</td><td>●</td></tr></tbody></table>
+
+Note: To be updated at the Prospectus stage.

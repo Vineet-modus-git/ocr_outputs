@@ -1,0 +1,31 @@
+acquire any fresh stake in a bank's equity shares, if by such acquisition, the investing bank's holding exceeds 5% of the investee bank's equity capital; (iii) equity investment by a bank in a subsidiary company, financial services company, financial institution, stock and other exchanges should not exceed 10% of the bank's paid-up share capital and reserves; (iv) equity investment by a bank in companies engaged in non-financial services activities would be subject to a limit of 10% of the investee company's paid-up share capital or 10% of the bank's paid-up share capital and reserves, whichever is less; and (v) a banking company is restricted from holding shares in any company, whether as pledgee, mortgagee or absolute owner, of an amount exceeding 30% of the paid-up share capital of that company or 30% of its own paid-up share capital and reserves, whichever is less. For details in relation to the investment limits under Master Direction – Ownership in Private Sector Banks, Directions, 2016, see “Key Regulations and Policies” beginning on page 147.
+
+## Bids by SCSBS
+
+SCSBs participating in the Issue are required to comply with the terms of the circulars issued by the SEBI dated September 13, 2012 and January 2, 2013. Such SCSBs are required to ensure that for making applications on their own account using ASBA, they should have a separate account in their own name with any other SEBI registered SCSBs. Further, such account shall be used solely for the purpose of making application in public issues and clear demarcated funds should be available in such account for such applications.
+
+## Bids by systemically important NBFCs
+
+In case of Bids made by Systemically Important NBFCs registered with RBI, certified copies of: (i) the certificate of registration issued by RBI, (ii) the last audited financial statements on a standalone basis, (iii) a net worth certificate from its statutory auditors, and (iv) such other approval as may be required by the Systemically Important NBFCs are required to be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLM, reserves the right to reject any Bid without assigning any reason thereof.
+
+Systemically Important NBFCs participating in the Issue shall comply with all applicable regulations, directions, guidelines and circulars issued by the RBI from time to time.
+
+The investment limit for Systemically Important NBFCs shall be as prescribed by RBI from time to time.
+
+## Bids by Insurance Companies
+
+In case of Bids made by insurance companies registered with the IRDAI, a certified copy of certificate of registration issued by IRDAI must be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLM, reserves the right to reject any Bid without assigning any reason thereof.
+
+The exposure norms for insurers are prescribed under the IRDAI Investment Regulations, based on investments in equity shares of the investee company, the entire group of the investee company and the industry sector in which the investee company operates. Insurance companies participating in the Issue are advised to refer to the IRDAI Investment Regulations 2016, as amended, which are broadly set forth below:
+
+a) equity shares of a company: the lower of 10%* of the outstanding equity shares (face value) or 10% of the respective fund in case of life insurer or 10% of investment assets in case of general insurer or reinsurer;
+
+b) the entire group of the investee company: not more than 15% of the respective fund in case of a life insurer or 15% of investment assets in case of a general insurer or reinsurer or 15% of the investment assets in all companies belonging to the group, whichever is lower; and
+
+c) the industry sector in which the investee company operates: not more than 15% of the fund of a life insurer or a general insurer or a reinsurer or 15% of the investment asset, whichever is lower.
+
+The maximum exposure limit, in the case of an investment in equity shares, cannot exceed the lower of an amount of 10% of the investment assets of a life insurer or general insurer and the amount calculated under (a), (b) and (c) above, as the case may be.
+
+*The above limit of 10% shall stand substituted as 15% of outstanding equity shares (face value) for insurance companies with investment assets of Rs. 25,000,000 Lakhs or more and 12% of outstanding equity shares (face value) for insurers with investment assets of Rs. 5,000,000 Lakhs or more but less than Rs. 25,000,000 Lakhs.
+
+Insurance companies participating in this Issue shall comply with all applicable regulations, guidelines and circulars issued by IRDAI from time to time.

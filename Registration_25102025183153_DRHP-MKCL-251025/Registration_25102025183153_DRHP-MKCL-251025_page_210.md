@@ -1,0 +1,29 @@
+c) The Company had following transactions with the related parties as per the accounting standard during the reporting period:
+
+<table><thead><tr><th>NAME OF RELATED PERSON</th><th>NATURE OF PAYMENT</th><th>For the Three Month period 30.06.2025</th><th>For year ended 31.03.2025</th><th>For year ended 31.03.2024</th><th>For year ended 31.03.2023</th></tr></thead><tbody><tr><td>Mr. Piyush Gupta, Director</td><td>Director Remuneration</td><td>6.03</td><td>24.04</td><td>18.00</td><td></td></tr><tr><td>Mr. Chirag Gupta, Director</td><td>Director Remuneration</td><td>6.03</td><td>24.04</td><td>18.00</td><td></td></tr><tr><td>Mrs. Nitasha Gupta, Director</td><td>Director Remuneration</td><td>4.55</td><td>18.04</td><td>12.00</td><td></td></tr><tr><td>Nikita Tayal</td><td>Remuneration</td><td>.75</td><td>.77</td><td></td><td></td></tr><tr><td>Mrs. Sangeeta Gupta</td><td>Rent</td><td>.79</td><td>3.00</td><td></td><td></td></tr><tr><td>M/s National Yarn Agency</td><td>Rent</td><td>.79</td><td>3.00</td><td></td><td></td></tr><tr><td>M/s National Yarn Agency</td><td>Purchase</td><td>513.46</td><td>1853.36</td><td>186.52</td><td>565.70</td></tr><tr><td>M/S Trimurti Hosiery Mills Pvt Ltd</td><td>Purchase</td><td>3.90</td><td>119.29</td><td></td><td>6.85</td></tr><tr><td>M/s K.C Fabrics</td><td>Sale</td><td>35.69</td><td>183.15</td><td>119.02</td><td>84.03</td></tr><tr><td>M/s K.C Fabrics</td><td>Purchase</td><td>.47</td><td>1.35</td><td>5.47</td><td>2.42</td></tr><tr><td>Trimurti Apparels</td><td>Sale</td><td></td><td>5.36</td><td>1.24</td><td></td></tr><tr><td>Shiv Kumar Bhawani Shankar</td><td>Sale</td><td>.79</td><td>10.22</td><td>5.49</td><td>6.03</td></tr><tr><td>Star Cottex</td><td>Sale</td><td>701.62</td><td></td><td></td><td>5.67</td></tr><tr><td>Star Cottex</td><td>Purchase</td><td></td><td>2024.01</td><td>978.39</td><td>480.73</td></tr><tr><td>Starlight Hoisery</td><td>Sale</td><td>42.86</td><td></td><td></td><td></td></tr><tr><td>Royal Impex Pvt Ltd</td><td>Purchase</td><td>3.54</td><td>68.70</td><td>41.14</td><td>114.83</td></tr><tr><td>Star Spintex Pvt Ltd</td><td>Sale</td><td>5.82</td><td>391.32</td><td></td><td></td></tr><tr><td>Chirag Gupta</td><td>Loan Received</td><td></td><td>68.76</td><td>50.51</td><td>5.00</td></tr><tr><td>Arun Gupta</td><td>Loan Received</td><td></td><td>27.00</td><td>75.37</td><td></td></tr><tr><td>Arun Gupta Huf</td><td>Loan Received</td><td></td><td>3.00</td><td>5.00</td><td></td></tr><tr><td>Chirag Gupta Huf</td><td>Loan Received</td><td></td><td>10.00</td><td>2.77</td><td></td></tr><tr><td>Kastoor Chand Gupta (Huf)</td><td>Loan Received</td><td></td><td></td><td>32.60</td><td></td></tr><tr><td>Nitasha Gupta</td><td>Loan Received</td><td></td><td>9.03</td><td>53.50</td><td></td></tr><tr><td>Piyush Gupta</td><td>Loan Received</td><td>1.08</td><td>139.86</td><td>7.65</td><td></td></tr><tr><td>Piyush Gupta Huf</td><td>Loan Received</td><td></td><td>41.96</td><td>9.99</td><td></td></tr><tr><td>Sangeeta Gupta</td><td>Loan Received</td><td></td><td>10.00</td><td>6.56</td><td></td></tr><tr><td>Vani Gupta</td><td>Loan Received</td><td></td><td>42.00</td><td>100.00</td><td></td></tr><tr><td>Anita Gupta</td><td>Loan Repaid</td><td></td><td></td><td>22.10</td><td></td></tr><tr><td>Anju Gupta</td><td>Loan Repaid</td><td></td><td></td><td>34.00</td><td></td></tr><tr><td>Kastoor Chand Gupta</td><td>Loan Repaid</td><td></td><td></td><td>2.63</td><td></td></tr><tr><td>Madhur Gupta</td><td>Loan Repaid</td><td></td><td></td><td>13.94</td><td></td></tr><tr><td>Nitasha Gupta</td><td>Loan Repaid</td><td></td><td>14.95</td><td>56.70</td><td></td></tr><tr><td>Rajesh Gupta</td><td>Loan Repaid</td><td></td><td></td><td>4.22</td><td></td></tr><tr><td>Rajesh Gupta Sons &amp; Huf</td><td>Loan Repaid</td><td></td><td></td><td>17.49</td><td></td></tr><tr><td>Rashmi Gupta</td><td>Loan Repaid</td><td></td><td></td><td>12.16</td><td></td></tr><tr><td>Ravi Gupta</td><td>Loan Repaid</td><td></td><td></td><td>13.13</td><td></td></tr><tr><td>Ravi Gupta (Huf)</td><td>Loan Repaid</td><td></td><td></td><td>2.71</td><td></td></tr><tr><td>Ridhima Gupta</td><td>Loan Repaid</td><td></td><td></td><td>5.00</td><td></td></tr><tr><td>Sangeeta Gupta</td><td>Loan Repaid</td><td></td><td></td><td>18.10</td><td></td></tr><tr><td>Vishnu Gupta</td><td>Loan Repaid</td><td></td><td></td><td>74.52</td><td></td></tr><tr><td>Piyush Gupta</td><td>Loan Repaid</td><td></td><td>10.00</td><td>8.75</td><td>3.44</td></tr><tr><td>Piyush Gupta HUF</td><td>Loan Repaid</td><td></td><td>58.66</td><td></td><td></td></tr><tr><td>Chirag Gupta</td><td>Loan Repaid</td><td></td><td>18.00</td><td></td><td>4.33</td></tr><tr><td>Arun Gupta</td><td>Loan Repaid</td><td></td><td>.22</td><td>.50</td><td>5.00</td></tr><tr><td>Arun Gupta Huf</td><td>Loan Repaid</td><td></td><td>8.00</td><td></td><td>.4</td></tr><tr><td>Chirag Gupta HUF</td><td>Loan Repaid</td><td></td><td>13.75</td><td></td><td></td></tr><tr><td>Vani Gupta</td><td>Loan Repaid</td><td></td><td>13.60</td><td>24.10</td><td>.9</td></tr><tr><td>Vishnu Gupta Huf</td><td>Loan Repaid</td><td></td><td></td><td></td><td>.2</td></tr></tbody></table>
+
+There are no amounts written off or written back in the period in respect of debts due from or to related parties. Further, there are no provisions for doubtful debts due from such parties at the reporting date
+
+Note No-33
+
+A. AUDITORS REMUNERATION
+
+Statutory Audit
+
+Tax Audit
+
+Consultancy Fees
+
+For the Three Month period Ended
+30-Jun-25
+
+For the Year Ended
+31-Mar-25
+
+For the Year Ended
+31-Mar-24
+
+For the Year Ended
+31-Mar-23
+
+207

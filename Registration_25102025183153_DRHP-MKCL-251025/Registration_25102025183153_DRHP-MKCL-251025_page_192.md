@@ -1,0 +1,33 @@
+M/s. Madhur Knit Crafts Limited
+(Formerly Known As M/S. Madhur Knit Crafts Private Limited)
+
+CIN- U17301PB1997PTC020381
+Village - Seera, Sattowal Road, Rahon Road, Ludhiana
+Restated Cash Flow Statement
+
+All amounts Rs. in Lacs unless otherwise stated
+
+<table><thead><tr><th>PARTICULARS</th><th>AS AT 30th June, 2025</th><th>AS AT 31 ST MARCH, 2025</th><th>AS AT 31 ST MARCH, 2024</th><th>AS AT 31 ST MARCH, 2023</th></tr></thead><tbody><tr><td><strong>CASH FLOW FROM OPERATING ACTIVITIES</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Profit before Tax</td><td>403.56</td><td>1488.74</td><td>198.78</td><td>99.68</td></tr><tr><td><u>Adjustments for:</u></td><td></td><td></td><td></td><td></td></tr><tr><td>Depreciation & Amortization expense</td><td>64.62</td><td>237.20</td><td>178.57</td><td>164.47</td></tr><tr><td>Provision for Doubtful debts & Advances</td><td></td><td>15.95</td><td></td><td></td></tr><tr><td>Other non-cash (income)/ expenditure</td><td>.83</td><td>.84</td><td></td><td>-.40</td></tr><tr><td>Loss on sale of Property, Plant and Equipment</td><td>0.00</td><td>2.83</td><td></td><td></td></tr><tr><td>Interest Income</td><td>-.96</td><td>-7.31</td><td>-1.73</td><td>-6.33</td></tr><tr><td>Finance Costs</td><td>240.18</td><td>614.13</td><td>429.17</td><td>310.01</td></tr><tr><td><strong>Operating Profit before Working Capital Changes</strong></td><td><strong>708.23</strong></td><td><strong>2352.38</strong></td><td><strong>804.79</strong></td><td><strong>567.43</strong></td></tr><tr><td><u>Adjustments for:</u></td><td></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>-2089.74</td><td>-1006.67</td><td>-1816.55</td><td>125.48</td></tr><tr><td>Loans, Advances and Other Assets</td><td>-332.44</td><td>-347.55</td><td>-199.34</td><td>-74.46</td></tr><tr><td>Inventories</td><td>533.38</td><td>-1522.52</td><td>590.61</td><td>-438.68</td></tr><tr><td>Trade & Other Payables (including provisions)</td><td>921.85</td><td>373.30</td><td>56.59</td><td>-171.21</td></tr><tr><td><strong>Cash Generated from operating activities</strong></td><td><strong>-258.72</strong></td><td><strong>-151.05</strong></td><td><strong>-563.89</strong></td><td><strong>8.55</strong></td></tr><tr><td>Income Tax Paid</td><td>-6.66</td><td>-26.06</td><td>-33.15</td><td>-13.33</td></tr><tr><td><strong>Net Cash Generated from/ (used in) operating Activities</strong></td><td><strong>-265.38</strong></td><td><strong>-177.11</strong></td><td><strong>-597.05</strong></td><td><strong>-4.78</strong></td></tr><tr><td><strong>CASH FROM INVESTING ACTIVITIES</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Purchase of Property, plant and equipment</td><td>-3.06</td><td>-454.45</td><td>-1319.95</td><td>-133.55</td></tr><tr><td>Sale of Property, plant and equipment</td><td></td><td>22.56</td><td>2.00</td><td>4.36</td></tr><tr><td>Bank balances not considered as cash and cash equivalents</td><td>.78</td><td>-13.84</td><td>-24.70</td><td>-9.33</td></tr><tr><td>Interest Received</td><td>.96</td><td>7.31</td><td>1.73</td><td>6.33</td></tr><tr><td><strong>Net Cash Generated from/ (used in) investing Activities</strong></td><td><strong>-1.32</strong></td><td><strong>-438.42</strong></td><td><strong>-1340.92</strong></td><td><strong>-132.20</strong></td></tr><tr><td><strong>CASH FLOW FROM FINANCING ACTIVITIES</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Proceeds from share capital (including Securities Premium)</td><td></td><td>221.04</td><td></td><td></td></tr><tr><td>Net repayment of long term borrowings</td><td>-516.21</td><td>201.77</td><td>1809.79</td><td>355.50</td></tr><tr><td>Net Proceeds From Short Term Borrowings</td><td>1015.12</td><td>777.18</td><td>551.21</td><td>83.92</td></tr><tr><td>Finance Cost</td><td>-240.18</td><td>-593.99</td><td>-411.32</td><td>-310.01</td></tr><tr><td><strong>Net Cash Generated from/ (used in) financing Activities</strong></td><td><strong>258.73</strong></td><td><strong>606.00</strong></td><td><strong>1949.68</strong></td><td><strong>129.41</strong></td></tr><tr><td><strong>Net Increase/(Decrease) in cash and cash Equivalents</strong></td><td><strong>-7.97</strong></td><td><strong>-9.53</strong></td><td><strong>11.70</strong></td><td><strong>-7.57</strong></td></tr><tr><td>Cash and Cash equivalents at beginning of period</td><td>10.99</td><td>20.52</td><td>8.82</td><td>16.38</td></tr><tr><td>Cash and Cash equivalents at end of the period</td><td>3.02</td><td>10.99</td><td>20.52</td><td>8.82</td></tr></tbody><tfoot><tr><td colspan="5"><strong>Notes on Restated Cash Flow Statement</strong></td></tr><tr><td colspan="5">The above Cash flow statement has been prepared under the indirect method set out in AS-3 prescribed in Companies (Accounting Standards) Rules, 2021.</td></tr></tfoot></table>
+
+1
+
+For and on behalf of
+Madhur Knit Crafts Limited
+
+Chirag Gupta
+Director
+DIN - 08330420
+
+Arun Gupta
+Managing Director
+DIN -00585772
+
+In terms of our report attached
+For V. V. Bhalla & Co.
+Chartered Accountants
+Firm's Registration No.002928N
+
+CA V.V. Bhalla
+Partner
+
+189

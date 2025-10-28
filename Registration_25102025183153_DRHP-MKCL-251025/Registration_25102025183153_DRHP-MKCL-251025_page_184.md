@@ -1,0 +1,11 @@
+# DIVIDEND POLICY
+
+As on the date of this Draft Red Herring Prospectus, the Company does not have a formal dividend policy. The declaration and payment of dividends on our Equity Shares, if any, will be recommended by our Board and approved by our Shareholders, at their discretion, subject to the provisions of the Articles of Association and the applicable laws including the Companies Act, read with the rules notified thereunder, each as amended. We may retain all our future earnings, if any, for purposes to be decided by our Company, subject to compliance with the provisions of the Companies Act. The quantum of dividend, if any, will depend on a number of factors, including but not limited to profits earned and available for distribution during the relevant Financial Year/Fiscal, accumulated reserves including retained earnings, expected future capital/expenditure requirements, organic growth plans/expansions, proposed long-term investment, capital restructuring, debt reduction, crystallization of contingent liabilities, cash flows, current and projected cash balance, and external factors, including but not limited to the macro-economic environment, regulatory changes, technological changes and other factors like statutory and contractual restrictions.
+
+In addition, our ability to pay dividends may be impacted by a number of factors, including restrictive covenants under our current or future loan or financing documents. The amounts declared as dividends in the past are not necessarily indicative of our dividend amounts, if any, in the future. For more information on restrictive covenants under our current loan agreements, see "*Financial Indebtedness*" on page 222.
+
+Our Company has not declared any dividend on the Equity Shares of our Company in the last three Fiscals and the period from April 1, 2025 until the date of this Draft Red Herring Prospectus
+
+For further details, please refer to the section titled "*Restated Financial Information*" beginning on page 182 of this Draft Red Herring Prospectus.
+
+*This space has been left blank intentionally*

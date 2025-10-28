@@ -1,0 +1,3 @@
+The shareholders of the Company are not required to discharge any GST on transaction in securities of the Company. Securities are excluded from the definition of Goods as defined u/s 2(52) of the Central Goods and Services Tax Act, 2017 as well from the definition of Services as defined u/s 2(102) of the Central Goods and Services Tax Act, 2017.
+
+Apart from above, the Shareholders of the Company are not entitled to any special tax benefits under the Indirect Tax laws.

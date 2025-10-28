@@ -1,0 +1,25 @@
+## Withdrawal of the Issue
+
+Our Company in consultation with the BRLM, reserves the right not to proceed with the Issue at any time after the Issue Opening Date but before the Board meeting for Allotment. In such an event, our Company would issue a public notice in the newspapers, in which the pre-Issue advertisements were published, within two (2) days of the Issue Closing Date or such other time as may be prescribed by SEBI, providing reasons for not proceeding with the Issue. The Book Running Lead Manager, through the Registrar to the Issue, shall notify the SCSBs to unblock the bank accounts of the ASBA Applicants within one (1) day of receipt of such notification. Our Company shall also promptly inform NSE EMERGE on which the Equity Shares were proposed to be listed. Notwithstanding the foregoing, the Issue is also subject to obtaining the final listing and trading approvals from NSE EMERGE, which our Company shall apply for after Allotment. If our Company withdraws the Issue after the Issue Closing Date and thereafter determines that it will proceed with an IPO, our Company shall be required to file a fresh Prospectus.
+
+## Underwriting
+
+Our Company and BRLM to the issue hereby confirm that the Issue is 100% Underwritten. The Underwriting agreement is dated [●]. Pursuant to the terms of the Underwriting Agreement, the obligations of the Underwriters are subject to certain conditions specified therein. The BRLM has confirmed that they shall underwrite a minimum of 15% on their own account.
+
+The Underwriters have indicated their intention to underwrite the following number of specified securities being offered through this Issue:
+
+<table><thead><tr><td>Details of the Underwriter (Name, address, telephone number and email address)</td><td>Number of Equity Shares to be Underwritten</td><td>Amount Underwritten (Amount in Rs. Lakhs)</td><td>% of the Offer Size Underwritten</td></tr></thead><tbody><tr><td>[●]</td><td>[●]</td><td>[●]</td><td>100%</td></tr></tbody></table>
+
+The above-mentioned underwriting commitment is indicative and to be provided in the prospectus before it is filed with the Registrar of Companies and will be subject to the provisions of the SEBI ICDR Regulations.
+
+In the opinion of our Board of Directors of the Company, the resources of the abovementioned Underwriter is sufficient to enable them to discharge the underwriting obligations in full. The above-mentioned Underwriter is registered with SEBI under Section 12(1) of the SEBI Act or registered as brokers with the Stock Exchanges.
+
+## Changes in Auditors
+
+There has been no change in our statutory auditors in the three years preceding the date of this Draft Red Herring Prospectus, except as discussed below.
+
+<table><thead><tr><td>Details of Auditors (name, address, email address, peer review number and firm registration number of auditors)</td><td>Date of Change</td><td>Reason for Change</td></tr></thead><tbody><tr><td>Name: M/s Lalit Gupta<br>Address: 506-A, Bank Colony, Behind Lady Hospital, Khanna, Punjab-141401<br>Email: lalitkguptaandco@gmail.com<br>Peer Review Number: Not Available<br>Firm Registration Number: 0004404N</td><td>August 28, 2024</td><td>Resignation due to Pre-Occupation</td></tr><tr><td>Name: V.V. Bhalla & Co., Chartered Accountants<br>Address: 64-E Rishi Nagar, Ludhiana, Punjab-141401<br>Email: capankajbhalla@gmail.com<br>Peer Review Number: 017423<br>Firm Registration Number: 002928N</td><td>September 09, 2024</td><td>Appointment in case of casual vacancy</td></tr></tbody></table>
+
+## Details of the Market Making Arrangement for the Issue
+
+Our Company and the BRLM have entered into a tripartite agreement dated [●] with [●] the Market Maker for this Issue, duly registered with NSE EMERGE to fulfil the obligations of Market Making:

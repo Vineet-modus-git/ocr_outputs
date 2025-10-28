@@ -1,0 +1,29 @@
+# OBJECTS OF THE ISSUE
+
+Our Company proposes to utilize the funds which are being raised towards funding the following objects and achieve the benefits of listing on the NSE EMERGE Platform.
+
+## The issue comprises of -
+
+<table><thead><tr><td>Particulars</td><td>Equity Shares Offered</td><td>Aggregate Amount (Rs Lakhs)</td></tr></thead><tbody><tr><td>Fresh Issue</td><td>Up to 56,00,000*</td><td>[•]</td></tr><tr><td>Offer for Sale</td><td colspan="2">Not Applicable</td></tr><tr><td>Total</td><td>Up to 56,00,000</td><td>[•]</td></tr></tbody></table>
+
+* A Pre-IPO Placement may be undertaken by our Company in consultation with the BRLM, for an aggregate amount not exceeding ₹ 500 lakhs. The Pre – IPO Placement, if undertaken, will be at a price to be decided by our Company in consultation with the BRLM and will be completed prior to filing of the Red Herring Prospectus with the RoC. If the Pre-IPO Placement is undertaken, the amount raised from the Pre-IPO Placement will be reduced from the Fresh Issue, subject to the Offer complying with Rule 19(2)(b) of the SCRR. The Pre – IPO Placement, if undertaken shall not exceed 20% of the Fresh Issue Size. prior to the completion of the Offer, our Company shall appropriately intimate the subscribers to the Pre-IPO Placement, prior to Allotment pursuant to the Pre-IPO Placement, that there is no guarantee that our Company may proceed with the Offer or the Offer may be successful and will result into listing of the Equity Shares on the Stock Exchange. Further, relevant disclosures in relation to such intimation to the subscriber to the Pre-IPO Placement (if undertaken) shall be appropriately made in the relevant sections of the Red Herring Prospectus and Prospectus.
+
+## The Objects of the Issue Are: -
+
+1. Working Capital Requirement of the Company.
+
+2. Funding capital expenditure for the purchase of Solar panel.
+
+3. Prepayment or repayment of a portion of certain outstanding borrowings availed by the Company.
+
+4. General Corporate Purposes.
+
+*(Collectively referred to as the “Objects”)*
+
+Our Company believes that listing will enhance our Company's corporate image, brand name and create a public market for its Equity Shares in India. The main objects clause of our Memorandum enables our Company to undertake the activities for which funds are being raised in the Issue. The existing activities of our Company are within the objects clause of our Memorandum. The fund requirement and deployment are based on internal management estimates and have not been appraised by any bank or financial institution.
+
+We confirm that the main objects as set out in the Memorandum of Association of our Company, together with the objects incidental and ancillary thereto, enable our Company: (i) to undertake and carry on the existing business activities of our Company; and (ii) to undertake the activities for which the Net Proceeds of the Issue are proposed to be utilized.
+
+### Fresh Issue
+
+<table><thead><tr><td>Fund Raise Objective</td><td>Particulars</td><td>Amount (Rs. In Lakh)</td><td>% of Net Proceeds</td></tr></thead><tbody><tr><td>(a) Capital Expenditure</td><td>Funding capital expenditure for the purchase of Solar panel.</td><td>400.00</td><td>[•]</td></tr><tr><td>(b) Working Capital</td><td>Working Capital Requirement of the Company.</td><td>1410.00</td><td>[•]</td></tr><tr><td>(c) Debt Repayment</td><td>Prepayment or repayment of a portion of certain outstanding borrowings availed by the Company</td><td>1740.00</td><td>[•]</td></tr><tr><td>Sub Total (a + b + c)</td><td></td><td>3550.00</td><td>[•]</td></tr><tr><td>General Corporate Purposes</td><td></td><td>[•]</td><td>[•]</td></tr><tr><td>Net Issue Proceeds</td><td></td><td>[•]</td><td>100.00%</td></tr></tbody></table>

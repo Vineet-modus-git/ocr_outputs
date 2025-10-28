@@ -1,0 +1,29 @@
+# SECTION II – SUMMARY OF THE ISSUE DOCUMENT
+
+This section is a general summary of the terms of the Issue, certain disclosures included in this Draft Red Herring Prospectus and is not exhaustive, nor does it purport to contain a summary of all the disclosures in this Draft Red Herring Prospectus or all details relevant to prospective investors. This summary should be read in conjunction with, and is qualified in its entirety by, the more detailed information appearing elsewhere in this Draft Red Herring Prospectus, including the sections titled "Risk Factors", "Our Industry", "Our Business", "Capital Structure", "The Issue", "Restated Financial Statements", "Objects of the Issue", "Our Promoters and Promoter Group", "Management's Discussions and Analysis of Financial Position and Results of Operations", "Outstanding Litigation and Material Developments" and "Issue Procedure" on pages 25, 109, 123, 65, 47, 182, 182, 176, 226, 243 and 281 respectively.
+
+## Primary Business of Our Business
+
+Madhur Knit Crafts Limited, commencing commercial operations in 2013, is a textile company engaged in manufacturing blankets, knitted fabrics, and providing job work services. While initially focused on winter products, the Company has also ventured into technical textiles, including paint roller fabrics, although revenue from this segment remains minimal. Operating from its ISO 9001:2015 certified facility in Ludhiana with its capacity recently augmented by advanced imported machinery, the Company ensures high efficiency and quality across processes such as knitting, dyeing, and finishing. Its strategic location further strengthens supplier access, logistics, and distribution capabilities, supporting a stable and responsive supply chain.
+
+For detailed information on the business of the Company please refer to "Our Business" beginning on page number 123 of this Draft Red Herring Prospectus.
+
+## Industry in which the Company Operates
+
+The Indian textile industry, among the world's oldest, spans handwoven traditions to modern mills, contributing 2.3% to GDP, 13% to industrial output, and 12% to exports. It is the second largest employment provider after agriculture, engaging 45 million people. India produces 22,000 million garments annually, with the market projected to grow from US$ 174 billion to US$ 350 billion by 2030. Supported by schemes like the Production Linked Incentive Scheme, the Scheme for Integrated Textile Parks, the Technology Upgradation Fund Scheme and the Mega Integrated Textile Region and Apparel Park Scheme, the sector has strong domestic and export potential.
+
+For detailed information on the industry please refer to "Our Industry" beginning on page number 109 of this Draft Red Herring Prospectus.
+
+## Promoters
+
+The Promoters of our Company are Arun Gupta, Piyush Gupta, and Chirag Gupta. For detailed information, please refer to chapter titled "Our Promoters and Promoter Group" on page number 176 of this Draft Red Herring Prospectus.
+
+## Issue Size
+
+The following table summarizes the details of the Offer:
+
+<table><tr><td>Issue <sup>(1) (2)</sup></td><td>Up to 56,00,000 Equity Shares of face value of ₹10 each for cash at price of ₹ [●] per Equity Share (including a premium of [●] per Equity Share), aggregating up to ₹ [●].</td></tr><tr><td>which includes:</td><td></td></tr><tr><td>Fresh Issue</td><td>Up to 56,00,000 Equity Shares of face value of ₹10 each aggregating up to ₹ [●]</td></tr><tr><td>Offer For Sale</td><td><table><thead><tr><td>Name of the Selling Shareholder</td><td>No. of Equity Shares Offered</td></tr></thead><tbody><tr><td>NA</td><td></td></tr></tbody></table></td></tr></table>
+
+(1) The Issue has been authorized pursuant to the resolution passed by our Board dated August 30, 2025, and has been authorized by our Shareholders pursuant to a special resolution passed on Annual General Meeting dated September 22, 2025.
+
+(2) Our Company, in consultation with the BRLM, may consider a further issue of specified securities, of up to [●] Equity Shares, through a preferential issue or any other method as may be permitted under the applicable law to any person(s), for an amount aggregating up to ₹ 500.00 lakhs at its discretion, prior to filing of the Red Herring Prospectus with the RoC. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company in consultation with the BRLM. If the Pre-IPO Placement

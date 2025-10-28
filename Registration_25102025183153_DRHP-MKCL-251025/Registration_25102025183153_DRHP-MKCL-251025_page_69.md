@@ -1,0 +1,15 @@
+the public for subscription. Our Company, in consultation with the BRLM, may consider issuing up to [●] Equity Shares as a Pre-IPO Placement by our Company for an aggregate amount not exceeding ₹ 500.00 lakhs. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company in consultation with the BRLM, and the Pre-IPO Placement will be completed prior to filing of the Red Herring Prospectus with the RoC. If the Pre-IPO Placement is undertaken, the amount raised from the Pre-IPO Placement will be reduced from the Fresh Issue. If the Pre-IPO Placement is undertaken, our Company shall report to the stock exchange within twenty-four hours of such Pre-IPO Placement transactions (in part or in entirety).
+
+For details in relation to the changes in the authorised share capital of our Company, see “Our History and Certain Other Corporate Matters – Amendments to our MOA since Incorporation” on page 156.
+
+# NOTES TO THE CAPITAL STRUCTURE
+
+## 1. Details of change in Authorised Share Capital of the Company
+
+<table><thead><tr><td>Sr. no.</td><td>Particulars of Increase</td><td>Date of Shareholders Meeting</td><td>Whether AGM/EGM</td></tr></thead><tbody><tr><td>1.</td><td>Increase in Authorised capital from Rs 10,00,000 to Rs 1,10,00,000</td><td>01-06-2011</td><td>EGM</td></tr><tr><td>2.</td><td>Increase in Authorised capital from Rs 1,10,00,000 to Rs 5,00,00,000</td><td>08-12-2011</td><td>EGM</td></tr><tr><td>3.</td><td>Increase in Authorised capital from Rs 5,00,00,000 to Rs 10,00,00,000</td><td>01-03-2013</td><td>EGM</td></tr><tr><td>4.</td><td>Increase in Authorised capital from Rs 10,00,00,000 to Rs 15,00,00,000</td><td>15-02-2024</td><td>AGM</td></tr><tr><td>5.</td><td>Increase in Authorised capital from Rs 15,00,00,000 to Rs 24,00,00,000</td><td>11-06-2025</td><td>EGM</td></tr></tbody></table>
+
+## 2. Equity shares capital history of Company
+
+The following table sets forth the history of the equity share capital of our Company.
+
+<table><thead><tr><td>Date of Allotment</td><td>Nature of Allotment</td><td>Details of allottees/shareholders and equity shares allotted</td><td>No. of Equity Shares allotted</td><td>Face value per equity shares</td><td>Issue price (Including Premium if any) per shares</td><td>Nature of Consideration</td><td>Cumulative number of equity shares</td></tr></thead><tbody><tr><td>21/08/1997</td><td>Initial Capital</td><td>100 Equity Shares allotted to Rajesh Gupta, 100 Equity Shares allotted to Vishnu Gupta, 100 Equity Shares allotted to Arun Gupta and 100 Equity Shares allotted to Ravi Gupta.</td><td>400</td><td>10/-</td><td>10/-</td><td>Cash</td><td>400</td></tr><tr><td>1998-99*</td><td>Private Placement</td><td>2,500 Equity Shares allotted to Rajesh Gupta, 1,400 Equity Shares allotted to Vishnu Gupta, 2,500 Equity Shares allotted to Arun Gupta, 2,500</td><td>15,600</td><td>10/-</td><td>10/-</td><td>Cash</td><td>16,000</td></tr></tbody></table>

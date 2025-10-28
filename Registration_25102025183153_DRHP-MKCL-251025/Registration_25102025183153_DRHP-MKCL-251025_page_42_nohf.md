@@ -1,0 +1,27 @@
+**39. If we are unable to recruit, train and retain qualified personnel, our business may be materially and adversely affected.**
+
+Our future success depends on our ability to attract, develop, motivate, and retain qualified and skilled employees. Competition for talent across various functions, including operations, sales, marketing, and technology, is intense. In particular, junior employees may be more likely to leave for other opportunities.
+
+We may not be able to hire or retain personnel on compensation terms consistent with our existing structures. Some of our competitors may have greater resources and offer more attractive employment terms. Additionally, we invest significant time and resources in training our employees, which can make them valuable to other companies seeking to recruit them.
+
+Failure to retain key employees could increase hiring and training costs and affect our operational efficiency, service delivery, and overall business performance, potentially having a material adverse effect on our operations. For further details please refer “*Our Business*” chapter on page no 123 of this Draft Red Herring Prospectus.
+
+**40. Any disputes with customers regarding product quality, performance, or logistics services may lead to delayed or withheld payments, which could materially and adversely affect our business, operations, and financial condition.**
+
+Madhur Knit Crafts follows a made-to-order production model, serving industrial enterprises, manufacturers, and institutional clients requiring customized textile solutions. While this approach minimizes overproduction and optimizes raw material usage, any dispute with customers regarding our performance, quality, or workmanship could result in delays or withholding of payments.
+
+Additionally, the Company provides logistics and transportation services aligned with customer requirements. Any failure to meet delivery timelines, quality standards, or specific service expectations could lead to customer dissatisfaction, disputes, or delayed payments. Such disputes or delays in receiving payments may materially and adversely affect the Company’s business, operations, financial condition, and cash flows.
+
+**41. Any change in government laws could affect the flow of our operations and disrupt our business activities.**
+
+Our Company needs to comply with many varied laws/regulations due to the nature of business that we conduct. These laws are subject to change at the discretion of the Government. Our Company may be subject to increased expenses to comply with such changes in the applicable laws which may affect the flow of our operations. Failure to do so may also induce our Company to incur penalties. For further details please refer to the chapter “*Key Regulations and Policies*” on page no 147 of this Draft Red Herring Prospectus.
+
+**42. Upon completion of the Issue, our Promoters / Promoter Group may continue to retain significant control, which will allow them to influence the outcome of matters submitted to the shareholders for approval.**
+
+Upon completion of the Issue, our Promoters and Promoter Group are expected to collectively hold approximately [•] % of the total post-issue Equity Shares. Please refer to the “*Summary of the Issue Document*” on page 18 of this Draft Red Herring Prospectus. This concentration of ownership will allow them to exercise significant influence over matters requiring shareholder approval, including the election of Board members in accordance with the Companies Act and our Articles of Association.
+
+Such a high level of control may delay, prevent, or deter strategic decisions that could be beneficial to the Company or effect a change in control for the benefit of other stakeholders. Furthermore, our Promoters may influence the Company’s decisions in a manner that could conflict with the interests of the Company, its creditors, or minority shareholders, and we cannot assure that such actions will not adversely affect our future financial performance or the price of our Equity Shares.
+
+**43. Employee misconduct, errors or fraud could expose us to business risks or losses that could adversely affect our business prospects, results of operations and financial condition.**
+
+Employee misconduct, errors or frauds could expose us to business risks or losses, including regulatory sanctions, penalties and serious harm to our reputation. Such employee misconduct includes breach in security requirements, misappropriation of funds, hiding unauthorized activities, failure to observe our operational standards and processes, and improper use of confidential information. It is not always possible to detect or deter such misconduct, and the precautions we take to prevent and detect such misconduct may not be effective. In addition, losses caused on account of employee misconduct or misappropriation of petty cash expenses and advances may not be recoverable, which we may result in write-off of such amounts and thereby adversely affecting our results of operations. Our employees may also commit errors that could subject us to claims and proceedings for alleged negligence, as well as regulatory actions in which case, our reputation, business prospects, results of operations and financial condition could be adversely affected.

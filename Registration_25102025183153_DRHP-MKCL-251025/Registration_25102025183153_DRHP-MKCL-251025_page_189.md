@@ -1,0 +1,40 @@
+M/s. Madhur Knit Crafts Limited
+
+(Formerly Known As M/S. Madhur Knit Crafts Private Limited)
+
+CIN- U17301PB1997PTC020381
+
+Village - Seera, Sattowal Road, Rahon Road, Ludhiana
+
+Restated Statement of Assets and Liabilities
+
+All amounts Rs. in Lacs unless otherwise stated
+
+<table><thead><tr><th>PARTICULARS</th><th>NOTE NO.</th><th>AS AT 30th June</th><th>AS AT 31 ST MARCH 2025</th><th>AS AT 31 ST MARCH 2024</th><th>AS AT 31 ST MARCH 2023</th></tr></thead><tbody><tr><td><strong>I EQUITY AND LIABILITIES</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>1. SHAREHOLDERS FUNDS</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a) Share Capital</td><td>3</td><td>1341.01</td><td>1072.81</td><td>970.00</td><td>970.00</td></tr><tr><td>b) Reserves & Surplus</td><td>4</td><td>1909.23</td><td>1875.71</td><td>654.24</td><td>483.80</td></tr><tr><td></td><td></td><td><strong>3250.24</strong></td><td><strong>2948.52</strong></td><td><strong>1624.24</strong></td><td><strong>1453.80</strong></td></tr><tr><td><strong>2. NON CURRENT LIABILITIES</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a) Long Term Borrowings</td><td>5</td><td>2974.51</td><td>3116.60</td><td>2952.33</td><td>1142.54</td></tr><tr><td>b) Deferred Tax Liabilities (Net)</td><td>6</td><td>165.32</td><td>162.45</td><td>189.12</td><td>193.92</td></tr><tr><td>c) Long term Provisions</td><td>10</td><td>16.85</td><td>14.13</td><td>15.40</td><td>15.08</td></tr><tr><td></td><td></td><td><strong>3156.67</strong></td><td><strong>3293.17</strong></td><td><strong>3156.85</strong></td><td><strong>1351.54</strong></td></tr><tr><td><strong>3. CURRENT LIABILITIES</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a) Short Term Borrowings</td><td>7</td><td>4244.38</td><td>3603.38</td><td>2826.20</td><td>2274.99</td></tr><tr><td>b) Trade Payables</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- total outstanding dues of micro enterprises and small enterprises</td><td>8</td><td>4.59</td><td>6.29</td><td>1.54</td><td>2.20</td></tr><tr><td>- total outstanding dues of creditors other than micro enterprises and small enterprises</td><td>8</td><td>2404.15</td><td>1561.15</td><td>1219.22</td><td>1227.75</td></tr><tr><td>c) Other Current Liabilities</td><td>9</td><td>598.85</td><td>521.38</td><td>212.04</td><td>129.51</td></tr><tr><td>d) Short Term Provisions</td><td>10</td><td>417.51</td><td>324.86</td><td>19.70</td><td>18.92</td></tr><tr><td></td><td></td><td><strong>7669.48</strong></td><td><strong>6017.05</strong></td><td><strong>4278.69</strong></td><td><strong>3653.37</strong></td></tr><tr><td><strong>TOTAL</strong></td><td></td><td><strong>14076.40</strong></td><td><strong>12258.74</strong></td><td><strong>9059.77</strong></td><td><strong>6458.72</strong></td></tr><tr><td><strong>II ASSETS</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>1. NON CURRENT ASSETS</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>a) Property, Plant & Equipments & Intangible Assets</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>-Property, Plant and Equipment</td><td>11</td><td>3116.42</td><td>3144.61</td><td>2104.89</td><td>1592.72</td></tr><tr><td>-Intangible Assets</td><td>11</td><td>.28</td><td>.28</td><td>.28</td><td>.49</td></tr><tr><td>-Capital Work in Progress</td><td>11</td><td></td><td></td><td>627.42</td><td></td></tr><tr><td>b) Long Term Loans & Advances</td><td>12</td><td>170.42</td><td>204.61</td><td>274.66</td><td>10.90</td></tr><tr><td>c) Other Non Current Assets</td><td>13</td><td></td><td></td><td>14.18</td><td></td></tr><tr><td></td><td></td><td><strong>3287.12</strong></td><td><strong>3349.50</strong></td><td><strong>3021.43</strong></td><td><strong>1604.11</strong></td></tr><tr><td><strong>2. CURRENT ASSETS</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a) Inventories</td><td>14</td><td>3360.61</td><td>3893.99</td><td>2371.47</td><td>2962.08</td></tr><tr><td>b) Trade Receivables</td><td>15</td><td>5912.27</td><td>3822.52</td><td>2831.81</td><td>1403.45</td></tr><tr><td>c) Cash & Bank Balances</td><td>16</td><td>99.87</td><td>108.63</td><td>90.14</td><td>67.91</td></tr><tr><td>d) Short Term Loans & Advances</td><td>17</td><td>1405.86</td><td>1077.32</td><td>739.59</td><td>416.17</td></tr><tr><td>e) Other Current Assets</td><td>18</td><td>10.67</td><td>6.77</td><td>5.34</td><td>4.99</td></tr><tr><td></td><td></td><td><strong>10789.28</strong></td><td><strong>8909.24</strong></td><td><strong>6038.34</strong></td><td><strong>4854.61</strong></td></tr><tr><td><strong>TOTAL</strong></td><td></td><td><strong>14076.40</strong></td><td><strong>12258.74</strong></td><td><strong>9059.77</strong></td><td><strong>6458.72</strong></td></tr></tbody></table>
+
+For and on behalf of Madhur
+Knit Crafts Limited
+
+In terms of our report attached
+
+For V. V. Bhalla & Co. Chartered
+Accountants
+Firm's Registration No.002928N
+
+Chirag Gupta
+Director
+DIN - 08330420
+
+Arun Gupta
+Managing Director
+DIN -00585772
+
+CA V.V. Bhalla Partner
+Membership No. 081941
+UDIN: 25081941BMIVMV4758
+
+Piyush Gupta
+
+Nikita Tayal
+
+186

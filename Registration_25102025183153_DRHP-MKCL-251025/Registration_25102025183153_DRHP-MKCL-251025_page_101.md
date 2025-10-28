@@ -1,0 +1,47 @@
+# BASIS FOR ISSUE PRICE
+
+Investors should read the following summary with the "Risk Factors", the details about our Company under the "Our Business" and its financial statements under the "Restated Financial Information" beginning on page 25, page 123 and page 182 respectively of this Draft Red Herring Prospectus. The trading price of the Equity Shares of our Company could decline due to these risks and the investor may lose all or part of his investment. All Accounting Ratios have been adjusted for the outstanding shares as on date of this Draft Red Herring Prospectus.
+
+Price Band/ Issue Price shall be determined by our Company in consultation with the Book Running Lead Manager on the basis of the assessment of market demand for the Equity Shares through the Book Building Process and on the basis of the qualitative and quantitative factors as described in this section. The face value of the Equity Shares is 10/- each and the Issue Price is [●] times of the face value at the lower end of the Price Band and [●] times of the face value at the upper end of the Price Band.
+
+## A. Qualitative Factors
+
+Some of the qualitative factors, which form the basis for computing the price, are:
+
+(a) A state-of-the-art manufacturing facility with advanced technology.
+
+(b) Strategically located manufacturing unit enabling operational efficiency and cost advantages.
+
+(c) Extensive experience and proven track record of the promoters.
+
+(e) Experienced, aligned, and professional management team driving growth and governance.
+
+(f) Long-standing and robust relationships with customers and suppliers.
+
+(g) Established relationships with key clients ensuring recurring business.
+
+(h) Comprehensive quality assurance and control systems to maintain product excellence.
+
+For a detailed discussion on the qualitative factors which form the basis for computing the price, please refer to sections titled "Our Business" beginning on page 123 of this Draft Red Herring Prospectus.
+
+## Quantitative factors
+
+The information presented in this section is derived from our Restated Financial Statements. For details, see "Restated Financial Information" on page 182. Investors should evaluate our Company and form their decisions taking into consideration its earnings and based on its growth strategy. Some of the quantitative factors which may form the basis for computing the Issue price are as follows:
+
+### 1. Basic & Diluted Earnings Per Share (EPS)*:
+
+<table><thead><tr><th>Financial Year</th><th>Basic/ Diluted EPS<br>(Rs.)</th><th>Weight<br>(x)</th></tr></thead><tbody><tr><td>2024-25</td><td>8.35</td><td>3</td></tr><tr><td>2023-24</td><td>1.38</td><td>2</td></tr><tr><td>2022-23</td><td>0.73</td><td>1</td></tr><tr><td><strong>Weighted Average EPS (Rs.)</strong></td><td><strong>4.75</strong></td><td><strong>6</strong></td></tr><tr><td>June 30, 2025*</td><td>2.25</td><td>-</td></tr></tbody></table>
+
+*Not Annualised
+
+**Notes:**
+
+1. The figures discussed above are based on the Restated Financial Statements of the Company.
+
+2. The face value of each Equity Share is Rs.10.
+
+3. EPS calculation has been done in accordance with Accounting Standard 20-Earning Per Share issued by The Institute of Chartered Accountant of India.
+
+4. Basic and Diluted EPS= Restated profit for the year attributable to equity shareholders of the company divided by total weighted average number of equity shares outstanding at the end of the year.
+
+5. Weighted Average number of Equity Shares is the number of Equity Shares outstanding at the beginning of the year/period adjusted by the number of Equity Shares issued during year/period multiplied by the time weighting factor. The time-weighting

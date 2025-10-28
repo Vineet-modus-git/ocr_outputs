@@ -1,0 +1,27 @@
+top 10 suppliers for 57.65%. In Fiscal 2025, the top 3 suppliers contributed 34.70% of total procurement, the top 5 suppliers 42.79%, and the top 10 suppliers 55.13%. In comparison, during Fiscal 2024, the top 3 suppliers accounted for 27.46% and the top 10 suppliers for 52.21%, while in Fiscal 2023, the top 3 suppliers contributed 29.70% and the top 10 suppliers 64.13%.
+
+This concentration exposes the Company to risks associated with the loss, disruption, or change in terms of key suppliers. Any interruption in the supply chain, increase in prices, or failure of these suppliers to meet quality and delivery standards could materially affect the Company's operations, production schedules, cost structure, and profitability. The Company's ability to diversify its supplier base and maintain strong relationships with key suppliers is critical to mitigating such risks.
+
+(In Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">June 30, 2025</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount</th><th>In %</th><th>Amount</th><th>In %</th><th>Amount</th><th>In %</th><th>Amount</th><th>In %</th></tr></thead><tbody><tr><td>Top 3 Supplier</td><td>1,510.96</td><td>33.53%</td><td>4,662.27</td><td>34.70%</td><td>2,049.85</td><td>27.46%</td><td>4,785.30</td><td>29.70%</td></tr><tr><td>Top 5 Supplier</td><td>2,018.79</td><td>44.80%</td><td>5,748.91</td><td>42.79%</td><td>2,664.34</td><td>35.69%</td><td>3,185.33</td><td>42.60%</td></tr><tr><td>Top 10 Supplier</td><td>2,764.65</td><td>61.35%</td><td>7,286.64</td><td>54.23%</td><td>3,862.71</td><td>51.74%</td><td>4,785.30</td><td>64.00%</td></tr></tbody></table>
+
+**7. A significant portion of our raw materials is sourced from Punjab, and any disruption in this region could materially affect our operations, production, and financial performance.**
+
+The Company sources a significant portion of its raw materials from the state of Punjab, accounting for 98.90% of total procurement in June 30, 2025, 55.13% in Fiscal 2025, 52.21% in Fiscal 2024, and 64.13% in Fiscal 2023. This high geographical concentration exposes the Company to risks arising from regional economic, political, or environmental developments. Any adverse events in Punjab, such as supply disruptions, natural disasters, regulatory changes, or logistical challenges, could materially impact the Company's operations, production schedules, and financial performance. The Company's reliance on a single region for a major portion of its raw material requirements increases its vulnerability to such regional risks.
+
+**8. The current geographic concentration of our operations creates an exposure to local economies, regional downturns and severe weather or other catastrophic occurrences.**
+
+The majority of the Company's operations are in Punjab, which exposes the Company to regional vulnerabilities. Adverse changes and events that may impact our operations may include disruptions to infrastructure and services (such as supplies, transportation and utilities for our facilities), significant natural disasters and man-made incidents, political agitations and workforce disruptions, as well as changes in the general economic conditions, the regulatory environment and local government policies. In particular, incidents of fire, damage to, or inability to access, our facilities of our suppliers, or other issues preventing the normal operation of those facilities could hinder the distribution of our products. However, we may not be able to do so in a timely manner, or at all.
+
+Although the specific area in Punjab where our facilities are located has not been significantly impacted, parts of Punjab were adversely affected by floods in July and September. Such events could disrupt supply chains, logistics, or the availability of raw materials, potentially affecting our operations, production schedules, and financial performance.
+
+While we have not experienced any such disruptions in the past, we cannot assure you that we will be able to effectively manage any potential losses arising from any such events, which may adversely affect our business, cash flows, financial condition and results of operations. Any inability to obtain sufficient quantities of raw material of the requisite quality in a timely manner and at acceptable prices, or a slowdown, shutdown or disruption in such third parties' operations and performance, could adversely affect our business, cash flows, results of operations and financial condition.
+
+For further details, please refer to "*Our Business-Properties*" starting from page no 123 of this Draft Red Herring Prospectus.
+
+**9. Our business is seasonal in nature.**
+
+Our business is significantly influenced by seasonal demand, particularly due to our focus on winter wear garments and fabrics. Sales are typically higher during the winter months and lower during off-season periods. Any unseasonal weather patterns, shifts in consumer preferences, or delays in production and distribution could adversely affect our revenue, inventory management, and overall financial performance.
+
+Although, there have been no material events relating to this risk factor as of the date of this Draft Red Herring Prospectus, there can be no assurance that such events may not occur in the future.

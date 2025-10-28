@@ -1,0 +1,33 @@
+Companies Act, 2013, read with SEBI ICDR Regulations in this Draft Red Herring Prospectus as an "expert", to the extent of the ROC and Secretarial Search Report Dated October 18, 2025.
+
+All the intermediaries including Merchant Banker has relied upon the appropriacy and authenticity of the same.
+
+Previous public or rights issues, if any, during the last five years
+
+We have not made any previous rights and/or public issues since incorporation and are an Unlisted Issuer in terms of the SEBI (ICDR) Regulations and this Issue is an Initial Public Offering in terms of the SEBI (ICDR Regulations).
+
+Particulars regarding capital issues by the company and listed group companies, subsidiaries or associate entity during the last three years
+
+Neither our Company nor any other companies under the same management within the meaning of Section 370(1B) of the Companies Act, 1956 has made / Section 186 of the Companies Act, 2013, has made any public issue or rights issue during the last three years.
+
+Commission and brokerage paid on previous issues of the equity shares in the last five years
+
+Since this is the IPO of the Equity Shares by our Company, no sum has been paid or has been payable as commission or brokerage for subscribing to or procuring or agreeing to procure subscription for any of our Equity Shares in the five years preceding the date of this Draft Red Herring Prospectus.
+
+Performance Vis-À-Vis Objects – Public/ Rights Issue of the Company
+
+Our Company is an “Unlisted Issuer” in terms of the SEBI (ICDR) Regulations and this Issue is an “Initial Public Offering” in terms of the SEBI (ICDR) Regulations. Therefore, data regarding performance vis-à-vis objects is not applicable to us. Further, as on date of this Draft Red Herring Prospectus our Company has no listed corporate Promoters and no listed subsidiary company.
+
+Performance Vis-À-Vis Objects – Public/Rights Issue Of Our Listed Subsidiaries/Promoters
+
+Our company does not have any subsidiary company and our promoters are natural persons (individuals)
+
+Price information of past issues handled by the book running lead managers
+
+SKI Capital Services Limited
+
+1. Price information on past issues handled by Lead Manager
+
+<table><thead><tr><td>S.n o</td><td>Issue Name</td><td>Issue Size (In lakhs )</td><td>Issue Price</td><td>Listing Date</td><td>Opening Price on listing</td><td>+/- change in closing price, [+/- change in benchmark]- 30th calendar day from listing</td><td>+/- change in closing price, [+/- change in benchmark]- 90th calendar day from listing</td><td>+/- change in closing price, [+/- change in benchmark]- 180th calendar day from listing</td></tr></thead><tbody><tr><td>1</td><td>Macobs Technologies Limited</td><td>1946.40</td><td>75</td><td>24-07-2024</td><td>96</td><td>99.13%[3.39%]</td><td>94.67%[0.55%]</td><td>126.73%[2.46%]</td></tr><tr><td>2</td><td>TechEra Engineering (India) Limited</td><td>3589.63</td><td>82</td><td>03-10-2024</td><td>125</td><td>107.20%[0.25%]</td><td>140.06%[1.12%]</td><td>58.48%[15.99%]</td></tr><tr><td>3</td><td>AVAX Apparels and Ornaments limited</td><td>191.80</td><td>70</td><td>14-01-2025</td><td>133</td><td>36.43%[6.48%]</td><td>84.00%[7.99%]</td><td>80.29%[1.15%]</td></tr><tr><td>4</td><td>GB Logistics Commerce Limited</td><td>2506.75</td><td>92</td><td>31-01-2025</td><td>81.6</td><td>-52.50%[11.85%]</td><td>-51.03%[1.32%]</td><td>-43.15%[1.15%]</td></tr></tbody></table>
+
+2. Summary statement of price information of past issues handled by lead manager:

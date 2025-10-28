@@ -1,0 +1,37 @@
+<table><tr><td>1.</td><td>Arun Gupta</td><td>Trimurti Hosiery Mills Private Limited</td><td>02/11/2023</td><td>Cessation of Directorship due to pre-occupation</td></tr></table>
+
+## Other ventures of our Promoters
+
+Other than as disclosed in "- Promoter Group – Entities forming part of our Promoter Group" and "Our Group Companies" on pages 176 and 254 our Promoters are not involved in any other ventures. Further, our Promoters do not have any direct interest in any venture that is involved in the same line of activity or business as conducted by our Company.
+
+## Outstanding Litigations details pertaining to our Promoters
+
+For details of legal and regulatory proceedings involving our Promoters, please refer to "Outstanding Litigation and Material Developments" beginning on page 243 of this Draft Red Herring Prospectus.
+
+## Experience of our promoters in the line of business of our Company
+
+Our promoters possess extensive experience in our industry. For information, refer to "Our Management" beginning on page number 160 of this Draft Red Herring Prospectus.
+
+## Related Party Transactions
+
+For details of related party transactions entered into by our Company, please refer to "Restated Financial Information-Note 32- Related Party Transactions" beginning on page of the Draft Red Herring Prospectus.
+
+## Confirmations
+
+Our Promoters and members of our Promoter Group have not been declared Wilful Defaulters or Fraudulent Borrowers by any bank or financial institution or consortium thereof, in accordance with the guidelines on Wilful Defaulters or Fraudulent Borrowers issued by Reserve Bank of India.
+
+Our Promoters have not been declared as fugitive economic offenders under section 12 of the Fugitive Economic Offenders Act, 2018.
+
+As on the date of this Draft Red Herring Prospectus, our Promoters and members of our Promoter Group have not been prohibited by SEBI or any other regulatory or governmental authority from accessing capital markets for any reasons. Further, our Promoters were not and are not promoters or persons in control of any other company that is or has been debarred from accessing the capital markets under any order or direction made by SEBI or any other authority.
+
+There is no litigation or legal action pending or taken by any ministry, department of the Government or statutory authority against our Promoters during the last five (5) years preceding the date of this Draft Red Herring Prospectus, except as disclosed under "Outstanding Litigation and Material Developments" beginning on page 243 of this Draft Red Herring Prospectus.
+
+## Our Promoter Group
+
+In addition to our Promoters, the individuals and entities that form a part of the Promoter Group of our Company in terms of Regulation 2(1)(pp) of the SEBI ICDR Regulations are set out below:
+
+### Natural persons who are part of our Promoter Group
+
+The natural persons who are part of our Promoter Group, other than our Individual Promoters, are as follows:
+
+<table><thead><tr><td>Name of Promoter</td><td>Name of member of Promoter Group</td><td>Relationship with Promoter</td></tr></thead><tbody><tr><td rowspan="7">Arun Gupta</td><td>Kastoor Chand Gupta</td><td>Father</td></tr><tr><td>Sulochana Gupta</td><td>Mother</td></tr><tr><td>Sangeeta Gupta</td><td>Spouse</td></tr><tr><td>Rajesh Gupta</td><td>Brother</td></tr><tr><td>Vishnu Gupta</td><td>Brother</td></tr><tr><td>Ravi Gupta</td><td>Brother</td></tr><tr><td>Piyush Gupta</td><td>Son</td></tr></tbody></table>

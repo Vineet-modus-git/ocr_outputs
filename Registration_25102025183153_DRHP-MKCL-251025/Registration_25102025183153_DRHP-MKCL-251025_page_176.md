@@ -1,0 +1,19 @@
+<table><thead><tr><th>Sr. No.</th><th>Name, Designation, Educational Qualification & Term of office (with date of expiration of term) and details of service contracts including termination/retirement benefits, if any,</th><th>Age</th><th>Year of Joining</th><th>Compensation paid for F.Y. ended [•] (Amount in Rs. Lakhs)</th><th>Overall experience (in years)</th><th>Previous employment</th><th>Past business experience, and functions and areas of experience</th></tr></thead><tbody><tr><td></td><td>Service Contract:<br>Liable to retire by rotation<br>NA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>Name: Nikita Tayal<br>Designation: Company Secretary<br>Qualification: Bachelor of Laws (L.L.B.) and Company Secretary<br>Term of Office: Permanent<br>Service Contract: NA</td><td>30 Years</td><td>01/01/2025</td><td>0.77</td><td>5 Years</td><td>Citygold Credit Capital Limited (NBFC)</td><td>Please refer "Brief Profile of Key Managerial Personnel and Senior Management Personnel"<br>Table of this chapter</td></tr></tbody></table>
+
+## Brief profile of Key Managerial Personnel and Senior Management Personnel
+
+Arun Gupta, Please refer "Brief profile of Directors" on Page number
+
+Piyush Gupta, Please refer "Brief profile of Directors" on Page number
+
+Chirag Gupta, Please refer "Brief profile of Directors" on Page number
+
+Nikita Tayal is the Company Secretary of the Company, having joined on January 1, 2025. She is a qualified Company Secretary (ICSI, 2018) and Law Graduate (LLB., Punjabi University, 2021) with a B.Com. degree from Panjab University (2016). She has prior experience working part-time with B.K. Gupta & Associates, Practicing Company Secretaries, where she handled matters relating to corporate laws, IBC, NCLT, and ROC compliances. From November 2019 to December 2024, she served as the Whole-time Company Secretary of Citygold Credit Capital Limited, a listed NBFC on MSEI, where she was responsible for statutory and regulatory compliances under ROC, SEBI LODR, PIT, SAST Regulations, RBI filings through COSMOS, and coordination with regulatory authorities including CDSL, NSDL, and RTA. Her experience also includes preparation of statutory documents, regulatory filings, legal drafting, and support in corporate restructuring, liquidation, and related proceedings.
+
+## Changes in Key Managerial Personnel and Senior Management personnel in the past 3 years
+
+Following have been the changes in the Key Managerial Personnel during the last three years:
+
+<table><thead><tr><th>Sr. No.</th><th>Name of KMP</th><th>Date of appointment/ resignation</th><th>Designation (at the time of appointment/ resignation)</th><th>Reason</th></tr></thead><tbody><tr><td>1.</td><td>Piyush Gupta</td><td>January 01, 2025</td><td>Chief Financial Officer</td><td>Appointment</td></tr><tr><td>2.</td><td>Nikita Tayal</td><td>January 01, 2025</td><td>Company Secretary</td><td>Appointment</td></tr><tr><td>3.</td><td>Arun Gupta</td><td>January 01, 2025</td><td>Chief Executive Officer</td><td>Appointment</td></tr><tr><td>4.</td><td>Piyush Gupta</td><td>February 01, 2025</td><td>Whole-Time Director</td><td>Redesignated</td></tr><tr><td>5.</td><td>Chirag Gupta</td><td>February 01, 2025</td><td>Whole-Time Director</td><td>Redesignated</td></tr><tr><td>6.</td><td>Arun Gupta</td><td>June 11, 2025</td><td>Managing Director</td><td>Redesignated</td></tr><tr><td>7.</td><td>Arun Gupta</td><td>June 30, 2025</td><td>Chief Executive Officer</td><td>Resignation</td></tr></tbody></table>
+
+173

@@ -1,0 +1,17 @@
+** the % has been calculated based on existing Paid-up Capital of the Company for each period.
+
+^The face value of the company is ₹10/-
+
+*The Company has not issued any convertible instruments like warrants, debentures etc. since its incorporation and there are no outstanding convertible instruments as on date of this Draft Red Herring Prospectus.
+
+-Our Company has not made any public issue (including any rights issue to the public) since its incorporation, except as stated above.
+
+## History of the equity share capital held by the promoters and promoter group
+
+<table><thead><tr><th rowspan="2">S. N.</th><th rowspan="2">Name</th><th colspan="2">Pre-Issue</th><th colspan="2">Post-Issue</th></tr><tr><th>No. of Equity Shares of face value of Rs 10/- each.</th><th>Percentage of pre-issue equity share capital</th><th>No. of Equity Shares of face value of Rs 10/- each.</th><th>Percentage of post-issue equity share capital</th></tr></thead><tbody><tr><td colspan="6"><strong>Promoters</strong></td></tr><tr><td>1</td><td>Arun Gupta</td><td>45,94,087</td><td>34.26%</td><td>●</td><td>●</td></tr><tr><td>2</td><td>Chirag Gupta</td><td>26,71,629</td><td>19.92%</td><td>●</td><td>●</td></tr><tr><td>3</td><td>Piyush Gupta</td><td>22,86,046</td><td>17.05%</td><td>●</td><td>●</td></tr><tr><td colspan="2"><strong>Total -A</strong></td><td><strong>95,51,762</strong></td><td><strong>71.23%</strong></td><td>●</td><td>●</td></tr><tr><td colspan="6"><strong>Promoters Group (B) :</strong></td></tr><tr><td>4</td><td>Nitasha Gupta</td><td>7,02,438</td><td>5.24%</td><td>●</td><td>●</td></tr><tr><td>5</td><td>Sangeeta Gupta</td><td>17,58,550</td><td>13.11%</td><td>●</td><td>●</td></tr><tr><td>6</td><td>Vani Gupta</td><td>1,36,563</td><td>1.02%</td><td>●</td><td>●</td></tr><tr><td>7</td><td>Arun Gupta HUF</td><td>12,60,812</td><td>9.40%</td><td>●</td><td>●</td></tr><tr><td colspan="2"><strong>Total-B</strong></td><td><strong>38,58,363</strong></td><td><strong>28.77%</strong></td><td>●</td><td>●</td></tr><tr><td colspan="2"><strong>Grand Total (A+B)</strong></td><td><strong>1,34,10,125</strong></td><td><strong>100.00%</strong></td><td>●</td><td>●</td></tr></tbody></table>
+
+## Build-up of the shareholding of the Promoters in the Company
+
+<table><thead><tr><th>Date of Allotment/Transfer/Resolution</th><th>Nature of Transaction</th><th>Number of Equity Shares</th><th>Consideration (cash/ other than cash)</th><th>Face Value per Equity Share (in ₹)</th><th>Issue/ Transfer price per Equity Share (in ₹)</th><th>% of Pre- Offer Capital</th><th>% of Post- Offer Capital</th></tr></thead><tbody><tr><td colspan="8"><strong>Arun Gupta</strong></td></tr><tr><td>19.08.1997</td><td>Allotment</td><td>100</td><td>cash</td><td>10</td><td>10</td><td>0.00%</td><td>●</td></tr><tr><td>01.07.1998</td><td>Allotment</td><td>2,500</td><td>cash</td><td>10</td><td>500</td><td>0.02%</td><td>●</td></tr><tr><td>01.10.2011</td><td>Allotment</td><td>2,01,500</td><td>cash</td><td>10</td><td>10</td><td>1.50%</td><td>●</td></tr><tr><td>30.03.2013</td><td>Allotment</td><td>346970</td><td>Other than cash</td><td>10</td><td>10</td><td>2.59%</td><td>●</td></tr><tr><td>01.05.2013</td><td>Allotment</td><td>343500</td><td>cash</td><td>10</td><td>10</td><td>2.56%</td><td>●</td></tr><tr><td>05.09.2013</td><td>Allotment</td><td>65000</td><td>cash</td><td>10</td><td>10</td><td>0.48%</td><td>●</td></tr><tr><td>01.02.2014</td><td>Transfer to Arun Gupta HUF</td><td>-2,50,000</td><td>Other than cash (gift)</td><td>10</td><td>0</td><td>-1.86%</td><td>●</td></tr></tbody></table>
+
+76

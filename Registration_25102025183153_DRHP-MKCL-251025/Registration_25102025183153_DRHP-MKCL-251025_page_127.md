@@ -1,0 +1,19 @@
+The Company's operations are strategically located in Ludhiana, a well-established textile hub, providing access to a reliable network of suppliers, raw materials (such as yarns), logistics service providers, and national distribution channels. This location ensures supply chain stability, smooth procurement, and timely dispatch of finished goods.
+
+Over the years, the Company has transitioned from minimal processing to a fully integrated yarn-to-cloth manufacturing model, focusing on complete value addition from converting yarn into finished cloth and producing high-quality textile products.
+
+Significant capital expenditures have been made in recent years to establish modern production facilities, enhancing production capacity, operational efficiency, and product quality. These investments have optimized production processes, reduced labor-intensive operations, and minimized maintenance costs. The Company's production infrastructure includes advanced machinery such as a PLC-controlled multi-chamber system with thermal oil heating (8 chambers), brushing machines, fabric embossing 3D punching machines, bonding machines, dyeing machines (4 units), shearing and printing machines, and a hydraulic lift for material handling.
+
+The Company operates from a state-of-the-art manufacturing facility equipped with textile machinery imported from Korea, Taiwan, and China, supporting a wide range of processes including knitting, dyeing, printing, brushing, polishing, sueding, and stentering. These capabilities allow the Company to deliver diverse product solutions while maintaining quality standards in line with ISO 9001:2015 certification.
+
+At Madhur Knit Crafts Limited, we are committed to maintaining high standards of environmental, health, and safety compliance across all operations. Our in-house Effluent Treatment Plant (ETP) treats wastewater generated during dyeing and processing to remove harmful contaminants before it is safely reused in select operations and for supporting natural vegetation. These practices reduce freshwater consumption and promote sustainable water management, reflecting the Company's commitment to responsible and eco-conscious manufacturing.
+
+## B. Incorporation, promoters, and registered office details
+
+Madhur Knit Crafts Limited was originally incorporated as Madhur Knit Crafts Private Limited on August 21, 1997, under the Companies Act, 1956, pursuant to a Certificate of Incorporation issued by the Registrar of Companies, Punjab, Himachal Pradesh, and Chandigarh. In January 2025, following a shareholders' resolution passed at the Extraordinary General Meeting held on January 3, 2025, our Company was converted into a public limited company and renamed Madhur Knit Crafts Limited. A fresh Certificate of Incorporation was issued by the Registrar of Companies, Chandigarh. The Corporate Identification Number of our Company is U17301PB1997PLC020381, and its registered office is located at Village Seera, Sattowal Road, Rahon Road, Eros Bajra Road, Ludhiana, Punjab, India – 141007.
+
+Our Company was founded by Mr. Arun Gupta, Mr. Rajesh Gupta, Mr. Ravi Gupta, and Mr. Vishnu Gupta. The present promoters of our Company are Arun Gupta, Piyush Gupta, and Chirag Gupta.
+
+## C. Plant and Machinery, Technology, Process
+
+<table><thead><tr><th>S. No</th><th>Machine*</th><th>No of Units</th><th>Description</th></tr></thead><tbody><tr><td>1.</td><td>Circular Knitting Machine<br><img src="image_placeholder.png" alt="Circular Knitting Machine"></td><td>9</td><td>Used to produce seamless knitted fabrics with high GSM flexibility, ideal for winterwear and fleece products.</td></tr></tbody></table>

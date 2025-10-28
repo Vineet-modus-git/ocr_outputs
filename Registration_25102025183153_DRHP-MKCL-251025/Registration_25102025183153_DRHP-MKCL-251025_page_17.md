@@ -1,0 +1,13 @@
+<table><thead><tr><td>Terms</td><td>Description</td></tr></thead><tbody><tr><td>RTGS</td><td>Real Time Gross Settlement</td></tr><tr><td>SCRA</td><td>Securities Contract (Regulation) Act, 1956, as amended from time to time</td></tr><tr><td>SCRR</td><td>Securities Contracts (Regulation) Rules, 1957, as amended from time to time.</td></tr><tr><td>Sec.</td><td>Section</td></tr><tr><td>STT</td><td>Securities Transaction Tax</td></tr><tr><td>Trade payable days</td><td>Trade payable days indicate the average number of days a company takes to pay its suppliers for goods or services purchased on credit.</td></tr><tr><td>Trade receivable days</td><td>Trade receivable days show the average number of days a company takes to collect payments from its customers for goods or services sold on credit.</td></tr><tr><td>UPI</td><td>Unified payments interface which is an instant payment mechanism, developed by NPCI.</td></tr><tr><td>VCF / Venture Capital Fund</td><td>Foreign Venture Capital Funds (as defined under the Securities and Exchange Board of India (Venture Capital Funds) Regulations, 1996) registered with SEBI under applicable laws in India.</td></tr><tr><td>Revenue Growth Year on Year</td><td>Revenue Growth measures the percentage increase or decrease in a company's revenue compared to the same period in the previous year.</td></tr></tbody></table>
+
+Notwithstanding the foregoing:
+
+1. In the section titled "Main Provisions of the Articles of Association" beginning on page number 314 of the Draft Red Herring Prospectus, defined terms shall have the meaning given to such terms in that section;
+
+2. In the chapters titled "Summary of Issue Documents" and "Our Business" beginning on page numbers 18 and 123 respectively, of the Draft Red Herring Prospectus, defined terms shall have the meaning given to such terms in that section;
+
+3. In the section titled "Risk Factors" beginning on page number 25 of the Draft Red Herring Prospectus, defined terms shall have the meaning given to such terms in that section;
+
+4. In the chapter titled "Statement of Tax Benefits" beginning on page number 105 of the Draft Red Herring Prospectus, defined terms shall have the meaning given to such terms in that section;
+
+5. In the chapter titled "Management's Discussion and Analysis of Financial Conditions and Results of Operations" beginning on page number 226 of the Draft Red Herring Prospectus, defined terms shall have the meaning given to such terms in that section.

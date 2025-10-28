@@ -1,0 +1,20 @@
+M/s. Madhur Knit Crafts Limited
+(Formerly Known As M/S. Madhur Knit Crafts Private Limited)
+CIN- U17301PB1997PTC020381
+Village - Seera, Sattowal Road, Rahon Road, Ludhiana
+
+<table><tr><td>Hdfc Bank Ltd Loan Bbg-Wctl</td><td>Secured against book debts, Fixed deposits, plant and machinery and personal guarantees of directors</td><td>Term Loan</td><td>100.00</td><td>60</td><td>63.86</td><td>68.61</td><td>86.39</td><td>2.67% + Rep Rate</td></tr><tr><td>HDFC BANK LTD (ECLGS)</td><td>Secured against book debts (Covid Crisis Loan)</td><td>Term Loan</td><td>371.03</td><td>48</td><td></td><td></td><td>167.11</td><td>NA</td></tr><tr><td colspan="2"></td><td>Total</td><td></td><td>2644.70</td><td>3161.99</td><td>2906.48</td><td>628.62</td><td></td></tr></table>
+
+The loans from directors and related parties have no fixed tenure and no interest is paid on them.
+
+NOTE-6
+
+<table><thead><tr><th colspan="5">DEFFERD TAX LIABILITIES (NET)</th></tr><tr><th></th><th>AS AT 30-06-2025</th><th>AS AT 31-03-2025</th><th>AS AT 31-03-2024</th><th>AS AT 31-03-2023</th></tr></thead><tbody><tr><td><strong>Deferred Tax Liability</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>- On account of timing difference in depreciation allowable as per Income Tax Act and Companies Act</td><td>175.00</td><td>171.35</td><td>196.78</td><td>201.15</td></tr><tr><td><strong>Deferred Tax Asset</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>-Deferred tax asset on account of timing difference on provision for gratuity</td><td>5.66</td><td>4.89</td><td>7.67</td><td>7.22</td></tr><tr><td>-Deferred tax asset on account of timing difference on provision for doubtful debts</td><td>4.01</td><td>4.01</td><td></td><td></td></tr><tr><td><strong>TOTAL</strong></td><td><strong>165.32</strong></td><td><strong>162.45</strong></td><td><strong>189.12</strong></td><td><strong>193.92</strong></td></tr><tr><td><strong>SHORT TERM BORROWINGS</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Secured</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>(A) Loans Repayable on Demand</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>Cash Credit Limit/ Overdraft A/c</td><td>3649.47</td><td>2634.35</td><td>2156.66</td><td>2046.79</td></tr><tr><td>Current Maturities of Long Term Borrowings (Refer note-5)</td><td>594.91</td><td>969.03</td><td>669.54</td><td>228.20</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>4244.38</strong></td><td><strong>3603.38</strong></td><td><strong>2826.20</strong></td><td><strong>2274.99</strong></td></tr></tbody></table>
+
+Note :
+
+Working Capital Loans: Secured by Hypothecation of Stocks and Receivables and other Current Assets Present & Future and Further Secured on Fixed assets of the Company and Personal Guarantee of Directors.
+
+<table><thead><tr><th>PARTICULARS.</th><th>AS AT 30-06-2025</th><th>AS AT 31-03-2025</th><th>AS AT 31-03-2024</th><th>AS AT 31-03-2023</th></tr></thead><tbody><tr><td><strong>NOTE-8</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>TRADE PAYABLES</strong></td><td></td><td></td><td></td><td></td></tr><tr><td>i) total outstanding dues of micro and small enterprises</td><td>4.59</td><td>6.29</td><td>1.54</td><td>2.20</td></tr><tr><td>ii) total outstanding dues of creditors other than micro and small enterprises</td><td>2404.15</td><td>1561.15</td><td>1219.22</td><td>1227.75</td></tr><tr><td></td><td><strong>2408.75</strong></td><td><strong>1567.44</strong></td><td><strong>1220.76</strong></td><td><strong>1229.95</strong></td></tr></tbody></table>
+
+199

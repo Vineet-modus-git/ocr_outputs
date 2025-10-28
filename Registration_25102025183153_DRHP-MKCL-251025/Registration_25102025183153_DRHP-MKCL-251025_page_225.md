@@ -1,0 +1,19 @@
+STATEMENT OF FINANCIALS INDEBTEDNESS
+
+To,
+
+The Board of Directors,
+
+**M/s. Madhur Knit Crafts Limited**
+
+Village - Seera, Sattowal Road, Rahon Road, Ludhiana
+
+Dear Sir,
+
+Below is the summary of loans outstanding as at 30th June 2025 in the books of accounts of M/s. Madhur Knit Crafts Limited.
+
+(In Lacs)
+
+<table><thead><tr><td>Name of the Bank</td><td>Date of initiation on</td><td>Purpose</td><td>ROI(%)</td><td>Security offered</td><td>Sanctioned amount</td><td>Loan type</td><td>Cl osing balance as on 30th June 2025</td></tr></thead><tbody><tr><td>Aditya Birla Finance Limited</td><td>14.09.2023</td><td>Business Loan</td><td>15.5</td><td>Unsecured</td><td>50</td><td>Unsecured Loan</td><td>25.09</td></tr><tr><td>Axis Bank Limited</td><td>18.09.2023</td><td>Business Loan</td><td>1 year MCLR+ Spread 6.35%</td><td>Unsecured</td><td>40</td><td>Unsecured Loan</td><td>5.41</td></tr><tr><td>Fedbank Financial Services Limited</td><td>22.08.2023</td><td>Business Loan</td><td>15</td><td>Unsecured</td><td>30</td><td>Unsecured Loan</td><td>14.14</td></tr><tr><td>Fullerton India Credit Co.Limited</td><td>06.09.2023</td><td>Business Loan</td><td>15.5</td><td>Unsecured</td><td>50</td><td>Unsecured Loan</td><td>25.09</td></tr><tr><td>ICICI Bank Limited</td><td>13.09.2023</td><td>Business Loan</td><td>15</td><td>Unsecured</td><td>50</td><td>Unsecured Loan</td><td>23.53</td></tr><tr><td>IDFC Bank Limited</td><td>13.09.2023</td><td>Business Loan</td><td>15.5</td><td>Unsecured</td><td>76.5</td><td>Unsecured Loan</td><td>38.38</td></tr><tr><td>Indusind Bank Limited</td><td>07.09.2023</td><td>Business Loan</td><td>15.5</td><td>Unsecured</td><td>50</td><td>Unsecured Loan</td><td>23.57</td></tr><tr><td>Kisetsu Saison Finance (I) Private Limited</td><td>05.09.2023</td><td>Business Loan</td><td>15.5</td><td>Unsecured</td><td>45</td><td>Unsecured Loan</td><td>15.31</td></tr><tr><td>Kotak Mahindra Bank Limited</td><td>18.09.2023</td><td>Business Loan</td><td>15</td><td>Unsecured</td><td>40</td><td>Unsecured Loan</td><td>5.67</td></tr><tr><td>L & T Financial Limited</td><td>18.09.2023</td><td>Business Loan</td><td>16</td><td>Unsecured</td><td>50.1</td><td>Unsecured Loan</td><td>23.65</td></tr></tbody></table>
+
+222
