@@ -21,4 +21,5 @@ While we strive to maintain efficient procurement, production, and delivery proc
 As of August 31, 2025, we have ₹1,637.69 Lakhs of outstanding debt. Our level of indebtedness has important consequences to us, such as:
 
 * Increasing our vulnerability to general adverse economic, industry and competitive conditions;
+
 * Limiting our flexibility in planning for, or reacting to, changes in our business and the industry;

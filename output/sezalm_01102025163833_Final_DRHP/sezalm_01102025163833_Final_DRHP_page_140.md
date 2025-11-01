@@ -6,13 +6,14 @@ Table below shows our revenue from various types of vehicles are set forth in th
 
 <table><thead><tr><th rowspan="2">Vehicles Type</th><th colspan="2">As on March 31, 2025</th><th colspan="2">As on March 31, 2024</th><th colspan="2">As on March 31, 2023</th></tr><tr><th>Revenue</th><th>% of Revenue</th><th>Revenue</th><th>% of Revenue</th><th>Revenue</th><th>% of Revenue</th></tr></thead><tbody><tr><td>Three wheelers</td><td>3.00</td><td>0.04%</td><td>33.30</td><td>0.44%</td><td>25.78</td><td>0.55%</td></tr><tr><td>Four wheelers</td><td>6,557.05</td><td>80.93%</td><td>6695.50</td><td>88.42%</td><td>4676.60</td><td>99.45%</td></tr><tr><td>Heavy vehicles</td><td>1,542.57</td><td>19.04%</td><td>843.57</td><td>11.14%</td><td>0.00</td><td>0.00%</td></tr><tr><td><strong>Total</strong></td><td><strong>8,102.62</strong></td><td><strong>100.00%</strong></td><td><strong>7,572.38</strong></td><td><strong>100.00%</strong></td><td><strong>4,702.39</strong></td><td><strong>100.00%</strong></td></tr></tbody></table>
 
-As certified by Vishal .H .Shah & Associates ., Chartered Accountants, Statutory Auditor pursuant to their certificate September 22, 2025
+As certified by Vishal .H .Shah & Associates., Chartered Accountants, Statutory Auditor pursuant to their certificate September 22, 2025
 
-The company earns revenue from domestic and export sales through sale of CNG and LPG conversion kits, installation of fuel kits, and maintenance contracts, sale of cylinders, spare parts and providing technical support. The Automobile type wise revenue bifurcation is set forth in the table below:
+The company earns revenue from domestic and export sales through sale of CNG and LPG conversion kits, installation of fuel kits, and maintenance contracts, sale of cylinders, spare parts and providing technical support.
+The Automobile type wise revenue bifurcation is set forth in the table below:
 
 <table><thead><tr><th rowspan="2">Market segments</th><th colspan="2">As on March 31, 2025</th><th colspan="2">As on March 31, 2024</th><th colspan="2">As on March 31, 2023</th></tr><tr><th>Revenue</th><th>% of Revenue</th><th>Revenue</th><th>% of Revenue</th><th>Revenue</th><th>% of Revenue</th></tr></thead><tbody><tr><td>Domestic</td><td>8,079.66</td><td>99.72%</td><td>7,559.11</td><td>99.82%</td><td>4,702.39</td><td>100.00%</td></tr><tr><td>Export</td><td>22.95</td><td>0.28%</td><td>13.27</td><td>0.18%</td><td>0.00</td><td>0.00%</td></tr><tr><td><strong>Total</strong></td><td><strong>8,102.62</strong></td><td><strong>100.00%</strong></td><td><strong>7,572.37</strong></td><td><strong>100.00%</strong></td><td><strong>4,702.39</strong></td><td><strong>100.00%</strong></td></tr></tbody></table>
 
-As certified by Vishal .H .Shah & Associates ., Chartered Accountants, Statutory Auditor pursuant to their certificate September 22, 2025
+As certified by Vishal .H .Shah & Associates., Chartered Accountants, Statutory Auditor pursuant to their certificate September 22, 2025
 
 The table below shows our State wise revenue bifurcation from Institutional customers and Retail customers for the financial Years:
 

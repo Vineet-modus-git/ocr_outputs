@@ -18,7 +18,7 @@ Our Company has availed borrowings in the ordinary course of our business. Set f
 
 <table><thead><tr><td>Name of Lender</td><td>Purpose</td><td>Sanctioned Amount</td><td>Outstanding amount as on Aug 31, 2025</td></tr></thead><tbody><tr><td>Dhanlaxmi Bank</td><td>Bank Guarantee (Tender)</td><td>350.00</td><td>350.00</td></tr><tr><td>Dhanlaxmi Bank</td><td>Bank Guarantee (Customs)</td><td>20.00</td><td>20.00</td></tr><tr><td>Dhanlaxmi Bank</td><td>Bank Guarantee (Customs)</td><td>0.50</td><td>0.50</td></tr><tr><td>Dhanlaxmi Bank</td><td>Import LC (___)</td><td>77.34</td><td>77.34</td></tr><tr><td>ICICI Bank</td><td>Bank Guarantee (Tender)</td><td>33.19</td><td>33.19</td></tr><tr><td>Bank of India</td><td>Bank Guarantee (Sales tax)</td><td>1.00</td><td>1.00</td></tr><tr><td>Bank of India</td><td>Bank Guarantee (Sales tax)</td><td>1.00</td><td>1.00</td></tr><tr><td>Bank of India</td><td>Bank Guarantee (Sales tax)</td><td>0.60</td><td>0.60</td></tr><tr><td>Bank of India</td><td>Bank Guarantee (Sales tax)</td><td>0.10</td><td>0.10</td></tr><tr><td>Total (Non-Fund Based)</td><td></td><td></td><td>406.39</td></tr></tbody></table>
 
-**Note: Collateral Security for the Secured Borrowings is as under:**
+Note: Collateral Security for the Secured Borrowings is as under:
 
 ### Dhanlaxmi Bank -Term Loan
 

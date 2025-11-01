@@ -1,4 +1,4 @@
-## BUSINESS OVERVIEW
+# BUSINESS OVERVIEW
 
 Some of the information in this section, including information with respect to our plans and strategies, contain forward-looking statements that involve risks and uncertainties. Before deciding to invest in the Equity Shares, Shareholders should read this Draft Red Herring Prospectus. An investment in the Equity Shares involves a high degree of risk. For a discussion of certain risks in connection with investments in the Equity Shares, you should read "Risk Factors" on page 22 for a discussion of the risks and uncertainties related to those statements, as well as "Restated Financial Information" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" on page 189 and 238 respectively, for a discussion of certain factors that may affect our business, financial condition or results of operations. Our actual results may differ materially from those expressed in or implied by these forward-looking statements. Unless otherwise stated, the financial information used in this section is derived from our Restated Consolidated Financial Statements.
 
@@ -6,7 +6,7 @@ Our fiscal year ends on March 31 of each year, so all references to a particular
 
 Unless the context otherwise requires, in relation to business operations, in this chapter of this Prospectus, all references to "We", "Us", "Our" and "Our Company" are to Eco Fuel Systems (India) Limited as the case may be.
 
-## OVERVIEW
+# OVERVIEW
 
 We are an alternative fuel systems company based in India offering trading, distribution, retrofitment, kit integration, and testing solutions for LPG, CNG, and LNG conversion kits, catering to three-wheelers, four-wheelers, and heavy-duty vehicles. Our product portfolio encompasses complete alternative fuel system components including High Pressure Reducers (NGB-L and RMJ models), Electronic Control Units with OBD II compatibility for 4-cylinder and 8-cylinder engines, ECU Wiring Harnesses (Smart-II and C-OBDII-8 Cyl), Gas Injectors, Switches with Level Indicators, Refilling Valves, and Filters with PT/MAP Sensors, among others. Our products are designed for alternative fuel conversions across three-wheelers, four-wheelers, and heavy-duty vehicles, reflecting our capability to cater to diverse vehicle segments utilizing LPG, CNG, and LNG fuel types, thus positioning us to serve the expanding alternative fuel conversion market. For Financial Year 2025, Financial Year 2024, and Financial Year 2023, our revenue from operations was ₹8,102.62 Lakhs, ₹7,572.38 Lakhs, and ₹4,702.39 Lakhs respectively, growing at a CAGR of 31.26% between Financial Years 2023 and 2025.
 

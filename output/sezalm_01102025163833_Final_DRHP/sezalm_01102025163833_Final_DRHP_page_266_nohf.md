@@ -2,6 +2,6 @@
 
 *Registration obtained as required by the respective clients in the state. Our Company does not have any offices or places of business in these states and merely has GST registration as per the client's requirement.
 
-C. Regulatory approvals obtained by our Company:
+### C. Regulatory approvals obtained by our Company:
 
 <table><thead><tr><td>Sr. No.</td><td>Nature of Registration/ License</td><td>Registration/Licence/Certificate No.</td><td>Issuing Authority</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Certificate of registration – Employee's Provident Fund Code</td><td>310012839700010 21</td><td>Employees' Provident Fund Organisation, Ministry of Labour and Employment</td><td>November 6, 2024</td><td>Valid till cancelled</td></tr><tr><td>2.</td><td>Certificate of registration – ESIC</td><td>310012839700010 21</td><td>Employees' State Insurance Corporation</td><td>November 06, 2024</td><td>Valid till cancelled</td></tr><tr><td>3.</td><td>Udyog Aadhar</td><td>MH18A0142935</td><td>Ministry of Micro, Small and Medium Enterprises, Government of India</td><td>March 1, 2003</td><td>Valid till cancelled</td></tr></tbody></table>

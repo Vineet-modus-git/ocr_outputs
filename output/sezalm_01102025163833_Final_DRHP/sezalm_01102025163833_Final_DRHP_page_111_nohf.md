@@ -2,7 +2,7 @@ BASIS FOR ISSUE PRICE
 
 The Price Band and the Issue Price will be determined by our Company, in consultation with the BRLMs, on the basis of assessment of market demand for the Equity Shares Issue ed through the Book Building Process and the quantitative and qualitative factors as described below and is justified in view of these parameters. The face value of the Equity Shares is ₹10 each and the Floor Price is [●] times the face value of the Equity Shares and the Cap Price is [●] times the face value of the Equity Shares.
 
-Investors should also refer to “Risk Factors”, “Business Overview”, “Summary of Financial statement”, “Restated Consolidated Financial Information”, and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” on pages 22, 130, 54 ,189 , and 238, respectively, to have an informed view before making an investment decision.
+Investors should also refer to "Risk Factors", "Business Overview", "Summary of Financial statement", "Restated Consolidated Financial Information", and "Management's Discussion and Analysis of Financial Condition and Results of Operations" on pages 22, 130, 54, 189, and 238, respectively, to have an informed view before making an investment decision.
 
 QUALITATIVE FACTORS
 
@@ -20,13 +20,11 @@ QUALITATIVE FACTORS
 
 * Optimal Utilization of Resources
 
-For a detailed discussion on the qualitative factors which form the basis for computing the price, please refer to sections
-titled " *Business Overview* " beginning on page 130 of the Draft Red Herring Prospectus.
+For a detailed discussion on the qualitative factors which form the basis for computing the price, please refer to sections titled "Business Overview" beginning on page 130 of the Draft Red Herring Prospectus.
 
 QUANTITATIVE FACTORS
 
-Information presented below is derived from our Company's Restated Consolidated Financial Statements prepared in
-accordance with IND AS. Some of the quantitative factors, which form the basis for computing the price are as follows:
+Information presented below is derived from our Company's Restated Consolidated Financial Statements prepared in accordance with IND AS. Some of the quantitative factors, which form the basis for computing the price are as follows:
 
 1. Basic and Diluted Earnings Per Share (EPS):
 
@@ -76,7 +74,7 @@ Notes:
 
 2. Basic and diluted EPS are based on the Restated Financial Statements.
 
-3. The face value of each Equity Share is ₹10/.
+3. The face value of each Equity Share is ₹10/-.
 
 4. Earnings per Share (₹) = Profit after tax excluding exceptional items before other comprehensive income attributable to equity shareholders for the year/period divided by the weighted average no. of equity shares during the respective year/period.;
 

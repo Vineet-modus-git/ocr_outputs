@@ -1,8 +1,8 @@
-ECO Fuel Systems (India) Limited
+# ECO Fuel Systems (India) Limited
 
 (Formerly known as ECO Fuel Systems (India) Private Limited)
 
-Restated Consolidated Balance Sheet as at March 31, 2025
+## Restated Consolidated Balance Sheet as at March 31, 2025
 
 (Amount in Rs. Lakhs)
 
@@ -11,53 +11,35 @@ Restated Consolidated Balance Sheet as at March 31, 2025
 As per our Report of even date
 
 For and on behalf of
-
-Vishal H Shah & Associates
-
+**Vishal H Shah & Associates**
 Chartered Accountants
-
 Registration No.: 116422W
 
 For and on behalf of the Board
-
-ECO Fuel Systems (India) Limited
-
+**ECO Fuel Systems (India) Limited**
 (Formerly known as ECO Fuel Systems (India) Private Limited)
 
-Vishal Shah
-
+**Vishal Shah**
 Proprietor
-
 Membership No.: 101231
 
-Virendra Vora
-
+**Virendra Vora**
 Managing Director
-
 DIN :01331707
 
-Nemin Vora
-
+**Nemin Vora**
 Chief Executive Officer & Director
-
 DIN : 05176213
 
-Thomas Samuel
-
+**Thomas Samuel**
 Chief Financial Officer
 
-Ishvi Khare
-
+**Ishvi Khare**
 Company Secretary
-
 Membership No.: A51915
 
 Place: Mumbai
-
 Date: September 6, 2025
 
 Place: Mumbai
-
 Date: September 6, 2025
-
-94

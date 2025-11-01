@@ -2,7 +2,7 @@
 
 The funding requirements and deployment of proceeds for Acquisition of New Two wheelers based on a quotation from Verdaai Autos(for (TVS NTorq 125), Access 125(2024) and Maestro (2018) dated August 27, 2025. Further, the funding requirements are based on current market conditions and are subject to revisions in light of changes in external circumstances or costs, or our financial condition, business or strategy.
 
-<table><thead><tr><td>Sr. No.</td><td>Type of Vehicle</td><td>Approximate Cost</td></tr></thead><tbody><tr><td>1</td><td>TVS NTorq 125</td><td>65,000</td></tr><tr><td>2</td><td>Access 125 (2024)</td><td>79,000</td></tr><tr><td>3</td><td>Maestro (2018)</td><td>40,000</td></tr><tr><td></td><td>Total</td><td>1,84,000.00</td></tr></tbody></table>
+<table><thead><tr><td>Sr. No.</td><td>Type of Vehicle</td><td>Approximate Cost</td></tr></thead><tbody><tr><td>1</td><td>TVS NTorq 125</td><td>65,000</td></tr><tr><td>2</td><td>Access 125 (2024)</td><td>79,000</td></tr><tr><td>3</td><td>Maestro (2018)</td><td>40,000</td></tr><tr><td></td><td><strong>Total</strong></td><td><strong>1,84,000.00</strong></td></tr></tbody></table>
 
 ## C. Four-Wheelers Vehicles
 

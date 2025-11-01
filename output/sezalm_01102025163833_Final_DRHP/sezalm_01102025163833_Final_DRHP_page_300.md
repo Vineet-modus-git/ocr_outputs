@@ -46,7 +46,7 @@ Subject to the above, an illustrative list of Bidders is as follows:
 
 * Any other person eligible to apply in this Issue, under the laws, rules, regulations, guidelines and policies applicable to them.
 
-Applications not to be made by:
+**Applications not to be made by:**
 
 * Minors (except through their Guardians)
 

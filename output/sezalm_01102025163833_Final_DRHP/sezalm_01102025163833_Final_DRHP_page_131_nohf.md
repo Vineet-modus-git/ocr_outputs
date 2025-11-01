@@ -2,7 +2,7 @@
 *   Rising Fuel Prices: The increasing cost of petrol and diesel is driving the demand for more economical alternatives such as CNG and LPG. This trend is expected to continue, enhancing the market potential for CNG and LPG kits.
 *   Technological Advancements: Continuous innovations in CNG and LPG kit technology, such as improved efficiency, safety features, and cost-effectiveness, will likely boost adoption rates.
 
-## Global CNG Cylinders Market:
+**Global CNG Cylinders Market:**
 
 With a 4.3% compound annual growth rate, the global CNG tank and cylinder market is expected to reach USD 0.97 billion in 2024 and USD 1.36 billion by 2032. During the predicted period in 2023, the market was valued at USD 0.93 billion. In 2023, the CNG tank and cylinder market share is dominated by Asia-Pacific.
 
@@ -12,7 +12,7 @@ Growing public awareness of natural gas-powered automobiles and government progr
 
 Sources: (Management estimation based on publicly available data)
 
-## CNG Tank and Cylinder Market Regional Insights
+**CNG Tank and Cylinder Market Regional Insights**
 
 The Asia Pacific region is projected to lead the CNG tank and cylinder market, driven by the increasing demand for natural gas in countries like India, China, and Japan. China, in particular, is accelerating investments in CNG tanks as part of its push for cleaner energy solutions in commercial and industrial transportation. This trend is expected to drive demand both within the region and globally. Additionally, the high consumption of Type 1 CNG tanks further strengthens the market position in this region.
 
@@ -20,9 +20,9 @@ The rise in commercial and industrial transportation has contributed to the expa
 
 Source: (Management estimation based on publicly available data)
 
-## Industrial Cylinders Market:
+**Industrial Cylinders Market:**
 
-### What is an industrial gas cylinder?
+**What is an industrial gas cylinder?**
 
 Industrial gases are commercially produced and supplied for various industrial applications. This category includes gases like helium, nitrogen, oxygen, hydrogen, carbon dioxide, argon, and acetylene, which are essential for numerous sectors such as chemical production, steel and metal fabrication, electronics, food and beverage, and water treatment. Their applications range from petrochemical and fertilizer manufacturing to metal processing, semiconductor production, carbonation, oil refining, and water purification, including wastewater and natural water bodies.
 

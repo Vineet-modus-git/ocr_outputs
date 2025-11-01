@@ -8,7 +8,7 @@ There are no possible special tax benefits available to the Company under Income
 
 2. Special Tax Benefits to the Shareholders
 
-The shareholders of the Company are also not eligible to any special tax benefits under the provisions of the Income Tax Act, 1961 read with the relevant Income Tax Rules, 1962, the Customs Tariff Act, 1975 and / or Central Goods and Services Tax Act, 2017, Integrated Goods and Services Tax Act, 2017, Union Territory Goods and Services Tax Act, 2017, respective State Goods and Services Tax Act, 2017 and Goods and Services Tax (Compensation to States) Act, 2017 read with the relevant Central Goods and Services Tax Rules, 2017, Integrated Goods and Services Tax Rules, 2017, Union Territory Goods and Services Tax Rules, State Goods and Services Tax Rules, 2017 and notifications issued under these Acts and Rules and the foreign trade policy.
+The shareholders of the Company are also not eligible to any special tax benefits under the provisions of the Income Tax Act, 1961 read with the relevant Income Tax Rules, 1962, the Customs Tariff Act, 1975 and/or Central Goods and Services Tax Act, 2017, Integrated Goods and Services Tax Act, 2017, Union Territory Goods and Services Tax Act, 2017, respective State Goods and Services Tax Act, 2017 and Goods and Services Tax (Compensation to States) Act, 2017 read with the relevant Central Goods and Services Tax Rules, 2017, Integrated Goods and Services Tax Rules, 2017, Union Territory Goods and Services Tax Rules, State Goods and Services Tax Rules, 2017 and notifications issued under these Acts and Rules and the foreign trade policy.
 
 Notes:
 

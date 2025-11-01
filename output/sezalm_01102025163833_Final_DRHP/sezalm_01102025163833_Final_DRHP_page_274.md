@@ -12,3 +12,5 @@ The liability prescribed under Section 447 of the Companies Act, 2013, includes 
 
 For details regarding the price information and track record of the past issue handled by Arihant Capital Markets Limited, as specified in the circular reference CIR/CFD/DIL/7/2015 dated October 30, 2015, issued by SEBI, please refer Annexure "A" and the website of Book Running Lead Manager at www.arihantcapital.com
 Annexure A
+
+271

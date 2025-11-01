@@ -6,7 +6,7 @@ Notes to Ind AS Restated Consolidated Financial Statements
 
 (Amount in Rs. Lakhs)
 
-**52. APPROVAL OF FINANCIALS STATEMENTS**
+## 52. APPROVAL OF FINANCIALS STATEMENTS
 
 The Ind AS restated consolidated financial statements are authorised by the Board of Directors of the Group at their meeting held on September 6, 2025.
 

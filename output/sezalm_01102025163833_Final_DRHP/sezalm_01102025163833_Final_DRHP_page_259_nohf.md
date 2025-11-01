@@ -16,14 +16,14 @@ Unless stated to the contrary, the information provided below is as of the date 
 
 All terms defined in a particular litigation disclosure pertains to that litigation only.
 
-#### I. Litigation involving our Company.
+**I. Litigation involving our Company.**
 
-##### A. Litigation filed against our Company.
+**A. Litigation filed against our Company.**
 
-###### 1. Criminal proceedings
+**1. Criminal proceedings**
 
 Nil
 
-###### 2. Outstanding actions by regulatory and statutory authorities
+**2. Outstanding actions by regulatory and statutory authorities**
 
 Nil

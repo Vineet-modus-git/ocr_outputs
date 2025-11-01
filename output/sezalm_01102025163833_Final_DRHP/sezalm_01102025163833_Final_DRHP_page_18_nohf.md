@@ -1,4 +1,4 @@
-## OBJECTS OF THE ISSUE
+OBJECTS OF THE ISSUE
 
 Our Company proposes to utilize the funds which are being raised through the Fresh Issue towards the below-mentioned objects:
 
@@ -8,12 +8,12 @@ Our Company proposes to utilize the funds which are being raised through the Fre
 
 *To be finalised upon determination of the Issue Price and updated in the Prospectus prior to filing with the RoC, Mumbai and the amount to be utilized for general corporate purposes shall not exceed 15% of the amount raised by our Company or Rs 10 Cr whichever is lower.
 
-## PRE-ISSUE SHARE HOLDING OF PROMOTERS AND PROMOTER GROUP
+PRE- ISSUE SHARE HOLDING OF PROMOTERS AND PROMOTER GROUP
 
 Our Promoters and Promoter Group collectively holds 1,55,60,561 Equity shares of our Company aggregating to 96.92% of the pre-Issue paid-up Share Capital of our Company. Following are the details of the shareholding of the Promoters and Promoter Group, as on date of this Draft Red Herring Prospectus:
 
 <table><thead><tr><th>Sr. No.</th><th>Name of the Shareholder</th><th>Number of Equity Shares</th><th>Percentage of the Pre-Issue Equity Share capital (%)*</th><th>Percentage of the Post-Issue Equity Share capital (%)</th></tr></thead><tbody><tr><td colspan="5"><strong>Promoters</strong></td></tr><tr><td>1.</td><td>Virendra Maneklal Vora</td><td>62,92,168</td><td>39.96</td><td>[•]</td></tr><tr><td>2.</td><td>Vibha Virendra Vora</td><td>65,62,369</td><td>41.68</td><td>[•]</td></tr><tr><td>3.</td><td>Nemin Virendra Vora</td><td>26,20,500</td><td>16.64</td><td>[•]</td></tr><tr><td></td><td><strong>Sub-total (A)</strong></td><td><strong>1,54,75,037</strong></td><td><strong>98.28</strong></td><td><strong>[•]</strong></td></tr><tr><td colspan="5"><strong>Promoter Group</strong></td></tr><tr><td>1.</td><td>Mukesh Vora</td><td>131</td><td>Negligible</td><td>[•]</td></tr><tr><td>2.</td><td>Parmi Kekin Bheda</td><td>131</td><td>Negligible</td><td>[•]</td></tr><tr><td>3.</td><td>Jhanavi Shah</td><td>131</td><td>Negligible</td><td>[•]</td></tr><tr><td>4.</td><td>Vaishali Vora</td><td>131</td><td>Negligible</td><td>[•]</td></tr><tr><td></td><td><strong>Sub-total (B)</strong></td><td><strong>524</strong></td><td><strong>Negligible</strong></td><td><strong>[•]</strong></td></tr><tr><td></td><td><strong>Total (A + B)</strong></td><td><strong>1,54,75,561</strong></td><td><strong>98.28</strong></td><td><strong>[•]</strong></td></tr></tbody></table>
 
-### Shareholding of Promoter/ Promoter Group and Additional Top 10 Shareholders of the Company as at allotment
+Shareholding of Promoter/ Promoter Group and Additional Top 10 Shareholders of the Company as at allotment
 
 <table><thead><tr><th rowspan="3">Sr. No.</th><th colspan="3">Pre-Issue shareholding as at the date of Advertisement</th><th colspan="4">Post-Issue shareholding as at Allotment<sup>(3)</sup></th></tr><tr><th rowspan="2">Shareholders</th><th rowspan="2">Number of Equity Shares<sup>(2)</sup></th><th rowspan="2">Share holding (in %)<sup>(2)</sup></th><th colspan="2">At the lower end of the price band (₹[•])</th><th colspan="2">At the upper end of the price band (₹[•])</th></tr><tr><th>Number of Equity Shares<sup>(2)</sup></th><th>Share holding (in %)<sup>(2)</sup></th><th>Number of Equity Shares<sup>(2)</sup></th><th>Share holding (in %)<sup>(2)</sup></th></tr></thead><tbody><tr><td rowspan="3">1.</td><td>Virendra Maneklal Vora</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td></tr><tr><td>Vibha Virendra Vora</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td></tr><tr><td>Nemin Virendra Vora</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td></tr><tr><td>2.</td><td><strong>Promoter Group<sup>(1)</sup></strong></td><td>[•]</td><td>[•]</td><td></td><td></td><td></td><td></td></tr><tr><td>1.</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td></tr></tbody></table>

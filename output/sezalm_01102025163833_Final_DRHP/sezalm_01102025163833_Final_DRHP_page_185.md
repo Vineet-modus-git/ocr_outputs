@@ -20,7 +20,7 @@ Our Promoters have not given any material guarantees to any third party, in resp
 
 ## Payment of Amounts or Benefits to the Promoters or Promoter Group During the last two years
 
-Except in the ordinary course of business and as stated in the section "Related Party Transactions – Restated Financial Information" on page 18, there has been no payment of amounts or benefits to our Promoters or Promoter Group during the two years preceding the date of this Draft Red Herring Prospectus nor is there any intention to pay or give any amount or benefit to our Promoters or members of our Promoter Group.
+Except in the ordinary course of business and as stated in the section "Related Party Transactions - Restated Financial Information" on page 18, there has been no payment of amounts or benefits to our Promoters or Promoter Group during the two years preceding the date of this Draft Red Herring Prospectus nor is there any intention to pay or give any amount or benefit to our Promoters or members of our Promoter Group.
 
 ## Undertakings/ Confirmations/Declarations
 

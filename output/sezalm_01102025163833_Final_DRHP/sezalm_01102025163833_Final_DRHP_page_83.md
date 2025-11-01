@@ -1,8 +1,8 @@
-<table><thead><tr><td>Name of Shareholders</td><td>Number of Equity Shares</td><td>% of the Pre-Issue share capital</td></tr></thead><tbody><tr><td>Virendra Maneklal Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Vibha Virendra Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Hanumant Rao Bhounsle</td><td>4,73,639</td><td>15.79</td></tr><tr><td><strong>Total</strong></td><td><strong>29,73,639</strong></td><td><strong>99.15</strong></td></tr></tbody></table>
+<table><thead><tr><td>Name of Shareholders</td><td>Number of Equity Shares</td><td>% of the Pre-Issue share capital</td></tr></thead><tbody><tr><td>Virendra Maneklal Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Vibha Virendra Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Hanumant Rao Bhounsle</td><td>4,73,639</td><td>15.79</td></tr><tr><td>Total</td><td>29,73,639</td><td>99.15</td></tr></tbody></table>
 
 **D.** Particulars of the shareholders holding 1% or more of the paid-up equity share capital of the Company and the number of shares held by them two (2) years prior to the date of filing of this Draft Red Herring Prospectus:
 
-<table><thead><tr><td>Name of Shareholders</td><td>Number of Equity Shares</td><td>% of the Pre-Issue share capital</td></tr></thead><tbody><tr><td>Virendra Mankelal Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Vibha Virendra Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Hanumant Rao Bhounsle</td><td>4,73,639</td><td>15.79</td></tr><tr><td><strong>Total</strong></td><td><strong>29,73,639</strong></td><td><strong>99.15</strong></td></tr></tbody></table>
+<table><thead><tr><td>Name of Shareholders</td><td>Number of Equity Shares</td><td>% of the Pre-Issue share capital</td></tr></thead><tbody><tr><td>Virendra Mankelal Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Vibha Virendra Vora</td><td>12,50,000</td><td>41.68</td></tr><tr><td>Hanumant Rao Bhounsle</td><td>4,73,639</td><td>15.79</td></tr><tr><td>Total</td><td>29,73,639</td><td>99.15</td></tr></tbody></table>
 
 **E.** Our Company has not made any public Issue (including any rights issue to the public) since its incorporation.
 

@@ -1,23 +1,23 @@
 Goods and Services Tax (GST) is levied on supply of goods or services or both jointly by the Central and State Governments. GST provides for imposition of tax on the supply of goods or services and will be levied by Centre on intra-state supply of goods or services and by the States including Union territories with legislature/ Union Territories without legislature respectively. A destination-based consumption tax GST would be a dual GST with the center and states simultaneously levying tax with a common base. The GST law is enforced by various acts viz. Central Goods and Services Act, 2017 (CGST), State Goods and Services Tax Act, 2017 (SGST), Union Territory Goods and Services Tax Act, 2017 (UTGST), Integrated Goods and Services Tax Act, 2017 (IGST) and Goods and Services Tax (Compensation to States) Act, 2017 and various rules made thereunder.
 
-*Customs Act, 1962 (“Customs Act”)*
+**Customs Act, 1962 ("Customs Act")**
 
 The Customs Act, as amended, regulates import of goods into and export of goods from India by providing for levy and collection of customs duties on goods in accordance with the Customs Tariff Act, 1975. Any company intending to import or export goods is first required to get registered under the Customs Act and obtain an Importer Exporter Code under FTDR. Customs duties are administrated by Central Board of Indirect Tax and Customs under the Ministry of Finance, Government of India.
 
-*Professional Tax*
+**Professional Tax**
 
 The professional tax slabs in India are applicable to those citizens of India who are either involved in any profession or trade. The State Government of each State is empowered with the responsibility of structuring as well as formulating the respective professional tax criteria and is also required to collect funds through professional tax. The professional taxes are charged on the incomes of individuals, profits of business or gains in vocations. The professional tax is charged as per the List II of the Constitution. The professional taxes are classified under various tax slabs in India. The tax payable under the State Acts by any person earning a salary or wage shall be deducted by his employer from the salary or wages payable to such person before such salary or wages is paid to him, and such employer shall, irrespective of whether such deduction has been made or not when the salary and wage is paid to such persons, be liable to pay tax on behalf of such person and employer has to obtain the registration from the assessing authority in the prescribed manner. Every person liable to pay tax under these Acts (other than a person earning salary or wages, in respect of whom the tax is payable by the employer), shall obtain a certificate of enrolment from the assessing authority.
 
 ## G. Other Applicable Laws
 
-*The Consumer Protection Act, 1986 (“Consumer Protection Act”)*
+**The Consumer Protection Act, 1986 ("Consumer Protection Act")**
 
 The Consumer Protection Act was enacted to provide a simpler and quicker access to redress consumer grievances, including in course of both online and offline transactions. It seeks to promote and protects the interest of consumers against deficiencies and defects in goods or services and secure the rights of a consumer against unfair trade practices, which may be practiced by manufacturers and traders. It establishes consumer disputes redressal commissions at the district, state and national levels. And a central consumer protection authority, with wide powers of enforcement, to regulate matters relating to violation of consumer rights, unfair trade practices and misleading advertisements. The consumer protection authority has the ability to inquire into violations of consumer rights, investigate and launch prosecution at the appropriate forum, pass orders to recall goods, impose penalties and issue safety notices to consumers against unsafe goods. It also introduces product liability, which can hold the product seller liable for compensation claims.
 
-*Shops and Establishments Legislations*
+**Shops and Establishments Legislations**
 
 Under the provisions of local shops and establishments legislations applicable in different states, commercial establishments are required to be registered. Such legislations regulate the working and employment conditions of workers employed in shops and commercial establishments and provide for fixation of working hours, rest intervals, overtime, holidays, leave, termination of service, maintenance of shops and establishments and other rights and obligations of the employers and employees.
 
-*The Indian Contract Act, 1872 (“Contract Act”)*
+**The Indian Contract Act, 1872 ("Contract Act")**
 
 The Indian Contract Act lays down the essentials of a valid contract, it provides a framework of rules and regulations that govern the validity, execution and performance of a contract and codifies the way in which a

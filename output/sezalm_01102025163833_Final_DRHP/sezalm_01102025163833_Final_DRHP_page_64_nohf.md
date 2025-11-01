@@ -1,6 +1,6 @@
-<table><tr><td><strong>Dhanlaxmi Bank Ltd</strong><br>Address: Shop No.3-7, Office No. 1 Bldg 5 Tiwara, 90 Feet Road, Ghatkopar (East), Mumbai, 400075<br>Tel No.: +91 9892069725<br>Contact Person: Ashwini Golesar<br>Website: www.dhanbank.com<br>Email: dlb.ghatkopar@dhanbank.co.in</td><td>[•]<br>Address: [•]<br>Telephone: [•]<br>Email: [•]<br>Website: [•]<br>Contact Person:[•]</td></tr><tr><td><strong>ICICI Bank</strong><br>Address: Kailash Plaza, Final Plot 355, Vallabh baug Lane, Opposite Odeon Cinema, (East), Mumbai, 400075<br>Tel No.: +91 9930127203<br>Contact Person: Yogesh Patil<br>Website: www.icicibank.com<br>Email: Yogesh.p@icicibank.com</td><td></td></tr></table>
+<table><tr><td><strong>Dhanlaxmi Bank Ltd</strong><br>Address: Shop No.3-7, Office No. 1 Bldg 5 Tiwara, 90 Feet Road, Ghatkopar (East), Mumbai, 400075<br>Tel No.: +91 9892069725<br>Contact Person: Ashwini Golesar<br>Website: www.dhanbank.com<br>Email: dlb.ghatkopar@dhanbank.co.in</td><td><strong>[•]</strong><br>Address: [•]<br>Telephone: [•]<br>Email: [•]<br>Website: [•]<br>Contact Person:[•]</td></tr><tr><td><strong>ICICI Bank</strong><br>Address: Kailash Plaza, Final Plot 355, Vallabh baug Lane, Opposite Odeon Cinema, (East), Mumbai, 400075<br>Tel No.: +91 9930127203<br>Contact Person: Yogesh Patil<br>Website: www.icicibank.com<br>Email: Yogesh.p@icicibank.com</td><td></td></tr></table>
 
-* The Bankers to the Issue / Refund Banker / Sponsor Bank shall be appointed prior to filing of the Prospectus with the RoC.
+* The Bankers to the Issue / Refund Banker/ Sponsor Bank shall be appointed prior to filing of the Prospectus with the RoC.
 
 ## Inter-se Allocation of Responsibilities
 
@@ -14,7 +14,7 @@ Except as stated below, there have been no changes in the statutory auditors of 
 
 ## Escrow Collection Bank(s), Public Issue Account Bank, Refund Bank and Sponsor Bank
 
-The Escrow Collection Bank, Public Issue Account Bank, Refund Bank / Sponsor Bank shall be appointed prior to filing the Red Herring Prospectus with the Registrar of Companies
+The Escrow Collection Bank, Public Issue Account Bank, Refund Bank/ Sponsor Bank shall be appointed prior to filing the Red Herring Prospectus with the Registrar of Companies
 
 ## Syndicate Member
 

@@ -16,7 +16,7 @@ $$
 
 *Source: Restated Consolidated Financial Statements*
 
-**Notes:**
+Notes:
 
 1. The figures disclosed above are based on the Restated Consolidated Financial Statements of our Company.
 
@@ -41,6 +41,6 @@ The figures of the Company are based on the restated results for FY 2025.
 *No Listed peers are available as on the date of Draft Red Herring Prospectus.
 
 ### 7. Key Financial Performance Indicators of our Company:
-**Key financial and operational performance indicators (“KPIs”)**
+**Key financial and operational performance indicators ("KPIs")**
 
 The table below sets forth the details of our KPIs that our Company considers have a bearing for arriving at the basis for Offer Price. All the KPIs disclosed below have been approved by a resolution of our Audit

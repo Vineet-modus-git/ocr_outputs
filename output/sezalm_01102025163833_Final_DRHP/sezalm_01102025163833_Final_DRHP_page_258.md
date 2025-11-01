@@ -1,20 +1,6 @@
-4. Flat No. 1504, 15th Flr, Kushal Tower, GM Rd. Chembur, Mumbai. Owners of the property: Mr. Virendra Vora
+<table><tr><td>4.</td><td>Flat No. 1504, 15th Flr, Kushal Tower, GM Rd. Chembur, Mumbai. Owners of the property: Mr. Virendra Vora</td></tr><tr><td>5.</td><td>Flat No. 1503, 15th Flr, B wing, Kushal Tower, GM Rd. Chembur, Mumbai. Owners of the property: Mr. Virendra Vora</td></tr><tr><td>6.</td><td>552.40 sq.mtr in plot No. 195/14, Kirol LBS Marg, Ghatkopar, Mumbai-86 Owners of the property: Mrs. Vibha Vora</td></tr><tr><td>7.</td><td>1130 Sqft at Flat No. 701, 7th Floor, Shreenath Darshan, Vihar Lake Road, Bearing SY no. 113, H No.2, CTS No.245, 245/1-4, Bhandup West, Mumbai. Owners of the property: Mr. Nemin Vora</td></tr><tr><td>8.</td><td>Unit No. 131, 1st floor, Mumbai Pune Motor Malak Shramjeevan Premises Co-Op Society Ltd on plot bearing CS No. 9, Plot No. B-5 of Wadala Salt Pan Division, situated at Wadala Truck Terminal, Wadala, Mumbai-400037 Owners of the property: Mr. Virendra Vora</td></tr><tr><td>9.</td><td>Unit No. 132, 1st floor, Mumbai Pune Motor Malak Shramjeevan Premises Co-Op Society Ltd on plot bearing CS No. 9, Plot No. B-5 of Wadala Salt Pan Division, situated at Wadala Truck Terminal, Wadala, Mumbai-400037 Owners of the property: Mr. Virendra Vora</td></tr><tr><td>10.</td><td>Office Premises Built Up area 3225 Sq.Ft., 3rd Floor, Sai Chaya, Gatkopar, Pant Nagar, Ghatkopar E, Mumbai Owners of the property: M/s. Eco Fuel Systems (India) Pvt. Ltd</td></tr><tr><td>11.</td><td>Flat No 201, 2nd Floor, B Wing, "Sofrance", Savitribai Phule Nagar, Near Ghatkopar Bus Depot, Pant Nagar, Ghatkopar (east), Mumbai having super built up area of 905 sq.ft Owners of the property: Mr. Nemin Vora</td></tr></table>
 
-5. Flat No. 1503, 15th Flr, B wing, Kushal Tower, GM Rd. Chembur, Mumbai. Owners of the property: Mr. Virendra Vora
-
-6. 552.40 sq.mtr in plot No. 195/14, Kirol LBS Marg, Ghatkopar, Mumbai-86 Owners of the property: Mrs. Vibha Vora
-
-7. 1130 Sqft at Flat No. 701, 7th Floor, Shreenath Darshan, Vihar Lake Road, Bearing SY no. 113, H No.2, CTS No.245, 245/1-4, Bhandup West, Mumbai. Owners of the property: Mr. Nemin Vora
-
-8. Unit No. 131, 1st floor, Mumbai Pune Motor Malak Shramjeevan Premises Co-Op Society Ltd on plot bearing CS No. 9, Plot No. B-5 of Wadala Salt Pan Division, situated at Wadala Truck Terminal, Wadala, Mumbai-400037 Owners of the property: Mr. Virendra Vora
-
-9. Unit No. 132, 1st floor, Mumbai Pune Motor Malak Shramjeevan Premises Co-Op Society Ltd on plot bearing CS No. 9, Plot No. B-5 of Wadala Salt Pan Division, situated at Wadala Truck Terminal, Wadala, Mumbai-400037 Owners of the property: Mr. Virendra Vora
-
-10. Office Premises Built Up area 3225 Sq.Ft., 3rd Floor, Sai Chaya, Gatkopar, Pant Nagar, Ghatkopar E, Mumbai Owners of the property: M/s. Eco Fuel Systems (India) Pvt. Ltd
-
-11. Flat No 201, 2nd Floor, B Wing, "Sofrance", Savitribai Phule Nagar, Near Ghatkopar Bus Depot, Pant Nagar, Ghatkopar (east), Mumbai having super built up area of 905 sq.ft Owners of the property: Mr. Nemin Vora
-
-Negative lien on the below mentioned property :-
+### Negative lien on the below mentioned property :-
 
 1. Negative lien on Commercial office at Ahmedabad, at Al Shantmani Apartment, Premchand Nagar Road, Near Maharaja Farm Bodakdev, Ahmedabad - 380015. (currently used for office purpose) Owners of the property: Mr. Virendra Vora Cash Margin
 
@@ -42,6 +28,4 @@ Fixed deposit with ICICI Bank of Rs. 3,97,53,380/- having a floating interest ra
 
 (₹ in Lakhs)
 
-<table><thead><tr><td>Name of Lender</td><td>Purpose</td><td>Sanctioned Amount</td><td>Re-Payment Schedule</td><td>Outstanding amount as on Aug 31, 2025 (as per Books)</td></tr></thead><tbody><tr><td>Virendra Maneklal Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>21.59</td></tr><tr><td>Vibha Virendra Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>23.65</td></tr><tr><td>Nemin Virendra Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>17.70</td></tr><tr><td colspan="4"></td><td>62.94</td></tr></tbody></table>
-
-255
+<table><thead><tr><th>Name of Lender</th><th>Purpose</th><th>Sanctioned Amount</th><th>Re-Payment Schedule</th><th>Outstanding amount as on Aug 31, 2025 (as per Books)</th></tr></thead><tbody><tr><td>Virendra Maneklal Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>21.59</td></tr><tr><td>Vibha Virendra Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>23.65</td></tr><tr><td>Nemin Virendra Vora</td><td>Working Capital</td><td>1500/-</td><td>Repayable on demand</td><td>17.70</td></tr><tr><td colspan="4"></td><td>62.94</td></tr></tbody></table>

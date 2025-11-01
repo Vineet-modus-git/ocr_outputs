@@ -8,17 +8,19 @@ Certified by M/s. Vishal H Shah & Associates, Chartered Accountants, pursuant to
 
 a. Explanation for Issue Price / Cap Price being [•] times of weighted average cost of acquisition of primary issuance price / secondary transaction price of Equity Shares along with our Company's KPIs and financial ratios for period ended March 31, 2025, March 31, 2024, and March 31, 2023.
 [•]*
+*To be included upon finalization of Price Band
 
 
 
-*To be included upon finalisation of Price Band
+
 
 b. The following provides an explanation to the Issue Price/ Cap Price being [•] times of weighted average cost of acquisition of Equity Shares that were issued by our Company or acquired by our Promoter, the members of our Promoter Group by way of primary and secondary transactions in the last eighteen months preceding the date of this Draft Red Herring Prospectus in view of external factors, if any, which may have influenced the pricing of the Issue.
 [•]*
-
-
-
 *To be included on finalisation of Price Band
+
+
+
+
 
 ## 10. The Issue Price is [•] times of the Face Value of the Equity Shares.
 

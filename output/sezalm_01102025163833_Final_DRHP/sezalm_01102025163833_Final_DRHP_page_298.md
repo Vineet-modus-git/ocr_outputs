@@ -10,7 +10,7 @@ For Anchor Investors, the Anchor Investor Application Form will be available at 
 
 The prescribed colour of the Bid cum Application Form for various categories is as follows:
 
-<table><thead><tr><td>Category</td><td>Colour of Bid cum Application Form*</td></tr></thead><tbody><tr><td>Resident Indians including resident QIBs, Non-Institutional Bidders, Individual Bidders and Eligible NRIs applying on a non-repatriation basis</td><td>●</td></tr><tr><td>Non-Residents including FPIs and Eligible NRIs, FVCIs and registered bilateral and multilateral development financial institutions applying on a repatriation basis</td><td>●</td></tr><tr><td>Anchor Investors</td><td>●</td></tr></tbody></table>
+<table><thead><tr><td>Category</td><td>Colour of Bid cum Application Form*</td></tr></thead><tbody><tr><td>Resident Indians including resident QIBs, Non-Institutional Bidders, Individual Bidders and Eligible NRIs applying on a non-repatriation basis</td><td>[●]</td></tr><tr><td>Non-Residents including FPIs and Eligible NRIs, FVCIs and registered bilateral and multilateral development financial institutions applying on a repatriation basis</td><td>[●]</td></tr><tr><td>Anchor Investors</td><td>[●]</td></tr></tbody></table>
 
 Notes:
 

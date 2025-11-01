@@ -1,10 +1,10 @@
 Until the RoC passes an order in this matter, we cannot assure that no adverse action will be taken by regulatory authorities. If any penalty or punitive action is imposed on Virendra Maneklal Vora, it may adversely affect the reputation of the Company and could have a material impact on our business operations.
 
-**32. A degree certificate and marksheets of one of our Promoters are not traceable.**
+## 32. A degree certificate and marksheets of one of our Promoters are not traceable.
 
 One of our Promoters, Virendra Maneklal Vora, has been unable to trace the copies of his Bachelor of Commerce degree and marksheets from the University of Mumbai. While he has written a letter to the Poddar College, Mumbai requesting for a copy of his degree certificate, a response from the college is awaited. There is no assurance that the college will respond to such letter in a timely manner, or at all. Accordingly, reliance has been placed on certificates furnished by him to us and the BRLM to disclose details of his educational qualifications in this Draft Red Herring Prospectus. Further, there can be no assurances that he will be able to trace the relevant documents pertaining to his educational qualifications in future or at all. For details of his profile, see "Our Management" on page 165 of this Draft Red Herring Prospectus.
 
-**33. Our Directors namely Bharat Ratilal Mehta and Venugopal Raghavan Pillai, do not have their experience certificates.**
+## 33. Our Directors namely Bharat Ratilal Mehta and Venugopal Raghavan Pillai, do not have their experience certificates.
 
 Our Directors namely Bharat Ratilal Mehta and Venugopal Raghavan Pillai, have not been able to furnish formal experience certificates. Accordingly, the disclosures relating to their work experience in this Draft Red Herring Prospectus are based on declarations and information provided by them to the Company and the Book Running Lead Manager ("BRLM").
 
@@ -12,7 +12,7 @@ Further, there can be no assurance that they will be able to trace or produce th
 
 For details of his profile, see "Our Management" on page 165 of this Draft Red Herring Prospectus.
 
-**34. We have certain contingent liabilities that have not been provided for in our Company's financials, which if realised, could affect our financial condition.**
+## 34. We have certain contingent liabilities that have not been provided for in our Company's financials, which if realised, could affect our financial condition.
 
 Our contingent liabilities as on March 31, 2025 are as follows
 

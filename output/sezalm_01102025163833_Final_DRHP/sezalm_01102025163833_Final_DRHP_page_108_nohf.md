@@ -18,7 +18,7 @@ The Net Proceeds will be first utilized towards the Objects as mentioned above. 
 
 Prepayment or repayment of all or a portion of certain outstanding borrowings availed by our company, Funding the working capital requirements of our company, funding growth opportunities; and On-going general corporate exigencies or any other purposes as approved by the Board subject to compliance with the necessary regulatory provisions.
 
-The quantum of utilization of funds towards each of the above purposes will be determined by our Board of Directors based on the permissible amount actually available under the head "Utilization of Net proceeds" and the business requirements of our Company, from time to time. We, in accordance with the policies of our Board, will have flexibility in utilizing the Net Proceeds for general corporate purposes, as mentioned above.
+The quantum of utilization of funds towards each of the above purposes will be determined by our Board of Directors based on the permissible amount actually available under the head “Utilization of Net proceeds” and the business requirements of our Company, from time to time. We, in accordance with the policies of our Board, will have flexibility in utilizing the Net Proceeds for general corporate purposes, as mentioned above.
 
 **ESTIMATED ISSUE RELATED EXPENSE**
 

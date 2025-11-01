@@ -1,4 +1,4 @@
-Profit after tax increased by **317.30%** to **₹717.39 lakhs in FY24** from **₹180.48 lakhs in FY23**, reflecting higher order volumes, expanded customer base and improved operational efficiency.
+Profit after tax increased by **317.30%** to **₹717.39 lakhs** in **FY24** from **₹180.48 lakhs** in **FY23**, reflecting higher order volumes, expanded customer base and improved operational efficiency.
 
 ## CASH FLOW BASED ON RESTATED FINANCIAL STATEMENTS
 

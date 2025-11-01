@@ -37,10 +37,10 @@ The Company generates revenue primarily from sale of CNG & LPG Kits.
 
 ### 43. ADDITIONAL REGULATORY INFORMATION REQUIRED BY SCHEDULE III TO THE COMPANIES ACT, 2013
 
-#### (i) Details of benami property held
+**(i) Details of benami property held**
 
 No proceedings have been initiated on or are pending against the Company for holding benami property under the Benami Transactions (Prohibition) Act, 1988 (45 of 1988) and Rules made thereunder.
 
-#### (ii) Borrowing secured against current assets
+**(ii) Borrowing secured against current assets**
 
 The Company has borrowings from financial institutions on the basis of security of current assets. The quarterly statements of current assets filed by the Company with financial institutions is in agreement with the books of accounts.

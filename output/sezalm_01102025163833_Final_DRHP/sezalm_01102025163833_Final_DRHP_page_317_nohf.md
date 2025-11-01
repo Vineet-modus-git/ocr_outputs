@@ -1,6 +1,6 @@
 Application made using incorrect UPI handle or using a bank account of an SCSB or SCSBs which is not mentioned in the Annexure 'A' to the SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/85 dated July 26, 2019 is liable to be rejected.
 
-**Don'ts:**
+Don'ts:
 
 1. Do not Bid for lower than the minimum Bid size;
 

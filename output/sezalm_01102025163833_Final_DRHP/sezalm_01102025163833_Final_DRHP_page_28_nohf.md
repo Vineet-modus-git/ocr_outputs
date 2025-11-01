@@ -2,7 +2,7 @@ Additionally, our products are subject to potential recalls or returns due to de
 
 Our business and the demand for our products is heavily reliant on the demand for certain distributors, and any decline in the demand for the end products in such industries could have an adverse impact on our business, results of operations, cash flows and financial condition.
 
-5. Our promoters' involvement in other ventures may divert their attention and impact our business operations.
+**5. Our promoters' involvement in other ventures may divert their attention and impact our business operations.**
 
 Our Promoters are actively engaged in business ventures outside our core operations in the alternative fuel industry. While these ventures are distinct and operate in separate sectors, their involvement in multiple enterprises may result in divided attention, potentially impacting their ability to devote sufficient time, focus, and strategic oversight to our company's growth and day-to-day management. This could affect key decision-making processes, operational efficiency, and long-term business planning.
 
@@ -14,7 +14,7 @@ Furthermore, if our promoters are unable to effectively balance their commitment
 
 Given these factors, it is crucial to ensure a structured governance mechanism that safeguards our company's interests, mitigates any potential conflicts of interest, and ensures that the promoters' external commitments do not hinder our operational and strategic goals.
 
-6. Our expansion into the two-wheeler electric vehicle (EV) segment involves operational, financial, and market acceptance risks.
+**6. Our expansion into the two-wheeler electric vehicle (EV) segment involves operational, financial, and market acceptance risks.**
 
 As part of our growth strategy, we intend to enter the two-wheeler electric vehicle (EV) segment, which presents significant opportunities for expansion but also entails inherent risks and challenges. Establishing a presence in this sector requires substantial investment in product development, market research, regulatory approvals, and infrastructure. These capital-intensive requirements may put pressure on our financial resources, potentially affecting our ability to fund other core business operations.
 

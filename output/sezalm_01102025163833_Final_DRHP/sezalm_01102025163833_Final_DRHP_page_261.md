@@ -36,9 +36,9 @@ Nil
 
 ##### 1. Criminal proceedings
 
-**Vinod Nagesh Naik vs Vijay Residency Piyushb Patel and Virendra Vora – Summons case 1588/2015**
+###### Vinod Nagesh Naik vs Vijay Residency Piyushb Patel and Virendra Vora – Summons case 1588/2015
 
-Vinod Nagesh Naik (“Vinod”) has filed a Complaint against Vijay Residency Piyushb Patel and Virendra Vora (“Defendants”) bearing no Summons case 1588/2015 in Additional Chief Judicial Magistrate Court, Vikhroli. Vinod alleges that the Defendants approached him with intention to appoint him as a legal consultant, mediator and representatibe in the matter for redevlopment and accordingly Vinod conducted several meeting and confrences giving the Defendants advice to the Defandants. Vinod alleges that he also settled various drafts with respect to the redevlopment and the defendants agreed to pay Rs. 50,00,000 to the Vinod. Vinod alleges that on presenation of the cheque the check was dishounoured. Agrrived by the same Vinod has filed the current case. The matter is still pending. The next date of hearing is November 19, 2025.
+Vinod Nagesh Naik (“Vinod”) has filed a Complaint against Vijay Residency Piyushb Patel and Virendra Vora (“Defendants”) bearing no Summons case 1588/2015 in Additional Chief Judicial Magistrate Court, Vikhroli. Vinod alleges that the Defendants approached him with intention to appoint him as a legal consultant, mediator and representatibe in the matter for redevlopment and accordingly Vinod conducted several meeting and confrences giving the Defendants advice to the Defendants. Vinod alleges that he also settled various drafts with respect to the redevlopment and the defendants agreed to pay Rs. 50,00,000 to the Vinod. Vinod alleges that on presenation of the cheque the check was dishounoured. Agrrived by the same Vinod has filed the current case. The matter is still pending. The next date of hearing is November 19, 2025.
 
 ##### 2. Outstanding actions by regulatory and statutory authorities
 

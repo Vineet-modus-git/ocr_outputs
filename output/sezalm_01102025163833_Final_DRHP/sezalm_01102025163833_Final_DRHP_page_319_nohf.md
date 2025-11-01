@@ -40,7 +40,7 @@
 
 * Bids uploaded by QIBs after 4.00 pm on the QIB Bid/ Issue Closing Date and by Non-Institutional Bidders uploaded after 4.00 p.m. on the Bid/ Issue Closing Date, and Bids by IIs uploaded after 5.00 p.m. on the Bid/ Issue Closing Date, unless extended by the Stock Exchange.
 
-For details of instructions in relation to the Bid cum Application Form, Bidders may refer to the relevant section in the GID.
+For details of instructions in relation to the Bid cum Application Form, Bidders may refer to the relevant section of the GID.
 
 **BIDDERS SHOULD NOTE THAT IN CASE THE PAN, THE DP ID AND CLIENT ID MENTIONED IN THE BID CUM APPLICATION FORM AND ENTERED INTO THE ELECTRONIC APPLICATION SYSTEM OF THE STOCK EXCHANGES BY THE BIDS COLLECTING INTERMEDIARIES DO NOT MATCH WITH PAN, THE DP ID AND CLIENT ID AVAILABLE IN THE DEPOSITORY DATABASE, THE BID CUM APPLICATION FORM IS LIABLE TO BE REJECTED.**
 

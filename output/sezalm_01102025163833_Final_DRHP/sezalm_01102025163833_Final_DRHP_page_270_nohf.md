@@ -8,9 +8,7 @@ C. The company should have positive Free cash flow to Equity (FCFE) for at least
 
 **4. The Company shall mandatorily facilitate trading in demat securities and enter into an agreement with both the depositaries.**
 
-To enable all shareholders of the Company to have their shareholding in electronic form, the Company had signed the tripartite agreements with the Depositories and the Registrar and Share Transfer Agent.
-
-The Company's equity shares bear an ISIN: INE1CBG01019
+To enable all shareholders of the Company to have their shareholding in electronic form, the Company had signed the tripartite agreements with the Depositories and the Registrar and Share Transfer Agent. The Company's equity shares bear an ISIN: INE1CBG01019
 
 **5. Company shall mandatorily have a website.**
 

@@ -6,7 +6,7 @@ In terms of Rule 19(2)(b) of the Securities Contracts (Regulation) Rules, 1957, 
 
 The Equity Shares, on Allotment, shall be traded only in the dematerialised segment of the Stock Exchange.
 
-Investors should note that the Equity Shares will be Allotted to all successful Bidders only in dematerialized form. The Bid cum Application Forms which do not have the details of the Bidders’ depository account, including DP ID, Client ID, PAN and UPI ID, as applicable, shall be treated as incomplete and will be rejected. Bidders will not have the option of being Allotted Equity Shares in physical form. However, they may get the Equity Shares rematerialized subsequent to Allotment of the Equity Shares in the Issue, subject to applicable laws.
+Investors should note that the Equity Shares will be Allotted to all successful Bidders only in dematerialized form. The Bid cum Application Forms which do not have the details of the Bidders' depository account, including DP ID, Client ID, PAN and UPI ID, as applicable, shall be treated as incomplete and will be rejected. Bidders will not have the option of being Allotted Equity Shares in physical form. However, they may get the Equity Shares rematerialized subsequent to Allotment of the Equity Shares in the Issue, subject to applicable laws.
 
 Bidders are required to ensure that their PAN is linked with Aadhaar and they are in compliance with the notification dated February 13, 2020 issued by the Central Board of Direct Taxes and the press release dated June 25, 2021.
 

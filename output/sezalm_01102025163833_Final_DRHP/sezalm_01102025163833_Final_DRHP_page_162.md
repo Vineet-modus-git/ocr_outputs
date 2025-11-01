@@ -4,7 +4,7 @@
 
 Our Company was originally incorporated as ‘Eco Fuel Systems (India) Private Limited’, a private limited company under the Companies Act, 1956, pursuant to a certificate of incorporation dated January 31, 2003, issued by the Registrar of Companies, Mumbai. Subsequently, our Company was converted into a public limited company pursuant to a resolution passed by our shareholders at an extraordinary general meeting held on September 21, 2024, and a fresh certificate of incorporation dated October 10, 2024, was issued by the Central Processing Centre, Mumbai, recording the change in the name of our Company to ‘Eco Fuel Systems (India) Limited’.
 
-### Changes in the Registered Office of our Company since incorporation.
+## Changes in the Registered Office of our Company since incorporation.
 
 Other than as disclosed below, there has been no change in the address of our registered office of our Company since incorporation:
 
@@ -16,7 +16,7 @@ The main objects of our Company as set forth in the Memorandum of Association of
 
 To carry out business in India and abroad as manufacturer, exporters, importers, dealers, distributors, suppliers, agents traders, merchants, repairers and manufacturers of all types of instruments, CNG & LPG kits, autogas instruments and converters, components, parts and accessories.
 
-### Amendments to the Memorandum of Association of our Company since incorporation
+## Amendments to the Memorandum of Association of our Company since incorporation
 
 The following changes have been made in the Memorandum of Association of our Company since incorporation:
 

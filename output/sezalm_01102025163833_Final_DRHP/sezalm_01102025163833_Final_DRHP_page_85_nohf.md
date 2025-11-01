@@ -2,7 +2,7 @@ In terms of undertaking executed by our Promoters, Equity Shares forming part of
 
 ### Details of Equity Shares Locked-in for six months
 
-Other than the Equity Shares locked-in as Promoter' Contribution for a period of 3 years as stated in the table above, the entire pre-Issue capital of the Company, including the excess of minimum Promoter' Contribution, as per Regulation 238 & 239 of the SEBI (ICDR) Regulations, shall be locked in for a period of 1 year from the date of Allotment of Equity Shares in the Issue. Such lock - in of the Equity Shares would be created as per the bye laws of the Depositories.
+Other than the Equity Shares locked-in as Promoter' Contribution for a period of 3 years as stated in the table above, the entire pre-Issue capital of the Company, including the excess of minimum Promoter' Contribution, as per Regulation 238 & 239 of the SEBI (ICDR) Regulations, shall be locked in for a period of 1 year from the date of Allotment of Equity Shares in the Issue. Such lock-in of the Equity Shares would be created as per the bye laws of the Depositories.
 
 ### Inscription or recording of non-transferability
 
@@ -26,6 +26,6 @@ b) Pursuant to Regulation 243 of the SEBI ICDR Regulations, Equity Shares held b
 
 1. The Company, its Promoter, Directors and the Book Running Lead Manager have no existing buyback arrangements or any other similar arrangements for the purchase of Equity Shares being issued through the Issue.
 
-1. All Equity Shares Issue ed pursuant to the Issue shall be fully paid-up at the time of Allotment and there are no partly paid-up Equity Shares as on the date of this Draft Red Herring Prospectus. Further, since the entire money in respect of the Issue is being called on application, all the successful Applicants will be Issue ed fully paid-up Equity Shares.
+1. All Equity Shares issued pursuant to the Issue shall be fully paid-up at the time of Allotment and there are no partly paid-up Equity Shares as on the date of this Draft Red Herring Prospectus. Further, since the entire money in respect of the Issue is being called on application, all the successful Applicants will be Issue ed fully paid-up Equity Shares.
 
 2. As on the date of this Draft Red Herring Prospectus, the Book Running Lead Manager and their respective associates (as defined under the SEBI MB Regulations) do not hold any Equity Shares of our Company. The Book Running Lead Manager and their affiliates may engage in the transactions with and perform services for

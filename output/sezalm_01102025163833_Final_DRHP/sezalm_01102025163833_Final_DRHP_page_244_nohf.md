@@ -2,7 +2,7 @@ For Significant accounting policies please refer "Significant Accounting Policie
 
 ## DISCUSSION ON BALANCE SHEET ITEMS
 
-<table><thead><tr><th>Particulars</th><th>As on March 31, 2025</th><th>As on March 31, 2024</th><th>As on March 31, 2023</th></tr></thead><tbody><tr><td>Long-Term Borrowings</td><td>6.09</td><td>13.22</td><td>20.63</td></tr><tr><td>Short-Term Borrowings</td><td>1175.62</td><td>1899.49</td><td>1856.28</td></tr><tr><td>Trade Payables</td><td>247.10</td><td>833.54</td><td>547.93</td></tr><tr><td>Trade Receivables</td><td>5086.91</td><td>4253.62</td><td>3882.81</td></tr><tr><td>Inventories</td><td>2025.35</td><td>2492.76</td><td>1936.76</td></tr></tbody></table>
+<table><thead><tr><td>Particulars</td><td>As on March 31, 2025</td><td>As on March 31, 2024</td><td>As on March 31, 2023</td></tr></thead><tbody><tr><td>Long-Term Borrowings</td><td>6.09</td><td>13.22</td><td>20.63</td></tr><tr><td>Short-Term Borrowings</td><td>1175.62</td><td>1899.49</td><td>1856.28</td></tr><tr><td>Trade Payables</td><td>247.10</td><td>833.54</td><td>547.93</td></tr><tr><td>Trade Receivables</td><td>5086.91</td><td>4253.62</td><td>3882.81</td></tr><tr><td>Inventories</td><td>2025.35</td><td>2492.76</td><td>1936.76</td></tr></tbody></table>
 
 ## COMPARISON OF FY 2024-25 WITH FY 2023-24
 

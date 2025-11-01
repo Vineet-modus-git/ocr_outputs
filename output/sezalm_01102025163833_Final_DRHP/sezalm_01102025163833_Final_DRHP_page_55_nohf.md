@@ -10,8 +10,8 @@ The following table summarizes the present Issue in terms of this Draft Red Herr
 
 **Notes:**
 
-1. The Issue is being made in terms of Chapter IX of the SEBI (ICDR) Regulations, 2018, as amended from time to time. This Issue is being made by our company in terms of Regulation of 229 (2) of SEBI ICDR Regulations read with Rule 19(2)(b)(i) of SCRR wherein not less than 25% of the post-issue paid up equity share capital of our company are being offered to the public for subscription.
+1. The Issue is being made in terms of Chapter IX of the SEBI (ICDR) Regulations, 2018, as amended from time to time. This Issue is being made by our company in terms of Regulation of 229 (2) of SEBI ICDR Regulations read with Rule 19(2)(b)(i) of SCRR wherein not less than 25% of the post – issue paid up equity share capital of our company are being offered to the public for subscription.
 
 2. The present Issue has been authorized pursuant to a resolution by our Board of Directors at its meeting held on March 13, 2025 and by the Shareholders of our company, vide a special resolution passed pursuant to Section 62 (1) I of the Companies Act, 2013 at their Extra ordinary general meeting held on March 17, 2025.
 
-3. The SEBI ICDR Regulations permit the issue of securities to the public through the Book Building Process, which states that, not less than 15%
+3. The SEBI ICDR Regulations permit the issue of securities to the public through the Book Building Process, which states that, not less than 15 %

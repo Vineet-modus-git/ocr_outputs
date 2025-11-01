@@ -1,7 +1,11 @@
-* no right to reject applications, except on technical grounds.
+no right to reject applications, except on technical grounds.
+
 * The permission given by the Stock Exchanges to use their network and software of the Online IPO system should not in any way be deemed or construed to mean that the compliance with various statutory and other requirements by our Company and/or the Book Running Lead Manager are cleared or approved by the Stock Exchanges; nor does it in any manner warrant, certify or endorse the correctness or completeness of any of the compliance with the statutory and other requirements nor does it take any responsibility for the financial or other soundness of our company; our Promoter, our management or any scheme or project of our Company; nor does it in any manner warrant, certify or endorse the correctness or completeness of any of the contents of this Draft Red Herring Prospectus, nor does it warrant that the Equity Shares will be listed or will continue to be listed on the Stock Exchanges.
+
 * The Designated Intermediaries will be given time till 5.00 p.m. on the Bid/Issue Closing Date to verify the DP ID and Client ID uploaded in the online IPO system during the Issue Period, after which the Registrar to the Issue will receive this data from the Stock Exchange and will validate the electronic application details with Depository's records. In case no corresponding record is available with Depositories, which matches the three parameters, namely DP ID, Client ID and PAN, then such applications are liable to be rejected.
+
 * The SCSBs shall be given (1) one day after the Bid/Issue Closing Date to send confirmation of Funds blocked (Final certificate) to the Registrar to the Issue.
+
 * The details uploaded in the online IPO system shall be considered as final and Allotment will be based on such details for applications.
 
 ## Build of the Book
@@ -24,4 +28,6 @@
 
 * Under-subscription in any category (except QIB Category) is allowed to be met with spillover from any other category or combination of categories at the discretion of the Issuer and the in consultation with the BRLM and the Designated Stock Exchange and in accordance with the SEBI ICDR Regulations. Unsubscribed portion in QIB Category is not available for subscription to other categories.
 
-* In case of under subscription in the Issue, spill-over to the extent of such under-subscription may be permitted.
+* In case of under subscription in the Issue, spill-over to the extent of such under-subscription may be permitted
+
+310

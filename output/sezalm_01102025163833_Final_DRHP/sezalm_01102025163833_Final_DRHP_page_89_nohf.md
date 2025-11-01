@@ -2,7 +2,7 @@
 
 *To be finalized upon determination of the Issue Price and updated in the Prospectus prior to filing with the RoC. The amount to be utilised for general corporate purposes will not exceed 15% of the gross proceeds or 10 Crores whichever is lower.
 
-### Proposed schedule of implementation and deployment of Net Proceeds
+**Proposed schedule of implementation and deployment of Net Proceeds**
 
 We propose to deploy the Net Proceeds towards the objects in accordance with the estimated schedule of implementation and deployment of funds, as set forth in the table below:
 

@@ -33,12 +33,12 @@ As at March 31, 2023:
 
 As at March 31, 2025:
 
-<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress<br/>- New Office Premises</td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr><tr><td></td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>
+<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- New Office Premises</td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr><tr><td></td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>
 
 As at March 31, 2024:
 
-<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress<br/>- New Office Premises</td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr><tr><td></td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>
+<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- New Office Premises</td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr><tr><td></td><td>-</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>
 
 As at March 31, 2023:
 
-<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress<br/>- New Office Premises</td><td>209</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>
+<table><thead><tr><th>Particulars</th><th>Less than 1 year</th><th>1 - 2 years</th><th>2 - 3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>Projects in progress</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- New Office Premises</td><td>209</td><td>-</td><td>-</td><td>227.17</td><td>227.17</td></tr></tbody></table>

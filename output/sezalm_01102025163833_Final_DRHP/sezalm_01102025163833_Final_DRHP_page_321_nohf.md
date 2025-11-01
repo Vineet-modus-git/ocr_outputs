@@ -2,7 +2,7 @@ Shares Bid for by them, are eligible to receive Equity Shares on a proportionate
 
 (iii) Under-subscription below [●]% of the QIB Portion, if any, from Mutual Funds, would be included for allocation to the remaining QIB Bidders on a proportionate basis. The aggregate Allotment to QIB Bidders shall not be more than [●] Equity Shares.
 
-* **Allotment To Anchor Investor (If Applicable)**
+### Allotment To Anchor Investor (If Applicable)
 
 (a) Allocation of Equity Shares to Anchor Investors at the Anchor Investor Allocation Price will be at the discretion of the Issuer, in consultation with the BRLM, subject to compliance with the following requirements:
 
@@ -16,7 +16,7 @@ Shares Bid for by them, are eligible to receive Equity Shares on a proportionate
 
 Anchor Investors will be sent a revised CAN within 1 (one) day of the Pricing Date indicating the number of Equity Shares allocated to such Anchor Investor and the pay-in date for payment of the balance amount. Anchor Investors are then required to pay any additional amounts, being the difference between the Issue Price and the Anchor Investor Allocation Price, as indicated in the revised CAN within the pay-in date referred to in the revised CAN. Thereafter, the Allotment Advice will be issued to such Anchor Investors.
 
-**BASIS OF ALLOTMENT FOR QIBS (OTHER THAN ANCHOR INVESTORS) AND NIIS IN CASE OF OVER SUBSCRIBED ISSUE**
+### BASIS OF ALLOTMENT FOR QIBS (OTHER THAN ANCHOR INVESTORS) AND NIIS IN CASE OF OVER SUBSCRIBED ISSUE
 
 In the event of the Issue being Over-Subscribed, the Issuer may finalise the Basis of Allotment in consultation with the NSE Emerge (SME platform of NSE) (The Designated Stock Exchange). The allocation may be made in marketable lots on proportionate basis as set forth hereunder:
 

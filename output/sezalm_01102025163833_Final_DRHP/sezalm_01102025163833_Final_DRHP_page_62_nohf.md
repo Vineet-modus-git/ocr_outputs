@@ -2,7 +2,7 @@
 
 ## REGISTERED OFFICE OF OUR COMPANY
 
-**Eco Fuel Systems (India) Limited**
+### Eco Fuel Systems (India) Limited
 
 B-102, Bellona Bldg,
 Pant Nagar 90 Feet road,
@@ -21,7 +21,7 @@ Maharashtra, India
 
 For details relating to changes to the address of our Registered Office, see "History and Certain Other Corporate Matters" - Changes in our Registered Office" on page 159.
 
-**Corporate Office of our Company:**
+### Corporate Office of our Company:
 
 Excel Plaza 1301 1302 13th floor
 Pant Nagar, Behind Durga Parmeshwari Mandir
@@ -34,11 +34,11 @@ Mumbai, Maharashtra, India, 400075
 
 **Company Registration Number:** 138953
 
-**Our Company is registered with the RoC located at the following address:**
+Our Company is registered with the RoC located at the following address:
 
 The Registrar of Company Mumbai, Maharashtra situated at the following address:
 
-**Registrar of Companies**
+### Registrar of Companies
 
 100, Everest, Marine Drive,
 Netaji Subhash Chandra Bose Rd, Churchgate,

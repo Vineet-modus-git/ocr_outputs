@@ -12,7 +12,7 @@ Other income decreased by 40.51%, falling to ₹57.14 lakhs in Fiscal 2024 from 
 
 Interest income on fixed deposits remained broadly stable at ₹39.90 lakhs in FY24 compared to ₹38.44 lakhs in FY23, partially offsetting the overall decline.
 
-<table><thead><tr><th>Particulars</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Interest income on financial assets at amortised cost</td><td></td><td></td></tr><tr><td>On Fixed Deposits</td><td>39.90</td><td>38.44</td></tr><tr><td><strong>Other non operating income</strong></td><td></td><td></td></tr><tr><td>Net foreign exchange gain</td><td>17.23</td><td>47.70</td></tr><tr><td>Miscellaneous income</td><td>-</td><td>9.91</td></tr><tr><td><strong>Other Income</strong></td><td><strong>57.14</strong></td><td><strong>96.05</strong></td></tr><tr><td><strong>Increased by</strong></td><td></td><td><strong>-40.51%</strong></td></tr></tbody></table>
+<table><thead><tr><th>Particulars</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Interest income on financial assets at amortised cost</td><td></td><td></td></tr><tr><td>On Fixed Deposits</td><td>39.90</td><td>38.44</td></tr><tr><td><strong>Other non operating income</strong></td><td></td><td></td></tr><tr><td>Net foreign exchange gain</td><td>17.23</td><td>47.70</td></tr><tr><td>Miscellaneous income</td><td>-</td><td>9.91</td></tr><tr><td><strong>Other Income</strong></td><td><strong>57.14</strong></td><td><strong>96.05</strong></td></tr><tr><td><em>Increased by</em></td><td></td><td><em>-40.51%</em></td></tr></tbody></table>
 
 ### Expenditure
 

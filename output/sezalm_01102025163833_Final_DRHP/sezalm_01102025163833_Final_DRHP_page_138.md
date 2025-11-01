@@ -22,7 +22,7 @@ Our company actively participates in tenders floated by government bodies for th
 
 (iv) **Technical Qualification:** Ensuring compliance with technical requirements and participating in demonstrations, if needed.
 
-(v) **Price Bid Evaluation:** Competing on cost-effectiveness, financial viability, and past project performance.
+(v) **Price Bid Evaluation:** Competing on cost-effectiveness, financial viability, and past project performance
 
 (vi) **Order Allocation & Project Execution:** Receiving the Letter of Award (LOA), ensuring timely installation, and providing post-installation training.
 

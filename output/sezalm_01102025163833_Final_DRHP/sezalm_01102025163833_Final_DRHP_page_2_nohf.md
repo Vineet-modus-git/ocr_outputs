@@ -1,8 +1,8 @@
-## OUR COMPANY'S ABSOLUTE RESPONSIBILITY
+OUR COMPANY'S ABSOLUTE RESPONSIBILITY
 
 Our Company, having made all reasonable inquiries, accepts responsibility for and confirms that this Draft Red Herring Prospectus contains all information with regard to our Company and the Issue, which is material in the context of the Issue, that the information contained in this Draft Red Herring Prospectus is true and correct in all material aspects and is not misleading in any material respect, that the opinions and intentions expressed herein are honestly held and that there are no other facts, the omission of which makes this Draft Red Herring Prospectus as a whole or any of such information or the expression of any such opinions or intentions misleading in any material respect.
 
-## LISTING
+LISTING
 
 The Equity Shares of our Company Issue ed through this Draft Red Herring Prospectus are proposed to be listed on the EMERGE Platform of National Stock Exchange of India Limited ("NSE EMERGE"), in terms of the Chapter IX of the SEBI (ICDR) Regulations, 2018 as amended from time to time. Our Company has received an approval letter dated [•] from National Stock Exchange of India ("NSE") for using its name in the Draft Red Herring Prospectus for listing of our shares on the EMERGE Platform of National Stock Exchange of India Limited ("NSE EMERGE"). For the purpose of this Issue, National Stock Exchange of India Limited ("NSE") shall be the Designated Stock Exchange.
 

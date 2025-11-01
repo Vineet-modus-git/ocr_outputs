@@ -29,13 +29,9 @@ Our Company has appointed Ms. Ishvi Khare, Company Secretary and Compliance Offi
 Contact details of Company Secretary and Compliance Officer please are as under:
 
 **Name:** MS. ISHVI KHARE
-
 **Address:** Excel Plaza 1301 1302 13th floor Pant Nagar, Behind Durga Parmeshwari Mandir Ghatkopar (E), Mumbai City, Mumbai, Maharashtra, India, 400075.
-
 **Tel No:** +91 022-40895500/9039355216
-
 **Email:** ipo@ecofuelsystemindia.com
-
 **Website:** www.ecofuel.in
 
 275

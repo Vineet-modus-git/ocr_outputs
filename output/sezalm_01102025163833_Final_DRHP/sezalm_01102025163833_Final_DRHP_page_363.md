@@ -11,15 +11,15 @@ Any of the contracts or documents mentioned in this Draft Red Herring Prospectus
 
 2. Registrar Agreement dated January 9, 2025, between our Company and Registrar to the Issue
 
-3. Monitoring Agency Agreement dated [●] entered into between our Company and the Monitoring Agency.
+3. Monitoring Agency Agreement dated [•] entered into between our Company and the Monitoring Agency.
 
-4. Underwriting Agreement dated [●] amongst our Company, the Underwriter and Book Running Lead Manager.
+4. Underwriting Agreement dated [•] amongst our Company, the Underwriter and Book Running Lead Manager.
 
-5. Market Making Agreement dated [●] amongst our Company, Market Maker and the Book Running Lead Manager.
+5. Market Making Agreement dated [•] amongst our Company, Market Maker and the Book Running Lead Manager.
 
-6. Share Escrow Agreement dated [●] entered into between our Company and the Share Escrow Agent.
+6. Share Escrow Agreement dated [•] entered into between our Company and the Share Escrow Agent.
 
-7. Bankers to the Issue Agreement dated [●] amongst our Company, the Book Running Lead Manager, Banker(s) to the Issue and the Registrar to the Issue.
+7. Bankers to the Issue Agreement dated [•] amongst our Company, the Book Running Lead Manager, Banker(s) to the Issue and the Registrar to the Issue.
 
 8. Tripartite agreement dated December 04, 2024, amongst our Company, Central Depository Services (India) Limited and Registrar to the Issue.
 
@@ -39,4 +39,4 @@ Any of the contracts or documents mentioned in this Draft Red Herring Prospectus
 
 6. The Report dated September 22, 2025 from the Peer Reviewed Auditors of our Company, confirming the Statement of Possible Tax Benefits available to our Company and its Shareholders as disclosed in this Draft Red Herring Prospectus.
 
-7. Copy of approval from NSE vide letter dated [●] to use their name in the Issue document.
+7. Copy of approval from NSE vide letter dated [•] to use their name in the Issue document.

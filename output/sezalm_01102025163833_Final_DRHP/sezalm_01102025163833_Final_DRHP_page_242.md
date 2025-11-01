@@ -1,16 +1,16 @@
-8. **Competitive Landscape & Pricing Pressure**-Presence of multiple players leading to price competition.
+8. Competitive Landscape & Pricing Pressure-Presence of multiple players leading to price competition.
 
-9. **Financing & Consumer Affordability**-Availability of financing options for CNG conversion affecting adoption.
+9. Financing & Consumer Affordability-Availability of financing options for CNG conversion affecting adoption.
 
-10. **Government Incentives & Environmental Policies**-Subsidies and tax benefits driving or limiting market growth.
+10. Government Incentives & Environmental Policies-Subsidies and tax benefits driving or limiting market growth.
 
-**SIGNIFICANT ACCOUNTING POLICIES:**
+SIGNIFICANT ACCOUNTING POLICIES:
 
-Our significant accounting policies are described in the section entitled "Restated Consolidated Financial Statements" beginning from page no. 189 of the Draft Red Herring Prospectus.
+Our significant accounting policies are described in the section entitled “Restated Consolidated Financial Statements” beginning from page no. 189 of the Draft Red Herring Prospectus.
 
-**Key Performance Indicators**
+Key Performance Indicators
 
-In evaluating our business, we consider and use certain key performance indicators that are presented below as Supplemental measures to review and assess our operating performance. The presentation of these key performance indicators are not intended to be considered in isolation or as a substitute for the Restated Financial Information included in this Draft Red Herring Prospectus. We present these key performance indicators because they are used by our management to evaluate our operating performance. Further, these key performance indicators may differ from the similar information used by other companies and due to non availability of peer's company comparability may be limited. Therefore, these matrices should not be considered in isolation or construed as an alternative to as measures of performance or as an indicator of our operating performance, liquidity, profitability or results of operation. A list of our KPIs for the period ended March 31, 2025, 2024 and 2023 is set out below:
+In evaluating our business, we consider and use certain key performance indicators that are presented below as Supplemental measures to review and assess our operating performance. The presentation of these key performance indicators are not intended to be considered in isolation or as a substitute for the Restated Financial Information included in this Draft Red Herring Prospectus. We present these key performance indicators because they are used by our management to evaluate our operating performance. Further, these key performance indicators may differ from the similar information used by other companies and due to non availbilty of peer's companycomparability may be limited. Therefore, these matrices should not be considered in isolation or construed as an alternative to as measures of performance or as an indicator of our operating performance, liquidity, profitability or results of operation. A list of our KPIs for the period ended March 31, 2025, 2024 and 2023 is set out below:
 
 (₹ in Lakhs)
 

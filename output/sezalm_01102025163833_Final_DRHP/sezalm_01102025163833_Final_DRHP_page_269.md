@@ -1,6 +1,6 @@
 ## ELIGIBILITY FOR THE ISSUE
 
-Our Company is an “Unlisted Issuer” in terms of the SEBI (ICDR) Regulations, 2018; and this Issue is an “Initial Public Issue” in terms of the SEBI (ICDR) Regulations, 2018.
+Our Company is an “Unlisted Issuer” in terms of the SEBI (ICDR) Regulations, 2018; and this Issue is an “Initial Public Issue ” in terms of the SEBI (ICDR) Regulations, 2018.
 
 Our Company is eligible for the Issue in accordance with Regulation 229(1) of Chapter IX of SEBI (ICDR) Regulations, 2018, as amended from time to time, whereby, an issuer whose post Issue face value capital is less than or equal to ten crores, shall issue shares to the public and propose to list the same on the Small and Medium Enterprise Exchange ("SME Exchange"), in this case being the EMERGE Platform of NSE. Our Company also complies with eligibility conditions laid by NSE for listing of Equity Shares.
 

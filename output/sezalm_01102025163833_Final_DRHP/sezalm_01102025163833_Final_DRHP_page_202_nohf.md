@@ -9,9 +9,9 @@ The financial statements have been prepared on historical cost basis, except for
 
 * Certain financial assets and financial liabilities are measured at fair value (including derivative instruments);
 
-* Defined benefit plans – plan assets are measured at fair value.
+* Defined benefit plans - plan assets are measured at fair value.
 
-* Assets held for sale – measured at fair value less cost to sell.
+* Assets held for sale - measured at fair value less cost to sell.
 
 ### c Current vis-à-vis non-current classification
 
@@ -21,7 +21,7 @@ An asset is classified as current when it is expected to be realised or intended
 
 A liability is classified as current when it is expected to be settled in normal operating cycle, it is held primarily for the purpose of trading, it is due to be settled within twelve months after the reporting period, or there is no unconditional right to defer the settlement of the liability for at least twelve months after the reporting period.
 
-The Group has determined its operating cycle as twelve months for the purpose of current – non-current classification of assets and liabilities.
+The Group has determined its operating cycle as twelve months for the purpose of current - non-current classification of assets and liabilities.
 
 Deferred tax assets and liabilities, and all assets and liabilities which are not current are classified as non-current assets and liabilities.
 

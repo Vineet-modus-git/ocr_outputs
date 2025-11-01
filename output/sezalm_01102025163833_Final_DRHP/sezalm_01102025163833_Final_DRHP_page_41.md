@@ -9,5 +9,3 @@ For further details of litigation proceedings, please refer the chapter titled "
 **37. Our inability to introduce new products and respond to changing customer preferences in a timely and effective manner, may have an adverse effect on our business, results of operations and financial condition.**
 
 The success of our business depends upon our ability to anticipate and identify changes in the preferences of our customers and issue them the products that they require, on a timely basis. Although changes in the preferences of customers have historically been limited, and although we seek to identify such trends, we cannot assure you that our alternate fuel kits would gain consumer acceptance or that we will be able to successfully compete in such segments. In order to remain competitive, we must develop, test and innovate in our kits, which must meet regulatory standards and receive requisite regulatory approvals. It is often difficult to estimate the time to market new products and there is a risk that we may have to abandon a potential product that is no longer commercially viable, even after we have invested resources in the development of such
-
-38

@@ -1,8 +1,8 @@
-to acquisition of land, construction of building and supply of machinery. Except as disclosed under “*Related Party Transactions*” on page 18 and in the ordinary course of business, our Group Companies do not have or currently propose to have any business interest in our Company.
+to acquisition of land, construction of building and supply of machinery. Except as disclosed under "*Related Party Transactions*" on page 18 and in the ordinary course of business, our Group Companies do not have or currently propose to have any business interest in our Company.
 
 ## RELATED BUSINESS TRANSACTIONS
 
-Except as set forth in “*Related Party Transactions*” on page 18, no other related business transactions have been entered into between our Group Companies and our Company.
+Except as set forth in "*Related Party Transactions*" on page 18, no other related business transactions have been entered into between our Group Companies and our Company.
 
 ## COMMON PURSUITS OF OUR GROUP COMPANIES
 
