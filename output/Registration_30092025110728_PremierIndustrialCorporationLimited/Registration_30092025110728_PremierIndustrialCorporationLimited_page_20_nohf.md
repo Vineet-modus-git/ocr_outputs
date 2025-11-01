@@ -1,0 +1,23 @@
+# CERTAIN CONVENTIONS, CURRENCY OF PRESENTATION, USE OF FINANCIAL INFORMATION, INDUSTRY AND MARKET DATA
+
+## Certain conventions
+
+All references to “India” contained in this Draft Red Herring Prospectus are to the Republic of India and its territories and possessions and all references herein to the “Government”, “Indian Government”, “GoI”, “Central Government” or the “State Government” are to the Government of India, central or state, as applicable. All reference to:
+
+* “Rupee(s)”, “Rs.” or “₹” or “INR” are to the Indian Rupee, the official currency of the Republic of India;
+* “EUR” or “€” are to Euro, the official currency of the European Union; and
+* “US$” or “U.S. Dollars” or “USD” or “$” are to the United States Dollar, the official currency of the United States of America;
+
+Unless otherwise specified, all references to time mentioned in this Draft Red Herring Prospectus is in Indian Standard Time (“IST”). Unless indicated otherwise, all references to a year in this Draft Red Herring Prospectus are to a calendar year.
+
+Unless stated otherwise, all references to page numbers in this Draft Red Herring Prospectus are to page numbers of this Draft Red Herring Prospectus.
+
+## Financial data
+
+Our Company’s Financial Year commences on April 1 of the immediately preceding calendar year and ends on March 31 of that particular calendar year, so all references to a particular Financial Year, Fiscal or Fiscal Year, unless stated otherwise, are to the 12 months period commencing on April 1 of the immediately preceding calendar year and ending on March 31 of that particular calendar year.
+
+Unless stated otherwise or the context otherwise requires, the financial data and financial ratios in this Draft Red Herring Prospectus are derived from the Restated Financial Information. The Restated financial information of our Company, as at and for the years March 31, 2025, March 31, 2024 and March 31, 2023 comprises of the restated statement of assets and liabilities as at March 31, 2025, March 31, 2024 and March 31, 2023 and restated statement of profit and loss (including other comprehensive income), restated statement of changes in equity and restated financial statement of cash flows as at and for the years ended March 31, 2025, March 31, 2024 and March 31, 2023, the summary of material accounting policies, and other explanatory information prepared in terms of the requirements of Section 26 of Part I of Chapter III of the Companies Act, 2013, SEBI ICDR Regulations, as amended and the Guidance Note on ‘Reports on Company Prospectuses (Revised 2019)’ Institute of Chartered Accountants of India, as amended from time to time.
+
+Unless otherwise stated or the context otherwise indicates, any percentage amounts, (excluding certain operational metrics), as set out in “Summary of the Offer Document”, “Risk Factors”, “Our Business” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” on pages 21, 33, 192 and 308. Restated Financial Information for the Fiscals ended March 31, 2025, March 31, 2024 and March 31, 2023 included in this Draft Red Herring Prospectus are derived from audited financial statements for the Fiscals ended March 31, 2025, March 31, 2024 and March 31, 2023 prepared in accordance with Ind AS, the provisions of the Companies Act and other accounting principles generally accepted in India and restated by our Company in accordance with the requirements of Section 26 of Part I of Chapter III of the Companies Act, 2013, relevant provisions of the SEBI ICDR Regulations, and the Guidance Note on Reports on Company Prospectuses (Revised 2019) issued by the ICAI. Ind AS differs from accounting principles with which you may be familiar, such as Indian GAAP, IFRS and US GAAP.
+
+Ind AS, Indian GAAP, IFRS and U.S. GAAP differ in certain significant respects from other accounting principles and standards with which investors may be more familiar. Our Company has not attempted to explain those differences or quantify their impact on the financial data included in this Draft Red Herring Prospectus, nor do we provide a reconciliation of our financial statements to those of Indian GAAP, IFRS, U.S. GAAP or any other accounting principles or standards. If we were to prepare our financial statements in accordance with such other accounting principles, our results of operations, financial condition and cash flows may be substantially different. For details in connection with risks involving differences between Ind AS, Indian GAAP, IFRS and U.S. GAAP, see “Risk Factors – Significant differences exist between Ind AS used to prepare our financial information and

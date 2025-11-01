@@ -1,0 +1,23 @@
+**All non-resident investors should note that refunds (in case of Anchor Investors), dividends and other distributions, if any, will be payable in Indian Rupees only and net of bank charges and commission.**
+
+## Bids by Limited Liability Partnerships
+
+In case of Bids made by limited liability partnerships registered under the Limited Liability Partnership Act, 2008, a certified copy of certificate of registration issued under the Limited Liability Partnership Act, 2008, must be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLM, reserves the right to reject any Bid without assigning any reason thereof.
+
+## Bids by Banking Companies
+
+In case of Bids made by banking companies registered with the RBI, certified copies of (i) the certificate of registration issued by the RBI, and (ii) the approval of such banking company's investment committee are required to be attached to the Bid cum Application Form. Failing this, our Company, in consultation with the BRLM, reserves the right to reject any Bid without assigning any reason thereof, subject to applicable law.
+
+The investment limit for banking companies in non-financial services companies as per the Banking Regulation Act, 1949, as amended, (the “Banking Regulation Act”), and the Master Directions - Reserve Bank of India (Financial Services provided by Banks) Directions, 2016, as amended, is 10% of the paid-up share capital of the investee company, not being its subsidiary engaged in non-financial services, or 10% of the bank's own paid-up share capital and reserves, whichever is lower. Further, the aggregate investment by a banking company in subsidiaries and other entities engaged in financial services company cannot exceed 20% of the bank's paid up share capital and reserves.
+
+However, a banking company would be permitted to invest in excess of 10% but not exceeding 30% of the paid-up share capital of such investee company if (i) the investee company is engaged in non-financial activities permitted for banks in terms of Section 6(1) of the Banking Regulation Act, or (ii) the additional acquisition is through restructuring of debt/corporate debt restructuring/strategic debt restructuring, or to protect the bank's interest on loans/investments made to a company. (iii) hold along with its subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and mutual funds managed by asset management companies controlled by the bank, more than 20% of the investee company's paid-up share capital engaged in non-financial services. However, this cap doesn't apply to the cases mentioned in (i) and (ii) above. Further, the aggregate investment by a banking company in all its subsidiaries and other entities engaged in financial services and non-financial services, including overseas investments, cannot exceed 20% of the banking company's paid-up share capital and reserves.
+
+The bank is required to submit a time-bound action plan for disposal of such shares within a specified period to the RBI. A banking company would require a prior approval of the RBI to make (i) investment in excess of 30% of the paid-up share capital of the investee company, (ii) investment in a subsidiary and a financial services company that is not a subsidiary (with certain exceptions prescribed), and (iii) investment in a non-financial services company in excess of 10% of such investee company's paid-up share capital as stated in 5(a)(v)(c)(i) of the Reserve Bank of India (Financial Services provided by Banks) Directions, 2016, as amended.
+
+## Bids by Self Certified Syndicate Banks
+
+SCSBs participating in the Issue are required to comply with the terms of the circulars bearing numbers CIR/CFD/DIL/12/2012 and CIR/CFD/DIL/1/2013 dated September 13, 2012 and January 2, 2013, respectively, issued by SEBI. Such SCSBs are required to ensure that for making applications on their own account using ASBA, they should have a separate account in their own name with any other SEBI registered SCSBs. Further, such account shall be used solely for the purpose of making application in public issues and clear demarcated funds should be available in such account for such applications.
+
+## Bids by Insurance Companies
+
+In case of Bids made by insurance companies registered with the IRDAI, a certified copy of certificate of registration issued by IRDAI must be attached to the Bid cum Application Form. Failing this, our Company, in

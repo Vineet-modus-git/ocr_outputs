@@ -1,0 +1,27 @@
+# SECTION VI – LEGAL AND OTHER INFORMATION
+
+## OUTSTANDING LITIGATIONS AND MATERIAL DEVELOPMENTS
+
+Except as stated in this section, as on the date of this Draft Red Herring Prospectus, there are no outstanding (i) criminal proceedings (including matters which are at first information report stage, even if no cognizance has been taken by any court or judicial authority) involving the Company, its Promoters and its Directors (together, the “Relevant Parties”), the Key Managerial Personnel (“KMPs”) and Senior Management (“Senior Management” and together with the KMPs, the “Company Personnel”); (ii) actions taken by statutory or regulatory authorities against the Relevant Parties and Company Personnel; (iii) claims related to direct and indirect taxes against the Relevant Parties, in a consolidated manner; (iv) other pending litigation (including civil litigation or arbitration proceedings) as determined to be material pursuant to the Materiality Policy adopted by our Board in accordance with SEBI ICDR Regulations. Further, except as stated in this section, there are no disciplinary actions including penalties imposed by the SEBI or Stock Exchanges against our Promoters in the last five Fiscals, including any outstanding action involving the Company Personnel.
+
+For the purpose of disclosure of pending material litigation in (iv) above, our Board in its meeting held on September 9, 2025 (“Materiality Policy”), involving our Company, our Directors and our Promoters, shall be considered ‘material’ for the purpose of disclosure in the Draft Red Herring Prospectus, if:
+
+(a) the aggregate claim or amount involved in such litigation, to the extent quantifiable, is in excess of the lower of:
+
+(i) 5% of the average of absolute value of profit or loss after tax i.e. ₹ 16.24 million as per the last three financial years Restated Financial Information; or
+
+(ii) 2% of the net worth for the most recent financial year as per the latest Restated Financial Information i.e. ₹ 39.57 million; or
+
+(iii) 2% of the turnover for the most recent financial years as per the latest Restated Financial Information i.e. ₹ 95.28 million
+
+Accordingly, ₹ 16.24 million being the lowest of the above criteria has been considered as Materiality Threshold for the purpose of (a) above (“Materiality Threshold”).
+
+(b) the outcome of such litigation, would, in the opinion of the Board, have a material adverse bearing on the business, operations, performance, prospectus, reputation, results of operations or cash flows of our Company and irrespective of whether the amount involved in such proceedings exceeds the Materiality Threshold or not or whether the monetary liability is not quantifiable in such litigation; or
+
+(c) the decision in such litigation is likely to affect the decision in similar cases even though the amount involved in an individual litigation may not exceed the materiality threshold as per (a) above.
+
+For the purposes of this section, pre-litigation notices (other than those received from governmental, statutory, regulatory, judicial or tax authorities), shall, in any event, not be considered as litigation and evaluated for materiality, until such time that Relevant Parties are impleaded as defendants in litigation proceedings before any judicial/arbitral forum or unless decided otherwise by the board of directors of the Company.
+
+Except as stated in this section, there are no outstanding dues to creditors of our Company. For the purpose, a creditor of the Company shall be considered ‘material’ for the purpose of disclosure in the Offer Documents if the amount exceeds 5% of the restated total trade payables of the Company as of the end of the latest financial period covered in the Restated Financial Information as disclosed in the Draft Red Herring Prospectus. Accordingly, if the amounts due to such creditor exceeds ₹ 17.07 million, such creditors have been considered for the purposes of disclosure of material creditors and in this section. Further, for outstanding dues to micro, small and medium enterprises (“MSME”), the disclosure will be based on information available with the Company regarding status as MSME as defined under Section 2 read with Section 7 of the Micro, Small and Medium Enterprises Development Act, 2006, as amended, as has been relied upon by the statutory auditors in preparing their audit report.
+
+All terms defined in a particular litigation disclosure below correspond to that particular litigation only.

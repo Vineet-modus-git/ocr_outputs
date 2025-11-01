@@ -1,0 +1,23 @@
+## p) SEGMENT REPORTING
+
+As per Ind AS 108 – Operating Segments, the Chief Operating Decision Maker i.e Board of Directors evaluates the Company’s performance and allocates the resources based on an analysis of various performance indicators by business segments. Inter segment sales and transfers are reflected at market prices. Segment revenue, segment expenses, segment assets and segment liabilities have been identified to segments based on their relationship to the operating activities of the segment. The analysis of geographical segments is based on the areas in which the Company’s products are sold. Inter segment revenue is accounted based on transactions which are primarily determined based on market / fair value factors. Revenue, expenses, assets and liabilities which relate to the Company as a whole and are not allocable to segments on a reasonable basis have been included under “unallocated revenue / expenses / assets / liabilities”.
+
+## q) INCOME TAX
+
+Tax expense for the year comprises current and deferred tax. The tax currently payable is based on taxable profit for the year. Taxable profit differs from net profit as reported in the Restated Statement of Profit or Loss because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are never taxable or deductible. The Company’s liability for current tax is calculated using tax rates and tax laws that have been enacted or substantively enacted by the end of the reporting period.
+
+Current tax assets and current tax liabilities are offset when there is a legally enforceable right to set off the recognised amounts and there is an intention to realise the asset or to settle the liability on a net basis.
+
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying values of assets and liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profit and is accounted for using the balance sheet liability method. Deferred tax liabilities are generally recognised for all taxable temporary differences arising between the tax base of assets and liabilities and their carrying amount, except when the deferred income tax arises from the initial recognition of an asset or liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. In contrast, deferred tax assets are only recognised to the extent that it is probable that future taxable profits will be available against which the temporary differences can be utilised.
+
+The carrying value of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled, or the asset is realised based on the tax rates and tax laws that have been enacted or substantially enacted by the end of the reporting period. The measurement of deferred tax liabilities and assets reflects the tax consequences that would follow from the manner in which the Company expects, at the end of the reporting period, to cover or settle the carrying value of its assets and liabilities.
+
+Deferred tax assets and liabilities are offset to the extent that they relate to taxes levied by the same tax authority and there are legally enforceable rights to set off current tax assets and current tax liabilities within that jurisdiction.
+
+Current and deferred tax are recognised as an expense or income in the Restated Statement of profit and loss, except when they relate to items credited or debited either in other comprehensive income or directly in equity, in which case the tax is also recognised in OCI or directly in equity.
+
+The Government of India has inserted Section 115BAA in the Income Tax Act, 1961 which provides domestic companies an option to pay corporate tax at reduced rate of 22% plus applicable surcharge and cess which is effective from 1st April 2019 subject to certain conditions.
+
+The Company has adopted the option of a reduced rate and accordingly income tax and deferred tax have been calculated.

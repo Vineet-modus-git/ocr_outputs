@@ -1,0 +1,19 @@
+Notes to the Restated Financial Information
+as at 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+5
+
+<table><thead><tr><th>Investment Property</th><th>Buildings</th></tr></thead><tbody><tr><td><strong>At Cost or Deemed Cost</strong></td><td></td></tr><tr><td><em>Gross Block</em></td><td></td></tr><tr><td>As at 1st April, 2022</td><td>14.28</td></tr><tr><td>Additions</td><td>-</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2023</td><td>14.28</td></tr><tr><td>Additions</td><td>-</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2024</td><td>14.28</td></tr><tr><td>Additions</td><td>-</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2025</td><td>14.28</td></tr><tr><td><strong>Accumulated Depreciation &amp; Impairments</strong></td><td></td></tr><tr><td><em>As at April 1st, 2022</em></td><td>7.14</td></tr><tr><td>Depreciation for the year</td><td>0.35</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2023</td><td>7.49</td></tr><tr><td>Depreciation for the year</td><td>0.33</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2024</td><td>7.82</td></tr><tr><td>Depreciation for the year</td><td>0.31</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td>As at 31st March, 2025</td><td>8.13</td></tr><tr><td><strong>Carrying amount</strong></td><td></td></tr><tr><td><em>As at 31st March, 2023</em></td><td>6.79</td></tr><tr><td><em>As at 31st March, 2024</em></td><td>6.46</td></tr><tr><td><em>As at 31st March, 2025*</em></td><td>6.14</td></tr></tbody></table>
+
+*The fair value of the investment property as at March 31, 2025, using the market approach amounts to ₹ 84.32 Million. The company carries investment property at cost in accordance with Ind AS 40.
+
+6
+
+<table><thead><tr><th>Investments</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td><strong>Investments measured at Fair Value through Other Comprehensive Income</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Investments in Gold Coins</strong></td><td></td><td></td><td></td></tr><tr><td>2 Gold Coins- 50 Grams each</td><td>0.92</td><td>0.69</td><td>0.60</td></tr><tr><td><strong>Total</strong></td><td><strong>0.92</strong></td><td><strong>0.69</strong></td><td><strong>0.60</strong></td></tr></tbody></table>
+
+<table><tr><td>Aggregate Market Value of Unquoted Investments</td><td>0.92</td><td>0.69</td><td>0.60</td></tr><tr><td>Aggregate Amount of Unquoted Investments</td><td>0.31</td><td>0.31</td><td>0.31</td></tr></table>
+
+7
+
+<table><thead><tr><th>Deferred tax Assets (Net)</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td><strong>Significant components of net deferred tax assets and liabilities</strong></td><td></td><td></td><td></td></tr><tr><td><strong>Deferred tax Assets-</strong></td><td></td><td></td><td></td></tr><tr><td>Property, Plant &amp; Equipment</td><td>1.14</td><td>1.98</td><td>-</td></tr><tr><td>Gratuity</td><td>7.48</td><td>6.03</td><td>-</td></tr><tr><td>Leave Encashment</td><td>0.60</td><td>0.12</td><td>-</td></tr><tr><td>Provision for Expected credit Loss</td><td>3.42</td><td>2.51</td><td>-</td></tr><tr><td>Other Deferred tax assets</td><td>9.05</td><td>5.95</td><td>-</td></tr><tr><td><strong>Deferred tax Liabilities-</strong></td><td></td><td></td><td></td></tr><tr><td>Investment in Gold</td><td>(0.09)</td><td>(0.05)</td><td>-</td></tr><tr><td><strong>Deferred tax Assets net</strong></td><td><strong>21.60</strong></td><td><strong>16.53</strong></td><td><strong>-</strong></td></tr></tbody></table>

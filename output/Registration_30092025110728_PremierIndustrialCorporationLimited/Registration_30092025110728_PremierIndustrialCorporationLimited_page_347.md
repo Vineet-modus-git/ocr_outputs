@@ -1,0 +1,29 @@
+## FINANCIAL INDEBTEDNESS
+
+Our Company has availed loans and credit facilities in the ordinary course of business, business for various purposes including meeting working capital requirements and meeting business purposes. These credit facilities include inter alia cash credit, working capital demand loans, as well as letter of credit and bank guarantee facilities. As on August 31, 2025, the total amount outstanding pertaining to the aforesaid loans is ₹894.26 million
+
+Our Board is empowered to borrow money in accordance with sections 179 and 180 of the Companies Act, 2013 and our Articles of Association. For details regarding the borrowing powers of our Board, see "*Our Management-Borrowing Powers*" on page 238.
+
+Also see "Risk Factor no. 24 - *We are required to comply with certain restrictive covenants under our financing agreements. Any non-compliance may lead to, amongst others, accelerated repayment schedule, enforcement of security and suspension of further drawdowns, which may adversely affect our business, results of operations, financial condition and cash flows.*" on page 49.
+
+As on August 31, 2025, the outstanding aggregate borrowings of our Company on a standalone basis.
+
+Set forth below is a summary of the aggregate borrowings of our Company, as on August 31, 2025:
+
+(₹ in million)
+
+<table><thead><tr><th>Category of Borrowings</th><th>Sanctioned amount as at August 31, 2025</th><th>Outstanding amount as at August 31, 2025*</th></tr></thead><tbody><tr><td><strong>Secured Loans</strong></td><td></td><td></td></tr><tr><td>Fund based facilities</td><td></td><td></td></tr><tr><td><strong>Term loans (Covid Loan)</strong></td><td>89.50</td><td>54.02</td></tr><tr><td>Working Capital Limits</td><td></td><td></td></tr><tr><td><strong>- Cash Credit & WCDL</strong></td><td>1,210.00</td><td>829.74</td></tr><tr><td><strong>Total (A)</strong></td><td><strong>1,299.50</strong></td><td><strong>883.76</strong></td></tr><tr><td>Non-Fund based facilities</td><td>Nil</td><td></td></tr><tr><td><strong>Unsecured Loans</strong></td><td>-</td><td>10.50</td></tr><tr><td><strong>Total (B)</strong></td><td>-</td><td><strong>10.50</strong></td></tr><tr><td><strong>Total (A) + (B)</strong></td><td><strong>1,299.50</strong></td><td><strong>894.26</strong></td></tr></tbody></table>
+
+*As certified by Mehta Chokshi & Shah LLP, Chartered Accountants, by way of their certificate dated September 29, 2025.
+
+**Principal terms of the borrowings availed by our Company are disclosed below:**
+
+1. **Tenor:** The tenor of our Borrowings varies from one type of facility to the other. Our working capital facilities are typically renewable at annual resets and repayable on demand.
+
+2. **Interest:** The interest rate applicable to our borrowing facilities is typically tied to the lender lending rate prevailing at the time, linked to the repo rate/ external benchmark lending rate/ marginal cost of fund-based lending rate, which may vary for each facility. The interest rate applicable to our borrowings is fixed by the lender and typically ranges upto 8.75% per annum, payable at such intervals as may be stipulated by the lender.
+
+3. **Security:** Our secured borrowings are Primarily secured by way of hypothecation of stock and book debts in addition to collaterally being secured by immovable properties. The nature of the securities described is indicative and there may be additional requirements for creation of security under various borrowing arrangements entered into by our Company. Personal guarantees by our Promoters and Directors, Dilip Chhotalal Morzaria, Arvind Chhotalal Mozaria, Subhash Chhotalal Morzaria and Lalit Navinchandra Morzaria.
+
+4. **Repayment:** The credit facilities are typically repayable on demand in accordance with the facility agreements executed by our Company. Each sub-limit has a specific schedule prescribed with provisions of periodic repayments for some of the sub-limits. For, term loan facility repayment is typically in equal monthly instalment after the end of specific moratorium.
+
+342

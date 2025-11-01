@@ -1,0 +1,23 @@
+India's electricity consumption has shown a steady increase across all consumer categories between FY 2020 -24. Domestic consumption rose from 308.75 BU in FY 2020 to 375.00 BU in FY 2024, indicating a growing demand for household electricity due to urbanization and rising appliance usage. The commercial sector exhibited fluctuations, dropping to 86.95 BU in FY 2021 due to the pandemic but rebounding to 125.00 BU in FY 2024.
+
+Industrial electricity consumption, a key driver of economic activity, saw a dip in FY 2021 but recovered significantly, reaching 645.00 BU in FY 2024. The agricultural sector also saw consistent growth, with consumption increasing from 211.30 BU to 255.00 BU, highlighting the expanding demand for irrigation and farming operations. Traction and miscellaneous categories followed a similar upward trend, reflecting increased electrification in railway operations and other sectors. Overall, total electricity consumption grew from 1248.09 BU in 2019-20 to 1543.00 BU in 2023-24, underscoring India's increasing energy needs driven by economic expansion and infrastructure development.
+
+## Transmission Sector in the State of Gujarat
+
+Gujarat is one of the leading state in Transmission Infrastructure with addition of 3,428 CKM of transmission lines and 108 substations during 2023-2024. GETCO has been notified as State Transmission Utility (STU) by Government of Gujarat vide Notification No.GHU-04-31-GEB-1104-2946-K Dated 29th May 2004 with the purpose of improving efficiency in the state's electricity transmission activities.
+
+As per the Network Planning Report of GETCO, March -2024, Power Infrastructure of Gujarat consists of 76,482 CKM of Transmission line and 2,311 numbers of substations, having total transformation capacity of 1,70,537 MVA. Following data provides additions made during the 2023-2024, in the Power Infrastructure of State of Gujarat.
+
+<table><thead><tr><th rowspan="2">Voltage Class</th><th colspan="2">As on 31.03.2023</th><th colspan="2">Additions during the year 2023-2024</th><th colspan="2">As on March 31.03.2024</th></tr><tr><th>Substation (Nos.)</th><th>Transmission Lines (ckm)</th><th>Substation (Nos.)</th><th>Transmission Lines (ckm)</th><th>Substation (Nos.)</th><th>Transmission Lines (ckm)</th></tr></thead><tbody><tr><td>400 kV</td><td>18</td><td>6722</td><td>0</td><td>847</td><td>18</td><td>7569</td></tr><tr><td>220 kV</td><td>113</td><td>21820</td><td>5</td><td>432</td><td>118</td><td>22252</td></tr><tr><td>132 kV</td><td>52</td><td>5833</td><td>0</td><td>114</td><td>52</td><td>5947</td></tr><tr><td>66kV and 33kV</td><td>2020</td><td>38679</td><td>103</td><td>2035</td><td>2123</td><td>40714</td></tr><tr><td>Total</td><td>2203</td><td>73054</td><td>108</td><td>3428</td><td>2311</td><td>76482</td></tr></tbody></table>
+
+Source: Network Planning Report, GETCO, March, 2024
+
+## Substations Planned upto year 2028-29:
+
+<table><thead><tr><th rowspan="2">Voltage Class</th><th rowspan="2">As on 31.03.2024</th><th colspan="5">Year</th><th rowspan="2">Total Planned (2024-29)</th></tr><tr><th>2024-25</th><th>2025-26</th><th>2026-27</th><th>2027-28</th><th>2028-29</th></tr></thead><tbody><tr><td>765 kV</td><td>0</td><td>0</td><td>0</td><td>1</td><td>3</td><td>0</td><td>4</td></tr><tr><td>400 kV</td><td>18</td><td>1</td><td>1</td><td>3</td><td>3</td><td>0</td><td>8</td></tr><tr><td>220 kV</td><td>118</td><td>8</td><td>14</td><td>28</td><td>8</td><td>6</td><td>64</td></tr><tr><td>132 kV</td><td>52</td><td>1</td><td>2</td><td>1</td><td>1</td><td>0</td><td>5</td></tr><tr><td>66 kV</td><td>2123</td><td>85</td><td>85</td><td>85</td><td>85</td><td>85</td><td>425</td></tr><tr><td>Total</td><td>2311</td><td>95</td><td>102</td><td>118</td><td>100</td><td>91</td><td>506</td></tr></tbody></table>
+
+Source: Network Planning Report, GETCO, March, 2024
+
+## Year wise Transformation Capacity (in MVA) to be added up to year 2028-29:
+
+<table><thead><tr><th rowspan="2">Voltage Class</th><th colspan="5">Year</th><th rowspan="2">Total Planned (2024-29)</th></tr><tr><th>2024-25</th><th>2025-26</th><th>2026-27</th><th>2027-28</th><th>2028-29</th></tr></thead><tbody><tr><td>765 kV</td><td>0</td><td>0</td><td>3000</td><td>90000</td><td>0</td><td>12000</td></tr><tr><td>400 kV</td><td>1000</td><td>1000</td><td>3000</td><td>3000</td><td>0</td><td>8000</td></tr><tr><td>220 kV</td><td>2560</td><td>4480</td><td>8960</td><td>2560</td><td>1920</td><td>20480</td></tr><tr><td>132 kV</td><td>200</td><td>400</td><td>200</td><td>0</td><td>0</td><td>800</td></tr><tr><td>66 kV</td><td>2550</td><td>2550</td><td>2550</td><td>2550</td><td>2550</td><td>12750</td></tr></tbody></table>

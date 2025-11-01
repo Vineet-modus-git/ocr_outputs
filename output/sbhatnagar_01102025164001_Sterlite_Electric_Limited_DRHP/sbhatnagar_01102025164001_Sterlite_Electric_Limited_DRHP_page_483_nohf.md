@@ -1,0 +1,25 @@
+enhanced Gross Turnover basis revenue reported in GSTR9C and deductions claimed were disallowed. Our Company has already submitted reconciliation and back up working to support the same for the FY 2017-18 (Q1). Our Company has deposited an amount of ₹ 13.03 million as at March 31, 2025 while filing the appeal before Tribunal in this matter.
+
+(ii) The Group is executing an engineering, procurement and construction contract for one of the customers. The execution of the contract was delayed due to force majeure events and other factors beyond the control of the Group. Accordingly, the Group requested Time Limit Extension ('TLE') for the execution of the contract as per the terms of the contract with the customer. The customer has issued a letter for TLE but has also mentioned that TLE is with levy of Liquidated Damages ('LD') on account of delay in completion of the project. As per the terms of the contract with the customer, the management has estimated that potential amount of LD is ₹ 206.60 million.
+
+For further information relating to our contingent liabilities as per Ind AS 37 as at March 31, 2025, see "Restated Consolidated Financial Information – Note 42 – Contingent liabilities" on page 373.
+
+## Capital and Other Commitments
+
+The following table below sets forth our capital and other commitments as of March 31, 2025:
+
+<table><thead><tr><th>Particulars</th><th>As at March 31, 2025<br>(₹ in million)</th></tr></thead><tbody><tr><td>Estimated amount of contracts remaining to be executed on capital account and not provided for (net of advances)</td><td>1,589.19</td></tr></tbody></table>
+
+## Additions to property, plant and equipment and right-of-use assets
+
+Below are the additions to the property, plant and equipment and right-of-use assets during the Fiscals 2025, 2024 and 2023:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>For the year ended March 31, 2025</th><th>For the year ended March 31, 2024</th><th>For the year ended March 31, 2023</th></tr><tr><th colspan="3" style="text-align:center;">(₹ in million)</th></tr></thead><tbody><tr><td><strong>Owned assets</strong></td><td></td><td></td><td></td></tr><tr><td>Freehold land</td><td>337.74</td><td>10.95</td><td>294.33</td></tr><tr><td>Leasehold improvements</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Buildings</td><td>170.35</td><td>29.42</td><td>36.82</td></tr><tr><td>Plant and machinery</td><td>862.73</td><td>1,149.23</td><td>183.43</td></tr><tr><td>Data processing equipment</td><td>30.79</td><td>28.07</td><td>8.98</td></tr><tr><td>Furniture and fittings</td><td>3.17</td><td>7.44</td><td>0.76</td></tr><tr><td>Office equipment</td><td>8.29</td><td>18.82</td><td>7.44</td></tr><tr><td>Vehicles</td><td>-</td><td>12.71</td><td>4.50</td></tr><tr><td>Electrical installations</td><td>31.48</td><td>16.31</td><td>-</td></tr><tr><td><strong>Sub-total (A)</strong></td><td><strong>1,444.55</strong></td><td><strong>1,272.95</strong></td><td><strong>536.26</strong></td></tr><tr><td><strong>Right-of-use assets</strong></td><td></td><td></td><td></td></tr><tr><td>Land</td><td>5.88</td><td>0.18</td><td>6.74</td></tr><tr><td>Office building</td><td>1.07</td><td>1.46</td><td>-</td></tr><tr><td>Vehicles</td><td>26.27</td><td>54.94</td><td>-</td></tr><tr><td><strong>Sub-total (B)</strong></td><td><strong>33.22</strong></td><td><strong>56.58</strong></td><td><strong>6.74</strong></td></tr><tr><td><strong>Total (A + B)</strong></td><td><strong>1,477.77</strong></td><td><strong>1,329.53</strong></td><td><strong>543.00</strong></td></tr></tbody></table>
+
+## Off-Balance Sheet Arrangements
+
+We do not have any off-balance sheet arrangements, derivative instruments or other relationships with other entities that would have been established for the purpose of facilitating off-balance sheet arrangements.
+
+## Related Party Transactions
+
+We enter into various transactions with related parties in the ordinary course of business. These transactions principally include loans and advances, subscription/acquisition of equity shares including pending allotment, investment in non-convertible debentures, investment in compulsorily convertible debentures, investment in compulsorily convertible preference shares, redemption/sale of investment made in non-convertible debentures, repayment of loans and advances given by the Company, conversion of investment in compulsorily convertible preference shares into investment in equity share capital, conversion of investment in compulsorily convertible debentures into optionally convertible debentures, sale of investment in equity shares of joint venture, revenue from EPC contract with customer, sale of goods, sale of services, secondment fee income, management fees income, interest income accrued or interest received, reversal of interest income accrued on non-convertible debentures, purchase of goods and services (including GST), interest cost, purchase of power, remuneration given to KMP, director sitting fees, director commission, CSR expenditure, advance received against contracts (excluding tax), reimbursement of expense

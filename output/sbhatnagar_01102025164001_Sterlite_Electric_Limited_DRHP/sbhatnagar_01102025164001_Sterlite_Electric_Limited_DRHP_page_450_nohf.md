@@ -1,0 +1,13 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr><tr><th colspan="3">(₹ in million unless otherwise stated)</th></tr></thead><tbody><tr><td>Total borrowings (I)</td><td>3,272.21</td><td>7,705.27</td><td>46,114.47</td></tr><tr><td>Total equity (II)</td><td>14,338.70</td><td>13,327.80</td><td>15,092.77</td></tr><tr><td>Debt to equity ratio (in times) (III = I/II)</td><td>0.23</td><td>0.58</td><td>3.06</td></tr></tbody></table>
+
+### Reconciliation of Net Debt / (Net Cash surplus) to EBITDA
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at/ for the year ended<br>March 31, 2025</th><th>As at/ for the year ended<br>March 31, 2024</th><th>As at/ for the year ended<br>March 31, 2023</th></tr><tr><th colspan="3">(₹ in million unless otherwise stated)</th></tr></thead><tbody><tr><td>Net debt / (Net Cash surplus) (I)</td><td>(8,963.15)</td><td>1,636.04</td><td>31,736.17</td></tr><tr><td>EBITDA (II)</td><td>5,430.60</td><td>5,510.51</td><td>4,344.02</td></tr><tr><td>Net Debt / (Net Cash surplus) to<br>EBITDA (in times) (III = I/II)</td><td>(1.65)</td><td>0.30</td><td>7.31</td></tr></tbody></table>
+
+### Reconciliation of Interest Coverage Ratio
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>For the year ended March<br>31, 2025</th><th>For the year ended March<br>31, 2024</th><th>For the year ended March<br>31, 2023</th></tr><tr><th colspan="3">(₹ in million unless otherwise stated)</th></tr></thead><tbody><tr><td>EBIT (I)</td><td>4,860.90</td><td>5,051.51</td><td>3,872.98</td></tr><tr><td>Finance costs (continuing operations)<br>(II)</td><td>2,254.45</td><td>1,863.41</td><td>1,470.33</td></tr><tr><td>Less: Finance income (continuing<br>operations) (III)</td><td>706.36</td><td>444.19</td><td>237.40</td></tr><tr><td>Net Finance Cost (IV = II - III)</td><td>1,548.09</td><td>1,419.22</td><td>1,232.93</td></tr><tr><td>Interest Coverage Ratio (in times) (V<br>= I/IV)</td><td>3.14</td><td>3.56</td><td>3.14</td></tr></tbody></table>
+
+### Related Party Transactions
+
+For details of the related party transactions, as per the requirements under applicable Accounting Standards i.e. Ind AS 24 'Related Party Disclosures', read with SEBI ICDR Regulations, for the Financial Years ended March 31, 2025, March 31, 2024, and March 31, 2023, and as reported in the Restated Consolidated Financial Information, see "Restated Consolidated Financial Information - Note 56- Related Party Disclosures" on page 388.

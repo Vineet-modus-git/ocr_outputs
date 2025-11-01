@@ -1,0 +1,5 @@
+<table><tr><td>Conductor</td><td rowspan="3">Capacity is a important KPI by product segment is valuable as it shows how much production potential exists across different offerings. Investors focus on it to assess scalability, identify growth opportunities, and evaluate how well resources are aligned with market demand.</td></tr><tr><td>Cables</td></tr><tr><td>OPGW</td></tr></table>
+
+## 8. Comparison of our KPIs with listed industry peers for the Financial Years included in the Restated Consolidated Financial Information
+
+While our Company considers the following companies as listed peers, the definitions and explanation considered for the below KPIs by such peer companies may not be the same as our Company. Accordingly, certain KPIs of our Company stated below, should be read in the context of the explanation and definitions provided in this section, and shall not be considered as comparable with below mentioned peer companies. Following is a comparison of our KPIs with the listed peer:

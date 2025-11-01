@@ -1,0 +1,27 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Pre-Offer</th><th colspan="2">Post-Offer#</th></tr><tr><th>Number of Equity Shares</th><th>Percentage (%) holding</th><th>Number of Equity Shares</th><th>Percentage (%) holding</th></tr></thead><tbody><tr><td>Sub-Total (A)</td><td>74,194,957</td><td>92.79</td><td>[•]</td><td>[•]</td></tr><tr><td>Promoter Group</td><td></td><td></td><td>[•]</td><td>[•]</td></tr><tr><td>Nirmala Navinchandra Morzaria<sup>(1)</sup></td><td>1,314,417</td><td>1.64</td><td>[•]</td><td>[•]</td></tr><tr><td>Samarth Subhash Morzaria</td><td>964,081</td><td>1.21</td><td>[•]</td><td>[•]</td></tr><tr><td>Maulik Subhash Morzaria</td><td>963,424</td><td>1.20</td><td>[•]</td><td>[•]</td></tr><tr><td>Rushina Subhash Morzaria</td><td>438,577</td><td>0.55</td><td>[•]</td><td>[•]</td></tr><tr><td>Arvind Chhotalal Morzaria HUF through Karta Arvind Chhotalal Morzaria</td><td>380,800</td><td>0.48</td><td>[•]</td><td>[•]</td></tr><tr><td>Dilip Chhotalal Morzaria HUF through Karta Dilip Chhotalal Morzaria</td><td>380,800</td><td>0.48</td><td>[•]</td><td>[•]</td></tr><tr><td>Subhash Chhotalal Morzaria HUF through Karta Subhash Chhotalal Morzaria</td><td>380,800</td><td>0.48</td><td>[•]</td><td>[•]</td></tr><tr><td>Bharati Arvind Morzaria</td><td>613,745</td><td>0.77</td><td>[•]</td><td>[•]</td></tr><tr><td>Kalpana Dilip Morzaria</td><td>219,617</td><td>0.27</td><td>[•]</td><td>[•]</td></tr><tr><td>Rima Dilip Morzaria</td><td>109,480</td><td>0.14</td><td>[•]</td><td>[•]</td></tr><tr><td>Sub-Total (B)</td><td>5,765,741</td><td>7.21</td><td>[•]</td><td>[•]</td></tr><tr><td>Total (A+B)</td><td>79,960,698</td><td>100.00</td><td>[•]</td><td>[•]</td></tr></tbody></table>
+
+(1) Also the Selling Shareholder
+
+(2) Also, Director and Key Managerial Personnel
+
+#To be updated in the Prospectus
+
+10. None of the Equity Shares held by our Promoters and the members of our Promoter Group are pledged or otherwise encumbered.
+
+11. Except as disclosed in “Build-up of the Promoters' Contribution” and “Secondary Transactions involving the Promoters, Promoter Group and the Selling Shareholders” on page 100 and 94, none of our Promoters, members of the Promoter Group, Directors of our Company or their relatives have purchased or sold any Equity Shares during a period of six months preceding the date of this Draft Red Herring Prospectus.
+
+12. There are no financing arrangements whereby the Promoters, members of our Promoter Group, the Directors of our Company and their relatives have financed the purchase by any other person of securities of the Issuer during the period of 6 (six) months immediately preceding the date of filing the Draft Red Herring Prospectus.
+
+13. Our Company, our Directors and the BRLM have not entered into any buy-back arrangement for purchase of the Equity Shares being offered through the Offer.
+
+14. The Equity Shares are fully paid-up and there are no partly paid up Equity Shares as on the date of this Draft Red Herring Prospectus. Since the entire Offer price per share is being called up on application, all the successful Applicants will be allotted fully paid-up Equity Shares.
+
+15. The BRLM or its associates (as defined in the Securities and Exchange Board of India (Merchant Bankers) Regulations, 1992) do not hold any Equity Shares in our Company as on the date of filing of this Draft Red Herring Prospectus.
+
+16. Except as disclosed in “Capital Structure – Notes on the Capital Structure” on page 91, our Company has not made any public issue, or rights issue of any kind or class of securities since its incorporation.
+
+17. For details of price of acquisition of Equity Shares by our Promoters, members of the Promoter Group, Selling Shareholders in the last three years preceding the date of this Draft Red Herring Prospectus, see “Summary of the Offer Document – Details of price at which Equity Shares were acquired by our Promoters, members of the Promoter Group, Selling Shareholders and other Shareholders entitled with the right to nominate directors or other rights in the last three years preceding the date of this Draft Red Herring Prospectus” on page 30
+
+18. As on the date of filing of this Draft Red Herring Prospectus, there are no outstanding warrants, options or rights to convert debentures, loans or other instruments, financial instruments or any other rights which would
+
+105

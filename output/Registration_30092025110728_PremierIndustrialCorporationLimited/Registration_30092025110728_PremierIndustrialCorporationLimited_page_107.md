@@ -1,0 +1,21 @@
+<table><thead><tr><th></th><th></th><th>Scheme of Amalgamation</th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>October 30, 2010</td><td>161,000</td><td>Transfer from Bharat Balkrishna Parekh</td><td>Cash</td><td>10</td><td>4.34</td><td>0.20%</td><td>[•]</td></tr><tr><td>October 30, 2010</td><td>32,200</td><td>Transfer from Shaila Dilip Mehta</td><td>Cash</td><td>10</td><td>4.34</td><td>0.04%</td><td>[•]</td></tr><tr><td>December 09, 2024</td><td>1,646,652</td><td>Bonus Issue</td><td>NA</td><td>10</td><td>NA</td><td>2.06%</td><td>[•]</td></tr><tr><td><strong>Sub-Total (F)</strong></td><td><strong>1,839,921</strong></td><td></td><td></td><td></td><td></td><td><strong>2.30%</strong></td><td><strong>[•]</strong></td></tr><tr><td colspan="8"><strong>Anand Dilip Morzaria</strong></td></tr><tr><td>September 03, 2010</td><td>69</td><td>Allotment pursuant to Scheme of Amalgamation</td><td>Other than Cash</td><td>10</td><td>-</td><td>Negligible<sup>§</sup></td><td>[•]</td></tr><tr><td>October 30, 2010</td><td>34,500</td><td>Transfer from Sameer Sureshchandra Shah</td><td>Cash</td><td>10</td><td>4.34</td><td>0.04%</td><td>[•]</td></tr><tr><td>October 30, 2010</td><td>18,400</td><td>Transfer from Dinesh Laxmishankar Gor HUF</td><td>Cash</td><td>10</td><td>4.34</td><td>0.02%</td><td>[•]</td></tr><tr><td>October 30, 2010</td><td>18,400</td><td>Transfer from Madan Singh Purohit</td><td>Cash</td><td>10</td><td>4.34</td><td>0.02%</td><td>[•]</td></tr><tr><td>December 09, 2024</td><td>608,064</td><td>Bonus Issue</td><td>NA</td><td>10</td><td>NA</td><td>0.76%</td><td>[•]</td></tr><tr><td><strong>Sub-Total (G)</strong></td><td><strong>679,433</strong></td><td></td><td></td><td></td><td></td><td><strong>0.85%</strong></td><td><strong>[•]</strong></td></tr><tr><td><strong>Grand Total (A+B+C+D+E+F+G)</strong></td><td><strong>74,194,957</strong></td><td></td><td></td><td></td><td></td><td><strong>92.79%</strong></td><td><strong>[•]</strong></td></tr></tbody></table>
+
+(1) All the Equity Shares held by our Promoters were fully paid up as on the respective dates of acquisition of such Equity Shares.
+
+(2) Cost of acquisition excludes stamp duty
+
+§ Less than 0.01%
+
+## ii. Details of Lock-in of Equity Share capital:
+
+### a. Promoters' Contribution locked-in for three years
+
+Pursuant to Regulation 14 and 16(1)(a) of the SEBI ICDR Regulations, an aggregate of at least 20% of the post-Offer Equity Share Capital of our Company held by our Promoters shall be considered as Promoters' Contribution ("Promoters' Contribution") and shall be locked-in for a period of three (3) years from the date of Allotment or such other period as may be prescribed under applicable law. Our Promoters' shareholding in excess of 20% shall be locked in for a period of one year. The lock-in of the Promoters' Contribution would be created as per applicable law and procedure and details of the same shall also be provided to the Stock Exchanges before listing of the Equity Shares.
+
+All Equity Shares held by our Promoters are eligible for Promoters' Contribution, pursuant to Regulation 15 of the SEBI ICDR Regulations.
+
+Our Promoters have consented to the inclusion of such number of the Equity Shares held by them, in aggregate, as may constitute 20% of the post-Offer equity share capital of our Company as Promoters' Contribution and have agreed not to sell, charge or transfer or pledge or otherwise dispose of in any manner, the Promoters' Contribution, for a period of three (3) years from the date of allotment in the Offer.
+
+The below Equity Shares proposed to form part of Promoters' Contribution subject to lock-in shall not be disposed of/ sold/ transferred by our Promoters during the period starting from the date of filing this Draft Red Herring Prospectus with the Stock Exchanges until the expiry of the lock-in period specified above, or for such other time as required under SEBI ICDR Regulations, except as may be permitted, in accordance with the SEBI ICDR Regulations.
+
+102

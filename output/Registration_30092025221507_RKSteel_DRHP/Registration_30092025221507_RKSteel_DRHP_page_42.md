@@ -1,0 +1,21 @@
+In addition to the risk of revenue loss, customer-related disruptions could also stem from disputes over pricing, quality, delivery schedules, or service standards. Moreover, financial instability, insolvency, or payment delays from key customers could impact our receivables and cash flows. Any failure to replace lost customers on comparable terms could adversely affect our margins and overall financial performance.
+
+Although we did not experience the loss of any major customer during the last three Fiscals, our continued dependence on a small group for a considerable share of revenue presents a risk. Any material decline in orders from these customers may adversely affect our business, results of operations, financial condition, and cash flows.
+
+4. **We operate from a single manufacturing facility located at Perundurai, Tamil Nadu, India and any disruption at this facility could adversely affect our operations, business and financial condition.**
+
+Our integrated manufacturing facility, located at Plot NN5, SIPCOT Industrial Growth Centre, Ingur Village, Perundurai 638 052, Tamil Nadu, is the sole production site for our operations. As on date, this facility houses nine (9) Tube Mills, four (4) Slitting Lines, two (2) Continuous Galvanizing Lines one (1) Tandem Cold Rolling Mill (“CRM”), one (1) Pickling Unit and one (1) Hot Dip Galvanizing Unit. We do not maintain any alternate or backup production facilities. Consequently, our operations and supply obligations are entirely dependent on uninterrupted functioning of this single site. Any disruption, whether temporary or prolonged, could materially and adversely impact our production schedules, business continuity, customer relationships, financial condition and results of operations.
+
+Disruptions may arise from a wide range of factors including natural disasters (such as earthquakes, floods, or cyclones), fires, power outages, equipment breakdowns, unavailability of raw materials, accidents, or other operational hazards. Additionally, risks such as labour unrest, strikes, adverse regulatory actions, or revocation of environmental or operational permits could also lead to suspension of activities at this site.
+
+Any halt in manufacturing operations may result in delays in fulfilling customer orders, cancellation of orders, inability to meet contractual delivery schedules, and consequent loss of revenue. Customers may turn to alternative suppliers, adversely impacting our market reputation and competitiveness. Furthermore, a disruption at our facility could lead to idle labor and fixed overheads without corresponding revenues, thereby exerting pressure on our margins and working capital.
+
+While we maintain insurance coverage for against risks such as fire and machinery breakdown, such insurance may not cover all possible losses or consequential damages. Recovery under these policies may also be subject to deductibles, policy limits, and time delays.
+
+The ability to restart operations after a major disruption would depend on multiple external and internal factors such as availability of skilled workforce, restoration of utilities, procurement of critical spare parts or machinery, and requisite regulatory approvals. Any delays in these aspects may prolong production downtime.
+
+While we have not encountered any disruption in our manufacturing facility, given our complete reliance on a single manufacturing facility, any significant or repeated disruption at this location could have a material adverse effect on our business, financial condition, results of operations and cash flows.
+
+5. **We derive a substantial portion of our revenue from the sale of our welded steel pipes and tubes particularly galvanized plain pipes and any reduction in demand for these products may adversely impact our business, financial condition, results of operations, and cash flows. Further, our inability to diversify our product portfolio may constrain our growth and profitability.**
+
+Our current product portfolio is concentrated in welded steel pipes and tubes, including GP Pipes, GI Pipes, HR Pipes and CR Pipes, as well as steel coils, including GP Coils, CRFH Coils and HR Coils. We are significantly dependent on the continued sale of these products to generate revenue.

@@ -1,0 +1,24 @@
+OM POWER TRANSMISSION LIMITED (formerly known as OM POWER TRANSMISSION PRIVATE LIMITED)
+Notes to the Financial Statement as at and for the year ended March 31, 2025
+
+meeting held on September 01, 2025. These Special Purpose Ind AS Financial Statements had been prepared by making adjustments required under Ind AS to the audited IGAAP financial statements of the Company as at and for the years ended March 31 2024 and March 31, 2023 (the “Statutory Indian GAAP Financial Statements”) prepared in accordance with the Accounting Standards as prescribed under Section 133 of the Act read with Companies (Accounting Standards) Rules 2021, as amended, and other accounting principles generally accepted in India, which were approved by the Board of directors at their meeting held on September 15, 2024, and September 05, 2023 respectively.
+
+The special purpose Ind AS financial statements for the years ended March 31, 2024 and March 31, 2023 have been prepared using the financial statements which were earlier prepared in accordance with Accounting Standards prescribed under section 133 of the Act, read with the Companies (Accounting Standards) Rules, 2021 and other accounting principles generally accepted in India (hereinafter referred to as ‘Indian GAAP financial statements’) for the respective aforementioned periods, being the applicable financial reporting framework of the Company in such periods. The said audited Indian GAAP financial statements have been adjusted for the differences in the accounting principles on transition to Ind AS, as per the requirements of Ind AS 101, First-time Adoption of the Indian Accounting Standards (‘Ind AS 101’).
+
+The accounting policies have been consistently applied by the Company in preparation of the Restated Financial Information and are consistent with those adopted in the preparation of the special purpose Ind AS financial statements as at and for the year ended March 31, 2025.
+
+Subsequent to March 31, 2025, pursuant to a resolution passed in board meeting of the Company dated July 25, 2025, shareholders have approved the issuance of bonus shares to the equity shareholders in the ratio of 40 equity shares for each share held. The record date for the said purpose was fixed as July 18, 2025. As required under Ind AS 33 - “Earnings per share”, the effect of such bonus is adjusted to the weighted average number of equity shares outstanding during the reporting periods for the purpose of computing earnings per share for all the period presented retrospectively. As a result, the effect of such bonus has been considered in this restated financial information for the purpose of calculating earnings per share (Refer Note 37 of the Restated Financial Information).
+
+This Restated Financial Information does not reflect the impact of any subsequent events or changes in estimates from the respective dates of the Board of Directors meetings held for the adoption of the special purpose financial statements for the respective financial years, except for the effects of issuance of bonus shares, as explained above.
+
+The Restated Financial Information have been prepared so as to contain information / disclosures and incorporating adjustments set out below in accordance with the SEBI ICDR Regulations:
+
+a) No Adjustments to the profits or losses of the earlier periods and of the period in which the change in the accounting policy has taken place is recomputed to reflect what the profits or losses of those periods would have been if a uniform accounting policy was followed in each of these periods, if any;
+
+b) Adjustments for reclassification and regrouping of the corresponding items of income, expenses, assets, liabilities and cash flows, in order to bring them in line with the groupings as per the special purpose Ind AS financial statements as at and for the year ended March 31, 2025, March 31, 2024 and March 31, 2023 and the requirements of the ICDR Regulations, if any; and
+
+c) The resultant impact of tax due to the aforesaid adjustments, if any.
+
+The Restated Financial Information has been prepared using going concern assumption and on a historical cost convention, except for certain financial assets and liabilities and defined benefit obligations, which are measured at fair value.
+
+The Restated Financial Information is presented in Indian Rupee (INR), which is also the Company's functional currency. All amounts disclosed in the Restated Financial Information and notes thereto have been rounded off to the nearest lakhs, unless otherwise stated. Any amount appearing in restated financial information as '0.00' represent amount less than INR 500.

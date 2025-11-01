@@ -1,0 +1,11 @@
+bank accounts of the ASBA Bidders within one Working Day from the date of receipt of such notification and also inform the Bankers to the Offer to process refunds to the Anchor Investors, as the case may be. The notice of withdrawal will be issued in the same newspapers where the pre-Offer advertisements have appeared, and the Stock Exchanges will also be informed promptly.
+
+If our Company, in consultation with the BRLMs withdraws the Offer after the Bid/ Offer Closing Date and thereafter determines that it will proceed with a public offering of the Equity Shares, our Company shall file a fresh draft red herring prospectus with SEBI. Notwithstanding the foregoing, the Offer is also subject to obtaining (i) the final listing and trading approvals of the Stock Exchanges, which our Company shall apply for after Allotment and within three Working Days of the Bid/ Offer Closing Date or such other time period as prescribed under applicable law; and (ii) the final RoC approval of the Prospectus after it is filed and/or submitted with the RoC and the Stock Exchanges.
+
+**Restrictions, if any on transfer and transmission of Equity Shares**
+
+Except for the lock-in of the pre-Offer Equity Share capital of our Company, minimum Promoter's contribution and the Anchor Investor lock-in as provided in "Capital Structure" on page 97, and except as provided in our AoA as detailed in "Description of Equity Shares and Terms of Articles of Association" on page 529, there are no restrictions on transfer and transmission of the Equity Shares, and on their consolidation or splitting.
+
+**Option to receive Equity Shares in dematerialized form**
+
+Investors should note that the Equity Shares will be Allotted to all successful Bidders only in dematerialized form. Bidders will not have the option of being Allotted Equity Shares in physical form. However, they may get the Equity Shares rematerialized subsequent to Allotment of the Equity Shares in the Offer, subject to applicable laws.

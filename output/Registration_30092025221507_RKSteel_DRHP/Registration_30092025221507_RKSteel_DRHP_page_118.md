@@ -1,0 +1,21 @@
+partnership firm into a company and hence, no Equity Shares have been issued in the one year immediately preceding the date of this Draft Red Herring Prospectus pursuant to conversion from a partnership firm or limited liability partnership.
+
+In terms of Regulation 17 of the SEBI ICDR Regulations, the entire pre-Issue equity share capital of our Company will be locked-in for a period of six months from the date of Allotment in the Issue, except: (a) the Promoters' contribution and any Equity Shares held by our Promoters in excess of Promoters' contribution which shall be locked in for eighteen months (18) and six months (6) in term of Regulation 17 of ICDR Regulations.
+
+In terms of Regulation 22 of the SEBI ICDR Regulations, Equity Shares held by our Promoters which are locked-in as per Regulation 16 of the SEBI ICDR Regulations, may be transferred to the other Promoters or any member of our Promoter Group or a new promoter, subject to continuation of lock-in applicable with the transferee for the remaining period (and such transferees shall not be eligible to transfer until the expiry of the lock-in period) and compliance with provisions of the Takeover Regulations.
+
+Further, in terms of Regulation 22 of the SEBI ICDR Regulations, Equity Shares held by persons (other than our Promoters) prior to the Issue and locked-in for a period of six (6) months, may be transferred to any other person holding Equity Shares which are locked-in along with the Equity Shares proposed to be transferred, subject to the continuation of the lock-in with the transferee for the remaining period (and such transferees shall not be eligible to transfer until the expiry of the lock-in period) and compliance with the provisions of the Takeover Regulations.
+
+As required under Regulation 20 of the SEBI ICDR Regulations, our Company shall ensure that the details of the Equity Shares locked-in are recorded by the relevant Depository.
+
+There have been no financing arrangements whereby our Promoters, members of the Promoter Group, our Directors and their relatives have financed the purchase by any other person of securities of our Company during the six months immediately preceding the date of filing of this Draft Red Herring Prospectus.
+
+There shall be a lock-in of 90 days on 50% of the Equity Shares Allotted to the Anchor Investors from the date of Allotment, and a lock-in of 30 days on the remaining 50% of the Equity Shares Allotted to the Anchor Investors from the date of Allotment.
+
+Except for the allotment of Equity Shares pursuant to the Issue, our Company presently does not intend or propose to alter its capital structure for a period of six months from the Issue Opening Date, by way of split or consolidation of the denomination of Equity Shares, or by way of further issue of Equity Shares (including issue of securities convertible into or exchangeable, directly or indirectly for Equity Shares), whether on a preferential basis, or by way of issue of bonus shares, or on a rights basis, or by way of further public issue of Equity Shares, or otherwise. However, if our Company enters into acquisitions, joint ventures or other arrangements, our Company may, subject to necessary approvals, consider raising additional capital to fund such activity or use Equity Shares as currency for acquisitions or participation in such joint ventures.
+
+There will be no further issue of Equity Shares whether by way of issue of bonus shares, preferential allotment, rights issue or in any other manner during the period commencing from filing of this Draft Red Herring Prospectus with SEBI until the Equity Shares have been listed on the Stock Exchanges or all application moneys have been refunded to the Investors, or the application moneys are unblocked in the ASBA Accounts on account of non-listing, undersubscription etc., as the case may be.
+
+Our Company, our Directors and the Book Running Lead Manager have no existing buy-back arrangements or any other similar arrangements for the purchase of Equity Shares being offered through the Issue.
+
+All Equity Shares offered pursuant to the Issue shall be fully paid-up at the time of Allotment and there are no partly paid-up Equity Shares as on the date of this Draft Red Herring Prospectus. Further, our

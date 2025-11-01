@@ -1,0 +1,23 @@
+**35. Unsecured loans taken by our Company can be recalled by the lenders at any time.**
+
+As on the date of this Draft Red Herring Prospectus, our Company has outstanding unsecured loans amounting to ₹1,445.5 Lakhs raised from Related Parties. These loans may be recalled by the lenders at any time. In the event that any lender demands repayment of any such loan, our Company would need to find alternative sources of financing, which may not be available on commercially reasonable terms, or at all. This could affect our company's liquidity.
+
+If we are unable to procure such financing, we may not have adequate working capital to maintain the desired inventory level. As a result, any such demand could materially and adversely affect our business, cash flows, financial condition, and results of operations. For further details on financing arrangements entered into by our company, please refer to "Financial Indebtedness" on page 280 of this Draft Red Herring Prospectus.
+
+**36. Certain borrowings availed by our Company are secured by personal guarantees and personal properties of our Promoters, and enforcement of such collateral and personal guarantees by lenders could adversely affect our Promoters' ability to support our business and may have reputational, financial, or operational consequences.**
+
+In connection with borrowings availed by our Company, our Promoters, including Mr. Vivek Rasik Gothi, Mr. Jashwant Valjibhai Patel, and Mr. Rasiklal Valjibhai Patel, have provided personal guarantees and personal properties as collateral security. While this arrangement has enabled us to access financing on competitive terms, it creates a reliance on the personal assets of our Promoters for maintaining such credit facilities.
+
+The continued pledge of personal properties by our Promoters may give rise to potential conflicts of interest in certain circumstances. In the event of any default by our Company, lenders may initiate enforcement action against the collateral and personal guarantees provided by our Promoters. Such action could materially affect our Promoters' financial flexibility and impair their ability to continue supporting our business, whether through additional capital infusion, strategic guidance, or personal guarantees.
+
+Further, reliance on Promoters' personal properties as collateral may also have reputational implications and could affect the perception of our creditworthiness in the market. There can be no assurance that continued dependence on Promoter-provided collateral will not have an adverse effect on our business, financial condition, results of operations, and prospects.
+
+**37. Our lenders have created security interests over our movable and immovable properties in connection with the financing facilities availed by us, and any enforcement of such security could adversely affect our business, financial condition, and results of operations.**
+
+We have availed secured borrowing facilities from banks and financial institutions, and in connection therewith, we have created charges over certain of our movable and immovable properties, including plant and machinery, inventories, receivables, and other current assets. As on March 31, 2025, an aggregate of ₹7033.57 lakhs was outstanding towards such secured borrowings. For further details, see "Financial Indebtedness" on page 280 of the Draft Red Herring Prospectus.
+
+In the event of any default in repayment of principal or interest obligations, or breach of any term of the financing agreements, our lenders may enforce their security interests and initiate recovery proceedings, including seizure and sale of secured assets. Any such enforcement could disrupt our operations, impair our ability to utilize critical assets, and materially affect our liquidity and cash flows.
+
+Although we have not experienced any material delays or defaults in repayment of our borrowings during preceding three Fiscals, there can be no assurance that such instances will not occur in the future. Any enforcement action by lenders could materially and adversely affect our business, financial condition, results of operations, and prospects.
+
+**38. We are subject to restrictive covenants under our financing agreements that may limit our operational and financial flexibility. Any default or breach of these covenants could lead to acceleration of repayment obligations, enforcement of security interests, cross-defaults, or termination of financing arrangements, which may materially and adversely affect our business, results of operations, and financial condition.**

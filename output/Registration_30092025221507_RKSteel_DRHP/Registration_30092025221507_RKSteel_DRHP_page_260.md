@@ -1,0 +1,38 @@
+<table>
+  <tr>
+    <td>13.</td>
+    <td>officials of the Company to execute all or any of the aforesaid documents; to approve the code of conduct, suitable insider trading policy, whistle blower/vigil mechanism policy and other corporate governance requirements considered necessary by the Board or the IPO Committee or as required under applicable law;</td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>to seek, if required, the consent and waivers of the parties with whom the Company and/or its subsidiaries have entered into various commercial and other agreements, including but not limited to lenders, lessors, customers, suppliers, strategic/ joint venture partners, all concerned governmental and regulatory authorities in India or outside India, and any other consents that may be required in connection with the Issue in accordance with the applicable laws;</td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>to determine the price at which the Equity Shares are offered, issued, allocated, transferred and/or allotted to investors in the Issue in accordance with applicable regulations in consultation with the BRLM and/or any other advisors, and determine the discount, if any, proposed to be offered to eligible categories of investors;</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>to settle all questions, difficulties or doubts that may arise in relation to the Issue, as it may in its absolute discretion deem fit;</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>to do all acts and deeds, and execute all documents, agreements, forms, certificates, undertakings, letters and instruments as may be necessary for the purpose of or in connection with the Issue;</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>to authorize and approve the incurring of expenditure and payment of fees, commissions, brokerage and remuneration in connection with the Issue;</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>to withdraw the DRHP or RHP or to decide not to proceed with the Issue at any stage, in consultation with the BRLM and in accordance with the SEBI ICDR Regulations and applicable laws;</td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>to submit undertaking/certificates or provide clarifications to the SEBI, Registrar of Companies and the relevant stock exchange(s) where the Equity Shares are to be listed; and</td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>to authorize and empower officers of the Company (each, an "Authorized Officer(s)"), for and on behalf of the Company, to execute and deliver, on a several basis, any agreements and arrangements as well as amendments or supplements thereto that the Authorized Officer(s) consider necessary, appropriate or advisable, in connection with the Issue, including, without limitation, engagement letter(s), memoranda of understanding, the listing agreement(s) with the stock exchange(s), the registrar's agreement and memorandum of understanding, the depositories' agreements, the issue agreement with the BRLM (and other entities as appropriate), the underwriting agreement, the syndicate agreement with the BRLM and syndicate members, the stabilization agreement, the cash escrow and sponsor bank agreement, confirmation of allocation notes, allotment advice, placement agents, registrar to the Issue, bankers to the Company, managers, underwriters, escrow agents, accountants, auditors, legal counsel, depositories, advertising agency(ies), syndicate members, brokers, escrow collection bankers, auditors, grading agency, monitoring agency and all such persons or agencies as may be involved in or concerned with the Issue, if any, and to make payments to or remunerate by way of fees, commission, brokerage or the like or reimburse expenses incurred in connection with the Issue by the BRLM and to do or cause to be done any and all such acts or things that the Authorized Officer(s) may deem necessary, appropriate or desirable in order to carry out the purpose and intent of the foregoing resolutions for the Issue; and any such agreements or documents so executed and delivered and acts and things done by any such Authorized Officer(s) shall be conclusive evidence of the authority of the Authorized Officer and the Company in so doing.</td>
+  </tr>
+</table>

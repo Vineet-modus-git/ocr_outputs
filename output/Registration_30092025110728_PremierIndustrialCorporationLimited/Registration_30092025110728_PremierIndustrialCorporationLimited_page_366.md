@@ -1,0 +1,21 @@
+## Track record of past issues handled by the BRLM
+
+For details regarding the track record of the BRLM, as specified in the SEBI circular dated January 10, 2012, bearing reference number CIR/MIRSD/1/2012, please see the websites of the BRLM indicated in the table below:
+
+<table><thead><tr><td>S. No.</td><td>Name of the BRLM</td><td>Website</td></tr></thead><tbody><tr><td>1.</td><td>Unistone Capital Private Limited</td><td>www.unistonecapital.com</td></tr></tbody></table>
+
+## Stock Market Data of Equity Shares
+
+This being an initial public offer of our Company, the Equity Shares are not listed on any stock exchange as of the date of this Draft Red Herring Prospectus, and accordingly, no stock market data is available for the Equity Shares.
+
+## Mechanism for Redressal of Investor Grievances
+
+The Registrar Agreement provides for the retention of records with the Registrar to the Offer for a period of at least eight years from the date of listing and commencement of trading of the Equity Shares on the Stock Exchanges, to enable the investors to approach the Registrar to the Offer for redressal of their grievances.
+
+In terms of SEBI circular SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 9, 2023, SEBI circular SEBI/HO/CFD/DIL2/CIR/P/2018/22 dated February 15, 2018, SEBI circular SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M dated March 16, 2021, read with the SEBI circular SEBI/HO/CFD/DIL2/P/CIR/2021/570 dated June 2, 2021 and SEBI circular SEBI/HO/CFD/DIL2/CIR/P/2022/51 dated April 20, 2022 and subject to applicable law, any ASBA Bidder whose Bid has not been considered for Allotment, due to failure on the part of any SCSB, shall have the option to seek redressal of the same by the concerned SCSB within three months of the date of listing of the Equity Shares. SCSBs are required to resolve these complaints within 15 days, failing which the concerned SCSB would have to pay interest at the rate of 15% per annum for any delay beyond this period of 15 days. Further, the investors shall be compensated by the SCSBs in accordance with SEBI circular SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M dated March 16, 2021 in the events of delayed unblock for cancelled/withdrawn/deleted applications, blocking of multiple amounts for the same UPI application, blocking of more amount than the application amount, delayed unblocking of amounts for non-allotted/partially-allotted applications, for the stipulated period. In the event there is a delay in redressal of the investor grievance in relation to unblocking of amounts, the BRLM shall compensate the investors at the rate higher of ₹100 per day or 15% per annum of the application amount for the period of such delay. Further, in terms of SEBI circular SEBI/HO/CFD/DIL2/CIR/P/2022/51 dated April 20, 2022, the payment of processing fees to the SCSBs shall be undertaken pursuant to an application made by the SCSBs to the BRLM, and such application shall be made only after (i) unblocking of application amounts for each application received by the SCSB has been fully completed, and (ii) applicable compensation relating to investor complaints has been paid by the SCSB.
+
+Separately, pursuant to the circular (No. SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M) dated March 16, 2021 issued by the SEBI, the following compensation mechanism shall be applicable for investor grievances in relation to Bids made through the UPI Mechanism, for which the relevant SCSBs shall be liable to compensate the investor:
+
+<table><thead><tr><td>Scenario</td><td>Compensation amount</td><td>Compensation period</td></tr></thead><tbody><tr><td>Delayed unblock for cancelled/withdrawn/deleted applications</td><td>₹100 per day or 15% per annum of the Bid Amount, whichever is higher</td><td>From the date on which the request for cancellation/withdrawal/deletion is placed on the bidding platform of the Stock Exchanges till the date of actual unblock</td></tr><tr><td>Blocking of multiple amounts for the same Bid made through the UPI Mechanism</td><td>1. Instantly revoke the blocked funds other than the original Bid Amount; and<br>2. ₹100 per day or 15% per annum of the total cumulative blocked amount except the original Bid Amount, whichever is higher</td><td>From the date on which multiple amounts were blocked till the date of actual unblock</td></tr></tbody></table>
+
+361

@@ -1,0 +1,15 @@
+DIVIDEND POLICY
+
+The declaration and payment of dividend on our Equity Shares, if any, will be recommended by our Board and approved by our Shareholders, at their discretion, subject to the provisions of our Articles of Association and the applicable laws including the Companies Act, 2013 together with the applicable rules issued thereunder. The dividend distribution policy of our Company was approved and adopted by our Board on December 3, 2024 (the "Dividend Distribution Policy").
+
+The Dividend Distribution Policy provides that our Board may consider the following financial/internal parameters while declaring or recommending dividend to Shareholders: (i)Financial performance including profits earned by the Company (standalone) during the financial year; (ii) Available distributable reserves; (iii) Cash balance and operating cash flows of the Company; (iv) Earnings Per Share (EPS); (v) Working capital requirements; (vi) Capital expenditure requirement such as for business expansion, technological advancement, corporate restructuring including investments in subsidiaries, joint ventures and associates of the Company; (vii) Likelihood of crystalization of contingent liabilities, if any; (viii) Upgradation of physical infrastructure; (ix) Fund requirement for contingencies and unforeseen events with financial implications; (x) Cost of Borrowing; (xi) Past Dividend payout ratio / trends; (xii) Any other factor as may be deemed fit by the Board.
+
+Our Board may consider the following external parameters while declaring or recommending dividend to Shareholders:
+
+(i) Economic conditions; (ii) Financing costs; (iii) Government regulations; (iv) Global conditions; (v) Taxation policy of the Government.
+
+Further, our Board may not declare or recommend dividend for a particular period if it is of the view that it would be prudent to conserve capital for the then ongoing or planned business expansion or other factors which may be considered by the Board.
+
+Retained earnings may be utilized by our Company for making investments for future growth and expansion plans, for the purpose of generating higher returns for the shareholders or for any other specific purpose, as approved by the Board. Our Company may also, from time to time, pay interim dividends. For details in relation to risks involved in this regard, see "Risk Factors – Our ability to pay dividends in the future will depend upon our future earnings, financial condition, cash flows, working capital requirements, capital expenditure and restrictive covenants in our financing arrangements" on page 72.
+
+We have not declared and paid any dividends on the Equity Shares in any of the three Fiscals preceding the date of this Draft Red Herring Prospectus and until the date of this Draft Red Herring Prospectus. The dividend history in the past is not necessarily indicative of our dividend amounts, if any, in the future.

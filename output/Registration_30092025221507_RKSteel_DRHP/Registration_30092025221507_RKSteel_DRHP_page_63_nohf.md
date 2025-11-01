@@ -1,0 +1,23 @@
+policies. There can be no assurance that we will receive compensation for any such claims in a timely manner or at all, and consequently, any such loss may adversely affect our business, financial condition, results of operations and cash flows.
+
+**35. A degree certificate of one of our Promoter is not traceable.**
+
+One of our Promoters, Pramod Bhalotia, has been unable to trace his Bachelor of Commerce (Hons.) degree certificate issued by the University of Calcutta. Although he has lodged a First Information Report (“FIR”) in this regard, the original certificate remains untraceable as on date. Accordingly, reliance has been placed on certificates furnished by him to us and the BRLM to disclose details of his educational qualifications in this Draft Red Herring Prospectus. Further, there can be no assurances that he will be able to trace the relevant documents pertaining to his educational qualifications in future or at all. For details of his profile, see “*Our Management*” - *Brief profiles of our Directors* on page 249.
+
+**36. Failure to manage our inventory could have an adverse effect on our net sales, profitability, cash flow and liquidity**
+
+Our results of operations are closely dependent on our ability to accurately forecast demand and effectively manage inventory levels. The break-up of our inventories for last three Fiscals are as follows:
+
+<table><thead><tr><th>Inventory turnover (in days)</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>Inventory turnover (in days)</td><td>57</td><td>49</td><td>45</td></tr></tbody></table>
+
+To manage inventory efficiently, we must accurately estimate customer demand and prevailing supply conditions and align our manufacturing and procurement accordingly. Failure to anticipate demand trends may lead to inventory shortages, resulting in lost sales opportunities, inability to meet customer requirements, and reputational harm. Conversely, an accumulation of excess inventory could increase storage and financing costs, reduce liquidity, and expose us to risks of obsolescence, deterioration, or write-downs.
+
+Further, if we are unable to sell manufactured or purchased inventory in a timely manner, we may be required to recycle or dispose of such inventory, leading to material loss, additional manufacturing costs, and strain on working capital. Any mismatch between demand forecasts and actual sales may also result in higher carrying costs, adverse impact on profitability, and increased reliance on external borrowings to finance working capital.
+
+Inventory management is also subject to external risks such as fluctuations in raw material prices, supply chain disruptions, transportation bottlenecks, labour shortages, and adverse weather conditions. Any such events may delay delivery, damage goods in transit, or increase costs, further complicating our ability to manage optimal inventory levels.
+
+An inability to effectively manage our inventory could therefore materially and adversely affect our business, net sales, profitability, margins, cash flows, and overall financial condition.
+
+**37. We require certain approvals and licenses in the ordinary course of business and are required to comply with certain rules and regulations to operate our business, any failure to obtain, retain and renew such approvals and licences or comply with such rules and regulations may adversely affect our operations.**
+
+We require several statutory and regulatory permits, licenses and approvals to operate our business, some of which are either received or applied for or are yet to be applied. Many of these approvals are subject to periodical renewal. Any failure to renew the approvals that may expire, or to apply for the required approvals, licenses, registrations or permits, or any suspension or revocation of any of the approvals, licenses, registrations and permits that have been or may be issued to us, could result in delaying the operations of our business, which may adversely affect our business, financial condition, results of operations and prospects. We believe that we have obtained all the material licenses required for running our business and operations. However, in order to comply with various applicable local laws, we have

@@ -1,0 +1,29 @@
+ANNEXURE 2
+
+STATEMENT OF SPECIAL INDIRECT TAX BENEFITS AVAILABLE TO THE COMPANY AND ITS SHAREHOLDERS UNDER THE APPLICABLE TAX LAWS IN INDIA
+
+Outlined below are the special tax benefits available to the Company and its Shareholders under the Central Goods and Services Tax Act,2017 (“CGST Act 2017”) / the Integrated Goods and Services Tax Act,2017,relevant State and Goods and Services Tax Acts read with Rules, Circulars, and Notifications (‘GST Law’), the Customs Act, 1962 (‘Customs Act’) and the Customs Tariff Act,1975 (‘Tariff Act’) as amended, Foreign Trade Policy 2023.
+
+1. Special tax benefits available to the Company:
+
+The following tax benefits are available and are being availed by the company under Indirect Tax:
+
+1.1 In accordance with Section 54 of the CGST Act 2017, accumulated balance of Input tax credit availed on Inputs and input services used in the manufacture of goods and / or supply of services exported out of India without the payment of integrated tax/ Integrated tax paid on export of goods and/ or services is eligible for refund, subject to prescribed conditions.
+
+1.2 Duty drawback under Section 75 of the Customs Act of the duty paid on imported material used in the manufacture of export goods.
+
+1.3 In terms of DGFT Notification No. 70/2023 dated 08.03.2023, goods can be exported under the scheme of Remission of Duties and Taxes on Exported Products (RoDTEP) by the Advance Authorization (AA) holders under Chapter 4 of the Foreign Trade Policy 2023, subject to the prescribed conditions. In terms of Notification No. 76/2021- Customs (N.T.) duty credit is issued against exports made under the RoDTEP scheme, which can used for payment of Basic Customs Duty on goods imported into India.
+
+1.4 In terms of Notification No. 21/2023-Customs dated 1.04.2023 (and as amended from time to time), materials imported against Advance Authorisation under Chapter 4 - Duty Exemption Remission Scheme of the Foreign Trade Policy 2023 are exempt from payment of Basic Customs Duty, Additional Customs Duty, Integrated Tax, Compensation Cess, and other duties, wherever applicable, subject to the prescribed conditions.
+
+1.5 In terms of Export Promotion Capital Goods Scheme (EPCG) under Chapter 5 of the Foreign Trade Policy 2023, the import of goods as specified under Notification No. 26/2023-Customs dated 01.04.2023 (and as amended from time to time), are exempt from payment of Basic Customs Duty, Additional Customs Duty, Integrated Tax, Compensation Cess, and other duties, wherever applicable, subject to the prescribed conditions.
+
+1.6 The Company is a Status Holder as a 'Three Star Export House' under Chapter 1 - Legal Framework and Trade Facilitation of the Foreign Trade Policy 2023 which allows certain procedural privileges like authorisation and customs clearances for imports and exports, fixation of Input-Output norms, furnishing of Bank Guarantee for schemes, permission to establish export warehouses, preferential treatment and priority handling of consignments, eligibility to self-certify goods as originating from India, etc.
+
+1.7 Preferential duty benefits are available under bilateral and multilateral Foreign Trade Agreements (FTA) entered by India with countries like Korea, Japan, Indonesia, Thailand etc. on import of goods into India. These benefits are implemented through the Customs Act, 1962 and the notifications issued thereunder, including Notification No. 152/2009-Customs dated 31.12.2009 (for Korea), Notification No. 46/2011-Customs dated 01.06.2011 (for ASEAN), Notification No. 69/2011-Customs dated 29.07.2011 (for Japan), subject to the fulfilment of prescribed conditions.
+
+1.8 In terms of Notification 40/2017-Central Tax (Rate) Dated 23 October 2017 and Notification 41/2017-Integrated tax (Rate) dated 23 October 2017, benefit of concessional rate of GST is available on the supplies made by the Company to a registered recipient for exports subject to specified conditions.
+
+2. Special tax benefits available to the shareholders of the Company
+
+There are no special Indirect tax benefits available to the shareholders of the company.

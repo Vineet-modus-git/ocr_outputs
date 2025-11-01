@@ -1,0 +1,21 @@
+our PAT margin stood at 2.35%, 2.22%, and 0.95% in the corresponding periods. In comparison, several of our listed peers such as APL Apollo Tubes Limited, Hi-Tech Pipes Limited, Rama Steel Tubes Limited, and Surya Roshni Limited have reported higher EBITDA and PAT margins during similar periods, as disclosed in the Basis for Issue Price section.
+
+Our relatively lower margins are primarily attributable to (i) higher cost of materials consumed, including fluctuations in HR Coil prices, (ii) increase in trading activity, which carries inherently lower margins compared to manufacturing operations, (iii) higher finance costs arising from working capital borrowings to support expanded operations, and (iv) increased operating expenses, such as power, fuel, freight, and maintenance, following capacity additions.
+
+While our strategy of expanding trading operations and scaling production has contributed to top-line growth, it has also resulted in margin dilution relative to peers with higher-value product mixes or greater pricing power. Our lower margins may constrain our ability to absorb cost fluctuations, invest in capacity or technology upgrades, and sustain competitive pricing in tenders and long-term contracts.
+
+We cannot assure you that our margins will align with or exceed industry benchmarks in future periods. Any continued disparity in profitability compared to peers may impact investor perception, our ability to attract institutional clients, and our overall financial flexibility, which may have a material adverse effect on our business, financial condition, cash flows, and results of operations.
+
+**11. Our inability to collect receivables from our customers or default in payment by them could result in the reduction of our profits and affect our cash flows**
+
+We extend credit to our customers for the sale of our products and are therefore exposed to the risk of delayed payments or non-recovery of outstanding amounts. As we do not have long-term contractual arrangements with our customers, there can be no assurance that payments will always be made in a timely manner or at all. Although we typically operate on pre-sanctioned credit limits with customers and monitor their financial position and payment history to determine the credit extended, such measures may not be sufficient to prevent defaults.
+
+As of Fiscals 2025, 2024 and 2023, our trade receivables stood at ₹15,899.98 lakh, ₹9438.46 lakh, and ₹8127.09 lakh, representing 13.85%, 9.23% and 9.59% of our revenue from operations during such periods, respectively. High levels of receivables expose us to risks of liquidity pressure and increased working capital requirements.
+
+Macroeconomic conditions, including inflationary pressures, rising interest rates, sectoral slowdowns, or financial distress of our customers, could result in further payment delays, restructuring of credit terms, or defaults. In particular, insolvency or bankruptcy of customers could materially increase our receivables, disrupt cash flows, and adversely affect our ability to fund operations.
+
+Any significant delay or default in the collection of receivables could compel us to rely on higher levels of external borrowings to finance our working capital requirements. This would increase our finance costs, adversely impacting profitability. Further, prolonged delays in receivables realization could weaken our balance sheet, increase our dependence on internal accruals, and adversely affect our results of operations, cash flows, and overall financial condition.
+
+**12. We enter into certain related party transactions in the ordinary course of our business and we cannot assure you that such transactions will not adversely affect our business, results of operations, profitability and margins, cash flows and financial condition.**
+
+We have entered, and may continue to enter, into transactions with related parties in the ordinary course of our business. These transactions include Interest on loan paid, rent, commission etc in which related entities or individuals exercise significant influence. Our related party transactions, as a percentage of our revenue from operations, constituted 0.91%, 2.21% and 1.78% in Fiscals 2025, 2024 and 2023, respectively. The absolute value of our related party transactions for these periods is set out below:

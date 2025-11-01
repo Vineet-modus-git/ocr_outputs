@@ -1,0 +1,21 @@
+<table><thead><tr><th rowspan="2">Company</th><th colspan="3">Cables</th><th colspan="4">Conductors</th><th rowspan="2">High Ampacity</th></tr><tr><th>XLPE</th><th>E-Beam</th><th>OPGW</th><th>ACSR</th><th>AAC</th><th>AAAC</th><th>AL59</th></tr></thead><tbody><tr><td>Apar Industries Limited</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>JSK Industries Private Limited</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>KEI Industries Limited</td><td>✓</td><td></td><td></td><td></td><td></td><td>✓</td><td>✓</td><td></td></tr><tr><td>Lumino Industries Limited</td><td>✓</td><td></td><td></td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Sterlite Electric Limited</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Siechem Technologies Private Limited</td><td>✓</td><td>✓</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Universal Cables Limited</td><td>✓</td><td>✓</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Note: The above table is only indicative and not an exhaustive representation of the respective company's offerings
+
+Source: Crisil Intelligence
+
+* The large players are differentiated from the smaller players by the depth of the offering they have across products and services in the EPC and power industry. Sterlite Electric Limited is one of the integrated player which has presence across power T&D offering products and services such as overhead conductors, power cables, OPGW and MSI services
+
+## Overview of capex incurred/planned
+
+<table><thead><tr><th>Company</th><th>Description</th></tr></thead><tbody><tr><td>Apar Industries Limited</td><td>The company reported Rs 10.88 billion capex incurred at an overall level in last 3 years, as of FY25. In FY25, the company incurred capex of Rs 2.06 billion in conductors segment and Rs 1.87 billion in cables segment</td></tr><tr><td>JSK Industries Private Limited</td><td>The company does not have any major capital expenditure plans in the near-to-medium term as of March 2025.</td></tr><tr><td>KEI Industries Limited</td><td>In FY25, the company reported that in FY26 and FY27, they plan to invest Rs 13 billion in Sanand Project. After completion of Sanand Project, the plan is to do capital expenditure Rs 7-8 billion each year for low voltage and medium voltage cables</td></tr><tr><td>Lumino Industries Limited</td><td>In FY25, the company incurred Rs 390.65 million capex towards manufacturing and Rs 3.98 million towards EPC</td></tr><tr><td>Sterlite Electric Limited</td><td>During FY26-FY27, the company plans to invest Rs 2.25 billion from its IPO proceeds in capital expenditures, primarily to purchase plant, machinery, and equipment, for the</td></tr></tbody></table>
+
+<table><tr><td>Siechem Technologies Private Limited</td><td>As per August 2025 credit rating rationale, the company is incurring capex towards Unit II extension project</td></tr><tr><td>Universal Cables Limited</td><td>During FY25, the company incurred capital expenditure aggregating to Rs 1261.32 million, consisting of additions to (a) Plant & Equipment of Rs 894.69 million; (b) Other Fixed Assets of Rs 12.62 million; (c) Intangible Assets of Rs 3.55 million; (d) Capital Work-in-Progress of Rs 344.83 million and (e) Intangible Assets Under Development of Rs 5.62 million primarily directed towards capacity expansion</td></tr></table>
+
+Note: The above table is only indicative and not an exhaustive representation of the respective company's capital expenditure and future plans
+
+Source: Annual reports, Credit ratings reports, Crisil Intelligence
+
+## Financial parameters
+
+### Revenue from operations

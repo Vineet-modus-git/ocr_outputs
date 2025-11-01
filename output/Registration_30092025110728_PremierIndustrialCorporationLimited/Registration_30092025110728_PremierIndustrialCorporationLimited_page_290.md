@@ -1,0 +1,17 @@
+Notes to the Restated Financial Information
+as at 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+<table><thead><tr><th>8</th><th>Other Non Current Assets</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td></td><td>(Unsecured, considered good, unless stated otherwise)</td><td></td><td></td><td></td></tr><tr><td></td><td>Security Deposits</td><td>10.04</td><td>9.86</td><td>5.60</td></tr><tr><td></td><td>Advance for Capital Expenditure</td><td>10.93</td><td>5.83</td><td>5.83</td></tr><tr><td></td><td>Less.: Provision for Doubtful Advances</td><td>(5.83)</td><td>(5.83)</td><td>(5.83)</td></tr><tr><td></td><td>Total</td><td>15.14</td><td>9.86</td><td>5.60</td></tr></tbody></table>
+
+<table><thead><tr><th>9</th><th>Inventories</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td></td><td>(Valued at lower of cost or net realizable value, unless stated other wise)</td><td></td><td></td><td></td></tr><tr><td></td><td>Raw Materials</td><td>1,443.84</td><td>1,161.53</td><td>824.12</td></tr><tr><td></td><td>Finished Goods</td><td>283.30</td><td>142.95</td><td>55.21</td></tr><tr><td></td><td>Work in Progress</td><td>100.87</td><td>-</td><td>-</td></tr><tr><td></td><td>Total</td><td>1,828.01</td><td>1,304.49</td><td>879.33</td></tr></tbody></table>
+
+<table><thead><tr><th>10</th><th>Trade receivables</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td></td><td>- Considered good- Unsecured</td><td>1,054.18</td><td>696.35</td><td>785.15</td></tr><tr><td></td><td>- Significant increase in credit risk</td><td>13.58</td><td>9.97</td><td>10.67</td></tr><tr><td></td><td><strong>Sub-total</strong></td><td><strong>1,067.77</strong></td><td><strong>706.32</strong></td><td><strong>795.82</strong></td></tr><tr><td></td><td>Less: Provision for expected credit loss</td><td>13.58</td><td>9.97</td><td>10.67</td></tr><tr><td></td><td><strong>Total</strong></td><td><strong>1,054.18</strong></td><td><strong>696.35</strong></td><td><strong>785.15</strong></td></tr><tr><td></td><td>The above amount includes -</td><td></td><td></td><td></td></tr><tr><td></td><td>- Receivables from related parties</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>- Others</td><td>1,067.77</td><td>706.32</td><td>795.82</td></tr><tr><td></td><td><strong>Total</strong></td><td><strong>1,067.77</strong></td><td><strong>706.32</strong></td><td><strong>795.82</strong></td></tr></tbody></table>
+
+There were no receivables due by directors or any of the officers of the Company.
+
+### Movement in Provision for Expected Credit Loss
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Provision at beginning of the year</td><td>9.97</td><td>10.67</td><td>9.95</td></tr><tr><td>Add.: Provision during the year</td><td>3.61</td><td>-</td><td>0.71</td></tr><tr><td>(Less): Reversal during the year</td><td>-</td><td>(0.70)</td><td>-</td></tr><tr><td><strong>Provision at end of the year</strong></td><td><strong>13.58</strong></td><td><strong>9.97</strong></td><td><strong>10.67</strong></td></tr></tbody></table>
+
+285

@@ -1,0 +1,6 @@
+Shares of ₹10 each Allocated and Allotted to such successful Bidders (with same PAN) may be
+proportionately distributed.
+
+Bidders will be required to confirm and will be deemed to have represented to our Company, the members of the Syndicate, their respective directors, officers, agents, affiliates and representatives that they are eligible under applicable law, rules, regulations, guidelines and approvals to acquire the Equity Shares.
+
+Subject to valid Bids being received at or above the Issue Price, under-subscription, if any, in the Non-Institutional Portion or the Retail Portion would be allowed to be met with spill-over from other categories or a combination of categories at the discretion of our Company, in consultation with the BRLM and the Designated Stock Exchange, on a proportionate basis. However, under-subscription, if any, in the QIB Portion will not be allowed to be met with spill-over from other categories or a combination of categories. For further details, see "Terms of the Issue" on page 416.

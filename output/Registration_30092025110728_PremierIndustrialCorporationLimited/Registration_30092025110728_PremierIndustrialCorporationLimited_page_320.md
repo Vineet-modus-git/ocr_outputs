@@ -1,0 +1,25 @@
+# BASIS OF PREPARATION AND PRESENTATION
+
+For the purpose of preparation of Restated Financial Information for the period ended 31st March 2025, 31st March 2024, 31st March 2023 of the Company, the transition date is considered as April 01, 2022 which is different from the transition date adopted by the Company at the time of first time transition to Ind AS (i.e. April 01, 2023) for the purpose of preparation of Statutory Ind AS Financial Statements as required under Companies Act. Accordingly, the Company have applied the same accounting policy and accounting policy choices (both mandatory exceptions and optional exemptions availed as per Ind AS 101, as applicable) as on April 01, 2022 for the 2023 and 2024 Special Purpose Ind AS Financial Statements, as initially adopted on transition date i.e. April 01, 2023.
+
+The financial statements have been prepared on the historical cost basis, except for certain financial instruments which are measured at fair value at the end of each reporting period. Historical cost is generally based on the fair value of the consideration given in exchange for goods and services. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. All assets and liabilities have been classified as current or non-current as per the Company's normal operating cycle and other criteria set out in the Schedule III (Division II) of the Companies Act, 2013.
+
+The operating cycle is the time between the acquisition of assets for processing and their realization in cash and cash equivalents. The Company has identified twelve months as its operating cycle for the purpose of current and non-current classification of assets and liabilities. The accounting policies have been applied consistently over all periods presented in these financial statements except where a newly- issued accounting standard is initially adopted or a revision to an existing accounting standard requires a change in the accounting policy hitherto in use.
+
+The financial statements are presented in Indian Rupees ("₹") which is also the Company's functional currency and all values are rounded to the nearest Millions except when otherwise indicated.
+
+# CRITICAL ACCOUNTING ESTIMATES, ASSUMPTIONS AND JUDGEMENTS
+
+The preparation of the financial statements requires management to make estimates, assumptions and judgments that affect the reported balances of assets and liabilities and disclosures as at the date of the financial statements and the reported amounts of income and expense for the periods presented. The estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant. Actual results may differ from these estimates considering different assumptions and conditions. Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimates are revised, and future periods are affected. The estimates and assumptions that have a significant risk of causing material adjustment to the carrying values of assets and liabilities within the next financial year are discussed below.
+
+## a) DEFERRED INCOME TAX ASSETS AND LIABILITIES
+
+Significant management judgment is required to determine the amount of deferred tax assets that can be recognized, based upon the likely timing and the level of future taxable profits.
+
+The amount of total deferred tax assets could change if management estimates of projected future taxable income or if tax regulations undergo a change.
+
+## b) USEFUL LIVES OF PROPERTY, PLANT AND EQUIPMENT (PPE) AND INTANGIBLE ASSETS
+
+Management reviews the estimated useful lives and residual value of PPE and Intangibles at the end of each reporting period. Factors such as changes in the expected level of usage, technological developments and product life cycle, could significantly impact the economic useful lives and the residual values of these assets. Consequently, the future depreciation charge could be revised and may have an impact on the profit for future years.
+
+315

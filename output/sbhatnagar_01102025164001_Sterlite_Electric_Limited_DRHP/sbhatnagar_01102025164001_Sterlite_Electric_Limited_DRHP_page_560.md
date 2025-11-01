@@ -1,0 +1,55 @@
+38. The company may, by special resolution, reduce in any manner and with, and subject to, any incident authorised and consent required by law,—
+
+(a) its share capital;
+
+(b) any capital redemption reserve account; or
+
+(c) any share premium account.
+
+## Capitalisation of profits
+
+39. (i) The company in general meeting may, upon the recommendation of the Board, resolve—
+
+(a) that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company's reserve accounts, or to the credit of the profit and loss account, or otherwise available for distribution; and
+
+(b) that such sum be accordingly set free for distribution in the manner specified in clause (ii) amongst the members who would have been entitled thereto, if distributed by way of dividend and in the same proportions.
+
+(ii) The sum aforesaid shall not be paid in cash but shall be applied, subject to the provision contained in clause (iii), either in or towards—
+
+(A) paying up any amounts for the time being unpaid on any shares held by such members respectively;
+
+(B) paying up in full, unissued shares of the company to be allotted and distributed, credited as fully paid-up, to and amongst such members in the proportions aforesaid;
+
+(C) partly in the way specified in sub-clause (A) and partly in that specified in sub-clause (B);
+
+(D) A securities premium account and a capital redemption reserve account may, for the purposes of this regulation, be applied in the paying up of unissued shares to be issued to members of the company as fully paid bonus shares;
+
+(E) The Board shall give effect to the resolution passed by the company in pursuance of this regulation.
+
+40. (i) Whenever such a resolution as aforesaid shall have been passed, the Board shall—
+
+(a) make all appropriations and applications of the undivided profits resolved to be capitalised thereby, and all allotments and issues of fully paid shares if any; and
+
+(b) generally do all acts and things required to give effect thereto.
+
+(ii) The Board shall have power—
+
+(a) to make such provisions, by the issue of fractional certificates or by payment in cash or otherwise as it thinks fit, for the case of shares becoming distributable in fractions; and
+
+(b) to authorise any person to enter, on behalf of all the members entitled thereto, into an agreement with the company providing for the allotment to them respectively, credited as fully paid-up, of any further shares to which they may be entitled upon such capitalisation, or as the case may require, for the payment by the company on their behalf, by the application thereto of their respective proportions of profits resolved to be capitalised, of the amount or any part of the amounts remaining unpaid on their existing shares;
+
+(iii) Any agreement made under such authority shall be effective and binding on such members.
+
+## Buy-back of shares
+
+41. Notwithstanding anything contained in these articles but subject to the provisions of sections 68 to 70 of the Act and any other applicable provision of the Act or any other law for the time being in force, the company may purchase its own shares or other specified securities.
+
+## Dematerialization of shares
+
+41A
+
+(a) Notwithstanding anything contained in these Articles, the Company shall be entitled to dematerialize its shares and to offer shares in a dematerialized form pursuant to the Depositories Act.
+
+(b) Notwithstanding anything contained in these Articles, and subject to the provisions of law for the time being in force,
+
+537

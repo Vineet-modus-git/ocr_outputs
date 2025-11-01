@@ -1,0 +1,25 @@
+While we intend to expand into other geographies to mitigate concentration risk, there can be no assurance that such diversification plans will succeed or yield material results in the near term. Any failure to broaden our geographic footprint may limit our growth potential and continue to expose us to regional risks.
+
+Accordingly, any adverse development affecting our key states of operation, including changes in industrial policy, tax structures, transport infrastructure, or socio-political conditions, could lead to a material decline in revenue and have an adverse effect on our business, financial condition, results of operations, and cash flows.
+
+## 2. We rely substantially on our top 10 suppliers for procurement of raw materials, and any shortage, delay or disruption in their supply could materially impact our business, financial condition, results of operations and cash flows.
+
+Our operations rely heavily on uninterrupted and timely availability of key raw materials, including (HR) Coil, zinc, and consumables such as bearings, cutters, oil and grease. As we primarily operate on purchase order arrangements, without long-term procurement contracts, we remain exposed to risks of supply constraints and raw material price volatility.
+
+The pricing and availability of these inputs are subject to factors beyond our control, such as production interruptions at supplier facilities, volatility in global commodity prices, supply chain and logistics bottlenecks, import restrictions, foreign exchange fluctuations, trade sanctions, natural calamities and geopolitical events. These factors may significantly impact our ability to maintain production schedules, manage costs and preserve operating margins.
+
+For Fiscals 2025, 2024 and 2023, our total expenses towards purchase of raw materials amounted to ₹1,12,675.42 lakhs, ₹94,178.98 lakhs, and ₹82,968.01 lakhs, respectively, comprising 98.17%, 92.14%, and 97.90% of our revenue from operations.
+
+The breakdown of imported and indigenous purchases is provided below;
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">For Fiscal 2025</th><th colspan="2">For Fiscal 2024</th><th colspan="2">For Fiscal 2023</th></tr><tr><th>in ₹ in lakhs</th><th>% of total revenue</th><th>in ₹ in lakhs</th><th>% of total revenue</th><th>in ₹ in lakhs</th><th>% of total revenue</th></tr></thead><tbody><tr><td>Import of goods</td><td>7,757.50</td><td>6.88</td><td>18,760.75</td><td>19.92</td><td>7,427.20</td><td>8.95</td></tr><tr><td>Indigenous goods Purchase</td><td>1,04,917.92</td><td>93.12</td><td>75,418.23</td><td>80.08</td><td>75,540.81</td><td>91.05</td></tr><tr><td>Total Purchases</td><td>1,12,675.42</td><td>100.00%</td><td>94,178.98</td><td>100.00%</td><td>82,968.01</td><td>100.00%</td></tr></tbody></table>
+
+*As certified by Statutory Auditors of the Company through certificate dated September 19, 2025.*
+
+We import raw materials such as HR coil primarily from countries like China, Dubai-UAE and South Korea. The country-wise import breakdown is as follows:
+
+<table><thead><tr><th rowspan="2">Country</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount (in ₹ lakhs)</th><th>% Total Purchases</th><th>Amount (in ₹ lakhs)</th><th>% Total Purchases</th><th>Amount (in ₹ lakhs)</th><th>% Total Purchases</th></tr></thead><tbody><tr><td>South Korea</td><td>5,276.44</td><td>4.68%</td><td>16,842.90</td><td>17.88%</td><td>-</td><td>-</td></tr><tr><td>China</td><td>2,481.06</td><td>2.20%</td><td>1,917.85</td><td>2.04%</td><td>4,757.99</td><td>5.73</td></tr><tr><td>Dubai-UAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2,669.21</td><td>3.22%</td></tr><tr><td><strong>Total</strong></td><td><strong>7,757.50</strong></td><td><strong>6.88%</strong></td><td><strong>18,760.75</strong></td><td><strong>19.92%</strong></td><td><strong>7,427.20</strong></td><td><strong>8.95%</strong></td></tr></tbody></table>
+
+*As certified by Statutory Auditors of the Company through certificate dated September 19, 2025.*
+
+Our dependence on a limited set of suppliers is further highlighted by our concentration of purchase expenses. For Fiscals 2025, 2024, and 2023. Details of our top 2,5 and 10 suppliers are as under:

@@ -1,0 +1,27 @@
+The disclosures of material accounting judgements, estimates and assumptions relating to revenue from contracts with customers are provided above.
+
+## Sale of power products and traded goods
+
+Revenue from the sale of power products and traded goods are recognised at a point upon delivery of conductor, power cable or traded aluminium ingots and rods and payment is generally due within 30 to 180 days from invoice. Some contracts provide the Group right to receive price variation from customers on account of changes in metal prices.
+
+## Revenue from Engineering, procurement and construction ('EPC') contracts
+
+Revenue from fixed price construction contracts for power transmission lines and supply and installation of power transmission products is recognised as the performance obligation is satisfied progressively over the contract period. The Group's progress towards completion is measured based on the proportion that the contract expenses incurred to date bear to the estimated total contract expenses. Payment is due as per the achievement of contractual milestones.
+
+The estimates of contract cost and the revenue thereon are reviewed periodically by management and the cumulative effect of any changes in estimates is recognised in the period in which such changes are determined. Where it is probable that total contract expenses will exceed total revenues from a contract, the expected loss is recognised immediately as an expense in the statement of profit and loss.
+
+Where the profits from the contract cannot be estimated reliably, revenue is recognised equalling to expense incurred to the extent that it is probable that the expense will be recovered.
+
+## Revenue from indefeasible right-of-use contracts
+
+Indefeasible right-of-use (IRU) contracts represent performance obligation for providing rights to the customers to use the optical ground wire cable/dark fibre telecommunication networks of the Group over a period as determined under the contract. Revenue under IRU contracts is recognised on a straight line basis over the said period.
+
+## Power transmission services
+
+Revenue from contracts with customers comprises of revenue from power transmission services rendered in India to Long Term Transmission Customers (LTTCs) pursuant to the respective Transmission Services Agreements (TSAs) executed by the Group with LTTCs for periods of 25/35 years. The Group is required to ensure that the transmission assets meet the minimum availability criteria under the respective TSAs. The Group's performance obligation under the TSAs is to provide power transmission services. The performance obligation is satisfied over time as the customers receive and consume the benefits provided by the Group's performance as the Group performs. Accordingly, the revenue from power transmission services is recognised over time based on the transmission asset availabilities and the tariff charges approved under the respective Central Electricity Regulatory Commission ('CERC') tariff orders and includes unbilled revenues accrued up to the end of the accounting period. The payment is generally due within 60 days upon receipt of monthly invoice by the customer.
+
+## Revenue from construction of concession assets
+
+The Group constructs transmission infrastructure in India and Brazil which is used to provide transmission services and operates and maintains that infrastructure for a specified period of time. The infrastructure constructed by the group (i.e. the operator) is not recorded as property, plant and equipment of the group because the concession agreement does not transfer to the concessionaire the right to control the use of public services infrastructure. The group only has the right to operate the infrastructure for the provision of public services on behalf of the Granting Authority, as provided in the contract. Thus, under the terms of the concession agreement, the operator only acts as a service provider. These arrangements are accounted for under Appendix C to Ind AS 115 Service Concession Arrangements. Such arrangements give rise to contract assets till the transmission services are rendered. The contract asset refers to the Group's right to the consideration as a result of the investments made in the construction of transmission line infrastructure. The Group's performance obligation with respect to construction of service concession assets is satisfied progressively over the construction period. The Group's progress towards completion is measured based on the proportion that the contract costs incurred to date bear to the estimated total contract costs.
+
+When the Group provides more than one service under a concession agreement, the consideration received is allocated based on the fair values of the services delivered. For the estimate related to the revenue from construction assets, the Group used a model that calculates the cost of financing the customer (in this case, the Concession Grantor). The discount rates represent a market rate that considers the risks and premiums specific to the service concession transmission asset. The discount rates are fixed over the concession period and reflects the price that a customer would have paid for the promised goods or services if the customer had paid cash for those goods or services when (or as) they transfer to the customer.

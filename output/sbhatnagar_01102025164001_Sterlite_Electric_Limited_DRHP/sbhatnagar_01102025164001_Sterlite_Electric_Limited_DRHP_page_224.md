@@ -1,0 +1,23 @@
+<table><thead><tr><td>Company Name</td><td>Year of incorporation</td><td>Description</td></tr></thead><tbody><tr><td>Apar Industries Limited</td><td>1989</td><td>Apar Industries is a part of the Apar Group, which has presence in the electrical and power sector. Apar Industries Limited is into the production of conductors, transformer oils, polymers, etc. The company caters to various sectors including power transmission, telecommunication, and the automotive industry, etc.</td></tr><tr><td>JSK Industries Private Limited</td><td>2005</td><td>JSK Industries was incorporated in 2005 offers range of aluminium and aluminium alloy rods and conductors, primarily catering to the high voltage power transmission sector.</td></tr><tr><td>KEI Industries Limited</td><td>1992</td><td>KEI Industries is into manufacturing of electrical cables, including high voltage, extra-high voltage, instrumentation, and house wiring cables, etc. The company has presence in multiple industries such as construction, utilities, and infrastructure, etc.</td></tr><tr><td>Lumino Industries Limited</td><td>2005</td><td>Lumino (LIL) was started as a partnership firm in 1989 by Mr Purushottam Dass Goel and was reconstituted as a closely held company in 2005. It manufactures aluminium conductors, power cables, PPC poles and sub-stations components. The company also has an EPC division for laying down transmission and distribution lines and construction of power sub-stations under different government schemes. LIL began installing solar power plants from 2019.</td></tr><tr><td>Sterlite Electric Limited</td><td>2015</td><td>Sterlite Electric Limited is engaged in manufacturing and supplying high-performance power conductors, extra-high voltage (EHV), high voltage (HV) and medium voltage (MV) cables and optical ground wires (OPGW), to over seventy countries. Formerly part of Sterlite Power Transmission Ltd, the company has four manufacturing facilities. The company's manufacturing facilities are located near key raw material sources and transportation hubs. Its Jharsuguda facility, for instance, is situated near aluminium manufacturing sites and has access to Paradip Port, while the Silvassa facility is also located near aluminium manufacturing sites with access to Mumbai Port.</td></tr><tr><td>Siechem Technologies Private Limited</td><td>1994</td><td>STPL was founded in 1994 by Mr. P. Damodaran and his wife, Ms. Padma Damodaran. The company started producing specialty wires and cables in 2002 at its Puducherry facility, which initially had a daily production capacity of 15 MT. Utilizing electron beam irradiation technology for cable curing, STPL expanded its capabilities with the installation of its first e-beam accelerator in 2009, followed by a second one in 2015 to tap into the railway sector. Over time, the company has broadened its customer base beyond the telecom industry to serve various sectors, with railways becoming a significant client segment. To meet growing demands, STPL has increased its production capacity to 45 MT/day by establishing a new unit near its existing plant in Puducherry.</td></tr><tr><td>Universal Cables Limited</td><td>1945</td><td>Universal Cables Limited provides range of products within cables as well as capacitors segment. Its cables and capacitors are known by the brand name "UNISTAR".</td></tr></tbody></table>
+
+Note: Year of incorporation as per MCA website
+
+Source: Company websites, Crisil Intelligence
+
+## Geographical presence (fiscal 2025)
+
+<table><thead><tr><td>Company Name</td><td>Geographic Presence¹</td></tr></thead><tbody><tr><td>Apar Industries Limited</td><td>National: 28 states + 8 UTs<br>International: 140+ countries</td></tr><tr><td>JSK Industries Private Limited*</td><td>National: Yes<br>International: N.A.</td></tr><tr><td>KEI Industries Limited</td><td>National: Pan India<br>International: 60+ Countries</td></tr><tr><td>Lumino Industries Limited</td><td>National: 30 states &amp; UTs<br>International: 17 countries</td></tr><tr><td>Sterlite Electric Limited</td><td>National: Pan India<br>International: 70+ Countries</td></tr><tr><td>Siechem Technologies Private Limited*</td><td>National: Yes<br>International: Yes</td></tr><tr><td>Universal Cables Limited</td><td>National: Pan India<br>International: 19 countries</td></tr></tbody></table>
+
+Note:
+
+* The information pertains to Fiscal 2024 as Fiscal 2025 annual report has not been issued by the company
+
+N.A.: Not available
+
+¹Represents markets served by entity as disclosed in annual report by respective companies
+
+Source: Company websites, Crisil Intelligence
+
+## Export revenue (Fiscal 2025)
+
+201

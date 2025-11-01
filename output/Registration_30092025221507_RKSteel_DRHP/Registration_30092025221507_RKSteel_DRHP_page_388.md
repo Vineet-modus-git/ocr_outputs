@@ -1,0 +1,21 @@
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The company's exposure to the risk of changes in market interest rates is primarily related to its debt obligations with floating interest rates in the form of Term loans.
+
+The following table provides a break-up of the Company's floating and fixed rate borrowings:
+
+<table><thead><tr><th>Particulars</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>Long term debts from Banks and NBFC</td><td>3,600.61</td><td>5,043.79</td><td>6,219.50</td></tr><tr><td>Current Maturities of long term debts</td><td>2,338.29</td><td>2,197.28</td><td>1,446.17</td></tr><tr><td>Unsecured Loan</td><td></td><td></td><td></td></tr><tr><td>- From Bank</td><td>-</td><td>189.24</td><td>978.18</td></tr><tr><td>- From Related parties and others</td><td>316.72</td><td>596.62</td><td>0.19</td></tr><tr><td>- From Body Corporates</td><td>575.00</td><td>725.00</td><td>725.00</td></tr><tr><td>Loan from others</td><td>-</td><td>4.84</td><td>4.84</td></tr><tr><td>Working Capital Loans from Banks</td><td>24,254.38</td><td>18,546.12</td><td>13,169.26</td></tr><tr><td>Working Capital Loans from NBFC</td><td>4,024.22</td><td>13.20</td><td>786.51</td></tr><tr><td><strong>Total of the above borrowings bearing fixed rate of interest</strong></td><td><strong>4,422.07</strong></td><td><strong>1,383.19</strong></td><td><strong>765.26</strong></td></tr><tr><td><strong>Total of the above borrowings bearing variable rate of interest</strong></td><td><strong>30,687.15</strong></td><td><strong>25,932.90</strong></td><td><strong>22,564.39</strong></td></tr><tr><td><strong>% of Borrowings out of above bearing variable rate of interest</strong></td><td><strong>87.40%</strong></td><td><strong>94.94%</strong></td><td><strong>96.72%</strong></td></tr></tbody></table>
+
+If interest rates had been 100 basis points higher or lower, with all other variables held constant, the Company's profit after tax would have decreased or increased, respectively. These effects are primarily attributable to the company's exposure to variable rate borrowings and are summarized in the table below.
+
+<table><caption>(₹ Lakhs)</caption><thead><tr><th>Risk Type</th><th>Change Assumed</th><th>Impact on Profit After Tax / Loss</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td rowspan="2">Interest Rate Risk (Variable borrowings)</td><td>+100 bps</td><td>Decrease</td><td>229.63</td><td>194.06</td><td>168.85</td></tr><tr><td>-100 bps</td><td>Increase</td><td>229.63</td><td>194.06</td><td>168.85</td></tr></tbody></table>
+
+## (ii) Foreign currency risk management
+
+Foreign currency risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates. The following table shows foreign currency exposures in USD on financial instruments at the end of the reporting period.
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">As at Fiscal 2025</th><th colspan="2">As at Fiscal 2024</th><th colspan="2">As at Fiscal 2023</th></tr><tr><th>Foreign currency</th><th>Amount</th><th>Foreign currency</th><th>Amount</th><th>Foreign currency</th><th>Amount</th></tr></thead><tbody><tr><td>Trade receivables</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Advances from Customers</td><td>-</td><td>-</td><td>$79,497.62</td><td>₹66,28,511.56</td><td>$79,497.62</td><td>₹65,33,114.41</td></tr></tbody></table>
+
+A 1% depreciation of the INR against the USD would decrease the profit after tax and a 1% appreciation would increase the profit after tax by the same amounts. The effects of these sensitivities are summarized in the table below.
+
+<table><thead><tr><th>Risk Type</th><th>Change Assumed</th><th>Impact on Profit After Tax / Loss</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead></table>
+
+387

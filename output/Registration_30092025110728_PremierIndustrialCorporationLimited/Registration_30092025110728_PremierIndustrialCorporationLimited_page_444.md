@@ -1,0 +1,13 @@
+the Selling Shareholder or Shareholder(s) with rights to nominate Director(s) or other special rights; (ii) weighted average cost of acquisition of all shares transacted in the last eighteen months, one year and three years preceding the date of this Draft Red Herring Prospectus; (iii) average cost of acquisition of Equity Shares for our Promoters and Selling Shareholders; and (iv) weighted average price at which the Equity Shares were acquired by our Promoters and Selling Shareholders in the last one year preceding the date of this Draft Red Herring Prospectus.
+
+25. Certificate dated September 29, 2025, obtained from Mehta Chokshi & Shah LLP, Chartered Accountants, with respect to the outstanding dues to creditors and micro, small and medium enterprises.
+
+26. Certificate dated September 29, 2025, obtained from Mehta Chokshi & Shah LLP, Chartered Accountants, with respect to our financial indebtedness.
+
+27. Certificate dated September 29, 2025 obtained from S H B A & CO LLP (formerly known as M/s. Bathiya & Associates LLP), Chartered Accountants, with respect to our working capital requirements.
+
+28. In-principle listing approvals dated [●] and [●] from BSE and NSE, respectively.
+
+29. Final observation letter bearing number [●] dated [●] issued by SEBI.
+
+Any of the contracts or documents mentioned in this Draft Red Herring Prospectus may be amended or modified at any time if so required in the interest of our Company or if required by the other parties, without reference to the Shareholders, subject to compliance with the provisions contained in the Companies Act and other relevant statutes.

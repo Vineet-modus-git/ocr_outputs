@@ -1,0 +1,23 @@
+compensating the Bidder at a uniform rate of ₹100 per day or 15% per annum of the Bid Amount, whichever is higher from the date of receipt of the investor grievance until the date on which the blocked amounts are unblocked. The Bidder shall be compensated in the manner specified in the SEBI ICDR Master Circular, which for the avoidance of doubt, shall be deemed to be incorporated in the deemed agreement of our Company with the SCSBs, to the extent applicable.
+
+The above timetable, other than the Bid/Offer Closing Date, is indicative and does not constitute any obligation or liability on our Company, the Selling Shareholders or the BRLM.
+
+While our Company shall ensure that all steps for the completion of the necessary formalities for the listing and commencement of trading of the Equity Shares on the Stock Exchanges are taken within three Working Days from the Bid/Offer Closing Date, as may be prescribed by the SEBI, the timetable may be extended due to various factors, such as extension of the Bid/Offer Period by our Company, in consultation with the BRLM, revision of the Price Band or any delay in receiving the final listing and trading approval from the Stock Exchanges. The commencement of trading of the Equity Shares will be entirely at the discretion of the Stock Exchanges and in accordance with the applicable laws. The Selling Shareholders confirm that they shall extend reasonable support and co-operation in relation to the Offered Shares, as may be requested by our Company and the BRLM for the completion of the necessary formalities for listing and commencement of trading of the Equity Shares at the Stock Exchanges within three Working Days from the Bid/Offer Closing Date, as may be prescribed by the SEBI.
+
+In terms of the UPI Circulars, in relation to the Offer, the BRLM will be required to submit reports of compliance with listing timelines and activities prescribed by the SEBI, in connection with the allotment and listing procedure within three Working Days from the Bid / Offer Closing Date or such other time as prescribed by SEBI, identifying non-adherence to timelines and processes and an analysis of entities responsible for the delay and the reasons associated with it.
+
+### Submission of Bids (Other than Bids from Anchor Investors):
+
+<table><thead><tr><th colspan="2">Bid/Offer Period (except the Bid/Offer Closing Date)</th></tr></thead><tbody><tr><td>Submission and Revision in Bids</td><td>Only between 10.00 a.m. and 5.00 p.m. IST</td></tr><tr><th colspan="2">Bid/Offer Closing Date*</th></tr><tr><td>Submission of Electronic Applications (Online ASBA through 3-in-1 accounts) – For Retail Individual Bidders</td><td>Only between 10.00 a.m. and up to 5.00 p.m. IST</td></tr><tr><td>Submission of Electronic Applications (Bank ASBA through Online channels like Internet Banking, Mobile Banking and Syndicate UPI ASBA applications where Bid Amount is up to ₹0.50 million)</td><td>Only between 10.00 a.m. and up to 4.00 p.m. IST</td></tr><tr><td>Submission of Electronic Applications (Syndicate Non-Retail, Non-Individual Applications)</td><td>Only between 10.00 a.m. and up to 3.00 p.m. IST</td></tr><tr><td>Submission of Physical Applications (Bank ASBA)</td><td>Only between 10.00 a.m. and up to 1.00 p.m. IST</td></tr><tr><td>Submission of Physical Applications (Syndicate Non-Retail, Non-Individual Applications of QIBs and NIIs where Bid Amount is more than ₹0.50 million</td><td>Only between 10.00 a.m. and up to 12.00 p.m. IST</td></tr><tr><th colspan="2">Modification / Revision / cancellation of Bids</th></tr><tr><td>Upward revision of Bids by QIBs and Non-Institutional Bidders#</td><td>Only between 10.00 a.m. and up to 4.00 p.m. IST on Bid/ Offer Closing Date</td></tr><tr><td>Upward or downward revision of Bids by Retail Individual Bidders</td><td>Only between 10.00 a.m. and up to 5.00 p.m. IST</td></tr></tbody></table>
+
+\* UPI mandate end time shall be 5:00 p.m. on the Bid/ Offer Closing Date.
+
+\# QIBs and Non-Institutional Bidders can neither revise their bids downwards nor cancel/withdraw their Bids.
+
+On the Bid/Offer Closing Date, the Bids shall be uploaded until:
+
+i. 4.00 p.m. IST in case of Bids by QIBs and Non-Institutional Bidders, and
+
+ii. until 5.00 p.m. IST or such extended time as permitted by the Stock Exchanges, in case of Bids by UPI Bidders.
+
+On Bid/Offer Closing Date, extension of time will be granted by Stock Exchanges only for uploading Bids received by RIBs after taking into account the total number of Bids received and as reported by the Book Running Lead Manager to the Stock Exchanges.

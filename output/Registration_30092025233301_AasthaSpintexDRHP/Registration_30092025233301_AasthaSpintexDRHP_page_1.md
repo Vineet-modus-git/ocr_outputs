@@ -1,0 +1,7 @@
+<table><tr><td>BOI MERCHANT BANKERS LIMITED<br>pnb investment services ltd.<br>(A wholly owned subsidiary of Punjab National Bank)<br>PNB INVESTMENT SERVICES<br>LIMITED</td><td>Sanjay M Phadke<br><br>Sayalee Gaikwad/Shubham<br>Vishwakarma</td><td>Email: info@boimb.com<br>Telephone: +91 22 6904 2633<br><br>Email: projectaastha@pnbisl.com<br>Telephone: +91 84220 09515/ 86929 38109</td></tr><tr><td colspan="3">REGISTRAR TO THE ISSUE</td></tr><tr><th>NAME AND LOGO</th><th>CONTACT PERSON</th><th>EMAIL AND TELEPHONE</th></tr><tr><td>Bigshare Services Private Limited</td><td>Contact Person:<br>Jibu John</td><td>Email: ipo@bigshareonline.com<br>Telephone: +91 226 263 8200</td></tr><tr><td colspan="3">BID / ISSUE PERIOD</td></tr><tr><td>Anchor Investor<br>Bidding Period</td><td>[•]* Bid/Issue Open on</td><td>[•] Bid/Issue Closes<br>on</td><td>[•]**#</td></tr></table>
+
+*Our Company, in consultation with the BRLMs, may consider participation by Anchor Investors in accordance with the SEBI ICDR Regulations. The Anchor Investors shall Bid on the Anchor Investor Bidding Date, i.e., one Working Day prior to the Bid/Issue Opening Date.
+
+**Our Company, in consultation with the BRLMs, may consider closing the Bid/Issue Period for QIBs one Working Day prior to the Bid/Issue Closing Date in accordance with the SEBI ICDR Regulations.
+
+* The UPI mandate end time and date shall be at 5:00 p.m. on Bid/Issue Closing Day.

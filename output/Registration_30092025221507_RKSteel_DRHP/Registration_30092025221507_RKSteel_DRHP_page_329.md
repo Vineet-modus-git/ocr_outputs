@@ -1,0 +1,27 @@
+R.K. STEEL MANUFACTURING COMPANY LIMITED
+
+CIN: U24106TN2006PLC059519
+
+Annexure VI - Notes to Restated Ind AS Summary Statements
+
+(All amounts in Rs. lakhs, except as otherwise stated)
+
+## 52 Capitalisation Statement as at March 31, 2025
+
+<table><thead><tr><th>Particulars</th><th>Pre-Issue as on March 31,2025</th><th>As adjusted for the Issue*</th></tr></thead><tbody><tr><td><strong>Borrowings</strong></td><td></td><td></td></tr><tr><td>Current Borrowings (A)</td><td>29,170.32</td><td>-</td></tr><tr><td>Non-Current Borrowings including current maturities (B)</td><td>5,938.90</td><td>-</td></tr><tr><td><strong>Total Borrowings (C = A+B)</strong></td><td><strong>35,109.22</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Shareholders' funds</strong></td><td></td><td></td></tr><tr><td>Equity Share Capital (D)</td><td>4,940.31</td><td>-</td></tr><tr><td>Other Equity (E)</td><td>7,128.00</td><td>-</td></tr><tr><td><strong>Total Equity (F = D+E)</strong></td><td><strong>12,068.31</strong></td><td><strong>-</strong></td></tr><tr><td>Non-Current Borrowings / Total Equity (G = B / F)</td><td>0.49</td><td>-</td></tr><tr><td>Total Borrowings / Total Equity (H = C / F)</td><td>2.91</td><td>-</td></tr></tbody></table>
+
+**Notes:**
+
+* Will be determined upon completion of the offer.
+
+Changes in the share capital of our company since March 31, 2025 is set out below.
+
+<table><thead><tr><th>Particulars</th><th>Equity Shares</th><th>Equity Share Capital</th></tr></thead><tbody><tr><td>As at March 31, 2025</td><td>49,403,130</td><td>4,940</td></tr><tr><td>Equity Shares allotted after 31 March 2025</td><td>-</td><td>-</td></tr><tr><td>Equity Capital as on [the date of signing]</td><td>49,403,130</td><td>4,940</td></tr></tbody></table>
+
+## 53 Segment information:
+
+The Company is primarily engaged in the business of erecting, installing, operating and running a mill for converting steel coils and buying, selling, importing, exporting, or otherwise carrying activities in various form, kinds and grades of Iron and Steel including Iron and steel scrap, tube products, and various other metals and metal scrap and combination of metals and alloys which falls within a single reportable segment as the management of the Company views the entire business activities as Steel manufacturing. Accordingly, there are no additional disclosures to be furnished in accordance with the requirements of Ind AS 108 - Operating Segments with respect to single reportable segment. Further, the operations of the Company are majorly domiciled in India and therefore there are no reportable geographical segment.
+
+## 54 Reconciliation of movements of liabilities to cash flows arising from financing activities:
+
+<table><thead><tr><th rowspan="2"></th><th rowspan="2">Opening balance<br>April 1, 2024</th><th colspan="2">Cash flows</th><th rowspan="2">Non cash movement<br>Fair value changes</th><th rowspan="2">Closing balance<br>March 31, 2025</th></tr><tr><th>Proceeds</th><th>Repayments</th></tr></thead><tbody><tr><td>Loans</td><td>27,316.07</td><td>17,555.68</td><td>(9,762.52)</td><td>-</td><td>35,109.23</td></tr></tbody></table><table><thead><tr><th rowspan="2"></th><th rowspan="2">Opening balance<br>April 1, 2023</th><th colspan="2">Cash flows</th><th rowspan="2">Non cash movement<br>Fair value changes</th><th rowspan="2">Closing balance<br>March 31, 2024</th></tr><tr><th>Proceeds</th><th>Repayments</th></tr></thead><tbody><tr><td>Loans</td><td>23,329.62</td><td>21,775.57</td><td>(17,789.12)</td><td>-</td><td>27,316.07</td></tr></tbody></table><table><thead><tr><th rowspan="2"></th><th rowspan="2">Opening balance<br>April 1, 2022</th><th colspan="2">Cash flows</th><th rowspan="2">Non cash movement<br>Fair value changes</th><th rowspan="2">Closing balance<br>March 31, 2023</th></tr><tr><th>Proceeds</th><th>Repayments</th></tr></thead><tbody><tr><td>Loans</td><td>13,906.83</td><td>23,372.22</td><td>(13,949.43)</td><td>-</td><td>23,329.62</td></tr></tbody></table>

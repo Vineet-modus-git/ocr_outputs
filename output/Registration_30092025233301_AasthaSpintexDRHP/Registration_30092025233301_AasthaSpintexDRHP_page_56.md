@@ -1,0 +1,23 @@
+testing, or post-delivery inspection may result in loss of sales and impair our standing with existing and potential customers.
+
+While we have an in-house laboratory and Quality Team at our Manufacturing Facility that conducts testing at various stages of production, supported by semi-automated machinery and standard operating procedures designed to maintain uniformity, there can be no assurance that defects will not arise. Any deterioration in customer confidence could adversely affect our order pipeline, revenue visibility, and overall competitiveness.
+
+Although we have not faced any material product rejections or quality-related order cancellations during Fiscal 2025, Fiscal 2024 or Fiscal 2023, there can be no assurance that such issues will not occur in the future. Despite continued investments in preventive maintenance, workforce training, and quality assurance systems, any inability to maintain or upgrade these measures in line with evolving customer requirements may constrain our ability to sustain quality performance and could negatively affect our long-term customer relationships and financial results.
+
+**46. If we are unable to accurately forecast customer demand and maintain optimal inventory levels of cotton bales and finished yarn, our business, results of operations, and financial condition may be adversely affected.**
+
+Our operations are critically dependent on our ability to anticipate demand accurately and align procurement of raw cotton, production schedules, and inventory management. Cotton bales, our primary raw material, are seasonally procured between October and March, when availability is higher and procurement costs are relatively lower. To ensure uninterrupted production throughout the year, we build buffer stocks of cotton bales and also maintain finished yarn inventory to service customers who often operate with short lead times and fluctuating order volumes.
+
+Our current order book at times exceeds our installed production capacity, and to cater to this growing demand we have proposed the acquisition of Falcon Yarns Private Limited, which is expected to enhance our spindle capacity and broaden our production base. Until such capacity addition is fully integrated and operational, we may face challenges in timely meeting customer requirements, which could strain relationships and impact our ability to capitalize on demand opportunities.
+
+Any misjudgment in demand forecasting may further expose us to risks of under-stocking or over-stocking. Under-stocking of cotton bales or finished yarn could impair our ability to fulfil customer orders in a timely manner, resulting in loss of business opportunities, weakened customer relationships, and suboptimal utilization of our Manufacturing Facility. Conversely, excess stocking of cotton or finished goods may increase storage and financing costs, strain our working capital cycle, and expose us to risks of deterioration in raw cotton quality, which is sensitive to moisture and storage conditions.
+
+For Fiscal 2025, Fiscal 2024, and Fiscal 2023, our inventory turnover ratio was 2.82 times, 4.06 times, and 3.86 times, respectively, and inventory constituted 61.55%, 37.11%, and 54.08% of our total current assets for the respective periods. While we have not experienced any material inventory obsolescence or disposal during these periods, there can be no assurance that such issues will not arise in the future.
+
+Any sustained mismatch between forecasted demand and actual consumption could adversely affect our ability to manage costs, meet customer expectations, and maintain profitability. If we are unable to optimize inventory levels on an ongoing basis, it could materially impact our cash flows, working capital cycle, and overall financial condition.
+
+**47. Any downgrade of our debt ratings could adversely affect our business.**
+
+The cost and availability of capital, amongst other factors, is also dependent on our credit ratings. Currently, our borrowings facilities availed from the bank are rated by a credit rating agency. We have received the following credit rating in respect of our credit rating facilities during last three Fiscals 2025, 2024 and 2023:
+
+<table><thead><tr><th>Rating Agency</th><th>Instruments</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>Agency 1</td><td>Term Loan</td><td>-</td><td>Ind BB+/Positive (July 10, 2024)</td><td>Ind BB+/Stable (May 2, 2023)</td></tr><tr><td rowspan="2">Infomerics Ratings</td><td>Long Term Loan Facilities</td><td>IVR BBB/Stable</td><td>IVR B+/Negative (INC)*</td><td>-</td></tr><tr><td>Short Term Facilities</td><td>IVR A3 (February 10, 2025)</td><td>- (Previous rating)</td><td></td></tr></tbody></table>

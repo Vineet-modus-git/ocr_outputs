@@ -1,0 +1,15 @@
+Annexure 1: Subsidiaries forming part of the Audited Consolidated Financial Statements of the Group as at March 31, 2025, March 31, 2024 and March 31, 2023:
+
+a) Subsidiaries (which form part of continuing operations) forming part of the Audited Consolidated Financial Statements of the Group as at March 31, 2025: Financial statements audited by other auditors –
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the entity</td><td>Relationship</td></tr></thead><tbody><tr><td>1</td><td>Maharashtra Transmission Communication Infrastructure Limited</td><td>Subsidiary</td></tr><tr><td>2</td><td>Sterlite Interlinks Limited</td><td>Subsidiary</td></tr><tr><td>3</td><td>Sterlite Ed India Foundation</td><td>Subsidiary</td></tr></tbody></table>
+
+b) Subsidiaries (which form part of discontinued operations) forming part of the Audited Consolidated Financial Statements of the Group as at March 31, 2025: Financial statements audited by other auditors –
+
+<table><thead><tr><td>Sr.No.</td><td>Name of the entity</td><td>Relationship</td></tr></thead><tbody><tr><td>1</td><td>Two Square Transmission Participacoes, S.A. (formerly Sterlite Brazil Participacoes, S.A.)</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>2</td><td>GBS Participações S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>3</td><td>Goyas Transmissão de Energia S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>4</td><td>Borborema Transmissão de Energia S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>5</td><td>Solaris Transmissão de Energia S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>6</td><td>São Francisco Transmissão de Energia S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>7</td><td>Marituba Transmissão de Energia S.A.</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>8</td><td>Jaçanã Transmissão de Energia S.A (erstwhile Jaçanã Energia Ltd)</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>9</td><td>Olindina Participações S.A. (erstwhile Jaçanã Transmissão de Energia S.A)</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>10</td><td>Tangará Transmissão de Energia S.A. (erstwhile Cerrado Transmissão de Energia S.A)</td><td>Subsidiary (till September 26, 2024)</td></tr><tr><td>11</td><td>Serra Negra Transmissão de Energia S.A (erstwhile Veredas Transmissão de Energia S.A)</td><td>Subsidiary (till September 26, 2024)</td></tr></tbody></table>
+
+c) Subsidiaries and joint venture forming part of the Audited Consolidated Financial Statements of the Group as at March 31, 2024:
+
+Financial statements audited by other auditors –
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the entity</td><td>Relationship</td></tr></thead><tbody><tr><td>1</td><td>Sterlite Grid 6 Limited</td><td>Subsidiary</td></tr><tr><td>2</td><td>Sterlite Grid 7 Limited</td><td>Subsidiary</td></tr><tr><td>3</td><td>Sterlite Grid 8 Limited</td><td>Subsidiary</td></tr><tr><td>4</td><td>Sterlite Grid 9 Limited</td><td>Subsidiary</td></tr><tr><td>5</td><td>Sterlite Grid 10 Limited</td><td>Subsidiary</td></tr></tbody></table>

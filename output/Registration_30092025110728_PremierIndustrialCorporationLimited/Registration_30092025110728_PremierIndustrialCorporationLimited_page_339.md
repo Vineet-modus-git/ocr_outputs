@@ -1,0 +1,15 @@
+<table><thead><tr><th>Particulars</th><th>As at<br>31st March,<br>2025</th><th>As at<br>31st March,<br>2024</th><th>As at<br>31st March,<br>2023</th></tr></thead><tbody><tr><td>*Details of disputed income tax demands pertaining to Rectification/Appeals/Demands paid in subsequent years are as follows</td><td></td><td></td><td></td></tr><tr><td>A.Y. 2009-2010</td><td>-</td><td>-</td><td>0.00</td></tr><tr><td>A.Y. 2011-2012</td><td>-</td><td>-</td><td>-</td></tr><tr><td>A.Y. 2016-2017</td><td>0.17</td><td>0.09</td><td>0.09</td></tr><tr><td>A.Y. 2018-2019</td><td>-</td><td>-</td><td>0.03</td></tr><tr><td>A.Y. 2018-2019</td><td>-</td><td>-</td><td>0.11</td></tr><tr><td>A.Y. 2018-2019</td><td>-</td><td>-</td><td>0.40</td></tr><tr><td>A.Y. 2019-2020</td><td>-</td><td>-</td><td>0.39</td></tr><tr><td>A.Y. 2019-2020</td><td>-</td><td>-</td><td>0.10</td></tr><tr><td>A.Y. 2022-2023</td><td>-</td><td>-</td><td>0.17</td></tr><tr><td>A.Y. 2023-2024</td><td>-</td><td>0.03</td><td>-</td></tr><tr><td>Total</td><td>0.17</td><td>0.13</td><td>1.29</td></tr></tbody></table>
+
+## FINANCIAL RISK MANAGEMENT
+
+Foreign Currency Risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates. The Company's exposure to the risk of changes in foreign exchange rates relates primarily to the Company's operating activities (when revenue, expense or capital expenditure is denominated in foreign currency.) Foreign Currency Exchange Rate exposure is partly balanced by purchasing of goods from the respective countries. The Company evaluates exchange rate exposure arising from foreign currency transactions and follows established risk management policies.
+
+The Company's exposure to foreign currency risk at the end of reporting period expressed in Foreign Currency for major currencies, are as follows:
+
+<table><thead><tr><th>Particulars</th><th>For the Year ended<br>'March 31, 2025</th><th>For the Year ended<br>'March 31, 2024</th><th>For the Year ended<br>'March 31, 2023</th></tr></thead><tbody><tr><td><strong>USD</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>5.11</td><td>3.74</td><td>2.20</td></tr><tr><td>Trade Payables</td><td>1.33</td><td>0.16</td><td>0.29</td></tr><tr><td><strong>CNY</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>0.92</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Euro</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>0.07</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>0.01</td></tr></tbody></table>
+
+## FINANCIAL INSTRUMENTS - ACCOUNTING CLASSIFICATIONS & FAIR VALUE MEASUREMENT
+
+### Financial asset and liabilities (Non-current and Current)
+
+334

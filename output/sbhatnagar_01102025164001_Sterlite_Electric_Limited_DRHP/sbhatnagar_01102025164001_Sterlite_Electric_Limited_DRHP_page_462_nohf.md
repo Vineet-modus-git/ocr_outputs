@@ -1,0 +1,35 @@
+**Other income:**
+
+**Dividend**
+
+Dividend income is recognised in the consolidated statement of profit and loss only when the right to receive payment is established, provided it is probable that the economic benefits associated with the dividend will flow to the Group, and the amount of the dividend can be measured reliably.
+
+**Interest income**
+
+The Group recognises the interest income based on the rate of interest as mentioned in the loan agreement. The Group annually assess the recoverability of the loan based by reviewing the financial position of the lender and considers the provision on the recoverability based on the such assessment. Interest accrual is considered in the books only if it is considered to be recoverable.
+
+**Taxation**
+
+**Current income tax**
+
+Current income tax assets and liabilities are measured at the amount expected to be recovered from or paid to the tax authorities. The tax rates and tax laws used to compute the amount are those that are enacted or substantively enacted at the reporting date.
+
+Current income tax relating to items recognised outside of profit or loss is recognised outside of profit or loss (either in other comprehensive income or in equity). Current tax items are recognised in correlation to the underlying transaction either in OCI or directly in equity. Management periodically evaluates positions taken in the tax returns with respect to situations in which applicable tax regulations are subject to interpretation and establishes provisions where appropriate.
+
+**Deferred tax**
+
+Deferred tax is provided using the liability method on temporary differences between the tax bases of assets and liabilities and their carrying amounts for financial reporting purposes at the reporting date. Deferred tax liabilities are recognised for all taxable temporary differences, except:
+
+* When the deferred tax liability arises from the initial recognition of goodwill or an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither the accounting profit nor taxable profit or loss;
+
+* In respect of taxable temporary differences associated with investments in subsidiaries, associates and interests in joint ventures, when the timing of the reversal of the temporary differences can be controlled and it is probable that the temporary differences will not reverse in the foreseeable future.
+
+* Deferred tax assets are recognised for all deductible temporary differences, the carry forward of unused tax credits and any unused tax losses. Deferred tax assets are recognised to the extent that it is probable that taxable profit will be available against which the deductible temporary differences, and the carry forward of unused tax credits and unused tax losses can be utilized, except:
+
+* When the deferred tax asset relating to the deductible temporary difference arises from the initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither the accounting profit nor taxable profit or loss;
+
+* In respect of deductible temporary differences associated with investments in subsidiaries, associates and interests in joint ventures, deferred tax assets are recognised only to the extent that it is probable that the temporary differences will reverse in the foreseeable future and taxable profit will be available against which the temporary differences can be utilized.
+
+The carrying amount of deferred tax assets is reviewed at each reporting date and reduced to the extent that it is no longer probable that sufficient taxable profit will be available to allow all or part of the deferred tax asset to be utilised. Unrecognised deferred tax assets are re-assessed at each reporting date and are recognised to the extent that it has become probable that future taxable profits will allow the deferred tax asset to be recovered.
+
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the year when the asset is realised or the liability is settled, based on tax rates (and tax laws) that have been enacted or substantively enacted at the reporting date.

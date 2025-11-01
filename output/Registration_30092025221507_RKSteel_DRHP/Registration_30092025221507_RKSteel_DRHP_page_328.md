@@ -1,0 +1,25 @@
+R.K. STEEL MANUFACTURING COMPANY LIMITED
+
+CIN: U24106TN2006PLC059519
+
+Annexure VI - Notes to Restated Ind AS Summary Statements
+
+(All amounts in Rs. lakhs, except as otherwise stated)
+
+## Financial risk management (Continued)
+
+### C. Liquidity risk
+
+Liquidity risk is the risk that the Company will encounter difficulty in meeting the obligations associated with its financial liabilities that are settled by delivering cash or another financial asset. The Company's approach to managing liquidity is to ensure, as far as possible, that it will have sufficient liquidity to meet its liabilities when they are due, under both normal and stressed conditions, without incurring unacceptable losses or risking damage to the Company's reputation.
+
+The table below summarises the maturity profile of the Company's financial liabilities based on undiscounted contractual payments:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2">Carrying value</th><th colspan="3">Contractual cash flows</th><th rowspan="2">Total</th></tr><tr><th>Less than 1 year</th><th>1 year to 5 years</th><th>More than 5 years</th></tr></thead><tbody><tr><td><strong>As at March 31, 2025</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings - Non current</td><td>3,600.61</td><td>-</td><td>3,600.61</td><td>-</td><td>3,600.61</td></tr><tr><td>Borrowings - Current</td><td>31,508.61</td><td>31,508.61</td><td>-</td><td>-</td><td>31,508.61</td></tr><tr><td>Trade payables</td><td>5,967.40</td><td>5,967.40</td><td>-</td><td>-</td><td>5,967.40</td></tr><tr><td>Other current financial liabilities</td><td>551.18</td><td>551.18</td><td>-</td><td>-</td><td>551.18</td></tr><tr><td></td><td><strong>41,627.80</strong></td><td><strong>38,027.19</strong></td><td><strong>3,600.61</strong></td><td><strong>-</strong></td><td><strong>41,627.80</strong></td></tr><tr><td><strong>As at March 31, 2024</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings - Non current</td><td>5,043.79</td><td>-</td><td>5,043.79</td><td>-</td><td>5,043.79</td></tr><tr><td>Borrowings - Current</td><td>22,272.30</td><td>22,272.30</td><td>-</td><td>-</td><td>22,272.30</td></tr><tr><td>Trade payables</td><td>688.66</td><td>686.95</td><td>1.71</td><td>-</td><td>688.66</td></tr><tr><td>Other current financial liabilities</td><td>482.54</td><td>482.54</td><td>-</td><td>-</td><td>482.54</td></tr><tr><td></td><td><strong>28,487.29</strong></td><td><strong>23,441.79</strong></td><td><strong>5,045.50</strong></td><td><strong>-</strong></td><td><strong>28,487.29</strong></td></tr><tr><td><strong>As at March 31, 2023</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings - Non current</td><td>6,219.50</td><td>-</td><td>6,219.50</td><td>-</td><td>6,219.50</td></tr><tr><td>Borrowings - Current</td><td>17,110.15</td><td>17,110.15</td><td>-</td><td>-</td><td>17,110.15</td></tr><tr><td>Trade payables</td><td>2,360.08</td><td>549.96</td><td>1,808.40</td><td>-</td><td>2,358.36</td></tr><tr><td>Other current financial liabilities</td><td>730.44</td><td>730.44</td><td>-</td><td>-</td><td>730.44</td></tr><tr><td></td><td><strong>26,420.16</strong></td><td><strong>18,390.55</strong></td><td><strong>8,027.90</strong></td><td><strong>-</strong></td><td><strong>26,418.45</strong></td></tr></tbody></table>
+
+### 51 Capital management
+
+For the purpose of the Company's capital management, capital includes issued capital, securities premium and all other equity reserves. The primary objective of Company's capital management is to ensure that it maintains an optimum financing structure and healthy returns in order to support its business and maximize shareholder value.
+
+<table><thead><tr><th></th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr></thead><tbody><tr><td>Borrowings (including current maturities)</td><td>35,109.22</td><td>27,316.09</td><td>23,329.65</td></tr><tr><td>Less: Cash and cash equivalents</td><td>1500.56</td><td>4526.54</td><td>400.12</td></tr><tr><td><strong>Net debt (A)</strong></td><td><strong>33,608.66</strong></td><td><strong>22,789.55</strong></td><td><strong>22,929.53</strong></td></tr><tr><td>Total equity attributable to the owners of the Company</td><td>12068.31</td><td>10980.50</td><td>8703.38</td></tr><tr><td><strong>Total capital (B)</strong></td><td><strong>12,068.31</strong></td><td><strong>10,980.50</strong></td><td><strong>8,703.38</strong></td></tr><tr><td>Capital and net debt (C = A+B)</td><td>45,676.96</td><td>33,770.06</td><td>31,632.91</td></tr><tr><td>Gearing ratio (D = A / B)</td><td>2.78</td><td>2.08</td><td>2.63</td></tr></tbody></table>
+
+327

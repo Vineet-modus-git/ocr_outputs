@@ -1,0 +1,21 @@
+### Reconciliation of Return on Net Worth %
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at/ for the year ended<br/>March 31, 2025</th><th>As at/ for the year ended<br/>March 31, 2024</th><th>As at/ for the year ended<br/>March 31, 2023</th></tr><tr><th colspan="3">(₹ in million unless otherwise stated)</th></tr></thead><tbody><tr><td>Restated profit for the year from continuing operations (I)</td><td>1,830.30</td><td>2,301.27</td><td>1,834.43</td></tr><tr><td>Net worth (II)</td><td>14,819.10</td><td>14,184.25</td><td>16,325.39</td></tr><tr><td><strong>Return on Net Worth % (III = I/II)</strong></td><td><strong>12.35%</strong></td><td><strong>16.22%</strong></td><td><strong>11.24%</strong></td></tr></tbody></table>
+
+### Reconciliation of Operating Working Capital
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr><tr><th colspan="3">(₹ in million)</th></tr></thead><tbody><tr><td>Inventories (I)</td><td>3,669.24</td><td>4,686.87</td><td>6,597.04</td></tr><tr><td>Add: Trade receivables (II)</td><td>10,823.80</td><td>12,609.81</td><td>15,996.30</td></tr><tr><td>Less: Trade payables (III)</td><td>4,808.08</td><td>3,807.46</td><td>10,097.95</td></tr><tr><td>Less: Acceptances (IV)</td><td>9,857.84</td><td>9,654.85</td><td>10,880.23</td></tr><tr><td><strong>Operating Working Capital (V = I + II - III - IV)</strong></td><td><strong>(172.88)</strong></td><td><strong>3,834.37</strong></td><td><strong>1,615.16</strong></td></tr></tbody></table>
+
+### Reconciliation of Net Debt/(Net Cash Surplus)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr><tr><th colspan="3">(₹ in million)</th></tr></thead><tbody><tr><td>Total borrowings(I)</td><td>3,272.21</td><td>7,705.27</td><td>46,114.47</td></tr><tr><td>Less: Cash and cash equivalents (II)</td><td>3,422.67</td><td>2,398.39</td><td>11,576.15</td></tr><tr><td>Less: Other current bank balances (III)</td><td>8,812.69</td><td>3,670.84</td><td>2,802.15</td></tr><tr><td><strong>Net debt / (Net Cash surplus) (IV = I – II - III)</strong></td><td><strong>(8,963.15)</strong></td><td><strong>1,636.04</strong></td><td><strong>31,736.17</strong></td></tr></tbody></table>
+
+### Reconciliation of Fixed assets
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at March 31,<br/>2025</th><th>As at March 31,<br/>2024</th><th>As at March 31,<br/>2023</th></tr><tr><th colspan="3">(₹ in million)</th></tr></thead><tbody><tr><td>Gross block of property, plant and equipment at the end of the fiscal (I)</td><td>9,199.08</td><td>7,856.33</td><td>7,106.39</td></tr><tr><td>Gross block of Right-of-use assets at the end of the fiscal (II)</td><td>864.87</td><td>846.35</td><td>828.91</td></tr><tr><td><strong>Fixed Assets (III = I + II)</strong></td><td><strong>10,063.95</strong></td><td><strong>8,702.68</strong></td><td><strong>7,935.30</strong></td></tr></tbody></table>
+
+### Reconciliation of Fixed Assets Turnover Ratio
+
+<table><thead><tr><th rowspan="2">Particulars</th><th>As at/ for the year ended<br/>March 31, 2025</th><th>As at/ for the year ended<br/>March 31, 2024</th><th>As at/ for the year ended<br/>March 31, 2023</th></tr><tr><th colspan="3">(₹ in million unless otherwise stated)</th></tr></thead><tbody><tr><td>Gross Block of Property, Plant and Equipment<br/>and Right-of use assets at the end of the Fiscal<br/>(I)</td><td>10,063.95</td><td>8,702.68</td><td>7,935.30</td></tr><tr><td>Gross Block of Property, Plant and Equipment<br/>and Right-of use assets at the beginning of the<br/>Fiscal (II)</td><td>8,702.68</td><td>7,935.30</td><td>7,575.21</td></tr><tr><td>Average Fixed Assets (III = (I + II) divided by<br/>2)</td><td>9,383.32</td><td>8,318.99</td><td>7,755.25</td></tr><tr><td>Revenue from operations (continuing<br/>operations) (IV)</td><td>49,557.60</td><td>49,178.94</td><td>32,786.46</td></tr><tr><td><strong>Fixed Assets Turnover Ratio (in times) (V =<br/>IV/III)</strong></td><td><strong>5.28</strong></td><td><strong>5.91</strong></td><td><strong>4.23</strong></td></tr></tbody></table>
+
+### Reconciliation of Debt to Equity Ratio

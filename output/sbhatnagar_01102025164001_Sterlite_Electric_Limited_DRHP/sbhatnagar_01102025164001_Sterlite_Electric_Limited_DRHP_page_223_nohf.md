@@ -1,0 +1,11 @@
+electric vehicle (EV) infrastructure is another key driver, with low-voltage cables tailored for EV charging stations, including Level 1 (120V AC), Level 2 (240V AC), and DC fast charging (400 to 900V DC), experiencing increased demand due to India's push for widespread EV adoption. Additionally, three major undersea cable projects—2Africa Pearls, India-Asia-Express (IAX), and India-Europe-Express (IEX)—announced in 2024, highlight the industry's role in enhancing digital and power connectivity. The government's Smart Cities Mission and railway electrification initiatives, such as the Gati Shakti program, further amplify the need for advanced cabling solutions, including Cu-Ag conductors for railways.
+
+Consumer preferences are shifting toward cables with enhanced safety and environmental features, driven by stricter regulations and growing awareness of health and environmental risks. Low-smoke, zero-halogen (LSZH) cables and flame-retardant cables with low fire propagation are increasingly preferred in public infrastructure, commercial buildings, and residential settings due to their ability to minimize harmful emissions during fires. Green cables, compliant with RoHS and REACH standards, are gaining popularity for their lack of heavy metals and carcinogenic compounds, aligning with India's sustainability goals and the global push for eco-friendly materials. These cables are critical in supporting India's 500 GW renewable energy target, as they reduce environmental impact while meeting the stringent safety requirements of modern infrastructure projects.
+
+## Peer benchmarking
+
+In this section, Crisil Intelligence has analysed some key players operating in the power cables, and conductors industry in India. Data has been obtained from publicly available sources, including annual reports and investor presentations of listed players, regulatory filings, rating rationales, and/or company websites and social media pages.
+
+Note: The competitive landscape peers mentioned are not an exhaustive list and is an indicative list. Peers have been selected based on the product and service offerings and comparable revenue range.
+
+## Overview of peers considered

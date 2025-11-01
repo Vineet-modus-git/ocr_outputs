@@ -1,0 +1,29 @@
+26(5) of the Companies Act read with SEBI ICDR Regulations in this Draft Red Herring Prospectus and as an 'expert' as defined under Section 2(38) of Companies Act in respect of the certificates issued by them in their capacity as an independent chartered accountant to our Company, and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term "expert" shall not be construed to be "expert" as defined under the U.S. Securities Act
+
+3. Our Company has received written consent dated September 29, 2025, from Shantanu Kumar & Associates, Company Secretaries, practicing company secretary, to include their name as required under Section 26(5) of the Companies Act read with SEBI ICDR Regulations in this Draft Red Herring Prospectus and as an 'expert' as defined under Section 2(38) of Companies Act in respect of the certificates issued by them in their capacity as an independent practicing company secretary to our Company, and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term "expert" shall not be construed to be "expert" as defined under the U.S. Securities Act.
+
+4. Our Company has received written consent dated September 29, 2025, from Rajul Garg, independent chartered engineer, to include his name as required under Section 26(5) of the Companies Act read with SEBI ICDR Regulations in this Draft Red Herring Prospectus and as an 'expert' as defined under Section 2(38) of Companies Act in respect of the certificate issued by him in his capacity as an independent chartered engineer to our Company, and such consent has not been withdrawn as on the date of this Draft Red Herring Prospectus. However, the term "expert" shall not be construed to be "expert" as defined under the U.S. Securities Act.
+
+## Book Building Process
+
+Book building, in the context of the Offer, refers to the process of collection of Bids from Bidders on the basis of the Red Herring Prospectus, the Bid Cum Application Forms and the Revision Forms within the Price Band. The Price Band, Employee Discount (if any) and the minimum Bid Lot will be decided by our Company in consultation with the BRLMs, and will be advertised in all editions of [●], an English national daily newspaper, all editions of [●], a Hindi national daily newspaper and all editions of [●], a Marathi daily newspaper (Marathi being the regional language of Maharashtra, where our Registered Office is located) each with wide circulation, at least two Working Days prior to the Bid/Offer Opening Date and shall be made available to the Stock Exchanges for the purpose of uploading on their respective websites. The Offer Price shall be determined by our Company in consultation with the Book Running Lead Managers after the Bid/Offer Closing Date. For details, see "*Offer Procedure*" on page 508.
+
+All Bidders (other than Anchor Investors) shall participate in this Offer mandatorily through the ASBA process by providing the details of their respective bank accounts in which the corresponding Bid Amount will be blocked by the SCBS or in the case of UPI Bidders, by using the UPI Mechanism. Pursuant to SEBI ICDR Master Circular, all individual bidders in initial public offerings whose application sizes are up to ₹0.50 million shall use the UPI Mechanism. Anchor Investors are not permitted to participate in the Offer through the ASBA process.
+
+In terms of the SEBI ICDR Regulations, QIBs and Non-Institutional Bidders are not permitted to withdraw their Bid(s) or lower the size of their Bid(s) (in terms of the number of Equity Shares or the Bid Amount) at any stage. RIBs can revise their Bid(s) during the Bid/ Offer Period and withdraw their Bid(s) until Bid/ Offer Closing Date. Anchor Investors are not allowed to withdraw their Bids after the Anchor Investor Bidding Date. Except for Allocation to RIBs, NIBs and the Anchor Investors, allocation in the Offer will be on a proportionate basis. Further, allocation to Anchor Investors will be on a discretionary basis and allocation to the Non-Institutional Bidders will be in a manner as may be prescribed under applicable laws.
+
+Each Bidder by submitting a Bid in the Offer, will be deemed to have acknowledged the above restrictions and the terms of the Offer.
+
+For further details, see "*Terms of the Offer*", "*Offer Structure*" and "*Offer Procedure*" on pages 498, 504 and 508 respectively.
+
+The process of Book Building under the SEBI ICDR Regulations and the Bidding Process are subject to change from time to time and the Bidders are advised to make their own judgment about investment through this process prior to submitting a Bid in the Offer.
+
+Bidders should note that, the Offer is also subject to obtaining (i) the final approval of the RoC after the Prospectus is filed with the RoC; and (ii) final listing and trading approvals of the Stock Exchanges, which our Company shall apply for after Allotment.
+
+For further details on the method and procedure for Bidding, see "*Offer Structure*" and "*Offer Procedure*" on pages 504 and 508 respectively.
+
+## Investor Grievances
+
+For mechanism for the redressal of Investor Grievances, please see "*Other Regulatory and Statutory Disclosures - Mechanism for Redressal of Investor Grievances*" on page 495.
+
+## Underwriting Agreement

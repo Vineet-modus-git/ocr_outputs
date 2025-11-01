@@ -1,0 +1,21 @@
+transmission lines are not feasible due to space constraints or safety concerns. They ensure safe, reliable, and uninterrupted power supply by reducing exposure to environmental factors, minimizing right-of-way issues, and lowering the risk of outages caused by storms, high winds, or other external impacts.
+
+* **Substations:** The company provides end-to-end services for substation projects, encompassing design, supply, erection, testing, commissioning, and civil works for both conventional and renewable energy evacuation substations. It has extensive experience delivering substation EPC solutions ranging from 66 kV to 220 kV. Additionally, they are licensed contractor by GETCO, authorized to execute high-voltage substations up to 220 kV. Under Substation EPC Projects, they provides end-to-end EPC services for commissioning of Substation including Feeder Bay and Capacitor Bay work.
+* **Operation and Maintenance:** OM Power Transmission Ltd. delivers comprehensive operation and maintenance (O&M) services for substations up to 220 kV and transmission lines, backed by a team of skilled maintenance engineers and proprietary testing equipment. Currently, they have 134 substations under their maintenance, including active contracts for a 132 kV substation and a GIS substation. The company has maintained GETCO substations since 2014, showcasing their ability to support large-scale utilities reliably. They also ensures continuous asset availability and system reliability through preventive and corrective maintenance practices and timely inspections.
+
+## Key Customer Segments Served:
+
+* **Power Utilities & Grid Operators:** OPTL undertake large-scale transmission and substation EPC projects for government authorities and state-level utilities, including entities like GETCO and other state electricity boards
+* **Renewable Energy Developers & Solar Park Operators:** The company deliver infrastructure services including 220 kV substation EPC projects for renewable energy clients such as K P Energy Limited, aligning with its capability to integrate renewable power into grid networks.
+* **Industrial & Corporate Users:** OPTL executes dedicated transmission lines and substations for industrial clients such as their 66 kV EPC work demonstrating work with manufacturing and corporate energy consumers.
+* **Transportation & Infrastructure Projects:** The firm has contributed to infrastructure initiatives like the Bullet Train project by NHSRCL, handling complex transmission-line relocations and switching tasks around rail corridors.
+* **Operation & Maintenance (O&M) Clients:** OPTL provides long-term O&M services for substations (up to 220 kV) and transmission line systems, supporting both utilities and private clients through maintenance contracts.
+
+## Key Strengths
+
+* **Extensive EPC Experience (Up to 400 kV):** With over two decades in operation, OPTL has successfully executed transmission-line projects up to 400 kV, accumulating more than 1,000 circuit-km of 66 kV, 800 km of 220 kV, and 200 km of 400 kV lines. Their robust EPC capability extends across both transmission and substation domains.
+* **Quality-Centric Approach:** OPTL follows rigorous quality control protocols including field quality plans, detailed checklists for civil works, erection, and pre-commissioning, as well as comprehensive testing procedures for electrical equipment to ensure precision and reliability.
+* **Timely Delivery Record:** Numerous projects have been completed ahead of schedule, such as a 66 kV line (18 km) in 4 months for One of the customer engaged in automobile industry and a 220 kV line (83 km) ahead of time for GETCO.
+* **Complex Engineering & Special Projects:** They have demonstrated capability in executing specialized transmission structures like 36 QD type towers having height of 76.00 meters, each weighing 98.00 MT for 400 kV applications, including challenging crossover of HVDC lines.
+* **Operations & Maintenance Expertise:** OPTL provides long-term O&M services for up to 220 kV substations, maintaining around 134 substations as of August 31, 2025.
+* **Certified Standards & Compliance:** The company holds ISO 9001:2015 and ISO 14001:2015 certifications, along with OHSAS 18001:2007, underscoring its commitment to quality, environmental responsibility, and safety.

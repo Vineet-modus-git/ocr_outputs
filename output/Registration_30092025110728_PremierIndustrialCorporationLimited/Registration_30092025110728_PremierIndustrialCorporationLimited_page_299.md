@@ -1,0 +1,27 @@
+Notes to the Restated Financial Information
+for the years ended 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+37 Disclosures as required by Indian Accounting Standard (Ind AS) 24 - Related Party Disclosures
+
+Name and relationships of related parties:
+
+I List of related parties where control exists and also related parties with whom transactions have taken place and relationships :
+
+(a) Entities where there is Significant Influence through Key Managerial Personnel (KMP) or their relatives
+
+<table><tr><td>Kamman Corporation</td><td>KMPs are Partner</td></tr></table>
+
+(b) Key Management Personnel [KMP]:
+
+<table><tr><td>Arvind C Morzaria</td><td>Managing Director</td></tr><tr><td>Dilip C Morzaria</td><td>Joint Managing Director (Change in designation on 8th August, 2024)</td></tr><tr><td>Lalit N Morzaria</td><td>Whole-Time Director</td></tr><tr><td>Subhash C Morzaria</td><td>Whole-Time Director</td></tr><tr><td>Meet A. Morzaria</td><td>Whole-Time Director</td></tr><tr><td>Smeet A. Morzaria</td><td>Whole-Time Director & Chief Financial Officer (Appointed as Chief Financial Officer on 09th January 2025)</td></tr><tr><td>Anand Dilip Morzaria</td><td>Whole-Time Director</td></tr><tr><td>Kashmira Bharat Parekh</td><td>Independent Director (Resigned on 16th October, 2024)</td></tr><tr><td>Shaila Dilip Mehta</td><td>Director (Resigned on 04th December, 2024)</td></tr><tr><td>Bharat.B.Parekh</td><td>Independent Director (Resigned on 16th October, 2024)</td></tr><tr><td>Mehul H Raichura</td><td>Whole-Time Director(Resigned on 08th August, 2024)</td></tr><tr><td>Mohd Faivaz Mansuri</td><td>Company Secretary (Appointed on 09th January 2025)</td></tr><tr><td>Arvind C Morzaria HUF</td><td>Karta of HUF is a Director</td></tr><tr><td>Subhash C Morzaria HUF</td><td>Karta of HUF is a Director</td></tr><tr><td>Abhishek Dilip Mehta</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr><tr><td>Jhanvi Chandn</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr><tr><td>Kanchan Sameer Mhaskar</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr><tr><td>Niraj Rajesh Kamdar</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr><tr><td>Sanjay Sahay</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr><tr><td>Sandip Godhani</td><td>Independent Director (Appointed on 5th December, 2024)</td></tr></table>
+
+(c) Relatives of Key Managerial Personnel (KMP)
+
+<table><tr><td>Bharati A Morzaria</td><td>Wife of Director</td></tr><tr><td>Samarth Morzaria</td><td>Relative of Director</td></tr><tr><td>Maulik Morzaria</td><td>Relative of Director</td></tr></table>
+
+II Transactions with related parties (₹ in Millions except as otherwise stated)
+
+<table><thead><tr><th>Nature of transaction</th><th>As at<br/>31st March, 2025</th><th>As at<br/>31st March, 2024</th><th>As at<br/>31st March, 2023</th></tr></thead><tbody><tr><td><strong>Sale of Goods</strong></td><td></td><td></td><td></td></tr><tr><td>Kamman Corporation</td><td>193.11</td><td>16.84</td><td>15.69</td></tr><tr><td><strong>Total</strong></td><td><strong>193.11</strong></td><td><strong>16.84</strong></td><td><strong>15.69</strong></td></tr><tr><td><strong>Advances given</strong></td><td></td><td></td><td></td></tr><tr><td>Kamman Corporation</td><td>-</td><td>-</td><td>3.94</td></tr><tr><td><strong>Total</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>3.94</strong></td></tr><tr><td><strong>Sale of Property Plant & Equipment</strong></td><td></td><td></td><td></td></tr><tr><td>Arvind C Morzaria</td><td>-</td><td>18.11</td><td>-</td></tr><tr><td>Bharati A Morzaria</td><td>-</td><td>18.11</td><td>-</td></tr><tr><td>Smeet A. Morzaria</td><td>-</td><td>18.11</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>-</strong></td><td><strong>54.33</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Purchase of raw material / Finished Goods / Services</strong></td><td></td><td></td><td></td></tr><tr><td>Kamman Corporation</td><td>223.96</td><td>55.37</td><td>40.63</td></tr><tr><td><strong>Total</strong></td><td><strong>223.96</strong></td><td><strong>55.37</strong></td><td><strong>40.63</strong></td></tr><tr><td><strong>Remuneration Paid to KMPs</strong></td><td></td><td></td><td></td></tr><tr><td>Arvind C Morzaria</td><td>18.60</td><td>15.00</td><td>15.00</td></tr><tr><td>Dilip C Morzaria</td><td>17.80</td><td>15.00</td><td>15.00</td></tr><tr><td>Lalit N Morzaria</td><td>7.00</td><td>6.00</td><td>6.00</td></tr><tr><td>Subhash C Morzaria</td><td>17.50</td><td>15.00</td><td>15.00</td></tr><tr><td>Meet A. Morzaria</td><td>5.83</td><td>5.10</td><td>5.10</td></tr><tr><td>Smeet A. Morzaria</td><td>5.83</td><td>5.10</td><td>5.10</td></tr><tr><td>Anand Dilip Morzaria</td><td>3.98</td><td>3.30</td><td>3.30</td></tr><tr><td>Kashmira Bharat Parekh</td><td>0.02</td><td>0.06</td><td>0.06</td></tr><tr><td>Shaila Dilip Mehta</td><td>0.06</td><td>0.18</td><td>0.18</td></tr><tr><td>Mohd Faivaz Mansuri</td><td>0.28</td><td>-</td><td>-</td></tr><tr><td>Bharat.B.Parekh</td><td>0.16</td><td>0.48</td><td>0.48</td></tr><tr><td>Mehul H Raichura</td><td>-</td><td>0.88</td><td>0.84</td></tr><tr><td><strong>Total</strong></td><td><strong>77.05</strong></td><td><strong>66.11</strong></td><td><strong>66.07</strong></td></tr></tbody></table>
+
+294

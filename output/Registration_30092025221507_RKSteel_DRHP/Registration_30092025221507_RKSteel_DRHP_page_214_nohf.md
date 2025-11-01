@@ -1,0 +1,25 @@
+network. We generate significant revenue from operations from the state of Karnataka, Kerala, Tamil Nadu, and Telangana which amounts to ₹ 1,13,484.64 lakhs, ₹98,737.63 lakhs and ₹84,074.28 lakhs constituting 98.86%, 96.59%, and 98.4% of total revenue from operations for Fiscal 2025, Fiscal 2024 and Fiscal 2023, respectively.
+
+The following table sets forth a breakdown of our revenues from operations from the major states/union territories of the Country, in absolute terms and as a percentage of total revenue from operations, for the periods indicated;
+
+(₹ in lakhs except for percentage)
+
+<table><thead><tr><th>States</th><th>For Fiscal 2025</th><th>% of total revenue</th><th>For Fiscal 2024</th><th>% of total revenue</th><th>For Fiscal 2023</th><th>% of total revenue</th></tr></thead><tbody><tr><td>Karnataka</td><td>18,800.91</td><td>16.38</td><td>21,138.37</td><td>20.68</td><td>9,850.15</td><td>11.53</td></tr><tr><td>Kerala</td><td>50,658.16</td><td>44.13</td><td>46,736.94</td><td>45.71</td><td>57,968.12</td><td>67.85</td></tr><tr><td>Tamil Nadu</td><td>41,584.05</td><td>36.22</td><td>26,082.47</td><td>25.45</td><td>13,728.07</td><td>16.07</td></tr><tr><td>Telangana</td><td>2,441.52</td><td>2.13</td><td>4,779.85</td><td>4.68</td><td>2,527.94</td><td>2.95</td></tr><tr><td><strong>Total</strong></td><td><strong>1,13,484.64</strong></td><td><strong>98.86</strong></td><td><strong>98,737.63</strong></td><td><strong>96.59</strong></td><td><strong>84,074.28</strong></td><td><strong>98.4</strong></td></tr></tbody></table>
+
+Between Fiscal 2023 and Fiscal 2025, our revenue from operations has grown, driven primarily by our focus on the domestic market, with exports contributing only a negligible share. Going forward, we aim to leverage our diverse product portfolio, strong customer acceptance in domestic markets, and our initial presence in export markets to expand into new international territories.
+
+In addition to global expansion, we remain committed to strengthening our position in the domestic market. Our strategy includes increasing our wallet share with existing customers by offering a wider range of products and enhancing service efficiency. Simultaneously, we will focus on establishing relationships with new customers to further expand our market presence and drive sustainable growth.
+
+## Enhancing Operations and Profitability Through Strategic Initiatives
+
+We believe that our focus on quality operations and customized solutions has not only strengthened customer trust and engagement but has also contributed to the overall growth of our business. To maintain and improve operational efficiency, we regularly analyze our production and maintenance processes to identify areas for optimization. These efforts are further supported by investments in new technology, upgraded machinery, and automation, which enhance productivity and streamline operations.
+
+Our strategic initiatives, including continued investment in our manufacturing facilities, expansion of in-house capabilities, and optimization of supply chain management, play a critical role in driving long-term success. By building on these initiatives, we aim to achieve operational excellence, leading to sustained profitability and financial growth. Moving forward, we remain committed to refining our processes, leveraging technology, and implementing efficiency-driven measures to enhance business performance and strengthen our market position
+
+## OUR BUSINESS OPERATIONS
+
+In addition to our revenue derived from our manufacturing activity, we also derive revenue from trading of steel coils and sheets. Our Company's revenue from operations for the period indicated are detailed as below;
+
+(₹ in lakhs except for percentages)
+
+<table><thead><tr><th>Our operations</th><th>Fiscal 2025</th><th>As % of Revenue from Operations</th><th>Fiscal 2024</th><th>As % of Revenue from Operations</th><th>Fiscal 2023</th><th>As % of Revenue from Operations</th></tr></thead><tbody><tr><td>Income from Manufacturing</td><td>1,03,762.19</td><td>90.40</td><td>1,00,325.21</td><td>98.15%</td><td>84,744.25</td><td>100</td></tr></tbody></table>

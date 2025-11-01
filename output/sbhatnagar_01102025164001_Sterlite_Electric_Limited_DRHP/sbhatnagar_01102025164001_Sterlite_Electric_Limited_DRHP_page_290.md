@@ -1,0 +1,23 @@
+remuneration of Pratik Pravin Agarwal, as approved by our Board and our Shareholders, in their meetings held on April 2, 2024 and December 6, 2024, respectively, read with the service agreement with our Company dated June 1, 2024 are as stated below.
+
+<table><thead><tr><td>S. No.</td><td>Category</td><td>Particulars</td></tr></thead><tbody><tr><td>(a)</td><td>Salary and personal allowance</td><td>₹ 60.00 million per annum</td></tr><tr><td>(b)</td><td>Performance based incentive</td><td>He is entitled to a performance-based incentive / long-term incentive plan as may be approved by our Board and/or the Nomination and Remuneration Committee not exceeding 150% of 'salary and personal allowance' in a financial year.<br>He is also entitled for pay out under the performance and retention cash plan or such other incentive plan/scheme as may be decided/approved by our Board and/or the Nomination and Remuneration Committee, from time to time, subject to a maximum of ₹ 50.00 million per annum.</td></tr><tr><td>(c)</td><td>Perquisites and allowances</td><td>a) House rent allowance (or Company owned/ leased accommodation in lieu thereof as per Company's rules), medical reimbursement, bonus, credit card and annual club membership fees, medical/accident insurance, servants and other benefits as per the rules of the Company, subject to maximum limit of ₹30.00 million per annum; and<br>b) Reimbursement of expenses incurred for travelling, boarding and lodging including for spouse and attendant(s) during business trip(s), provision of car for use on our Company's business, telephone expenses at residence and club membership shall be reimbursed and not considered as perquisites.</td></tr><tr><td>(d)</td><td>Other benefits</td><td>He is entitled to pay out under the performance and retention cash plan or such other incentive plan/scheme as may be decided/approved by our Board and/or the Nomination and Remuneration Committee, from time to time, subject to a maximum of ₹50.00 million per annum.<br>Further, for purposes of leave accumulation, gratuity, provident fund, superannuation and other benefits, his services will be considered as continuous and the re-appointment on account of retirement of rotation will not be considered as any break in service.</td></tr></tbody></table>
+
+**Reshu Madan** is the Whole Time Director and Chief Executive Officer of our Company. He was appointed as the Whole Time Director and Chief Executive Officer of our Company for a period of 3 years with effect from June 1, 2024, up to May 31, 2027, pursuant to the resolutions passed by our Board and Shareholders on May 28, 2024 and December 6, 2024, respectively. The details of remuneration of Reshu Madan, as approved by our Board and the Shareholders, in their meetings held on May 28, 2024 and December 6, 2024, respectively, read with the service agreement with our Company dated June 1, 2024, are as stated below.
+
+<table><thead><tr><td>S. No.</td><td>Category</td><td>Particulars</td></tr></thead><tbody><tr><td>(a)</td><td>Salary and allowances</td><td>₹ 30.00 million per annum</td></tr><tr><td>(b)</td><td>Variable pay</td><td>Performance bonus linked to the achievement of targets, as may be decided by the Nomination and Remuneration Committee, from time to time, subject to a maximum of ₹ 10.00 million per annum.</td></tr><tr><td>(c)</td><td>Other incentives</td><td>Incentives for special achievements, up to a maximum of ₹ 5.00 million in a financial year</td></tr><tr><td>(d)</td><td>Other benefits</td><td>He is entitled to RSUs allocated to him as per RSU 2022.<br>Further, our Company's contribution to provident fund and superannuation fund or annuity fund, gratuity payment as per our Company's rules and encashment of leave at the end of his tenure shall not be included in the computation of ceiling on remuneration and perquisites.</td></tr></tbody></table>
+
+## Terms of appointment of our Non-Executive Independent Directors
+
+Pursuant to the resolution passed by our Board on July 22, 2019, our Non-Executive Independent Directors are entitled to sitting fees of ₹ 0.10 million for attending each meeting of the Board of Directors, and of ₹ 0.10 million each meeting of the committees of the Board of Directors.
+
+## Remuneration to our Directors:
+
+The remuneration paid to our Directors in Financial Year 2025 is as follows.
+
+### Remuneration to our Executive Directors
+
+Our Company has paid the following remuneration to our Executive Directors in Financial Year 2025:
+
+(in ₹ million)
+
+267

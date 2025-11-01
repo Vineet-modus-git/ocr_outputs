@@ -1,0 +1,29 @@
+A significant portion of the outlay is dedicated to the Reforms-Linked Distribution Sector Scheme (RDSS), which receives INR 160.21 billion. The scheme focuses on the modernization of DISCOMs, enhancing supply reliability, and reducing Aggregate Technical & Commercial (AT&C) losses. It also provides states with an additional borrowing allowance of up to 0.5% of their GSDP, encouraging them to undertake distribution reforms and paving the way for increased private sector participation.
+
+Further, INR 20.86 billion has been allocated for nuclear power development under the Nuclear Energy Programme in FY 2025-26. This underscores India's long-term commitment to a diversified energy mix and the importance of nuclear power as a reliable base-load energy source with low carbon emissions. Another major initiative, the PM Surya Ghar Muft Bijli Yojana, receives a massive INR 200 billion. As India's largest rooftop solar program, this scheme is aimed at promoting residential solar installations. It is expected to enhance household-level energy independence, reduce pressure on the national grid, and encourage the transition of consumers into prosumers producers and consumers of electricity.
+
+### Inter-State Transmission System (ISTS) Scheme
+
+The Inter-State Transmission System (ISTS) Scheme, spearheaded by the Ministry of Power and executed primarily through the Power Grid Corporation of India Limited (PGCIL), serves as the foundational framework for India's national power grid. Designed to enable seamless bulk power transfer across state boundaries, the ISTS plays a pivotal role in integrating diverse regional electricity markets and enhancing national grid reliability. A core focus of the scheme is the evacuation of renewable energy (RE) particularly solar and wind from resource-rich zones to major consumption centres, thereby supporting India's clean energy goals and ensuring balanced, nationwide electricity access.
+
+**Waiver of ISTS Charges:** To promote large-scale adoption of clean energy, the Government of India has extended a 100% waiver of Inter-State Transmission System (ISTS) charges for pumped storage hydropower (PSP) and co-located Battery Energy Storage Systems (BESS). The waiver applies for projects:
+
+* Awarded (for PSP) or commissioned (for BESS co-located with renewables) on or before 30 June 2028
+
+* Valid for 25 years from commissioning
+
+Non-co-located BESS receive waivers based on existing Ministry of Power and CERC regulations; eligibility phases out gradually, with no waiver after 30 June 2028. This extension aims to accelerate grid integration of storage, support grid stability, and help achieve India's target of 500 GW non-fossil energy by 2030.
+
+**Extension for Solar & Wind RE Projects:** The 100% ISTS waiver for solar and wind projects continues only for those commissioned on or before 30 June 2025. Eligible projects benefit from a 25-year full exemption. For projects commissioned between 1 July 2025 and 30 June 2028, waivers are phased down starting at 75% and reducing to 25%, after which no waiver applies to projects commissioned post 30 June 2028. The government has confirmed that it will not extend the 100% waiver beyond the June 2025 cutoff for solar and wind projects, although relief on a case-by-case basis may be considered for delayed projects facing force majeure or grid delay issues.
+
+**Project Capacity Milestones:** As presented to Parliament by the Minister of State for Power, India's ISTS expansion plan targets a total capacity of approximately 340 GW for transmitting up to 230 GW of solar and wind energy. As of mid-2025:
+
+* 48 GW of ISTS capacity has been completed and 159 GW is under construction
+
+* 21 GW is under bidding and 112 GW remains in planning stages
+
+**Strategic Integration & Planning:** All ISTS projects are integrated with the GatiShakti National Master Plan, which streamlines approvals, land acquisition, and infrastructure coordination across ministries. The Central Electricity Regulatory Commission (CERC) regulates interstate transmission tariffs, implements open access policies, and ensures tariff transparency across state lines. This ecosystem supports nationwide grid harmonization and competitive RE deployment.
+
+### One Nation - One Grid Initiative:
+
+**The One Nation - One Grid vision** is a transformative national initiative aimed at unifying India's previously segmented regional electricity networks into a single, synchronous grid operating at one frequency. Spearheaded by the Ministry of

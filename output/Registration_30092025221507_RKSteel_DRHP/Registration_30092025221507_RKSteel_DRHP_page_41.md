@@ -1,0 +1,21 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2"></th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>in ₹ in lakhs</th><th>% to Total Purchases</th><th>in ₹ in lakhs</th><th>% to Total Purchases</th><th>in ₹ in lakhs</th><th>% to Total Purchases</th></tr></thead><tbody><tr><td>Top Suppliers</td><td>2</td><td>54,007.58</td><td>47.93%</td><td>36,581.07</td><td>38.84%</td><td>40,509.73</td><td>48.83%</td></tr><tr><td>Top suppliers</td><td>5</td><td>87,314.86</td><td>77.49%</td><td>66,753.68</td><td>70.88%</td><td>65,857.09</td><td>79.38%</td></tr><tr><td>Top suppliers</td><td>10</td><td>1,06,681.92</td><td>94.68%</td><td>78,823.08</td><td>83.70%</td><td>76,097.4</td><td>91.67%</td></tr></tbody></table>
+
+As certified by Statutory Auditors of the Company through certificate dated September 19, 2025.
+
+Any deterioration in our relationships with these suppliers, or any failure on their part to supply materials on time and in the required quality or quantity, could adversely affect our production schedules. Our limited diversification of suppliers and the absence of long-term contracts increase our vulnerability to price fluctuations and supply disruptions.
+
+If we are unable to pass on raw material cost escalations to our customers, our operating margins may be adversely affected. Delays in procurement may also result in delayed deliveries, imposition of penalties by customers, strained business relationships and potential loss of business opportunities.
+
+Although we have not faced procurement challenges during the last three Fiscals, we cannot assure continuity of supply in the future. Any such disruption could impair our ability to meet customer demand, adversely affect customer satisfaction, and materially impact our business, financial condition, results of operations and cash flows.
+
+3. We derived 34.78%, 35.01%, and 42.08% of our revenue from operations from our top 10 customers in Fiscals 2025, 2024 and 2023 respectively, and we do not have long-term contracts with all of these customers. The loss of one or more such customers or any reduction in their purchases could adversely affect our business, results of operations, cash flows and financial condition.
+
+We derive a considerable portion of our revenue from a concentrated group of customers, primarily traders, who purchase our products for domestic distribution. The table below sets forth the revenue contribution from our top 2, top 5, and top 10 customers as a percentage of our revenue from operations for the last three Fiscals:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2"></th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount (in ₹ lakhs)</th><th>% to operation revenue</th><th>Amount (in ₹ lakhs)</th><th>% to operation revenue</th><th>Amount (in ₹ lakhs)</th><th>% to operation revenue</th></tr></thead><tbody><tr><td>Top Customers</td><td>2</td><td>12,120.28</td><td>10.56%</td><td>15,249.27</td><td>14.92%</td><td>11639.17</td><td>13.73%</td></tr><tr><td>Top customers</td><td>5</td><td>25,463.29</td><td>22.18%</td><td>26,589.01</td><td>26.01%</td><td>23885.90</td><td>28.19%</td></tr><tr><td>Top customers</td><td>10</td><td>39,920.67</td><td>34.78%</td><td>35,789.77</td><td>35.01%</td><td>35,662.09</td><td>42.08%</td></tr></tbody></table>
+
+*As certified by Statutory Auditors of the Company, through certificate dated September 19, 2025.
+
+We do not have long-term contracts with these customers; our engagements are primarily governed by purchase orders that do not guarantee future volumes, pricing stability, or ongoing business. Consequently, any change in the sourcing strategy or purchasing preferences of these customers may significantly affect our revenue.
+
+The absence of committed volumes heightens our exposure to order fluctuations and short-notice cancellations, which can disrupt our production scheduling, inventory management, and working capital cycle. Furthermore, if our competitors offer more favourable commercial terms, or if customers seek alternative products or suppliers, we risk losing business.

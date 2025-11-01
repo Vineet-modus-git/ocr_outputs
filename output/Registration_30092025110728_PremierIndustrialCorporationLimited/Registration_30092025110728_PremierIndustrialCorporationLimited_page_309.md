@@ -1,0 +1,73 @@
+Notes to the Restated Financial Information
+for the years ended 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+### (c) Market risk
+
+Market risk is the risk that changes in market prices - such as foreign exchange rates, interest rates and equity prices - will affect the Company's income or the value of its holdings of financial instruments. Market risk is attributable to all market risk sensitive financial instruments including foreign currency receivables and payables and long term debt. The Company is exposed to market risk primarily related to foreign exchange rate risk, interest rate risk and the market value of certain commodities. Thus, its exposure to market risk is a function of investing and borrowing activities and revenue generating and operating activities. The objective of market risk management is to avoid excessive exposure in revenues and costs.
+
+### (i) Interest Rate Risk
+
+Interest rate risk can be either fair value interest rate risk or cash flow interest rate risk. Fair value interest rate risk is the risk of changes in fair values of fixed and floating interest bearing investments because of fluctuations in the interest rates. Cash flow interest rate risk is the risk that the future cash flows of fixed and floating interest bearing investments will fluctuate because of fluctuations in the interest rates.
+
+The following table demonstrates the sensitivity to a reasonably possible change in interest rates on that portion of loans and borrowings affected. With all other variables held constant, the Company's profit before tax is affected through the impact on floating rate borrowings, as follows:
+
+<table><thead><tr><td>Variation in interest (basis points)</td><td>March 31, 2025</td><td>March 31, 2024</td><td>March 31, 2023</td></tr></thead><tbody><tr><td>Increase by 50 Basis points</td><td>(5.15)</td><td>(4.15)</td><td>(4.57)</td></tr><tr><td>Decrease by 50 Basis points</td><td>5.15</td><td>4.15</td><td>4.57</td></tr></tbody></table>
+
+#### Fair value sensitivity analysis for fixed-rate instruments
+
+The Company does not account for any fixed-rate financial assets or financial liabilities at fair value through profit or loss. Therefore, a change in interest rates at the reporting date would not affect profit or loss.
+
+### (ii) Foreign currency exposure
+
+The Company undertakes transactions denominated in foreign currencies; consequently, exposures to exchange rate fluctuations will arise.
+
+### (iii) Commodity risk
+
+The Company's activities are exposed to raw material price risks and therefore its overall risk management program focuses on the volatile nature of the raw material market, thus seeking to minimize potential adverse effects on the Company's financial performance on account of such volatility.
+
+#### Capital risk management
+
+The Company manages its capital to ensure that it will be able to continue as a going concern so, that they can continue to provide returns for shareholders and benefits for other stakeholders and maintain an optimal capital structure to reduce cost of capital. The Company manages its capital structure and make adjustments to, in light of changes in economic conditions, and the risk characteristics of underlying assets. In order to achieve this overall objective, the Company's capital management, amongst other things, aims to ensure that it meets financial covenants attached to the borrowings that define the capital structure requirements.
+
+Consistent with others in the industry, the Company monitors capital on the basis of the gearing ratio. The ratio is calculated as net debt divided by equity. Net debt is calculated as total borrowing (including current and non-current terms loans less cash and bank balances as shown in the balance sheet).
+
+The Company monitors capital using 'Total Debt' to 'Equity'. The Company's Total Debt to Equity are as follows:
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March,</th><th>As at<br>31st March,</th></tr></thead><tbody><tr><td>Total debt*</td><td>1,029.51</td><td>830.94</td><td>913.87</td></tr><tr><td>less: cash and cash equivalent</td><td>13.95</td><td>87.65</td><td>35.93</td></tr><tr><td>less: other bank balances</td><td>1.99</td><td>3.64</td><td>3.73</td></tr><tr><td><strong>Net debt / (Net Cash)</strong></td><td><strong>1,013.57</strong></td><td><strong>739.66</strong></td><td><strong>874.21</strong></td></tr><tr><td>Total capital (total equity shareholder's fund)</td><td>1,978.64</td><td>1,467.69</td><td>1,133.37</td></tr><tr><td><strong>Net debt to equity ratio</strong></td><td><strong>0.51</strong></td><td><strong>0.50</strong></td><td><strong>0.77</strong></td></tr></tbody></table>
+
+* Total debt = Non-current borrowings + current borrowings
+
+## 50 First Time Ind As Adoption Reconciliation
+
+For the purpose of Restated Ind AS Financial Statement for the year ended March 31, 2025, March 31, 2024, March 31, 2023, the Company has adopted Ind AS with effect from 1st April 2022 with comparatives being restated. Accordingly the impact of transition has been provided in the Opening Reserves as at 1st April 2022. The figures for the previous periods have been restated, regrouped and reclassified wherever required to comply with the requirement of Ind AS and Schedule III.
+
+Set out below are the Ind AS 101 optional exemptions availed as applicable and mandatory exceptions applied in the transition from previous GAAP to Ind AS: -
+
+### A Optional Exemptions
+
+#### (i) Deemed cost of property, plant and equipment and intangible assets
+
+Since there is no change in the functional currency, the Company has elected to continue with carrying value for all of its property, plant and equipment as recognized in its Indian GAAP financial statements as its deemed cost at the date of transition. This exemption can also be used for intangible assets covered by Ind AS 38, and investment properties. Accordingly the management has elected to measure all of its property, plant and equipment and intangible assets at their Indian GAAP carrying value.
+
+#### (ii) Fair value measurement of financial assets and financial liabilities at initial recognition
+
+Ind AS 101 provides the option to apply the requirements in paragraph B5.1.2A (b) of Ind AS 109 prospectively to transactions entered into on or after the date of transition to Ind AS. The Company elected to apply the Ind AS 109 prospectively to financial assets and financial liabilities after its transition date.
+
+### B Mandatory Exceptions
+
+#### (i) De-recognition of financial assets and liabilities :-
+
+Ind AS 101 requires a first-time adopter to apply the de-recognition provisions of Ind AS 109 prospectively for transactions occurring on or after the date of transition to Ind AS. The Company has elected to apply the de-recognition provisions of Ind AS 109 prospectively from the date of transition to Ind AS.
+
+#### (ii) Classification and measurement of financial assets :-
+
+Ind AS 101 requires an entity to assess classification of financial assets on the basis of facts and circumstances existing as at the date of transition. Further, the standard permits measurement of financial assets accounted at amortized cost based on facts and circumstances existing at the date of transition if retrospective application is impracticable. Accordingly, the Company has determined the classification of financial assets based on facts and circumstances that exist on the date of transition. Measurement of financial assets accounted at amortized cost has been done retrospectively except where the same is impracticable.
+
+#### (iii) Estimates :-
+
+An entity's estimates in accordance with Ind AS at the date of transition to Ind AS shall be consistent with estimates made for the same date in accordance with previous GAAP (after adjustments to reflect any difference in accounting policies), unless there is objective evidence that those estimates were in error. Ind AS estimates as at 1 April 2022 are consistent with the estimates as at the same date made in conformity with previous GAAP. The company made estimates for following items in accordance with Ind AS at the date of transition as these were not required under previous GAAP:
+
+- Fair valuation of financial instruments carried at FVTOCI
+
+- Impairment of financial assets based on expected credit loss model.

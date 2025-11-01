@@ -1,0 +1,27 @@
+* abandonment or intention to abandon construction or operation of a project by us without the prior written consent of the project owner,
+* occurrence of à force majeure event, such as an act of god, act of war, expropriation or compulsory
+* bankruptcy, insolvency, initiation of liquidation, dissolution, winding up or amalgamation of our Company or the joint venture,
+* have an execution levied by any competent court/authority on the goods or property on the work;
+* disregard the instruction of the customer or contravene any provision of the contract;
+* fail to adhere to agreed programme of work, programme of billing schedules, arrange reconciliation of materials and adhere to the specifications of work;
+* fail to take steps to employ competent or additional staff, labour or workmen as required by the Customer;
+* fail to resolve disputes if any, between the partners/ owners/ management of the Company leading to stoppage of work, reduction in levels of work progress required under the said contract;
+* failure to comply with any other material term of the relevant agreement;
+* failure to perform work in accordance with the terms of the agreement or stoppage of work, resulting in a breach of our agreements,
+* or for convenience, with prior written notice.
+
+If any of the foregoing occur, project owners may terminate our agreements with them, which will adversely affect our business, financial condition, cash flows and results of operations. While none of our agreements have been terminated, called-off or delayed by us, or by our counterparties and customers, in the last three Fiscals, we cannot assure you that our operations will not be adversely affected if any such disruptions occur in the future.
+
+Further, while we typically give performance guarantees and other guarantees to our customers in relation to our projects, in case of non-performance due to delay, the said guarantees may be invoked by our customers and such liabilities may become effective. Any significant operational problems or the temporary unavailability of the machines and equipment could result in delays or incomplete projects or services and adversely affect our results of operations. We cannot assure you whether there will be further delays in our ongoing projects or future projects and we will face penalties in that regard, which may result in an adverse impact on our financial condition, operations and reputation.
+
+If our agreements are terminated for reasons attributable to the project owner, we are typically entitled to receive a termination payment in accordance with the terms of the agreement. However, we cannot assure you that project owners will actually make such payments or that such payments will be adequate to recover our costs. If any of the foregoing occur, project owners may terminate our agreements with them, which will adversely affect our business, financial condition, cash flows, and results of operations. While there have been no such instances in the last three Fiscals, we cannot assure you that we will receive termination payments if the agreements are terminated for reasons attributable to the project owner, nor can we guarantee that such payments will be sufficient to cover our costs.
+
+## 17. There are outstanding legal proceedings involving our Company. Any adverse decision in such proceedings may adversely affect our business, financial condition and results of operations.
+
+There are outstanding legal proceedings involving our Company. These legal proceedings are pending at different levels of adjudication before various courts and tribunals. The following table sets forth a summary of the litigation involving our Company, in accordance with the materiality policy adopted by our Board. For further details of such outstanding legal proceedings, see "Outstanding Litigation and Material Developments" on page 386.
+
+<table><thead><tr><th>Name of entity</th><th>Criminal proceedings</th><th>Tax proceedings</th><th>Statutory or regulatory proceedings</th><th>Disciplinary actions by the SEBI or Stock Exchanges against our Promoters</th><th>Other material proceedings</th><th>Aggregate amount involved* (₹ in lakhs)</th></tr></thead><tbody><tr><td colspan="7"><em>Company</em></td></tr><tr><td>By our Company</td><td>Nil</td><td>Nil</td><td>Nil</td><td>N.A.</td><td>1</td><td>181.17</td></tr><tr><td>Against our Company</td><td>Nil</td><td>7</td><td>Nil</td><td>N.A.</td><td>Nil</td><td>168.18</td></tr></tbody></table>
+
+*To the extent ascertainable and quantifiable
+
+We cannot assure you that legal proceedings will be settled in our favour or at all, or that no additional liability will arise out of these proceedings. Further, such proceedings could divert our management's time and attention and consume financial resources in their defense or prosecution. Further, an adverse outcome in any of these proceedings

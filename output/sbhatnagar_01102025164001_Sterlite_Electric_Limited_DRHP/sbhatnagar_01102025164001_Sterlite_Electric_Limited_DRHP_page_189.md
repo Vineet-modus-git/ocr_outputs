@@ -1,0 +1,23 @@
+Source: India Budget, Crisil Intelligence
+
+## Green Energy Corridor:
+
+The Green Energy Corridor (GEC) is a transmission infrastructure project aimed at evacuating and transmitting power from large-scale solar and wind power plants in India. The project was initiated in 2012 by the Power Grid Corporation of India Limited (PGCIL), which conducted a study to identify the need for dedicated transmission infrastructure for renewable energy (RE) sources. The study found that the power evacuation and transmission infrastructure in the vicinity of potential RE sites was inadequate, leading to the planning of dedicated transmission infrastructure for large-scale solar and wind power plants. The objective of the GEC project is to ensure the smooth integration of RE into the national grid by providing accurate forecasting, real-time monitoring, and efficient scheduling of RE.
+
+## Key Characteristics
+
+The GEC project comprises of both Inter-State Transmission System (ISTS) and Intra-State Transmission System (InSTS), along with the establishment of Renewable Energy Management Centres (REMCs) and other control supporting infrastructure such as reactive power compensation and energy storage systems. The REMCs are installed at various locations, including the Southern Region, which includes states such as Tamil Nadu, Andhra Pradesh, and Karnataka, the Western Region, which includes states such as Gujarat, Maharashtra, and Madhya Pradesh, and the North Region, which includes states such as Rajasthan and Delhi. These REMCs provide accurate forecasting, real-time monitoring, and efficient scheduling of RE to ensure the smooth integration of RE into the national grid. The key features of the GEC project include the evacuation of approximately 24 GW of RE power, the setting up of transmission lines and substations, and the establishment of REMCs.
+
+## Phase 1: Intra-State Transmission System Green Energy Corridor Phase-I and Inter-State Transmission System Green Energy Corridor Phase-II
+
+The first phase of the GEC project includes the Intra-State Transmission System Green Energy Corridor Phase-I, which was approved by the Cabinet Committee on Economic Affairs (CCEA) in 2015. The project has a total target of 9700 ckm of intra-state transmission lines and 22600 MVA sub-stations, and is being implemented by State Transmission Utilities (STUs) in 8 RE-rich states, including Andhra Pradesh, Gujarat, Himachal Pradesh, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Tamil Nadu. The project cost is approximately ₹ 101.42 billion, with funding from the Ministry of New and Renewable Energy (MNRE), KfW, and the STUs.
+
+GEC Phase-I has been completed in State of Madhya Pradesh, Rajasthan, Tamil Nadu and Karnataka. Completion date for GEC Phase-I for States of Andhra Pradesh, Himachal Pradesh, Maharashtra is December 2024 and for State of Gujarat is March 2025. The projects have been delayed mainly due to delay in land acquisition, Right of Way (RoW) issues and forest clearances.
+
+The Inter-State Transmission System (ISTS) GEC project, which was commissioned in March 2020, has a total of 3200 ckm of inter-state transmission lines and 17000 MVA substations, and was implemented by PGCIL at a cost of ₹ 113.69 billion. Some of the key points of this phase include:
+
+## Phase 2: Intra-State Transmission System Green Energy Corridor Phase-II and Inter-State Green Energy Corridor Phase-II
+
+The InSTS GEC-II scheme with total target of 10,750 ckm intra-state transmission lines and 27,500 MVA substations was approved by the CCEA in January 2022.
+
+The project cost is ₹ 120.31 billion with central financial assistance from MNRE of ₹ 39.70 billion (i.e. 33% of project cost). The balance 67% of the project cost is available as loan from KfW/REC/PFC. The transmission schemes would be implemented by the State Transmission Utilities (STUs) of seven states, i.e. Gujarat, Himachal Pradesh, Karnataka, Kerala, Rajasthan, Tamil Nadu and Uttar Pradesh for evacuation of approx. 20 GW of RE power in the seven States. Currently, the STUs are inviting tenders for implementing the projects. The scheduled commissioning timeline for the projects under this scheme is March 2026. Subsequently, some states had requested for revision of projects under the GEC-II Scheme and the same has been approved by MNRE.

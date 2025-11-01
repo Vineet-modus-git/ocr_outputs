@@ -1,0 +1,47 @@
+(iv) **Chennai Unit**
+
+1. Factory license issued by Directorate of Industrial Safety and Health, under the Tamil Nadu Fire and Rescue Services Act, 2025;
+
+2. Consent to establish and operate, issued by Tamil Nadu Pollution Control Board under the Water (Prevention and Control of Pollution) Act, the Air (Prevention and Control of Pollution) Act;
+
+3. Authorization under the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016;
+
+4. Fire License from relevant fire department; and
+
+5. Certificates with respect to weights and measures issued under the Legal Metrology Act, 2009 issued by the Legal Metrology Officer.
+
+(v) **Wada Unit**
+
+1. Factory license issued by Directorate of Industrial Safety and Health (under the Factories Act, 1948;
+
+2. Consent to establish and operate, issued by Maharashtra Pollution Control Board under the Water (Prevention and Control of Pollution) Act, the Air (Prevention and Control of Pollution) Act;
+
+3. Authorization under the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016;
+
+4. Provisional no objection certificate from relevant fire department; and
+
+5. Certificates with respect to weights and measures issued under the Legal Metrology Act, 2009 issued by the Legal Metrology Officer.
+
+**III. Material Approvals applied for but not yet received:**
+
+Except as disclosed below, as on the date of this Draft Red Herring Prospectus, there are no Material Approvals which our Company has applied for, but which have not been received:
+
+1. No objection certificate from relevant fire department for Taloja Unit and Rabale Unit (Plot Nos. 509, 532 & 533); and;
+
+2. Certificates with respect to weights and measures issued under the Legal Metrology Act, 2009 for Mankoli Unit.
+
+**IV. Material Approvals required but not obtained or applied for:**
+
+Nil
+
+**V. Material Approvals expired and renewal to be applied for:**
+
+Nil
+
+**VI. APPROVALS OBTAINED IN RELATION TO INTELLECTUAL PROPERTY RIGHTS**
+
+As of the date of this Draft Red Herring Prospectus, our Company has made applications for registration of its trademark in India (i) device: **PREMIER**
+THE HOUSE OF METALS
+under class 1 and class 6.
+
+![](data:image/png;base64,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)

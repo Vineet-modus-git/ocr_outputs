@@ -1,0 +1,31 @@
+(3) In the event of under-subscription in the Employee Reservation Portion (if any), the unsubscribed portion will be available for allocation and Allotment, proportionately to all Eligible Employees who have Bid in excess of ₹ 0.20 million, subject to the maximum value of Allotment made to such Eligible Employee not exceeding ₹0.50 million. The unsubscribed portion, if any, in the Employee Reservation Portion (after allocation up to ₹0.50 million (net of the employee discount, if any, as applicable) shall be added back to the Net Offer. In case of under-subscription in the Net Offer, spill-over to the extent of such undersubscription shall be permitted from the Employee Reservation Portion. Further, our Company, in consultation with the Book Running Lead Managers, may offer a discount of up to [•]% to the Offer Price (equivalent of ₹[•] per Equity Share) to Eligible Employees, which shall be announced at least two Working Days prior to the Bid/Offer Opening Date. The Employee Reservation Portion shall not exceed 5% of our post-Offer paid-up Equity Share capital. Further, an Eligible Employee Bidding in the Employee Reservation Portion can also Bid in the Net Offer portion (i.e. Non-Institutional Portion or Retail Portion) and such Bids will not be treated as multiple Bids, subject to applicable limits. For further details, see “The Offer” and “Offer Structure” on pages 79 and 504, respectively.
+
+(4) Prior to the filing of the Red Herring Prospectus with the RoC, 15,317,134 outstanding CCPS of face value ₹ 10 each will be converted into a maximum of 15,317,134 Equity Shares of face value of ₹ 2 each in accordance with Regulation 5(2) of the SEBI ICDR Regulations. For details in relation to the conversion of the CCPS, including the conversion ratios and estimated price, see “Capital Structure – Preference share capital history of our Company” on page 100.
+
+The Offer and Net Offer shall constitute [•]% and [•]% of the post-Offer paid up Equity Share capital of our Company.
+
+For further details, see “The Offer”, and “Offer Structure” on pages 79 and 504, respectively.
+
+## Objects of the Offer
+
+Our Company proposes to utilise the Net Proceeds towards funding the following objects:
+
+<table><thead><tr><th>S. No.</th><th>Objects</th><th>Estimated Amount (in ₹ million)</th></tr></thead><tbody><tr><td>1.</td><td>Repayment/prepayment, in full or part, of all or certain outstanding borrowings availed by our Company</td><td>[•]</td></tr><tr><td>2.</td><td>Funding of capital expenditure requirements for expansion through purchase of plant, machineries and equipment by our Company</td><td>[•]</td></tr><tr><td>3.</td><td>General corporate purposes</td><td>[•]<sup>(1)(2)</sup></td></tr><tr><td></td><td><strong>Total Net Proceeds</strong></td><td><strong>[•]<sup>(1)</sup></strong></td></tr></tbody></table>
+
+(1) To be finalised upon determination of the Offer Price and updated in the Prospectus prior to the filing with the RoC.
+
+(2) The amount to be utilised for general corporate purposes shall not exceed 25% of the Gross Proceeds.
+
+For further details, see “Objects of the Offer” on page 118.
+
+## Aggregate pre-Offer and post-Offer shareholding of our Promoters (including the Promoter Selling Shareholder), Other Selling Shareholders and members of the Promoter Group, as a percentage of our paid-up Equity Share capital
+
+The aggregate pre-Offer and post-Offer shareholding of our Promoters (including the Promoter Selling Shareholder), Other Selling Shareholders and members of the Promoter Group (other than the Promoters) as a percentage of our paid-up Equity Share capital is set out below:
+
+<table><thead><tr><th rowspan="2">Name of Shareholder</th><th colspan="2">Pre-Offer</th><th colspan="2">Post-Offer*</th></tr><tr><th>Number of Equity Shares of face value of ₹2 each</th><th>Percentage of pre-Offer Equity Share Capital, on a fully diluted basis^ (%)</th><th>Number of Equity Shares of face value of ₹ 2 each</th><th>Percentage of post-Offer paid-up Equity Share capital (%)</th></tr></thead><tbody><tr><td colspan="5"><strong>Promoters</strong></td></tr><tr><td>Anil Agarwal</td><td>Nil</td><td>NA</td><td>[•]</td><td>[•]</td></tr><tr><td>Twin Star Overseas Limited#</td><td>87,340,796</td><td>61.81</td><td>[•]</td><td>[•]</td></tr><tr><td><strong>Sub-total (A)</strong></td><td><strong>87,340,796</strong></td><td><strong>61.81</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td></tr><tr><td colspan="5"><strong>Other Selling Shareholders</strong></td></tr><tr><td>Kailash Chandra Maheshwari</td><td>1,332</td><td>Negligible</td><td>[•]</td><td>[•]</td></tr><tr><td>Jacob John G.</td><td>720</td><td>Negligible</td><td>[•]</td><td>[•]</td></tr><tr><td>Ramguru Radhakrishnan</td><td>400</td><td>Negligible</td><td>[•]</td><td>[•]</td></tr><tr><td><strong>Sub-total (B)</strong></td><td><strong>2,452</strong></td><td><strong>Negligible</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td></tr><tr><td colspan="5"><strong>Promoter Group</strong></td></tr><tr><td>Pravin Agarwal</td><td>1,126,210</td><td>0.80</td><td>[•]</td><td>[•]</td></tr><tr><td>Kiran Agarwal</td><td>150</td><td>Negligible</td><td>[•]</td><td>[•]</td></tr><tr><td>Navin Agarwal</td><td>77,778</td><td>0.06</td><td>[•]</td><td>[•]</td></tr><tr><td>Suman Didwania</td><td>34,200</td><td>0.02</td><td>[•]</td><td>[•]</td></tr><tr><td><strong>Sub-total (C)</strong></td><td><strong>1,238,338</strong></td><td><strong>0.88</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td></tr><tr><td><strong>Total (A+B+C)</strong></td><td><strong>88,581,586</strong></td><td><strong>62.69</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td></tr></tbody></table>
+
+*Subject to completion of the Offer and finalization of the Allotment.
+
+#Also, the Promoter Selling Shareholder.
+
+^ The pre-Offer equity share capital of our Company on a fully diluted basis has been computed (a) assuming conversion of all outstanding 15,317,134 CCPS of face value of ₹10 each of our Company into maximum of 15,317,134 Equity Shares of face value of ₹2 each; and (b) pursuant to exercise of all outstanding

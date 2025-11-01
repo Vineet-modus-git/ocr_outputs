@@ -1,0 +1,11 @@
+## Reconciliation of Debt to Equity Ratio
+
+The table below reconciles of Debt to Equity Ratio. Return on Equity is calculated as Total Debt of the company (including current-maturity of the long-term borrowing of the company) divided by Total Equity of the company for respective period.
+
+(Amount in ₹ Lakhs, unless otherwise disclosed)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As of and for the years ended March 31,</th></tr><tr><th>2025</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Current borrowing (A)</td><td>104.05</td><td>145.57</td><td>167.28</td></tr><tr><td>Non-current borrowing (B)</td><td>1,786.41</td><td>2,477.25</td><td>2,389.63</td></tr><tr><td><strong>Total Debt (C=A+B)</strong></td><td><strong>1,890.46</strong></td><td><strong>2,622.82</strong></td><td><strong>2,556.91</strong></td></tr><tr><td><strong>Total Equity of the Company (D)</strong></td><td><strong>7,265.42</strong></td><td><strong>5,063.65</strong></td><td><strong>4,336.13</strong></td></tr><tr><td><strong>Debt to Equity Ratio (E=C/D) (In Times)</strong></td><td><strong>0.26</strong></td><td><strong>0.52</strong></td><td><strong>0.59</strong></td></tr></tbody></table>
+
+## Related Party Transactions
+
+For details of the related party transactions, as per the requirements under applicable Accounting Standards i.e. Ind AS 24 ‘Related Party Disclosures’ for Fiscals 2025, 2024 and 2023, read with the SEBI ICDR Regulations, and as reported in the Restated Financial Information, see “Restated Financial Information– Note 41 – Related Party Disclosure” on page 330.

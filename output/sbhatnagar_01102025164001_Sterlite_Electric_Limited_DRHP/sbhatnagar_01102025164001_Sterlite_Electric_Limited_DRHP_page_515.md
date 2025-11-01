@@ -1,0 +1,3 @@
+Data for number of IPOs trading at premium/discount taken at closing price on NSE or BSE on the respective date, depending upon the Designated Stock Exchange.
+
+492

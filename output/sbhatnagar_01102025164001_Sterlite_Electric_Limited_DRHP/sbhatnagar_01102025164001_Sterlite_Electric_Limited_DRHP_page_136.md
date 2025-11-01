@@ -1,0 +1,5 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">RSU Plan</th><th rowspan="2">Equivalent no. of Equity Shares of face value of ₹<br>each</th></tr><tr><th>2022</th><th>2025</th></tr></thead><tbody><tr><td>RSU pool</td><td>1,223,638</td><td>1,257,497</td><td>2,481,135</td></tr><tr><td>RSUs granted</td><td>2,001,745</td><td>Nil</td><td>2,001,745</td></tr><tr><td>RSUs forfeited / lapsed / cancelled</td><td>936,567</td><td>Nil</td><td>936,567</td></tr><tr><td>RSUs exercised</td><td>216,617</td><td>Nil</td><td>216,617</td></tr><tr><td>Total number of Equity Shares that would arise<br>as a result of exercise of RSUs</td><td>1,065,178</td><td>Nil</td><td>1,065,178</td></tr><tr><td>RSUs vested (including RSUs that have been<br>exercised)</td><td>453,564</td><td>Nil</td><td>453,564</td></tr><tr><td>Total number of RSUs outstanding in force</td><td>848,561</td><td>Nil</td><td>848,561</td></tr></tbody></table>
+
+As certified by KNPS & Associates, Chartered Accountants (FRN: 024073N) by way of their certificate dated September 29, 2025.
+
+113

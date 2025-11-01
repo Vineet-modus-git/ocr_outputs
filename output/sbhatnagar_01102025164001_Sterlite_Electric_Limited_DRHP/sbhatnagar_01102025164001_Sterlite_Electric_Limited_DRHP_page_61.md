@@ -1,0 +1,25 @@
+# Prior to the filing of the Red Herring Prospectus with the RoC, 15,317,134 outstanding CCPS of face value ₹ 10 each will be converted into a maximum of 15,317,134 Equity Shares of face value of ₹ 2 each in accordance with Regulation 5(2) of the SEBI ICDR Regulations. For details in relation to the conversion of the CCPS, including the conversion ratios and estimated price, see "Capital Structure - Preference share capital history of our Company" on page 100.
+
+## Issuance of Equity Shares for consideration other than cash in the last one year
+
+Our Company has not issued any Equity Shares for consideration other than cash in the last one year preceding the date of this Draft Red Herring Prospectus.
+
+## Split or consolidation of Equity Shares in the last one year
+
+Our Company has not undertaken a split or consolidation of the Equity Shares in the one year preceding the date of this Draft Red Herring Prospectus.
+
+## Financing Arrangements
+
+There have been no financing arrangements whereby our Promoters, members of our Promoter Group, our Directors or their relatives (as defined under the Companies Act) and the directors of our Corporate Promoter have financed the purchase by any other person of securities of our Company other than in the normal course of the business during a period of six months immediately preceding the date of this Draft Red Herring Prospectus.
+
+## Details of pre-IPO placement
+
+Our Company is not contemplating a pre-IPO placement.
+
+## Exemption from complying with any provisions of securities laws, if any, granted by SEBI
+
+Except as disclosed below, our Company has not filed or obtained any exemption from the SEBI from strict compliance with any provisions of securities laws from SEBI as on the date of this Draft Red Herring Prospectus:
+
+An application dated September 29, 2025, has been submitted to the SEBI under Regulation 300(1)(c) of the SEBI ICDR Regulations, seeking exemption for disclosing information and confirmations from Shiv Bhagwan Gupta, Prem Gupta, Ashwani Gupta, Urmila Kanwatia and Janak Dulari Nagori ("Non-Cooperating Individuals") and entities/ and bodies corporates/ firms/ HUFs ("Non-Cooperating Entities", along with Non-Cooperating Individuals, "Non-Cooperating Group") in which the aforesaid persons have/may have interest (individually or in aggregate with the Individual Promoter), as part of the promoter group of our Individual Promoter, in terms of the SEBI ICDR Regulations based on the information as available in the public domain.
+
+Since our Company has not been able to procure relevant information, from, and in relation to, the Non-Cooperating Group and to comply with the provisions of the SEBI ICDR Regulations, our Company has included disclosures pertaining to the Non-Cooperating Group in this Draft Red Herring Prospectus to the best of our Company's knowledge and to the extent the information was available and accessible in the public domain published on the websites of, inter-alia, Watchout Investors, CIBIL, Stock Exchanges, MCA and Crime check. Further, in the absence of such from the Non-Cooperating Individuals, our Company is also unable to identify an exhaustive list of their relevant entities as members of the Promoter Group, other than to the best of our Company's knowledge and to the extent the information was available and accessible in the public domain. For details, please see, "Risk Factors – The brothers in law and sisters in law of our Individual Promoter, Anil Agarwal, who are deemed to be a member of the Promoter Group under the SEBI ICDR Regulations, have not provided their consent to be identified as such and have not provided any information in respect of themselves and their relevant entities as Promoter Group. Consequently, we cannot assure you that the disclosures relating to such members of the Promoter Group are complete or up-to-date" on page 55.

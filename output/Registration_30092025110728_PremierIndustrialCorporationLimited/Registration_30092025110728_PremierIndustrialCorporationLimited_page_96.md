@@ -1,0 +1,13 @@
+# Notes to Capital Structure
+
+## 1. Share Capital History of our Company
+
+Our Company is in compliance with the Companies Act, 1956 and the Companies Act, 2013, to the extent applicable, with respect to issuance of Equity Shares from the date of incorporation of our Company till the date of filing of this Draft Red Herring Prospectus.
+
+### a. Equity Share Capital
+
+The history of the Equity Share capital of our Company is set forth below:
+
+<table><thead><tr><td>Date of Allotment</td><td>Number of Equity Shares Allotted</td><td>Face Value per Equity Share (₹)</td><td>Issue Price per Equity Share (₹)</td><td>Nature of consideration (Cash / Other than Cash)</td><td>Nature of Allotment</td><td>List of Allottees</td><td>Cumulative Number of Equity Shares</td><td>Cumulative Equity Share Capital (₹)</td></tr></thead><tbody><tr><td>August 08, 2007*</td><td>50,000</td><td>10</td><td>10</td><td>Cash</td><td>Initial subscription to the Memorandum of Association</td><td>Allotment of 13,500 Equity Shares of face value of ₹ 10 each to Arvind Chhotalal Morzaria, 18,000 Equity Shares of face value of ₹ 10 each to Dilip Chhotalal Morzaria, 12,000 Equity Shares of face value of ₹ 10 each to Subhash Chhotalal Morzaria, 5,000 Equity Shares of face value of ₹ 10 each to Lalit Navinchandra Morzaria, 500 Equity Shares of face value of ₹ 10 each to Arvind Chhotalal Morzaria HUF through its karta Arvind Chhotalal Morzaria, 500 Equity Shares of face value of ₹ 10 each to Dilip Chhotalal Morzaria HUF through its karta Dilip Chhotalal Morzaria, 500 Equity Shares of face value of ₹ 10 each to Subhash Chhotalal Morzaria HUF through its karta Subhash Chhotalal Morzaria.</td><td>50,000</td><td>500,000</td></tr><tr><td>September 06, 2007</td><td>39,50,000</td><td>10</td><td>10</td><td>Cash</td><td>Further Issue</td><td>Allotment of 1,426,500 Equity Shares of face value of ₹ 10 each to Arvind Chhotalal Morzaria, 1,062,000 Equity Shares of face value of ₹ 10 each to Dilip Chhotalal Morzaria, 948,000 Equity Shares of face value of ₹ 10 each to Subhash Chhotalal Morzaria, 395,000 Equity Shares of face value of ₹ 10 each to Lalit Navinchandra Morzaria, 39,500 Equity Shares of face value of ₹ 10 each to Arvind Chhotalal Morzaria HUF through its karta Arvind Chhotalal Morzaria, 39,500 Equity Shares of face value of ₹ 10 each to Dilip Chhotalal Morzaria HUF through its karta Dilip Chhotalal Morzaria, 39,500 Equity Shares of face value of ₹ 10 each to Subhash Chhotalal Morzaria HUF through its karta Subhash Chhotalal Morzaria.</td><td>4,000,000</td><td>40,000,000</td></tr></tbody></table>
+
+91

@@ -1,0 +1,25 @@
+In accordance with the FEMA Rules, the total holding by any individual NRI, on a repatriation basis, shall not exceed 5% of the total paid-up Equity Share capital on a fully diluted basis or shall not exceed 5% of the paid-up value of each series of debentures or preference shares or share warrants issued by an Indian company and the total holdings of all NRIs and Overseas Citizen of India ("OCI") put together shall not exceed 10% of the total paid-up Equity Share capital on a fully diluted basis or shall not exceed 10% of the paid-up value of each series of debentures or preference shares or share warrant. Provided that the aggregate ceiling of 10% may be raised to 24% if a special resolution to that effect is passed by the general body of the Indian company. Our Company has by way of a special resolution dated September 17, 2025 increased the aforesaid aggregate ceiling of 10% to 24%.
+
+For details, see "Restrictions on Foreign Ownership of Indian Securities" on page 437.
+
+## Bids by HUFs
+
+Bids by Hindu Undivided Families or HUFs should be made in the individual name of the Karta. The Bidder/applicant should specify that the Bid is being made in the name of the HUF in the Bid cum Application Form as follows: "Name of sole or first Bidder/applicant: XYZ Hindu Undivided Family applying through XYZ, where XYZ is the name of the Karta". Bids/applications by HUFs will be considered at par with Bids/applications from individuals.
+
+## Bids by FPIs
+
+In terms of the FEMA, FEMA Rules and SEBI FPI Regulations, investment in the Equity Shares by a single FPI or an investor group (which means multiple entities registered as foreign portfolio investors and directly and indirectly having common ownership of more than 50% or common control) must be below 10% of our post-Offer Equity Share capital on a fully diluted basis. Further, in terms of the applicable FEMA Rules the total holding by each FPI or an investor group cannot exceed 10% of the total paid-up Equity Share capital of our Company on a fully diluted basis, as applicable and the aggregate holdings of all the FPIs, including any other direct and indirect foreign investments in our Company, shall not exceed the sectoral cap.
+
+In case of Bids made by FPIs, a certified copy of the certificate of registration issued under the SEBI FPI Regulations is required to be attached to the Bid cum Application Form, failing which our Company reserves the right to reject any Bid without assigning any reason. FPIs who wish to participate in the Offer are advised to use the Bid cum Application Form for Non-Residents (● in colour).
+
+FPIs are permitted to participate in the Offer subject to compliance with conditions and restrictions specified under the FEMA Rules and as specified by the Government of India from time to time.
+
+In terms of applicable FEMA Rules and the SEBI FPI Regulations, investments by FPIs in the capital of an Indian company is subject to certain limits, i.e. the individual holding of an FPI (including its investor group) is restricted to below 10% of the total paid-up share capital of the Company. In case the total holding of an FPI or investor group increases beyond 10% of the total paid-up equity share capital of our Company, on a fully diluted basis or 10% or more of the paid-up value of any series of debentures or preference shares or share warrants that may be issued by our Company, the total investment made by the FPI or investor group will be re-classified as FDI subject to the conditions as specified by SEBI and the RBI in this regard and our Company and the investor will be required to comply with applicable reporting requirements. Further, the total holdings of all FPIs put together, with effect from April 1, 2020, can be up to the sectoral cap applicable to the sector in which our Company operates (i.e., up to 100% under automatic route). In terms of the FEMA Rules, for calculating the aggregate holding of FPIs in a company, holding of all registered FPIs shall be included.
+
+To ensure compliance with the above requirement, SEBI, pursuant to its circular dated July 13, 2018, has directed that at the time of finalisation of the Basis of Allotment, the Registrar shall (i) use the PAN issued by the Income Tax Department of India for checking compliance for a single FPI; and (ii) obtain validation from Depositories for the FPIs who have invested in the Offer to ensure there is no breach of the investment limit, within the timelines for Offer procedure, as prescribed by SEBI from time to time.
+
+Subject to compliance with all applicable Indian laws, rules, regulations, guidelines and approvals in terms of Regulation 21 of the SEBI FPI Regulations, an FPI is permitted to Offer, subscribe to, or otherwise deal in offshore derivative instruments, directly or indirectly, only if it complies with the following conditions:
+
+(a) such offshore derivative instruments are issued only by persons registered as Category I FPIs;
+
+(b) such offshore derivative instruments are issued only to persons eligible for registration as Category I FPIs;

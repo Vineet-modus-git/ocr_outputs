@@ -1,0 +1,3 @@
+<table><thead><tr><td>Sr. No.</td><td>Name of Sub Station (District)</td><td>Name of Associated Transmission elements</td><td>Line Length (ckm)</td><td>Type of Scheme</td></tr></thead><tbody><tr><td>61</td><td>Up-gradation of 132 kV Chiloda to 220 kV level (GIS)(G'nagar)</td><td>1. LILO of both circuits of 220 kV D/C Gandhinagar TPS- Soja line at Chiloda substation<br>2. 220/132 kV, 2 X 150 ICTs<br>3. 220/66 kV, 2 x 160 MVA ICTs</td><td>60</td><td>System Strengthening</td></tr></tbody></table>
+
+184

@@ -1,0 +1,19 @@
+<table><thead><tr><th>Name, date of birth, designation, address, occupation, term, period of directorship and DIN</th><th>Designation</th><th>Other Directorships</th></tr></thead><tbody><tr><td><strong>Address:</strong> 21/2 1<sup>st</sup> Floor Velu Street, West Mambalam S.O, Chennai - 600 033, Tamil Nadu, India<br/><strong>Occupation:</strong> Professional<br/><strong>Period of Directorship:</strong> Since November 20, 2024<br/><strong>Term:</strong> For a period of 5 years from November 20, 2024 till November 19, 2029<br/><strong>DIN:</strong> 10698035</td><td></td><td><strong>Limited Liability Partnership</strong><br/>Nil<br/><strong>Foreign Companies</strong><br/>Nil</td></tr></tbody></table>
+
+## Arrangement or understanding with major Shareholders, customers, suppliers or others
+
+None of our Directors have been appointed pursuant to any arrangement or understanding with our major Shareholders, customers, suppliers or others. For details, please refer "History and Certain Corporate Matters" beginning on page 241.
+
+## Brief profiles of our Directors
+
+**Pramod Kumar Bhalotia** is the Chairman and Managing Director of our Company. He has been associated with our Company since incorporation. He holds a Bachelor's degree in commerce from University of Calcutta. He has around 33 years of experience in the steel industry. He has also previously served as the managing partner at Balaji Steel Enterprises. He oversees the entire manufacturing process and financing activities of the Company and overall growth and expansion of the Company.
+
+**Abhishek Bhalotia** is the Whole-time Director of our Company. He has been associated with our Company since September 26, 2016. He holds a Bachelor's degree in Technology in Mechanical Engineering from VIT University and a Masters of Engineering degree from the Pennsylvania State University. He has more than 8 years of experience in the steel industry. He oversees steel manufacturing process and focuses on enhancing the operational efficiency of our Company.
+
+**Beena Bhalotia**, is the Non-executive Director of our Company. She has been associated with our Company since August 28, 2024. She has completed her Higher Secondary School education. She has 16 years of experience in the field of corporate management and administration. She is currently serving as a director of our Corporate Promoter Mayank Marketing Private Limited.
+
+**Saimathy Soupramanien** is an Independent Director of our Company. She has been associated with our Company since November 20, 2024. She is a member of the Institute of Company Secretaries of India and holds a certificate of practice from the Institute of Company Secretaries of India. She also holds a Bachelor's degree in Law and a Masters degree in Law from Pondicherry University. She has 11 years of experience in the secretarial and legal field. Previously she was associated with Trimex Industries Private Limited, VSL India Private Limited etc.
+
+**C Rajendran** is an Independent Director of our Company. He has been associated with our Company since November 20, 2024. He holds a Diploma in Civil Engineering from the State Board of Technical Education and Training. He is also a recipient of an award of excellence from the Director General's Medal of Central Public Works Department. He has over 37 years of experience in public works department.
+
+**S Krishnamachari** is an Independent Director of our Company. He has been associated with our Company since November 20, 2024. He holds a Bachelor's degree of Commerce from University of Madras. He has over 28 years of experience in the field of accounting. He was previously associated with Nippon Paint (India) Private Limited,

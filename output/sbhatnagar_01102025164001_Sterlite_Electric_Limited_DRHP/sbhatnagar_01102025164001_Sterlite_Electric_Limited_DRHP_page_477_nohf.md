@@ -1,0 +1,35 @@
+was partially offset by an increase in revenue from sale of conductors and power cables from ₹ 31,857.15 million in Fiscal 2024 to ₹ 35,575.70 million in Fiscal 2025 on account of increase in sales volumes and revenue from IRU/ARC contracts from ₹ 659.33 million in Fiscal 2024 to ₹ 871.07 million in Fiscal 2025 on account of higher billing on account of new contracts and commissioning of additional OPGW network capacity.
+
+## Other Income
+
+Other income increased by 12.73% from ₹ 369.40 million in Fiscal 2024 to ₹ 416.43 million in Fiscal 2025 primarily on account of (i) an increase in claims received from vendors/customers/insurance company of ₹ 55.52 million in Fiscal 2024 to ₹ 330.60 million in Fiscal 2025 on account of receipt of liquidated damages from customers and other claims/ benefits received and (ii) an increase in export incentives from ₹ 15.65 million in Fiscal 2024 to ₹ 52.03 million in Fiscal 2025 on account of receipt of export incentives under a new export incentive scheme by the Government of India, namely the Remission of Duties and Taxes on Export Products. Further, there was a reversal of impairment allowance of trade receivables of ₹ 281.24 million in Fiscal 2024 compared to nil in Fiscal 2025.
+
+## Total Expenses
+
+Total expenses increased by 2.17% from ₹ 46,360.24 million in Fiscal 2024 to ₹ 47,367.58 million in Fiscal 2025 primarily on account of an increase in (i) costs of raw material and components consumed; (ii) finance costs; and (iii) employee benefits expenses, in the manner set out below.
+
+### Cost of raw material and components consumed
+
+Cost of raw material and components consumed increased by 14.48% from ₹ 24,318.98 million in Fiscal 2024 to ₹ 27,839.37 million in Fiscal 2025 primarily on account of an increase in purchases during the year from ₹ 23,760.85 million in Fiscal 2024 to ₹ 27,917.21 million in Fiscal 2025 on account of increased consumption of raw materials due to an increase in sales volumes of cables and conductor, and an increase in prices of copper and aluminium along with change in product mix.
+
+### Purchase of traded goods
+
+Purchases of traded goods decreased by 91.42% from ₹ 588.36 million in Fiscal 2024 to ₹ 50.48 million in Fiscal 2025 due to decrease in sales volume of hardware support products such as aluminium ingot, tension assemblies, suspension assemblies, vibration dampers, down lead clamps and splice enclosures and OPGW accessories.
+
+### (Increase)/decrease in inventories of finished goods, work-in-progress and traded goods
+
+There was a decrease in inventories of finished goods, work-in-progress and traded goods of ₹ 716.22 million in Fiscal 2025 compared to decrease in inventories of finished goods, work-in-progress and traded goods of ₹ 302.44 million in Fiscal 2024.
+
+### Construction material and contract expenses
+
+Construction material and contract expenses decreased by 24.18% from ₹ 12,111.85 million in Fiscal 2024 to ₹ 9,183.49 million in Fiscal 2025 primarily on account of a decrease in construction material from ₹ 11,528.95 million in Fiscal 2024 to ₹ 8,493.27 million in Fiscal 2025 on account of lower volume of projects due to shifting of order booking cycle on account of central and state elections, which was partially offset by an increase in subcontracting charges from ₹ 582.90 million in Fiscal 2024 to ₹ 690.22 million in Fiscal 2025 on account of higher execution of the service portion of projects.
+
+### Employee benefits expense
+
+Employee benefit expense increased by 34.98% from ₹ 1,259.23 million in Fiscal 2024 to ₹ 1,699.70 million in Fiscal 2025 primarily on account of (i) an increase in salaries, wages and bonus from ₹ 1,022.06 million in Fiscal 2024 to ₹ 1,351.69 million in Fiscal 2025 on account of increase in manpower due to increased production and sales volumes; and (ii) an increase in share based payment expense from ₹ 102.46 million in Fiscal 2024 to ₹ 152.15 million in Fiscal 2025 on account of a valuation impact on account of share based payments as well as share issuances based on policies.
+
+### Depreciation and amortisation expense
+
+Depreciation and amortisation expense increased by 24.12% from ₹ 459.00 million in Fiscal 2024 to ₹ 569.70 million in Fiscal 2025 on account of an increase in depreciation of property, plant and equipment from ₹ 301.83 million in Fiscal 2024 to ₹ 411.24 million in Fiscal 2025 on account of addition of new property, plant and equipment.
+
+### Finance costs

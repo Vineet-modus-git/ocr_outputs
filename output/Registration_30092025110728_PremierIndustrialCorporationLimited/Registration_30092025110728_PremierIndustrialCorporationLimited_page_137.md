@@ -1,0 +1,23 @@
+<table><tr><td></td><td>anticipate a corresponding increase in these assets to support business activities and operational needs.</td></tr><tr><td>Trade Payables days</td><td>Our historical trade payable days have ranged from 12 to 29 days. We project this to be 34, 34, and 30 days for FY 2026, FY 2027, and FY 2028, respectively. This slight increase is a conscious decision to extend credit periods and take advantage of competitive purchase prices, which will improve the company's profitability. The increase in payable days from 12 to 25 in FY 2024 and further to 29 in FY 2025 was due to increased credit periods from suppliers and favourable market conditions for buyers. To improve efficiency, we plan to streamline our payable processes to our vendors. This will empower us to negotiate more favourable terms and prices, fostering stronger supplier relationships and bolstering our bottom line.</td></tr><tr><td>Other Current Liabilities days</td><td>Other current liabilities, which include expenses payable and employee-related liabilities, are expected to increase in line with our business growth. The increase from ₹20.33 million in FY2024 to ₹24.01 million in FY2025 was due to a rise in gratuity liability. The subsequent increase to ₹37.11 million in FY2025 was driven by higher audit fees and an increase in employee headcount. The projected increase in these liabilities for FY2026, FY2027, and FY2028 is directly linked to the company's planned expansion, including the installation of a new plant, which will lead to a rise in employee-related liabilities and monthly expenses. We anticipate a shift in customer payment terms from advance payments to Letters of Credit, particularly for new domestic and export customers. This will contribute to a more stable and predictable cash flow cycle, while managing operational needs effectively.</td></tr></table>
+
+Notes:
+
+1) Inventories days are calculated as Inventories at the end of the period multiplied by 365 divided by Cost of materials consumed & Changes in Inventory of Finished Goods, Work-in-Progress & Stock-in-Trade for the period.
+
+2) Trade receivables days are calculated as Trade receivables at the end of the period multiplied by 365 divided by revenue from operations for the period.
+
+3) Other current assets days are calculated as Other current assets at the end of the period multiplied by 365 divided by revenue from operations for the period.
+
+4) Trade Payables days are calculated as Trade Payables at the end of the period multiplied by 365 divided by cost of goods sold for the period.
+
+5) Other Current Liabilities days are calculated as Other Current Liabilities at the end of the period multiplied by 365 divided by revenue from operations for the period.
+
+For further details, see "Material Contracts and Documents for Inspection – Material Documents" on page 437.
+
+## 4. General corporate purposes
+
+Our Company proposes to deploy the balance Net Proceeds aggregating to ₹ [●] million towards general corporate purposes, subject to such amount not exceeding 25% of the Gross Proceeds, in compliance with the SEBI ICDR Regulations. The general corporate purposes for which our Company proposes to utilize Net Proceeds include, but are not restricted to funding growth opportunities, strengthening marketing capabilities and brand building exercises, expenditure, including towards development / refurbishment / renovation of our assets, meeting ongoing general corporate contingencies, expenses incurred in ordinary course of business, meeting our working capital and business requirements, payment of lease liabilities, payment of commission and/or fees to consultants, acquisition of fixed assets, business development initiatives, any of the other Objects, other expenses including salaries, administration, insurance, repairs and maintenance, payment of taxes and duties and any other purpose, as may be approved by our Board or a duly constituted committee thereof from time to time, subject to compliance with applicable law, including provisions of the Companies Act.
+
+The allocation or quantum of utilization of funds towards the specific purposes described above will be determined by our Board, based on our business requirements and other relevant considerations, from time to time. Our management, in accordance with the policies of the Board, shall have the flexibility in utilizing
+
+132

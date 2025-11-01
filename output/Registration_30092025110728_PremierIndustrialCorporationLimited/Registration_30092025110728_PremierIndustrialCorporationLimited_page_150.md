@@ -1,0 +1,37 @@
+b) The listed peers operate within the same broader industry, but their business models and key product offerings may not be identical to ours, exhibiting some differences.
+c) The operational KPI's are not available for the peers in public domain, hence not shown in the comparison table above.
+d) Revenue from Operations means the Revenue from Operations as appearing in the Restated Statement of Financial Information.
+e) EBITDA refers to earnings before interest, taxes, depreciation, amortization, gain or loss from continued operations and exceptional items.
+f) Growth in EBITDA % means growth in % terms of the current year as compared to the preceding year.
+g) EBITDA Margin refers to EBITDA during a given period as a percentage of revenue from operations during that period.
+h) Profit after Tax refers to sum of total income less total expenses after considering the tax expense.
+i) Growth in PAT % means growth in % terms of the current year as compared to the preceding year.
+j) PAT CAGR means the compounded annual growth rate from FY 2023 to FY 2025 for profit after tax.
+k) EPS is Earnings per share calculated as Profit attributable to shareholders of the company divided by the weighted average number of shares outstanding during the period.
+l) Growth in EPS % means growth in % terms of the current year as compared to the preceding year.
+m) Net Profit Ratio/Margin quantifies our efficiency in generating profits from our revenue and is calculated by dividing our net profit after taxes by our revenue from operations.
+n) Growth in PAT Margin % means growth in % terms of the current year as compared to the preceding year.
+o) Return on equity (RoE) is equal to profit for the year divided by the average equity and is expressed as a percentage.
+p) Debt to equity ratio is calculated by dividing the debt (i.e., borrowings (current and non-current) and lease liabilities by total equity (which includes issued capital and all other equity reserves).
+q) Interest Coverage Ratio covers the number of times interest can be paid of the EBIT.
+r) Return on Capital Employed (%) is calculated as EBIT divided by capital employed. Capital employed is calculated as net worth and total debt, less or add Net Deferred Tax (Assets or Liabilities)
+s) Current Ratio is a liquidity ratio that measures our ability to pay short-term obligations (those which are due within one year) and is calculated by dividing the current assets by current liabilities.
+t) Working Capital Turnover ratio is calculated as Turnover divided by change in working capital during the period.
+u) NAV / Book Value is defined as Net Asset Value and is calculated as Shareholders Net worth divided by the weighted average number of shares outstanding during the period.
+v) RoNW is defined as Return on Net Worth that is Equity share capital add reserves and other equity, return that is net profit is divided by Net worth to calculate this ratio.
+w) Return on Total Assets is calculated as return, that is net profit is divided by the total assets during the year.
+x) Fixed Asset turnover ratio is calculated as turnover divided by net fixed assets of the company, i.e. PPE and CWIP.
+
+## 7. Weighted average cost of acquisition ("WACA"), floor price and cap price
+
+a) Price per share of the Company based on primary issuances of Equity Shares or convertible securities (excluding issuance of Equity Shares under ESOS or pursuant to a bonus issue) during the 18 months preceding the date of this Draft Red Herring Prospectus, where such issuance is equal to or more than 5% of the fully diluted paid-up share capital of our Company (calculated based on the pre-transaction capital before such transactions) in a single transaction or multiple transactions combined together over a span of rolling 30 days.
+
+There are no such transactions, Hence the Weighted average cost of acquisition (WACA) is Not Applicable.
+
+<table><thead><tr><th>Date of allotment</th><th>No. of equity shares allotted*</th><th>Face value per equity share (₹)</th><th>Issue price per equity share (₹) *</th><th>Nature of allotment</th><th>Nature of consideration</th><th>Total Consideration (₹ in million)</th></tr></thead><tbody><tr><td colspan="7">Weighted average cost of acquisition (WACA)</td></tr><tr><td colspan="7">NA</td></tr></tbody></table>
+
+b) Price per share of the Company based on secondary sale or acquisition of Equity Shares or convertible securities (excluding gifts) involving any of the Promoters, members of the Promoter Group or Shareholder(s) having the right to nominate director(s) in the Board of Directors of the Company are a party to the transaction, during the 18 months preceding the date of filing of this Draft Red Herring Prospectus, where the acquisition or sale is equal to or more than 5% of the fully diluted paid-up share capital of our Company (calculated based on the pre-transaction capital before such transactions), in a single transaction or multiple transactions combined together over a span of rolling 30 days.
+
+There are no such transactions, hence the Weighted average cost of acquisition (WACA) is Not Applicable.
+
+<table><thead><tr><th>Date of allotment</th><th>No. of equity shares allotted*</th><th>Face value per equity share (₹)</th><th>Issue price per</th><th>Nature of allotment</th><th>Nature of consideration</th><th>Total Consideration (₹ in million)</th></tr></thead></table>

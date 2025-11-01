@@ -1,0 +1,5 @@
+Miscellaneous
+
+92. At any point of time from the date of adoption of these Articles, if the Articles are or become contrary to the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the "Listing Regulations"), the provisions of the Listing Regulations shall prevail over the Articles to such extent and the Company shall discharge all of its obligations as prescribed under the Listing Regulations, from time to time.
+
+Notwithstanding anything contained in these Articles, the instructions / guidelines issued from time to time by the Ministry of Corporate Affairs or SEBI by way of circulars / notifications etc. in respect of any of the matters with regard to powers of the board/convening / conducting of board meetings / committee meetings / general meetings, minutes of the meetings, sending of annual report by e-mail, video- conferencing and maintenance of registers / records etc., shall have overriding effect on these Articles for compliance thereof.

@@ -1,0 +1,9 @@
+<table><thead><tr><th rowspan="2">Voltage Class</th><th colspan="5">Year</th><th rowspan="2">Total Planned (2024-29)</th></tr><tr><th>2024-25</th><th>2025-26</th><th>2026-27</th><th>2027-28</th><th>2028-29</th></tr></thead><tbody><tr><th>Total</th><td>6310</td><td>8430</td><td>17710</td><td>17710</td><td>4470</td><td>54030</td></tr></tbody></table>
+
+Source: Network Planning Report, GETCO, March, 2024
+
+<table><thead><tr><th>Item</th><th>Quantity</th><th>Name of S/S</th></tr></thead><tbody><tr><td>765 kV Substation</td><td>1 No</td><td>Ghela Somnath (Saurashtra), Saykha, Radhanesda (PS), Kutch (PS-1)</td></tr><tr><td>400 kV Substation</td><td>8 Nos. 8</td><td>Achhalia, Babarzar, Kalavad, Keshod, Pipavav, Prantij, Saykha, Shivlakha</td></tr><tr><td>220 kV Substation</td><td>64 Nos. 51</td><td>New substation:<br>Avaniya, Babarzar, Bagasara, Balethi, Bhalgamda, Bhesan, Bhuteshwar, Chalala, Chikada, Dadusar, Dhama, Dharampur, Dhank, Dholera, Dumas, Gondal-</td></tr><tr><td rowspan="2">132 kV Substation</td><td rowspan="2">1 No. 13</td><td>II (Gomta), Ghodasar (Rah), Hajipir (Dhordo), Gadhada, Gadhsisa Halol, Hathsani, Jambusar, Kakwadi, Keshod, Khajod, Kharod, Khambhalia, Kheradi, Khimat, Khodu, Khumapur, Kotda Sangani, Kutiyana, Limzar (Vansda), Maglana, Mandali, Makansar, Mota Asrana, Manjusar, Munjpur, Nagor, Nichimandal (Vankda), Olpad, Patkhilori, Rangpar, Raghanesda, Rajula, Ramsan, Rupavati, Sarvala, Sisrana (Satlasana), Vansi, Veraval</td></tr><tr><td>Upgradation from existing 66 kV/132 kV to 220 kV level-66 kV: Bhat, Bhildi, Gandhidham-B (or Padana), Kanbha, Mahuva, Sarigam, Siddheshwar, Velanja, Metoda, Mera.<br>132 kV: Ankleshwar, Chiloda, Manjusar</td></tr><tr><td>132 kV Substation</td><td>1 No. 1</td><td>New substation:<br>132 kV Kansumra, Karli, Vidhutnagar, Sachin, Subhanpura</td></tr></tbody></table>
+
+Source: Network Planning Report, GETCO, March, 2024
+
+174

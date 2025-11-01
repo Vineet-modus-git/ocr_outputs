@@ -1,0 +1,39 @@
+OM POWER TRANSMISSION LIMITED (formerly known as OM POWER TRANSMISSION PRIVATE LIMITED)
+
+Notes to Restated Financial Statements
+
+(All amounts in INR Lakhs, unless otherwise stated)
+
+## 23.2 Ageing of Trade Payables
+
+Ageing of Trade Payables outstanding as on 31/03/2025
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="5">Outstanding for following periods from due date of payment</th><th rowspan="2">Total</th></tr><tr><th>Not Due</th><th>Less Than 1 Year</th><th>1-2 Year</th><th>2-3 Years</th><th>More than 3 Years</th></tr></thead><tbody><tr><td>MSME</td><td>485.63</td><td>191.04</td><td>23.56</td><td>-</td><td>-</td><td>700.23</td></tr><tr><td>Others</td><td>2,809.22</td><td>991.57</td><td>3.55</td><td>11.59</td><td>0.78</td><td>3,816.71</td></tr><tr><td>Disputed dues - MSME</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed dues - Others</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody><tfoot><tr><td>Total</td><td>3,294.85</td><td>1,182.61</td><td>27.11</td><td>11.59</td><td>0.78</td><td>4,516.94</td></tr></tfoot></table>
+
+Ageing of Trade Payables outstanding as on 31/03/2024
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="5">Outstanding for following periods from due date of payment</th><th rowspan="2">Total</th></tr><tr><th>Not Due</th><th>Less Than 1 Year</th><th>1-2 Year</th><th>2-3 Years</th><th>More than 3 Years</th></tr></thead><tbody><tr><td>MSME</td><td>881.82</td><td>91.37</td><td>24.81</td><td>17.85</td><td>7.78</td><td>1,023.63</td></tr><tr><td>Others</td><td>1,164.34</td><td>682.85</td><td>20.77</td><td>6.27</td><td>8.93</td><td>1,883.16</td></tr><tr><td>Disputed dues - MSME</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed dues - Others</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody><tfoot><tr><td>Total</td><td>2,046.16</td><td>774.22</td><td>45.58</td><td>24.12</td><td>16.71</td><td>2,906.79</td></tr></tfoot></table>
+
+Ageing of Trade Payables outstanding as on 31/03/2023
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="5">Outstanding for following periods from due date of payment</th><th rowspan="2">Total</th></tr><tr><th>Not Due</th><th>Less Than 1 Year</th><th>1-2 Year</th><th>2-3 Years</th><th>More than 3 Years</th></tr></thead><tbody><tr><td>MSME</td><td>844.99</td><td>173.11</td><td>17.85</td><td>-</td><td>7.78</td><td>1,043.73</td></tr><tr><td>Others</td><td>1,002.24</td><td>330.70</td><td>22.05</td><td>32.37</td><td>107.15</td><td>1,494.51</td></tr><tr><td>Disputed dues - MSME</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed dues - Others</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody><tfoot><tr><td>Total</td><td>1,847.23</td><td>503.81</td><td>39.90</td><td>32.37</td><td>114.93</td><td>2,538.24</td></tr></tfoot></table>
+
+## 24 Other Financial Liabilities (Current)
+
+<table><thead><tr><th>Particulars</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Employee related payables</td><td>204.15</td><td>191.86</td><td>153.39</td></tr><tr><td>Security deposits</td><td>-</td><td>-</td><td>1.96</td></tr></tbody><tfoot><tr><td>Total</td><td>204.15</td><td>191.86</td><td>155.35</td></tr></tfoot></table>
+
+## 25 Other Current liabilities
+
+<table><thead><tr><th>Particulars</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Statutory Dues Payables</td><td>219.58</td><td>101.93</td><td>141.55</td></tr><tr><td>Amount due to Customer (Unearned Revenue)</td><td>323.75</td><td>562.09</td><td>543.66</td></tr><tr><td>Advance from Customer</td><td>1.76</td><td>53.99</td><td>68.69</td></tr></tbody><tfoot><tr><td>Total</td><td>545.09</td><td>718.01</td><td>753.90</td></tr></tfoot></table>
+
+*Refer Note no. 49 for contract liability
+
+## 26 Provisions (Current)
+
+<table><thead><tr><th>Particulars</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Provision for employee benefits</td><td></td><td></td><td></td></tr><tr><td>Gratuity (Refer note no. 39)</td><td>8.46</td><td>2.40</td><td>1.08</td></tr></tbody><tfoot><tr><td>Total</td><td>8.46</td><td>2.40</td><td>1.08</td></tr></tfoot></table>
+
+## 27 Current Tax Liabilites (Net)
+
+<table><thead><tr><th>Particulars</th><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Provision for income tax (Net of Advance tax)</td><td>137.99</td><td>35.29</td><td>-</td></tr></tbody><tfoot><tr><td>Total</td><td>137.99</td><td>35.29</td><td>-</td></tr></tfoot></table>
+
+322

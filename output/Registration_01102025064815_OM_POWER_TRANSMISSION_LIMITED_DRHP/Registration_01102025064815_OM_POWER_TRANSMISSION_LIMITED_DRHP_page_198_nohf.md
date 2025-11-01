@@ -1,0 +1,24 @@
+Power and implemented by Power Grid Corporation of India Ltd. (PGCIL), this effort forms the backbone of India's national power transmission infrastructure. It enables seamless and reliable power flow across regions, addresses regional frequency imbalances, and optimizes energy dispatch across state borders thus enhancing overall energy security and operational efficiency.
+
+India originally operated five regional grids (Northern, Eastern, Western, North-Eastern, and Southern), and integration efforts began in 1991 through the establishment of HVDC/AC interconnections. The final milestone was achieved on 31 December 2013, when the Southern Grid was synchronously connected to the Central Grid via the 765 kV Raichur–Solapur transmission line culminating in the world’s largest synchronous power grid operating at a unified frequency of 49.90–50.05 Hz. The Central Electricity Authority (CEA) continues to guide technical standards and regulatory compliance under the Electricity Act, 2003, ensuring harmonized and stable grid operations. This integrated grid architecture not only improves power reliability and transmission efficiency but also creates substantial Engineering, Procurement, and Construction (EPC) opportunities particularly in transmission infrastructure development aligned with India’s broader national energy and decarbonization goals.
+
+**Operational Significance & Market Integration:**
+
+* Achieving a unified frequency has facilitated the National Load Dispatch Centre (NLDC) to manage grid operations centrally, enabling real-time inter-state power transfers, grid balancing, and national-level electricity trading.
+* The initiative ensures open and non-discriminatory access to the nationwide grid via CERC's General Network Access (GNA) Regulations (2022), simplifying connectivity for developers and generators through standardized transmission access norms.
+* Through this integrated framework, power from surplus regions can now reliably flow into deficit states, promoting energy equity, operational efficiency, and national marketplace alignment.
+
+**Key Benefits & Achievements:**
+
+* Seamless inter-regional electricity transfers help manage demand variability, particularly in high-demand states like Tamil Nadu, Kerala, and Haryana.
+* The integrated grid enables robust platforms such as the **Green Day-Ahead Market (GDAM)** and **Green Term-Ahead Market (GTAM)** to function efficiently, aiding in renewable energy dispatch and trading.
+
+**Modernization Efforts: Smart Grids & Digital Infrastructure:**
+
+India's power infrastructure is undergoing a fundamental transformation driven by the twin goals of improving operational efficiency and ensuring long-term grid stability. As electricity demand grows rapidly particularly due to urbanization, renewable integration, and digital electrification the modernization of power generation, transmission, and distribution systems has become a national priority.
+
+Central to this modernization are smart grids, digital metering infrastructure, and AI-enabled network management, which allow for real-time energy monitoring, enhanced outage management, and increased consumer participation. Supported by flagship government programs such as the Revamped Distribution Sector Scheme (RDSS) and the National Smart Grid Mission (NSGM), these efforts are paving the way for a data-driven, decentralized, and responsive electricity ecosystem.
+
+➤ **Smart Metering Rollout under RDSS:** Under the Revamped Distribution Sector Scheme (RDSS), smart metering infrastructure has been a central reform tool to reduce losses and improve billing efficiency. As of mid-2025, approximately 198 million smart consumer meters, 5.25 million DT meters, and 1.95 million feeder-level smart meters were sanctioned across participating states. Of these, over 115 million consumer meters (≈58%) have been awarded, and around 20 million are already communicating data. These figures reflect an aggressive scaling of digital infrastructure in the power distribution segment.
+
+➤ **Automation & Energy Accounting Systems:** Beyond smart metering, RDSS emphasizes automation tools such as feeder-level energy audits, distribution transformer (DT) health monitoring, and automated outage management systems. These upgrades enable utilities to shift from reactive to predictive maintenance, using real-time alerts and condition-based diagnostics. Integrated with AI analytics and geospatial mapping, these systems help identify high-loss zones, unauthorized usage, and supply bottlenecks at a granular level. This digital visibility not only improves

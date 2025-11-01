@@ -1,0 +1,19 @@
+<table><tr><td>Loan from others</td><td>-</td><td>4.84</td><td>4.84</td></tr><tr><td>Loans from body corporates</td><td>575.00</td><td>725.00</td><td>725.00</td></tr><tr><td>Loan from banks - Unsecured</td><td>-</td><td>189.24</td><td>978.18</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>35,109.22</strong></td><td><strong>27,316.09</strong></td><td><strong>23,329.65</strong></td></tr></table>
+
+## Capital expenditures
+
+Our capital expenditure primarily relates to the purchase of property, plant and equipment (including Land, Building, computers, furniture and other fixtures, vehicles, office equipment, Plant & Machinery and Solar Plant). The following table sets forth details on our capital expenditures in relation to property, plant and equipment (Tangible assets) and capital WIP for the periods indicated:
+
+<table><caption>(₹ in Lakhs)</caption><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As at</th></tr><tr><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>Property, Plant & Equipment (Tangible Assets)</td><td>2,326.10</td><td>3,050.38</td><td>2,377.09</td></tr><tr><td>Addition</td><td></td><td></td><td></td></tr><tr><td>Capital WIP</td><td>93.3</td><td>4,627.11</td><td>1.25</td></tr><tr><td><strong>Total Capex</strong></td><td><strong>2,419.40</strong></td><td><strong>7,677.49</strong></td><td><strong>2,378.34</strong></td></tr></tbody></table>
+
+<table><caption>(₹ In Lakhs)</caption><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As at</th></tr><tr><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>Disposals</td><td>40.23</td><td>10.12</td><td>297.66</td></tr><tr><td><strong>Total Disposals</strong></td><td><strong>40.23</strong></td><td><strong>10.12</strong></td><td><strong>297.66</strong></td></tr></tbody></table>
+
+## Related Party Transactions
+
+We enter into various transactions with related parties in the ordinary course of business. During the year, we paid interest on loans to Mr. Pramod Kumar Bhalotia, Mr. Abhishek Bhalotia, Mrs. Beena Bhalotia, and Mrs. Dolly Bhalotia. Rent expenses were incurred with Mr. Pramod Kumar Bhalotia. Salary, wages, and bonus were paid to Mr. Pramod Kumar Bhalotia, Mr. Priyank Bhalotia, Mrs. Beena Bhalotia, Mrs. Dolly Bhalotia, Mr. Sanjay Bhalotia, Ms. Snasitya Priya, and Mr. Abhishek Bhalotia. Loans were received during the year from Mr. Abhishek Bhalotia, Mr. Pramod Kumar Bhalotia, Mrs. Beena Bhalotia, Mrs. Dolly Bhalotia, and S Md. F Fazlullah Basha, and loans were also repaid to these parties during the year. Further, certain loans were converted into equity shares in favour of Mr. Abhishek Bhalotia and Mrs. Dolly Bhalotia. Director remuneration was paid to Mr. Pramod Kumar Bhalotia, Mr. Abhishek Bhalotia, and Mrs. Dolly Bhalotia. Advances were repaid and received from M/s Mayank Marketing Pvt. Ltd. The outstanding balances with related parties as of March 31, 2025 primarily relate to interest, remuneration, salaries, loans, rent, and advances, all of which are disclosed in the notes to our Restated Financial Statements.
+
+## Contingent liabilities & Commitments
+
+<table><caption>(₹ in Lakhs)</caption><thead><tr><th>Particulars</th><th>As at Fiscal 2025</th><th>As at Fiscal 2024</th><th>As at Fiscal 2023</th></tr></thead><tbody><tr><td><strong>Contingent Liabilities:</strong></td><td></td><td></td><td></td></tr><tr><td>TDS default summary</td><td>3.77</td><td>2.63</td><td>1.60</td></tr><tr><td>Income Tax demands u/s 143(1)(a)</td><td>0.74</td><td>0.74</td><td>0.74</td></tr><tr><td>Goods and Service tax</td><td>0.25</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>4.76</strong></td><td><strong>3.37</strong></td><td><strong>2.34</strong></td></tr></tbody></table>
+
+385

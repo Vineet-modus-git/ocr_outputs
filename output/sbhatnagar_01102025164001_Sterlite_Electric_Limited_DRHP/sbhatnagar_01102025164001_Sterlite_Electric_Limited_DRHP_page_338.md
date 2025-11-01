@@ -1,0 +1,30 @@
+STERLITE ELECTRIC LIMITED (formerly known as Sterlite Power Transmission Limited)
+
+CIN: U74120PN2015PLC156643
+
+ANNEXURE-VI
+
+Notes to the Restated Consolidated Summary Statements
+(All amounts in Rupees million unless otherwise stated)
+
+whether to measure the non-controlling interests in the acquiree at fair value or at the proportionate share of the acquiree's identifiable net assets. Acquisition-related costs are expensed as incurred.
+
+At the acquisition date, the identifiable assets acquired, and the liabilities assumed are recognised at their acquisition date fair values. For this purpose, the liabilities assumed include contingent liabilities representing present obligation and they are measured at their acquisition fair values irrespective of the fact that outflow of resources embodying economic benefits is not probable. However, the following assets and liabilities acquired in a business combination are measured at the basis indicated below:
+
+* Deferred tax assets or liabilities, and the assets or liabilities related to employee benefit arrangements are recognised and measured in accordance with Ind AS 12 Income Tax and Ind AS 19 Employee Benefits respectively.
+
+* Potential tax effects of temporary differences and carry forwards of an acquiree that exist at the acquisition date or arise as a result of the acquisition are accounted in accordance with Ind AS 12.
+
+* Liabilities or equity instruments related to share based payment arrangements of the acquiree or share-based payments arrangements of the Group entered into to replace share-based payment arrangements of the acquiree are measured in accordance with Ind AS 102 Share-based Payments at the acquisition date.
+
+* Assets (or disposal groups) that are classified as held for sale in accordance with Ind AS 105 Non-current Assets Held for Sale and Discontinued Operations are measured in accordance with that standard.
+
+* Reacquired rights are measured at a value determined on the basis of the remaining contractual term of the related contract. Such valuation does not consider potential renewal of the reacquired right.
+
+The excess of the consideration transferred; amount of any non-controlling interest in the acquired entity, and acquisition-date fair value of any previous equity interest in the acquired entity over the fair value of the net identifiable assets acquired is recorded as an adjustment to the asset acquired. If those amounts are less than the fair value of the net identifiable assets, the difference is recognised recorded as an adjustment to the asset acquired. Where settlement of any part of cash consideration is deferred, the amounts payable in the future are discounted to their present value as at the date of exchange. The discount rate used is the entity's incremental borrowing rate, being the rate at which a similar borrowing could be obtained from an independent financier under comparable terms and conditions. Contingent consideration is classified either as equity or a financial liability. Amounts classified as a financial liability are subsequently remeasured to fair value with changes in fair value recognised in profit or loss. If the business combination is achieved in stages, the acquisition date carrying value of the acquirer's previously held equity interest in the acquiree is carried at cost at the acquisition date.
+
+When the Group acquires a business, it assesses the financial assets and liabilities assumed for appropriate classification and designation in accordance with the contractual terms, economic circumstances and pertinent conditions as at the acquisition date. This includes the separation of embedded derivatives in host contracts by the acquiree.
+
+If the business combination is achieved in stages, any previously held equity interest is re-measured at its acquisition date fair value and any resulting gain or loss is recognised in profit or loss or OCI, as appropriate.
+
+Any contingent consideration to be transferred by the acquirer is recognised at fair value at the acquisition date. Contingent consideration classified as an asset or liability that is a financial instrument and within the scope of Ind AS 109 Financial Instruments, is measured at fair value with changes in fair value recognised in profit or loss. If the contingent consideration is not within the scope of Ind AS 109, it is measured in

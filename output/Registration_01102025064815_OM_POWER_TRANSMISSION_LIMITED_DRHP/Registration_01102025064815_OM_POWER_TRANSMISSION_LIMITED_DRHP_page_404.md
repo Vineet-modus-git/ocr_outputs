@@ -1,0 +1,21 @@
+<table><thead><tr><th>Sr. No.</th><th>Issue name</th><th>Issue size (in ₹ crore)</th><th>Issue price (₹)</th><th>Listing date</th><th>Opening price on listing date (in ₹)</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 30th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 90th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 180th calendar days from listing</th></tr></thead><tbody><tr><td>8.</td><td>Monarch Surveyors And Engineering Consultants Limited</td><td>93.75</td><td>250.00</td><td>July 29, 2025</td><td>421.25</td><td>+12.62% (-0.68%)</td><td>N.A.</td><td>N.A.</td></tr><tr><td>9.</td><td>BLT Logistics Limited</td><td>9.72</td><td>75.00</td><td>August 11, 2025</td><td>90.95</td><td>-22.27% (+0.62%)</td><td>N.A.</td><td>N.A.</td></tr><tr><td>10.</td><td>Connplex Cinemas Ltd</td><td>90.27</td><td>177.00</td><td>August 14, 2025</td><td>195.00</td><td>+11.41% (+1.96%)</td><td>N.A.</td><td>N.A.</td></tr><tr><td>11.</td><td>Jay Ambe Supermarkets Limited</td><td>18.45</td><td>78.00</td><td>September 17, 2025</td><td>79.00</td><td>N.A.</td><td>N.A.</td><td>N.A.</td></tr></tbody></table>
+
+### MAIN BOARD IPO:
+
+<table><thead><tr><th>Sr. No.</th><th>Issue name</th><th>Designated Stock Exchange</th><th>Issue size (in ₹ crore)</th><th>Issue price (₹)</th><th>Listing date</th><th>Opening price on listing date (in ₹)</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 30th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 90th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 180th calendar days from listing</th></tr></thead><tbody><tr><td>1.</td><td>Mamata Machinery Limited</td><td>BSE</td><td>179.35<sup>(1)</sup></td><td>243.00</td><td>December 27, 2024</td><td>600.00</td><td>+72.74% (-3.19%)</td><td>+44.81% (-1.79%)</td><td>+74.14% (+4.26%)</td></tr><tr><td>2.</td><td>Borana Weaves Limited</td><td>BSE</td><td>144.89</td><td>216.00</td><td>May 27, 2025</td><td>243.00</td><td>+1.82% (+1.68%)</td><td>+0.35% (-0.30%)</td><td>N.A.</td></tr><tr><td>3.</td><td>Shreeji Shipping Global Limited</td><td>BSE</td><td>410.71</td><td>252.00</td><td>August 26, 2025</td><td>271.85</td><td>-0.81% (+1.39%)</td><td>N.A.</td><td>N.A.</td></tr><tr><td>4.</td><td>Amanta Healthcare Limited</td><td>NSE</td><td>126.00</td><td>126.00</td><td>September 09, 2025</td><td>135.00</td><td>N.A.</td><td>N.A.</td><td>N.A.</td></tr></tbody></table>
+
+(1) A discount of ₹12 per Equity Share was offered to Eligible Employees bidding in the Employee Reservation Portion of Mamta Machinery Limited IPO.
+
+Source: Price Information www.bseindia.com and www.nseindia.com, Issue Information from respective Prospectus. In case of Main Board IPO, opening price information as disclosed on the website of the Designated Stock Exchange, change in closing price over the issue/offer price as disclosed on Designated Stock Exchange, and for change in closing price over the closing price as on the listing date, the CNX NIFTY or S&P BSE SENSEX is considered as the Benchmark Index as per the Designated Stock Exchange disclosed by the respective Issuer at the time of the issue, as applicable.
+
+**Note:**
+
+1. The S&P BSE Sensex and NSE Nifty are considered as the Benchmark.
+
+2. "Issue Price" is taken as "Base Price" for calculating % Change in Closing Price of the respective Issues on 30th / 90th/180th Calendar days from listing.
+
+3. "Closing Benchmark" on the listing day of respective scripts is taken as "Base Benchmark" for calculating % Change in Closing Benchmark on 30th / 90th/180th Calendar days from listing. Although it shall be noted that for comparing the scripts with Benchmark, the +/- % Change in Closing Benchmark has been calculated based on the Closing Benchmark on the same day as that of calculated for respective script in the manner provided in Note No. 4 below.
+
+4. In case 30th/ 90th/180th day is not a trading day, closing price on BSE/NSE of the previous trading day for the respective Scripts has been considered, however, if scripts are not traded on that previous trading day then last trading price has been considered.
+
+400

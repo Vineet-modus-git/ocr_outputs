@@ -1,0 +1,26 @@
+## Karnataka
+
+Karnataka has diverse renewable energy potential, especially in solar and wind, and was one of the first states to surpass 10 GW in renewable installations. REZs have been identified in districts like Tumkur, Chitradurga, and Ballari. The state benefits from coordinated efforts between local agencies and central planning bodies. Karnataka's RE growth is supported by hybrid energy development and smart grid initiatives. It continues to attract significant investment in renewable infrastructure.
+
+## Andhra Pradesh
+
+Andhra Pradesh's REZs leverage strong solar potential in Rayalaseema and wind corridors in southern districts. The state has actively partnered with central agencies to expand its transmission network and renewable integration. Land availability and low costs have made Andhra Pradesh attractive for utility-scale solar projects. It is also piloting solar-wind hybrid projects to improve grid stability. The state's renewable expansion aligns with national green energy corridors.
+
+### Transmission Planning with RE Zones:
+
+Transmission planning is a critical component of renewable energy zone development in India. To ensure that electricity generated in REZs reaches demand centers efficiently, the Central Electricity Authority (CEA) and Power Grid Corporation of India Ltd. (PGCIL) plan transmission systems well in advance of project commissioning. This includes dedicated green energy corridors, high-voltage substations, and inter-state lines designed to carry power from RE-rich states to load centers. Proactive transmission development reduces curtailment risks and enhances investor confidence in renewable energy projects.
+
+The transmission plans also include dynamic load flow analysis and scenario-based projections, helping to address intermittency concerns and avoid congestion. Several REZs are located in remote or low-demand areas, making long-distance, high-capacity transmission lines essential. Integration of technologies like High Voltage Direct Current (HVDC) systems and real-time monitoring tools allows better handling of variable renewable power. Such coordinated planning is crucial to meet India's national renewable energy targets and ensure seamless grid integration.
+
+### National Renewable Energy Zones Project (NREZP):
+
+The National Renewable Energy Zones Project (NREZP) is a collaborative initiative led by the Ministry of Power, MNRE, and supported by the U.S. Agency for International Development (USAID). The project's primary objective is to identify high-potential renewable energy zones and align them with necessary transmission infrastructure development. The NREZP adopts a systematic approach to mapping India's renewable resources and ensures early-stage planning for land use, transmission corridors, and environmental considerations.
+
+Under NREZP, over 8 lakh hectares of land have been assessed for renewable potential, and multiple high-capacity zones have been identified for phased development. The project integrates state and central planning, reducing delays in project execution and optimizing cost efficiency. By aligning generation and evacuation in one framework, NREZP ensures the smooth rollout of large-scale renewable projects.
+
+Steps taken by government to promote RE in the country:
+
+* Waiver of Inter State Transmission System (ISTS) charges for inter-State sale of solar and wind power for projects to be commissioned by 30th June 2025 and graded ISTS charges thereafter;
+* Declaration of trajectory for Renewable Purchase Obligation (RPO) up to the year 2030;
+* Launch of new schemes and programs, including Development of Solar Parks and Ultra Mega Solar Power Projects Scheme, Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan Yojana (PM-KUSUM), Grid Connected Solar Rooftop Programme, CPSU Scheme Phase-II (Government Producer Scheme), Production Linked Incentive Scheme under 'National Programme on High Efficiency Solar PV Modules, National Bioenergy Programme, Renewable Energy Research and Technology Development (RE-RTD) Programme, Schemes for incentives on electrolyser manufacturing and Green Hydrogen production under the National Green Hydrogen Mission;
+* Setting up of Ultra Mega Renewable Energy Parks to provide land and transmission to RE developers on a plug and play basis;

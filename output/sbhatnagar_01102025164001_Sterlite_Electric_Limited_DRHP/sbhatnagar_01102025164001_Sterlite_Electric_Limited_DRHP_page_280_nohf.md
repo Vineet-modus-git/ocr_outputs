@@ -1,0 +1,29 @@
+F. Anti-dilution: Investors are entitled to proportionate anti-dilution protection in case, new investors are issued shares at a price lower than thresholds mentioned in the Shareholders' Agreement on any issuance of new securities by our Company.
+
+G. Tag-along rights: If Twin Star Overseas Limited proposes to undertake a Substantial Sale, Investors have the tag along right to transfer their tag along securities.
+
+H. Right of first offer: If an Investor proposes to transfer their securities held by them in our Company to any competitor of our Company, as defined in the Shareholders' Agreement, they will be required to provide a right of first offer to Twin Star Overseas Limited.
+
+I. Information, access and inspection rights: Our Company is required to provide certain information, access and inspection rights to GEF and Volrado, inter-alia, right to receive management internal reports, annual audited consolidated financial statements, monthly management information systems, quarterly unaudited consolidated financial results and copies of pending or threatened litigation, claims or disputes filed by or against our Company or notice or correspondence received from any governmental authority.
+
+In order to facilitate the Offer, in accordance with the applicable laws, the Parties have entered into the Waiver cum Amendment Agreement and provided waivers on certain provisions of the Shareholders' Agreement in relation to the Offer, inter-alia, from the date of this Draft Red Herring Prospectus:
+
+(i) right of the Investors with respect to anti-dilution;
+
+(ii) right to transfer securities by Twin Star Overseas Limited, to the extent of creation of lock-in in relation to the minimum public contribution required in connection with the Offer and participation in the Offer for Sale; and
+
+(iii) tag along right and right of first offer in the event of a transfer to a competitor as defined in the Shareholders' Agreement.
+
+Further, the Parties have provided the following waivers on certain provisions of the Shareholders' Agreement in relation to the Offer, inter-alia, from the date of the Red Herring Prospectus:
+
+(i) right of GEF and Volrado to appoint observer on our Board and Identified Committees; and
+
+(ii) right of GEF and Volrado to have information and inspection rights being subject to applicable law, including the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015, as amended, to the extent applicable.
+
+Further, subject to applicable laws, including the provisions of the Companies Act and SEBI Listing Regulations, on and after the listing of Equity Shares on the Stock Exchanges ("Consummation of the Offer"), the Parties have agreed that our Company will undertake to take all necessary steps, to include as an agenda item a proposal to amend the Articles in the first shareholders' meeting immediately after Consummation of the Offer for their approval by way of special resolution to grant GEF the right to nominate 1 director to our Board, at all times till it (together with any of its affiliates) holds 4% of the total share capital of our Company on a fully diluted basis ("Company Undertaking").
+
+The Shareholders' Agreement, as amended by the Waiver cum Amendment Agreement, and the Waiver cum Amendment Agreement, shall terminate in its entirety without any further act or deed required by any Party, upon Consummation of the Offer, except for certain clauses such as the Company Undertaking, termination, confidentiality, assignment, dispute resolution, governing law and notice clause which will continue to survive the termination of the Shareholders' Agreement, as amended by the Waiver cum Amendment Agreement.
+
+Further, the Waiver cum Amendment Agreement shall stand terminated upon earlier of: (a) our Company, Twin Star Overseas Limited and Investors, jointly, deciding not to undertake the Offer; or (b) failure to achieve Consummation of the Offer for any reason whatsoever including if the Offer is withdrawn or abandoned or is unsuccessful for any reason including rejection by SEBI within 9 months from the date of filing this Draft Red Herring Prospectus.
+
+Part A and Part B of the Articles of Association of our Company shall co-exist with each other until the Consummation of the Offer. In the event of any inconsistency between Part A and Part B, the provisions of Part B shall prevail over Part A. However, all provisions of Part B, including the special rights available to the shareholders of our Company as per the Shareholders' Agreement, as amended by the Waiver cum Amendment Agreement, shall automatically terminate and will cease to have any force and effect on and from the Consummation of the Offer and the provisions of Part A of the Articles of Association shall continue to be in effect and be in force, without any further corporate action by our Company or by the Shareholders.

@@ -1,0 +1,13 @@
+## Employee stock option scheme and Employee stock purchase scheme
+
+Our Company does not have any employee stock option plan and employee stock purchase plan as on the date of this Draft Red Herring Prospectus.
+
+## Payment or benefits to officers of our Company (non-salary related)
+
+Except as stated under “Terms of appointment of our Managing Director” and “Terms of appointment of our Whole-Time Directors”, “Bonus or profit-sharing plan for the Directors” and “Bonus or profit-sharing plan for the Key Managerial Personnel and Senior Management”, no amount or benefit has been paid or given in the last two (2) years preceding the date of this Draft Red Herring Prospectus or is intended to be paid or given, other than any statutory payment or in the ordinary course of their employment, for services rendered as any officer of our Company including our Directors, Key Management Personnel and Senior Management. For further details, see to “Restated Financial Information - Note 37 – Related Party Transactions” on page 294 of this Draft Red Herring Prospectus.
+
+## Other confirmations
+
+There is no conflict of interest between the suppliers of raw materials and third-party service providers (which are crucial for operations of our Company) and any of our Directors or Key Managerial Personnel.
+
+There is no conflict of interest between the lessors of our immovable properties of our Company (which are crucial for operations of our Company), and any of our Directors or Key Managerial Personnel.

@@ -1,0 +1,23 @@
+for any delay beyond this period of 15 days. Further, the payment of processing fees to the SCSBs shall be undertaken pursuant to an application made by the SCSBs to the BRLM, and such application shall be made only after (i) unblocking of application amounts for each application received by the SCSB has been fully completed, and (ii) applicable compensation relating to investor complaints has been paid by the SCSB.
+
+The following compensation mechanism shall be applicable for investor grievances in relation to Bids made through the UPI Mechanism, for which the relevant SCSBs shall be liable to compensate the investor:
+
+<table><thead><tr><td>Scenario</td><td>Compensation amount</td><td>Compensation period</td></tr></thead><tbody><tr><td>Delayed unblock for cancelled / withdrawn / deleted applications</td><td>₹ 100 per day or 15% per annum of the Bid Amount, whichever is higher</td><td>From the date on which the request for cancellation / withdrawal / deletion is placed on the bidding platform of the Stock Exchanges till the date of actual unblock</td></tr><tr><td>Blocking of multiple amounts for the same Bid made through the UPI Mechanism</td><td>1. Instantly revoke the blocked funds other than the original application amount; and<br>2. ₹ 100 per day or 15% per annum of the total cumulative blocked amount except the original Bid Amount, whichever is higher</td><td>From the date on which multiple amounts were blocked till the date of actual unblock</td></tr><tr><td>Blocking more amount than the Bid Amount</td><td>1. Instantly revoke the difference amount, i.e., the blocked amount less the Bid Amount; and<br>2. ₹ 100 per day or 15% per annum of the difference amount, whichever is higher</td><td>From the date on which the funds to the excess of the Bid Amount were blocked till the date of actual unblock</td></tr><tr><td>Delayed unblock for non – Allotted/ partially Allotted applications</td><td>₹ 100 per day or 15% per annum of the Bid Amount, whichever is higher</td><td>From the Working Day subsequent to the finalisation of the Basis of Allotment till the date of actual unblock</td></tr></tbody></table>
+
+Further, in the event there are any delays in resolving the investor grievance beyond the date of receipt of the complaint from the investor, for each day delayed, the post-Offer BRLM shall be liable to compensate the investor ₹ 100 per day or 15% per annum of the Bid Amount, whichever is higher. The compensation shall be payable for the period ranging from the day on which the investor grievance is received till the date of actual unblock.
+
+## Disposal of investor grievances by our Company
+
+Our Company estimates that the average time required by our Company or the Registrar to the Offer or the relevant Designated Intermediary, for the redressal of routine investor grievances shall be 10 Working Days from the date of receipt of the complaint. In case of non-routine complaints and complaints where external agencies are involved, our Company will seek to redress these complaints as expeditiously as possible.
+
+Our Company has also constituted a Stakeholders' Relationship Committee to review and redress the shareholders and investor grievances such as transfer of Equity Shares, non-recovery of balance payments, declared dividends, approve subdivision, consolidation, transfer, and Offer of duplicate shares. For details of our Stakeholders' Relationship Committee, see "*Our Management - Stakeholders' Relationship Committee*" on page 273.
+
+Our Company has also appointed Ravikant, Company Secretary of our Company, as the compliance officer for the Offer. For details, "*General Information- Company Secretary and Compliance Officer*" on page 89.
+
+Our Company has not received any investor complaint during the three years preceding the date of this Draft Red Herring Prospectus. Further, no investor complaint in relation to our Company is pending as on the date of this Draft Red Herring Prospectus.
+
+## Other confirmations
+
+No person connected with the Offer, except for fees or commission for services rendered in relation to the Offer, shall offer any incentive, whether direct or indirect, in any manner, whether in cash or kind or services or otherwise to any Bidder for making a Bid.
+
+403

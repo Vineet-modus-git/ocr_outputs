@@ -1,0 +1,23 @@
+# SECTION VII – ISSUE RELATED INFORMATION
+
+## TERMS OF THE ISSUE
+
+The Equity Shares being offered, Allotted and transferred pursuant to the Issue shall be subject to the provisions of the Companies Act, the SEBI ICDR Regulations, the SCRA, the SCRR, the Memorandum of Association, the Articles of Association, the SEBI Listing Regulations, the terms of the Red Herring Prospectus and the Prospectus, the Bid cum Application Form, the Revision Form, the Abridged Prospectus and other terms and conditions as may be incorporated in the CAN (for Anchor Investors), Allotment Advice and other terms and conditions as may be incorporated in the Allotment Advice and other documents and certificates that may be executed in respect of the Issue. The Equity Shares shall also be subject to applicable laws, guidelines, rules, notifications and regulations relating to the issue of capital, and listing and trading of securities, issued from time to time, by SEBI, the Government of India, the Stock Exchanges, the RoC, the RBI and/or other authorities, as in force on the date of the Issue and to the extent applicable or such other conditions as may be prescribed by SEBI, the Government of India, the Stock Exchange, the RoC, the RBI and/or other governmental, statutory or regulatory authorities while granting approval for the Issue, to the extent and for such time as these continue to be applicable.
+
+### The Issue
+
+The Issue comprises a Fresh Issue by our Company. The fees and expenses for the Issue shall be borne by our Company in the manner specified in "*Objects of the Issue – Issue related expenses*" on page 128.
+
+### Ranking of Equity Shares
+
+The Equity Shares being offered, Allotted/transferred pursuant to the Issue shall be subject to the provisions of the Companies Act, SEBI Listing Regulations, SEBI ICDR Regulations, SCRA read with SCRR, the Memorandum of Association and the Articles of Association and will rank *pari passu* in all respects with the existing Equity Shares of our Company, including in respect of rights to receive dividends, voting and other corporate benefits, if any, declared by our Company after the date of Allotment in accordance with applicable law. For more information, see "*Description of Equity Shares and terms of the Articles of Association*" beginning on page 449.
+
+### Mode of Payment of Dividend
+
+Our Company shall pay dividends, if declared, to the Shareholders, as per the provisions of the Companies Act 2013, the SEBI Listing Regulations, the Memorandum of Association and the Articles of Association, and any other applicable law including any guidelines or directives that may be issued by the Government of India in this respect. All dividends declared by our Company after the date of Allotment in this Issue, will be payable to the Allottees who have been Allotted Equity Shares in the Issue, for the entire year, in accordance with applicable laws. For more information, see "*Dividend Policy*" and "*Description of Equity Shares and terms of the Articles of Association*" beginning on pages 270 and 449, respectively.
+
+### Face Value, Issue Price, Floor Price and Price Band
+
+The face value of each Equity Share is ₹10 and the Issue Price at the lower end of the Price Band is ₹[●] per Equity Share and at the higher end of the Price Band is ₹[●] per Equity Share. The Issue Price is ₹[●] per Equity Share. The Anchor Investor Issue Price is ₹[●] per Equity Share.
+
+The Issue Price, the Price Band and the minimum Bid Lot will be decided by our Company in consultation with the BRLM, and published by our Company in all edition of [●] (a widely circulated English national daily newspaper), all edition of [●] (a widely circulated Hindi national daily newspaper), and all edition of [●] (a widely circulated Tamil Regional Daily newspaper) (Tamil being the regional language of Tamil Naidu where our Registered Office is located) each with wide circulation, at least two Working Days prior to the Bid/ Issue Opening Date, and shall be made available to the Stock Exchanges for the purpose of uploading the same on their websites. The Price Band, along with the relevant financial ratios calculated at the Floor Price and at the Cap Price shall be pre-filled in the Bid-cum-Application Forms available at the respective websites of the Stock Exchanges. The Issue Price shall be determined by our Company in consultation with the BRLM, after the Bid / Issue Closing Date, on the basis of assessment of market demand for the Equity Shares issued by way of Book Building Process.

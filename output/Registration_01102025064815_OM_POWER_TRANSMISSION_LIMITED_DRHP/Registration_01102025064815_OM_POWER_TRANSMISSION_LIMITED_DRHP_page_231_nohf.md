@@ -1,0 +1,25 @@
+arrange, direct, manage, inspect, and test project works. In the case of government projects, responsibility for statutory approvals typically lies with the concerned authority, whereas in private sector projects, such responsibility rests with us.
+
+During the last three Fiscals, we have successfully designed, engineered, and constructed more than 400 CKM of transmission lines across voltage levels ranging from 11 kV to 400 kV. As of August 31, 2025, our Order Book for transmission line EPC projects comprised 26 projects with an aggregate value of ₹ 46,710.99 lakhs.
+
+## Substation EPC Projects:
+
+Our Company provides end-to-end services for substation projects, encompassing design, supply, erection, testing, commissioning, and civil works for both conventional and renewable energy evacuation substations. We have also executed Air Insulated Substation (“AIS”) and Gas Insulated Substation (“GIS”) along with SCADA monitoring system as per the requirements of our customers. We have extensive experience delivering substation EPC solutions ranging from 66 kV to 220 kV. We are also accredited as a licensed contractor with a state transmission utility in Gujarat, authorizing us to execute high-voltage substations up to 220 kV.
+
+During the last three Fiscals, we have successfully completed more than 14 substation EPC projects. As of August 31, 2025, our Order Book for substation EPC projects comprised 14 projects with an aggregate value of ₹ 20,043.16 lakhs.
+
+## Underground Cable Projects:
+
+We undertake underground cabling projects for high voltage (“HV”) and extra high voltage (“EHV”) power systems, providing comprehensive services such as trenching, cable laying, jointing, and termination. Underground Cable Projects is part of transmission infrastructure and are implemented where overhead transmission lines are not feasible due to space constraints or safety concerns. They ensure safe, reliable, and uninterrupted power supply by reducing exposure to environmental factors, minimizing right-of-way issues, and lowering the risk of outages caused by storms, high winds, or other external impacts. (Source: D&B Report.)
+
+During the last three Fiscals, we have successfully completed more than 50 CKM underground cabling projects. As of August 31, 2025, our Order Book for underground cabling projects comprised 10 projects with an aggregate value of ₹ 7,331.94 lakhs.
+
+## Operation and Maintenance Services:
+
+We provide long-term operation and maintenance (O&M) services for substations and transmission lines, ensuring continuous availability and reliability of assets. Additionally, we have an in-house testing team equipped with specialised equipments allows us to conduct essential quality and performance tests across various stages. Our scope includes corrective preventive actions, daily, routine, and periodical condition based maintenance, round the clock monitoring of system, real time data logging, and safe and secure operation of equipments and up keeping of premises as per Central Board of Irrigation and Power (“CBIP”) standard norms and Original Equipment Manufacturer (“OEM”) guidelines.
+
+As of August 31, 2025, our Order Book for Operation and Maintenance comprised 06 projects with an aggregate value of ₹ 3,533.26 lakhs.
+
+The table below sets forth our revenue contribution and such revenue as percentage of revenue from operations from each of our business verticals for the Fiscals indicated.
+
+<table><thead><tr><th rowspan="2">Revenue from operations by service offering</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th></tr></thead><tbody><tr><td>Transmission Lines EPC projects</td><td>14,465.63</td><td>51.77%</td><td>10,727.20</td><td>58.70%</td><td>7,272.00</td><td>60.48%</td></tr><tr><td>Substation EPC projects</td><td>2,324.76</td><td>8.32%</td><td>1,353.61</td><td>7.41%</td><td>1,394.27</td><td>11.60%</td></tr><tr><td>Underground Cabling projects</td><td>7,955.63</td><td>28.47%</td><td>3,147.91</td><td>17.22%</td><td>1,281.60</td><td>10.66%</td></tr><tr><td>Operation and Maintenance services</td><td>3,129.62</td><td>11.20%</td><td>2,986.57</td><td>16.34%</td><td>2,069.41</td><td>17.21%</td></tr><tr><td>Other Operating revenue</td><td>67.87</td><td>0.24%</td><td>60.87</td><td>0.33%</td><td>6.35</td><td>0.05%</td></tr><tr><td><strong>Total</strong></td><td><strong>27,943.51</strong></td><td><strong>100.00%</strong></td><td><strong>18,276.16</strong></td><td><strong>100.00%</strong></td><td><strong>12,023.63</strong></td><td><strong>100.00%</strong></td></tr></tbody></table>

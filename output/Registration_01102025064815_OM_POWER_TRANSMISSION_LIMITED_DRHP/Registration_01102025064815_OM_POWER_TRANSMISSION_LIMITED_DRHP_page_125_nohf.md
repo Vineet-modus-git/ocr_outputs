@@ -1,0 +1,25 @@
+<table><thead><tr><th>Particulars</th><th>Fiscal 2026</th><th>Fiscal 2027</th><th>Fiscal 2028</th></tr></thead><tbody><tr><td>Trade payables (including MSMEs and Other than MSMEs)</td><td>6,202.90</td><td>8,145.03</td><td>10,903.64</td></tr><tr><td>Other Financial Liabilities</td><td>199.05</td><td>194.07</td><td>189.22</td></tr><tr><td>Short-term provisions</td><td>8.25</td><td>8.04</td><td>7.84</td></tr><tr><td>Other Current liabilities</td><td>531.46</td><td>518.18</td><td>505.22</td></tr><tr><td><strong>Total Current Liabilities (C)</strong></td><td><strong>6,941.66</strong></td><td><strong>8,865.32</strong></td><td><strong>11,605.92</strong></td></tr><tr><td><strong>Net Working Capital (A+B-C)</strong></td><td><strong>15,058.40</strong></td><td><strong>24,946.13</strong></td><td><strong>36,523.89</strong></td></tr><tr><td colspan="4"><strong>Source of Funds</strong></td></tr><tr><td>Internal Accruals/Borrowings availed by our Company</td><td>15,058.40</td><td>22,446.13</td><td>31,023.89</td></tr><tr><td>Net Proceeds from Fresh Issue</td><td>-</td><td>2,500.00</td><td>5,500.00</td></tr></tbody></table>
+
+Note: As certified by Statutory Auditors O.M.M.S & Associates by way of its certificate dated September 30, 2025.
+
+## Holding levels and key assumptions for working capital requirements
+
+The following table sets forth the details of the holding period (with days rounded to the nearest whole number) considered for Fiscal 2025, Fiscal 2024 and Fiscal 2023, on the basis of Restated Financial Statements, as well as estimated for Fiscal 2026, Fiscal 2027 and Fiscal 2028.
+
+<table><thead><tr><th>Particulars</th><th>Fiscal 2023</th><th>Fiscal 2024</th><th>Fiscal 2025</th><th>Fiscal 2026</th><th>Fiscal 2027</th><th>Fiscal 2028</th></tr></thead><tbody><tr><td><strong>Current Assets</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Number of Days of Trade Receivables<sup>(1)</sup></td><td>176</td><td>140</td><td>118</td><td>118</td><td>124</td><td>124</td></tr><tr><td>Number of Days for Inventory<sup>(2)</sup></td><td>9</td><td>4</td><td>11</td><td>8</td><td>8</td><td>8</td></tr><tr><td>Number of Days of Other Financial Assets (Including Non-Current) <sup>(3)</sup></td><td>86</td><td>59</td><td>46</td><td>44</td><td>48</td><td>48</td></tr><tr><td>Number of Days of Other Current Assets <sup>(4)</sup></td><td>6</td><td>4</td><td>7</td><td>5</td><td>5</td><td>5</td></tr><tr><td><strong>Current Liability</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Number of Days for Trade Payables <sup>(5)</sup></td><td>86</td><td>63</td><td>68</td><td>56</td><td>51</td><td>47</td></tr><tr><td>Number of Days for Other Financial Liabilities <sup>(6)</sup></td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>Number of Days for Other Current liabilities <sup>(7)</sup></td><td>23</td><td>14</td><td>7</td><td>4</td><td>3</td><td>2</td></tr></tbody></table>
+
+Note: As certified by Statutory Auditors by way of its certificate dated September 30, 2025.
+
+1. Trade Receivables days are calculated as Trade receivables at the end of the year divided by revenue from operations for the year multiplying by no. of days in a year.
+
+2. Inventories days are calculated as Inventory at end of the year divided by cost of goods sold for the year multiplying by no. of days in a year.
+
+3. Other Financial Assets (Including Non-Current) days calculated as Other Financial Assets (Including Non-Current) at the end of the year divided by Revenue from operations for the year multiplying by no. of days in a year.
+
+4. Other current assets days calculated as Other current assets at the end of the year divided by Revenue from operations for the year multiplying by no. of days in a year.
+
+5. Trade Payable days calculated as Trade Payables at the end of the year divided by cost of goods sold for the year multiplying by no. of days in a year.
+
+6. Other financial liabilities days calculated as Other financial liabilities at the end of the year divided by Revenue from operations for the year multiplying by no. of days in a year.
+
+7. Other current liabilities days calculated as Other current liabilities at the end of the year divided by Revenue from operations for the year multiplying by no. of days in a year.

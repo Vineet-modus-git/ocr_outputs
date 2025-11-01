@@ -1,0 +1,25 @@
+to be provided by the Stock Exchanges.
+
+In case of any discrepancy in the data entered in the electronic book vis-à-vis the data contained in the physical Bid cum Application Form, for a particular Bidder, the details as per the Bid file received from the Stock Exchanges shall be taken as the final data for the purpose of Allotment.
+
+Our Company, in consultation with the Book Running Lead Manager, reserves the right to revise the Price Band during the Bid/ Offer Period in accordance with the SEBI ICDR Regulations. The revision in the Price Band shall not exceed 20% on either side, i.e. the Floor Price can move up or down to the extent of 20% of the Floor Price and the Cap Price will be revised accordingly, but the Floor Price shall not be less than the Face Value of the Equity Shares. In all circumstances, the Cap Price shall be less than or equal to 120% of the Floor Price. Provided that, the Cap Price of the Price Band shall be at least 105% of the Floor Price.
+
+**In case of any revision to the Price Band, the Bid/ Offer Period will be extended by at least three additional Working Days following such revision of the Price Band, subject to the Bid/ Offer Period not exceeding 10 Working Days. In cases of force majeure, banking strike or similar circumstances, our Company, in consultation with the BRLM, for reasons to be recorded in writing, extend the Bid/Offer Period for a minimum of three Working Days, subject to the Bid/Offer Period not exceeding 10 Working Days. Any revision in the Price Band and the revised Bid/Offer Period, if applicable, will be widely disseminated by notification to the Stock Exchanges, by issuing a public notice and at the terminals of the Syndicate Members and by intimation to SCSCBs, other Designated Intermediaries and the Sponsor Bank(s), as applicable. In case of revision of Price Band, the Bid Lot shall remain the same.**
+
+The Designated Intermediaries shall modify select fields uploaded in the Stock Exchange platform during the Bid/ Offer Period till 5.00 pm on the Bid/ Offer Closing Date after which the Stock Exchange(s) send the bid information to the Registrar to the Offer for further processing.
+
+**Minimum Subscription**
+
+In the event our Company does not receive (i) a minimum subscription of 90% of the Offer, and (ii) a subscription in the Offer as specified under Rule 19(2)(b) of the SCRR, including through devolvement of Underwriters, as applicable, within sixty (60) days from the date of Bid/Offer Closing Date, or if the subscription level falls below the thresholds mentioned above after the Bid/Offer Closing Date, on account of withdrawal of applications or after technical rejections or any other reason, or if the listing or trading permission is not obtained from the Stock Exchanges for the Equity Shares being issued under the Red Herring Prospectus, our Company shall forthwith refund the entire subscription amount received in accordance with applicable law including the SEBI ICDR Master Circular. If there is a delay beyond two Working Days, our Company and every Director of our Company who is an officer in default, to the extent applicable, shall pay interest at the rate of 15% per annum, in accordance with the circulars issued by SEBI, including SEBI ICDR Master Circular and the SEBI ICDR Regulations.
+
+Subject to applicable law, in the event of under-subscription in the Offer, the Equity Shares will be allotted in the following order: (i) such number of Equity Shares comprising 90% of the Fresh Issue, or such other number as required to comply with the minimum subscription to be received in the Offer under applicable law, will be Allotted prior to the sale of Equity Shares in the Offer for Sale; (ii) next all the Equity Shares held by the Promoter Selling Shareholders and offered for sale in the Offer will be Allotted in proportion to their respective Equity Shares being offered for sale; and (iii) once Equity Shares have been Allotted as per (i) and (ii) above, such number of Equity Shares will be Allotted by our Company towards the remaining 10% of the Fresh Issue.
+
+Undersubscription, if any, in any category except the QIB Portion, would be met with spill-over from the other categories at the discretion of our Company, in consultation with the Book Running Lead Manager, and the Designated Stock Exchange.
+
+Further, in terms of Regulation 49(1) of the SEBI ICDR Regulations, our Company shall ensure that the number of Bidders to whom the Equity Shares will be Allotted will be not less than 1,000 failing which the entire application money shall be unblocked in the respective ASBA Accounts of the Bidders. In case of delay, if any, in unblocking the ASBA Accounts within such timeline as prescribed under applicable laws, our Company shall be liable to pay interest on the application money in accordance with applicable laws.
+
+**Arrangement for disposal of odd lots**
+
+Since our Equity Shares will be traded in dematerialised form only and the market lot for our Equity Shares will be one Equity Share, no arrangements for disposal of odd lots are required.
+
+**New Financial Instruments**

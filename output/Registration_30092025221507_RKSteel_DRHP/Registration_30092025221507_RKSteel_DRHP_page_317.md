@@ -1,0 +1,29 @@
+R.K. STEEL MANUFACTURING COMPANY LIMITED
+
+CIN: U24106TN2006PLC059519
+
+Annexure VI - Notes to Restated Ind AS Summary Statements
+
+(All amounts in Rs. lakhs, except as otherwise stated)
+
+46 Other Statutory Information cont.
+
+(xiv) The quarterly returns/statements of current assets filed by the Company with banks for borrowings are consistent with the books of accounts, except for the discrepancies listed below.
+
+Closing Stock
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2022-23</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>10,099.86</td><td>10,099.86</td><td>-</td><td>-</td></tr><tr><td>September</td><td>8,881.60</td><td>8,881.60</td><td>-</td><td>-</td></tr><tr><td>December</td><td>11,579.12</td><td>11,579.12</td><td>-</td><td>-</td></tr><tr><td>March</td><td>12,997.69</td><td>12,997.69</td><td>-</td><td>-</td></tr></tbody></table>
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2023-24</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>10,868.94</td><td>10,868.94</td><td>-</td><td>-</td></tr><tr><td>September</td><td>8,881.60</td><td>8,881.60</td><td>-</td><td>-</td></tr><tr><td>December</td><td>12,573.21</td><td>12,573.21</td><td>-</td><td>-</td></tr><tr><td>March</td><td>14,633.61</td><td>14,633.61</td><td>-</td><td>-</td></tr></tbody></table>
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2024-25</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>15,802.13</td><td>15,802.13</td><td>-</td><td>-</td></tr><tr><td>September</td><td>20,907.49</td><td>20,907.49</td><td>-</td><td>-</td></tr><tr><td>December</td><td>16,295.20</td><td>16,295.20</td><td>-</td><td>-</td></tr><tr><td>March</td><td>20,907.49</td><td>20,907.50</td><td>-</td><td>-</td></tr></tbody></table>
+
+Book Debts
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2022-23</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>7,217.33</td><td>7,217.33</td><td>-</td><td>-</td></tr><tr><td>September</td><td>8,902.11</td><td>8,902.11</td><td>-</td><td>-</td></tr><tr><td>December</td><td>6,899.13</td><td>6,899.13</td><td>-</td><td>-</td></tr><tr><td>March</td><td>8,127.68</td><td>8,064.76</td><td>62.92</td><td>Advances adjusted</td></tr></tbody></table>
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2023-24</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>9,083.86</td><td>9,083.86</td><td>-</td><td>-</td></tr><tr><td>September</td><td>9,637.43</td><td>9,637.43</td><td>-</td><td>-</td></tr><tr><td>December</td><td>8,861.44</td><td>8,861.44</td><td>-</td><td>-</td></tr><tr><td>March</td><td>9,444.51</td><td>9,203.11</td><td>241.40</td><td>Advances adjusted</td></tr></tbody></table>
+
+<table><thead><tr><th rowspan="2">Quarter Ending</th><th colspan="2">2024-25</th><th rowspan="2">Difference</th><th rowspan="2">Reason for Discrepancy</th></tr><tr><th>Books of Account</th><th>Quarterly Return</th></tr></thead><tbody><tr><td>June</td><td>10,169.72</td><td>10,169.72</td><td>-</td><td>-</td></tr><tr><td>September</td><td>9,853.66</td><td>9,853.66</td><td>-</td><td>-</td></tr><tr><td>December</td><td>12,027.97</td><td>12,027.97</td><td>-</td><td>-</td></tr><tr><td>March</td><td>16,045.15</td><td>16,045.15</td><td>-</td><td>-</td></tr></tbody></table>
+
+316

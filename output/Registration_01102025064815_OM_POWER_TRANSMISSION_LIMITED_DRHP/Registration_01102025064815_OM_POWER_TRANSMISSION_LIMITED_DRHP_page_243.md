@@ -1,0 +1,25 @@
+materials are also shared with top management and key management persons to allow them to make a risk-informed decision while approving the final bid. We also estimate other indirect costs which may be involved in execution of the projects (such as our employees' salaries, rent, and equipment hire charges).
+
+We try to ensure that our pricing for projects is not only competitive but also reflective of the true value we provide. Before we bid for a project, our tendering department prepares cost estimates for the entire project, including direct costs (such as costs relating to construction materials, equipment and sub-contracting), indirect costs (such as employees' salaries) and finance costs (such as insurance and bank guarantee costs). After arriving at the total cost for the project, the entire costing exercise is reviewed by the key management team.
+
+### Award of tender:
+
+Once our Company is pre-qualified and the tender is awarded, we are typically invited by the customer for further negotiations on the terms and pricing of the contract. During this stage, our team engages in detailed discussions to align on the scope of work, timelines, commercial terms, and any project-specific considerations. These negotiations are crucial in ensuring mutual clarity and agreement on key deliverables and responsibilities. Upon successful conclusion of these negotiations, the customer issues a letter of award (LOA) to the Company, formally confirming the award of the contract and enabling us to initiate mobilization and execution planning for the project.
+
+## Planning, Execution and Closure
+
+### Planning
+
+* **Site visit** – Our project execution team will conduct a pre-bid site visit to evaluate the project location from a topographical and geological perspective and analyze aspects such as land contours, soil conditions. Further, in terms of accessibility, the transport routes are assessed by the project execution team for transport of material and equipment delivery. The project execution team further prepares a detailed report with photographs, measurements, and observations for the design team.
+
+* **Pre-start budget** – The pre-start budget includes a preliminary budget for the project based on scope and deliverables which include the estimation of direct costs (material, labour and equipment) and indirect costs (overheads, insurance, permits and contingencies.). Thereafter, the budget is reviewed by financial and project managers. The working methodology used by us includes the analysis of past project data and market rates, allocation of resources and costs for each phase of the project and also includes a contingency buffer for unforeseen expenses.
+
+* **Sub-contracting and construction materials** - This stage involves the identification and onboarding of subcontractors for specialized tasks basis their experience, capacity and certificates. Further, material procurement plans for purchasing high-quality construction material are formulated and delivery schedules are established to prevent delays. For the purposes of above, we issue tenders or requests for quotations (RFQs), perform quality checks on materials before procurement and develop a supply chain management plan for continuous availability.
+
+* **Project submission** – This stage includes the compilation of all necessary documents for projects approval or client submission, detailed designs, cost estimates, timelines are resource allocation. Thereafter we ensure that our activities are aligned with government regulations and client requirements. Additionally, we prepare project reports, drawings, presentations and conduct internal reviews for accuracy and completeness for forward submission to stakeholders for approval and feedback.
+
+* **Guarantees and insurance** – Based on the conditions of the tenders/contracts, we provide bank guarantees and also avail insurance policies such as worker safety and compensation, equipment damage and third-party liabilities. Performance or bank guarantees are provided after consultation with legal and financial advisors and insurance policies are availed after collaboration with insurance providers in order to avail suitable prices.
+
+* **Equipment planning** – This stage involves the type and quantity of equipment required for the project. Thereafter considering the project-specific equipment needs, we decide between purchasing or leasing equipment based on cost effectiveness.
+
+* **Manpower planning** - This stage involves the calculation of manpower requirements by role and phase (e.g., engineers, technicians, labourers). Skilled workers are hired, and tasks are assigned to them. We also conduct training programs and implement safety protocols. Further, we engage independent contractors through whom we engage contract labor for our project site operations. Such contract laborers provided by the independent contractors, carry our variety of functions at our project sites, such as excavation, loading and unloading of supply material, back filling and levelling.

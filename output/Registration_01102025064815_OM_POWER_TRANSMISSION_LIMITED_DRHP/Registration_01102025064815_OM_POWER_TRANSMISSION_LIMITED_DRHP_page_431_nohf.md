@@ -1,0 +1,25 @@
+corporate bodies and family offices, sponsored by the entities which are associate of the Book Running Lead Manager) nor (b) the Promoter, Promoter Group or any person related to the Promoter or members of the Promoter Group shall apply under the Anchor Investors category.
+
+11) Bids made by QIBs under both the Anchor Investor Portion and the QIB Portion will not be considered multiple Bids.
+
+For more information, please read the General Information Document.
+
+**The above information is given for the benefit of the Bidders. Our Company, the Promoter Selling Shareholders and the Book Running Lead Manager are not liable for any amendments or modification or changes in applicable laws or regulations, which may occur after the date of the Red Herring Prospectus, when filed. Bidders are advised to make their independent investigations and ensure that any single Bid from them does not exceed the applicable investment limits or maximum number of the Equity Shares that can be held by them under applicable laws or regulation and as specified in this Draft Red Herring Prospectus, the Red Herring Prospectus and the Prospectus when filed.**
+
+**In accordance with RBI regulations, OCBs cannot participate in the Offer.**
+
+**Information for Bidders**
+
+The relevant Designated Intermediary will enter a maximum of three Bids at different price levels opted in the Bid cum Application Form and such options are not considered as multiple Bids. It is the Bidder's responsibility to obtain the acknowledgment slip from the relevant Designated Intermediary. The registration of the Bid by the Designated Intermediary does not guarantee that the Equity Shares shall be allocated/Allotted. Such Acknowledgement Slip will be non-negotiable and by itself will not create any obligation of any kind. When a Bidder revises his or her Bid, he/she shall surrender the earlier Acknowledgement Slip and may request for a revised acknowledgment slip from the relevant Designated Intermediary as proof of his or her having revised the previous Bid.
+
+In relation to electronic registration of Bids, the permission given by the Stock Exchanges to use their network and software of the electronic bidding system should not in any way be deemed or construed to mean that the compliance with various statutory and other requirements by our Company and/or the BRLM are cleared or approved by the Stock Exchanges; nor does it in any manner warrant, certify or endorse the correctness or completeness of compliance with the statutory and other requirements, nor does it take any responsibility for the financial or other soundness of our Company, the management or any scheme or project of our Company; nor does it in any manner warrant, certify or endorse the correctness or completeness of any of the contents of this Draft Red Herring Prospectus or the Red Herring Prospectus; nor does it warrant that the Equity Shares will be listed or will continue to be listed on the Stock Exchanges.
+
+**Pre-Offer and Price Band Advertisement**
+
+Subject to Section 30 of the Companies Act, 2013, our Company will, after filing the Red Herring Prospectus with the RoC, publish a pre-Offer and Price Band advertisement, in the form prescribed by the SEBI ICDR Regulations, in all editions of [●], an English national daily newspaper and all editions of [●], a Hindi national daily newspaper and [●] editions of [●], Gujarati daily newspaper (Gujarati being the regional language of Gujarat, where the Registered and Corporate Office is located), each with wide circulation. Our Company shall, in the pre-Offer and Price Band advertisement state the Bid / Offer Opening Date, the Bid / Offer Closing Date and the QIB Bid / Offer Closing Date. This advertisement, subject to the provisions of Section 30 of the Companies Act, shall be in the format prescribed in Part A of Schedule X of the SEBI ICDR Regulations.
+
+**Allotment Advertisement**
+
+Our Company, the Book Running Lead Manager and the Registrar to the Offer shall publish an allotment advertisement before commencement of trading, disclosing the date of commencement of trading in: (i) all editions of [●], a widely circulated English national daily newspaper; (ii) all editions of [●], a widely circulated Hindi national daily newspaper and [●] editions of [●], Gujarati daily newspaper (Gujarati being the regional language of Gujarat, where the Registered and Corporate Office is located).
+
+The allotment advertisement shall be uploaded on the websites of our Company, the BRLM and the Registrar to the Offer, before 9:00 p.m. IST, on the date of receipt of the final listing and trading approval from all the Stock Exchanges where the Equity Shares are proposed to be listed, provided such final listing and trading approval from all the Stock Exchanges is received prior to 9:00 p.m. IST on that day. In an event, if final listing and trading approval from all the Stock Exchanges is received post 9:00 p.m. IST on the date of receipt of the final listing and trading approval from all

@@ -1,0 +1,35 @@
+* Power generators who do not offer their surplus power in the market will not be eligible to claim capacity or fixed charges corresponding to that surplus quantum.
+* Surplus power cannot be offered for sale in the power exchange at a price of more than 120% of the energy charge plus applicable transmission charge, to increase the likelihood of the surplus electricity getting purchased and utilized.
+* Amendments have been made to align the rules with statutory provisions related to accessing the national power grid, facilitating quicker restoration of access to the national grid for distribution companies facing curtailment of access due to payment defaults, once they settle their outstanding dues.
+
+These amendments aim to promote the optimal use of available power, ensure a reliable supply of electricity to all consumers, and prevent power generators from withholding surplus power from the market.
+
+## Viability Gap Funding
+
+The Department of Economic Affairs, under the Ministry of Finance, operates the Viability Gap Funding (VGF) scheme, which was initially introduced in 2005 and revamped in 2020. The scheme aims to support Public-Private Partnership (PPP) projects that are socially and economically desirable but may not be financially viable for private firms to invest in. The VGF scheme enables the expansion of public infrastructure projects into the social sector, including areas such as wastewater management, education, healthcare, and more.
+
+The VGF scheme provides financial support to PPP projects by subsidizing a portion of the total project cost. The current scheme allows for:
+
+* Up to 60% of the total project cost to be subsidized for projects in the social sector
+* Up to 80% of the total project cost to be subsidized for pilot projects in education and healthcare
+* Up to 40% of the total project cost as viability gap funding for all other sectors
+
+The scheme is administered by an empowered committee, which reviews and approves proposals before funds are disbursed.
+
+In recent years, the VGF scheme has been utilized to support various initiatives, including:
+
+* A separate VGF scheme for off-shore wind energy projects, launched in 2024, to boost renewable energy production in the country
+* The Union Cabinet's approval of the VGF scheme for Battery Energy Storage Systems (BESS) in September 2023, to support the development of BESS
+
+## The Electricity (Amendment) Bill, 2022
+
+The Electricity (Amendment) Bill, 2022, was introduced in the Lok Sabha on August 8, 2022, with the aim of amending the Electricity Act, 2003. The Act regulates the electricity sector in India, establishing the Central and State Electricity Regulatory Commissions (CERC and SERCs) to oversee inter-state and intra-state matters, respectively.
+
+The Bill introduces several significant changes to the Electricity Act, 2003, including:
+
+* **Multiple Discoms in the Same Area:** The Bill allows for multiple distribution licensees (discoms) to operate in the same area of supply, removing the requirement for discoms to distribute electricity through their own network. Instead, discoms must provide non-discriminatory open access to their network to other discoms operating in the same area, on payment of certain charges.
+* **Power Procurement and Tariff:** The Bill specifies that upon grant of multiple licenses for the same area, the power and associated costs as per existing power purchase agreements (PPAs) will be shared between all discoms. Discoms may enter into additional PPAs to meet additional power requirements, which need not be shared with other discoms.
+* **Cross-Subsidy Balancing Fund:** The Bill introduces a Cross-Subsidy Balancing Fund, which will be set up by the state government to finance deficits in cross-subsidy for discoms in the same area or other areas.
+* **License for Distribution in Multiple States:** The Bill empowers the CERC to grant licenses for distribution of electricity in more than one state.
+* **Payment Security:** The Bill provides that electricity will not be scheduled or despatched if adequate payment security is not provided by the discom.
+* **Contract Enforcement:** The Bill empowers the CERC and SERCs to adjudicate disputes related to the performance of contracts, including contracts related to the sale, purchase, or transmission of electricity.

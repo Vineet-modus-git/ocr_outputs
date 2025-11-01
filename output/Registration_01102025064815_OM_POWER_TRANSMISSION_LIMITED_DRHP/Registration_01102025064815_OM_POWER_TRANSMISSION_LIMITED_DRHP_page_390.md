@@ -1,0 +1,25 @@
+## SECTION VI: LEGAL AND OTHER INFORMATION
+
+### OUTSTANDING LITIGATIONS AND MATERIAL DEVELOPMENTS
+
+Except as disclosed in this section, there are no outstanding (i) criminal proceedings; (ii) actions taken by regulatory or statutory authorities including notices issued by such authorities; (iii) claims related to direct and indirect taxes; and (iv) any other outstanding litigation as determined to be material pursuant to the Materiality Policy in accordance with the SEBI ICDR Regulations in each case involving our Company, its Promoters, and Directors ("Relevant Parties"). Further, except as disclosed in this section, there are no disciplinary actions including penalties imposed by the SEBI or the stock exchanges against the Promoters in the last five financial years including any outstanding action. Further, as on the date of this Draft Red Herring Prospectus, there are no findings/observations of any inspections by SEBI or any other regulator involving our Company which are material and which need to be disclosed or non-disclosure of which may have bearing on the investment decision. Furthermore, except as disclosed in this section, as on the date of this Draft Red Herring Prospectus, there are no outstanding (i) criminal proceedings (including matters which are at FIR stage whether cognizance has been taken or not by any court or judicial authority) and (ii) actions (including all penalties and show cause notices) by statutory and/or regulatory authorities involving our KMPs and SMPs.
+
+There is no outstanding litigation involving our Group Company which would have a material impact on our Company.
+
+Pursuant to the Materiality Policy adopted by our Board on September 30, 2025, for the purposes of (iv) above, any pending litigation involving the Relevant Parties, has been considered 'material' and accordingly disclosed in this Draft Red Herring Prospectus where:
+
+(i) the monetary amount of claim/dispute to the extent quantifiable, in any such pending proceeding by or against any Relevant Party is equivalent to or in excess of: a) two percent of turnover, for the most recent Financial Year based on the Restated Financial Information; or b) two percent of net worth, as at the end of the most recent Financial Year based on the Restated Financial Information; or (c) five percent of the average of absolute value of profit or loss after tax, for the last three Financial Years based on the Restated Financial Information, whichever is lower. Accordingly, the threshold for materiality for disclosure in this section is five percent of the average of absolute value of profit or loss after tax, for the last three Financial Years based on the Restated Financial Information, being ₹59.56 lakhs (the "Materiality Threshold"); or
+
+(ii) where monetary liability is not quantifiable or does not exceed the Materiality Threshold mentioned in point (i) above, the outcome of any such pending proceedings may have a material bearing on the business, operations, performance, prospects, financial position, or reputation of our Company; or
+
+(iii) any claim/dispute involving the Relevant Parties where the decision in one litigation is likely to affect the decision in similar litigations, even though the amount involved in an individual litigation may not exceed the Materiality Threshold.
+
+Pre-litigation notices received by any of the Relevant Parties from third parties (excluding such notices issued by any statutory/ regulatory/ governmental/ taxation authorities or notices threatening criminal action) shall, unless otherwise decided by the Board, not be considered as litigation until such time that the Relevant Parties are impleaded as defendants or respondents in litigation proceedings before any judicial forum. Additionally, FIRs (whether cognizance has been taken or not) initiated against the Relevant Parties shall be disclosed.
+
+Except as stated in this section, there are no outstanding material dues to creditors of our Company. Further in terms of the Materiality Policy, a creditor shall be considered "material", if the outstanding dues to such creditor is equal to or exceeds 5% of total outstanding dues (trade payables) of our Company based on the Restated Financial Information. Accordingly, any outstanding dues exceeding ₹225.85 lakhs, which is 5% of the total trade payables of our Company as at March 31, 2025, have been considered as material outstanding dues for the purposes of disclosure in this section. Further, for outstanding dues to any party which is a micro, small or medium enterprise ("MSME"), the disclosure will be based on information available with our Company regarding the status of the creditor as defined under Micro, Small and Medium Enterprises Development Act, 2006, as amended read with the rules and notifications thereunder.
+
+#### I. Litigation involving our Company
+
+##### A. Litigation filed against our Company
+
+###### a. Criminal proceedings

@@ -1,0 +1,7 @@
+<table><thead><tr><td>Date of transfer</td><td>Transferor</td><td>Name of allotee/ transferee</td><td>No. of Equity shares transferred</td><td>Face value of Equity shares</td><td>Price per Equity Share/Nature of consideration</td></tr></thead><tbody><tr><td>30, 2023</td><td>Bhalotia</td><td>Bhalotia</td><td></td><td></td><td></td></tr></tbody></table>
+
+### 4. Issue of shares for consideration other than cash or out of revaluation of reserves
+
+Except as set out below, our Company has not issued any Equity Shares for consideration other than cash or out of revaluation of reserves at any time since incorporation.
+
+<table><thead><tr><td>Date of allotment</td><td>Number of Equity Shares allotted</td><td>Face value per Equity Share (₹)</td><td>Issue Price per Equity Share (₹)</td><td>Reason for allotment</td><td>No. of Allotees</td><td>Name of allottees</td><td>Benefits accrued to our Company</td></tr></thead><tbody><tr><td>September 30, 2024</td><td>1,41,15,180</td><td>10</td><td>Nil</td><td>Bonus Issue</td><td>9</td><td>Allotment of 51,98,640 Equity Shares to Pramod Kumar Bhalotia, 19,93,620 Equity Shares to Abhishek Bhalotia, 4,560 Equity Shares to S. MD. Fazlullah Basha, 2,67,060 Equity Shares to Dolly Bhalotia, 14,77,080 Equity Shares to Beena Bhalotia, 60,000 Equity shares to V.Anjali, 2,40,000 Equity Shares to Krishna Kumar Dhanuka, 2,400 Equity Shares to Ratanlal Bhalotia, Ratanlal Pramod Kumar Bhalotia HUF</td><td>Capitalization of reserves</td></tr></tbody></table>

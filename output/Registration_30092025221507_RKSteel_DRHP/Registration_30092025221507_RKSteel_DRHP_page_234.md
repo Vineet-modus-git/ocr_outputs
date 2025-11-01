@@ -1,0 +1,21 @@
+Factories Act, 1948 or a mine within the meaning of the Mines Act, 1952 or any place in which 100 or more persons are ordinarily likely to be assembled. An exception to the said rule is given by stating that the applicant shall apply by giving not less than 7 days' notice in writing of his intention to the Electrical Inspector and to the District Magistrate or the Commissioner of Police, as the case may be, containing the particulars of electrical installation and plant, if any, the nature and purpose of supply of such electricity. The Electricity Act also lays down the requirement of mandatory use of meters to regulate the use of electricity and authorises the Commission so formed under the Electricity Act, to determine the tariff for such usage. The Electricity Act also authorises the State Government to grant subsidy to the consumers or class of consumers it deems fit from paying the standard tariff required to be paid.
+
+**Industrial Disputes Act, 1947, as amended (the "ID Act")**
+
+The ID Act provides for a statutory mechanism of settlement of all industrial disputes, a term which primarily refers to a dispute or difference between employers and workmen concerning employment or the terms of employment or with the conditions of labour of any person. The Industrial Dispute (Central) Rules, 1957 inter-alia specify procedural guidelines for lock-outs, closures, layoffs and retrenchment.
+
+**Industrial Employment (Standing Orders) Act, 1946**
+
+In order to strengthen the bargaining powers of the workers this act is enacted, it requires the employers to formally define the working conditions to the employee. As per this act, an employer is required to submit five copies of standing orders required by him for adoption of his industrial establishment. An employer failing to submit the draft standing orders as required by this act shall be liable to pay fine as per section 13 of this act.
+
+**The Industrial Relations Code, 2020**
+
+The Industrial Relations Code, 2020 received the assent of the President of India on September 28, 2020 and it proposes to subsume three existing legislations, namely, the Industrial Disputes Act, 1947, the Trade Unions Act, 1926 and the Industrial Employment (Standing Orders) Act, 1946. The provisions of this Code will be brought into force on a date to be notified by the GoI.
+
+**B. Laws Relating to Employment**
+
+The various labour and employment related legislation that may apply to our operations, from the perspective of protecting the workers' rights and specifying registration, reporting and other compliances, and the requirements that may apply to us as an employer, would include, among others, the following: (i) Contract Labour (Regulation and Abolition) Act, 1970; (ii) Relevant state specific shops and commercial establishment legislations; (iii) Employees' Provident Funds and Miscellaneous Provisions Act, 1952; (iv) Employees' State Insurance Act, 1948; (v) Minimum Wages Act, 1948; (vi) Payment of Bonus Act, 1965; (vii) Payment of Gratuity Act, 1972; (viii) Payment of Wages Act, 1936; (ix) Maternity Benefit Act, 1961; (x) Apprenticeship Act, 1961; (xi) Equal Remuneration Act, 1976; (xii) Employees' Compensation Act, 1923; and (xiii) Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 In order to rationalize and reform labour laws in India, the Government has enacted the following codes:
+
+**Code on Wages, 2019**
+
+The Code on Wages regulates and amalgamates wage and bonus payments and subsumes four existing laws namely –the Payment of Wages Act, 1936, the Minimum Wages Act, 1948, the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976. It regulates, inter alia, the minimum wages payable to employees, the manner of payment and calculation of wages and the payment of bonus to employees. The Central Government has notified certain provisions of the Code on Wages, mainly in relation to the constitution of the central advisory board. Certain portions of the Code on Wages, 2019, have come into force upon notification by the Ministry of Labour and Employment. The remaining provisions of these codes shall become effective as and when notified by the Government of India.

@@ -1,0 +1,23 @@
+KEY INDUSTRY REGULATIONS AND POLICIES
+
+*The following description is a summary of the relevant regulations and policies as prescribed by the GoI and other regulatory bodies that are applicable to our business. The information detailed below has been obtained from various legislations, including rules and regulations promulgated by regulatory bodies, and the bye laws of the respective local authorities that are available in the public domain. The regulations set out below may not be exhaustive and are merely intended to provide general information to the shareholders and neither designed, nor intended to substitute for professional legal advice. For details of government approvals obtained by us, see the section titled "Government and Other Approvals" on page 349 of this Draft Red Herring Prospectus.*
+
+**Legal Metrology Act, 2009 ("LM Act") and the Legal Metrology (Packaged Commodities) Rules, 2011 ("Packaged Commodity Rules")**
+
+The Legal Metrology Act replaced the Standards of Weights and Measures Act, 1976 and the Standards of Weights and Measures (Enforcement) Act, 1985. The Legal Metrology Act seeks to establish and enforce standard weights and measures, regulate trade and commerce in weights, measures and other goods which are or distributed by weight, measure or number and for matters connected therewith or incidental thereto.
+
+The LM Act and rules framed thereunder regulate inter alia, the labelling and packaging of commodities, verification of weights and measures used, and lists penalties for offences and compounding of offences under it. The Controller of Legal Metrology Department is the competent authority to grant the license under the LM Act. Any manufacturer dealing instruments for weights and measuring of goods must procure a license from the state department under the LM Act. The key features of the Legal Metrology Act are (a) appointment of Government approved test centres for verification of weights and measures; (b) allowing the companies to nominate a Director who will be held responsible for breach of provisions of the Legal Metrology Act. Any non-compliance or violation of the provisions of the Legal Metrology Act may result in, among others, a monetary penalty on the manufacturer or seizure of goods or imprisonment in certain cases.
+
+**The Legal Metrology (National Standards) Rules, 2011 ("National Standards Rules")**
+
+The National Standards Rules was framed under Section 52(1) and (a), (b), (d), (e) of sub-section (2) of the LM Act and laid down specific regulations that govern the establishment and maintenance of national measurement standards in India. These rules are designed to ensure uniformity and accuracy in measurements across various sectors, protect consumer interests, and facilitate fair trade. The rules also align with international standards and recommendations, particularly those set by the International Organization of Legal Metrology.
+
+**Fire control and safety rules and regulations**
+
+We are subject to the fire control and safety rules and regulations framed by the state government of Maharashtra under the Maharashtra Fire Prevention and Life Safety Measures Act, 2006 and the state government of Tamil Nadu under the Tamil Nadu Fire and Rescue Services Act, 2025.
+
+**The Digital Personal Data Protection Act, 2023 ("Data Protection Act")**
+
+The Data Protection Act received the assent of the President of India on August 11, 2023, and the provisions of the Data Protection Act shall come into effect on such date as the Central Government may notify in the official gazette. The Data Protection Act provides for collection and processing of digital personal data by persons, including companies. The significant data fiduciaries, as defined under the Data Protection Act, will be required to appoint an independent data auditor who will evaluate their compliance with the Data Protection Act. The Central Government will also establish the Data Protection Board of India, whose key functions include: (i) monitoring compliance and imposing penalties, (ii) directing data fiduciaries to take necessary measures in the event of a data breach, and (iii) hearing grievances made by data principals. The Indian Ministry of Electronics and Information Technology has released the Draft Digital Personal Data Protection Rules, 2025 ("DPDP Rules") for public consultation. The DPDP Rules regulate the processing of personal data in India, ensuring individuals privacy rights are protected.
+
+**Environmental Laws**

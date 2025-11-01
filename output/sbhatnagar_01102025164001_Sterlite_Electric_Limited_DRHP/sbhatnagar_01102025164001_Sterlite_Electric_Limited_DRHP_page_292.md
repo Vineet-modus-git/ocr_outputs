@@ -1,0 +1,27 @@
+Company. For further details, see “- *Remuneration to our Directors*” on page 267.
+
+Our Directors may also be deemed to be interested to the extent of Equity Shares (together with dividends and other distributions in respect of such Equity Shares), held by them or held by the entities in which they are associated as promoters, directors, partners, proprietors or trustees or held by their relatives. For further details regarding the shareholding of our Directors, see “- *Shareholding of Directors in our Company*” on page 268.
+
+None of our Directors have any interest in any property acquired or proposed to be acquired by our Company.
+
+Except as stated in “*Other Financial Information – Related Party Transactions*” on page 427, no amount or benefit has been paid or given within the two years preceding the date of this Draft Red Herring Prospectus or is intended to be paid or given to any of our Directors.
+
+None of our Directors have any other interest in our Company or in any transaction by our Company including, for acquisition of land, construction of buildings or supply of machinery.
+
+No consideration in cash or shares or otherwise has been paid or agreed to be paid to any of our Directors or to the firms or companies in which they are interested, by any person, either to induce such Director to become or to help such Director to qualify as a Director, or otherwise for services rendered by him/her or by the firm or company in which he/she is interested, in connection with the promotion or formation of our Company.
+
+None of our Directors have any interest in the promotion or formation of our Company.
+
+None of our Directors have availed loans from our Company or given loans to our Company.
+
+## Changes to our Board in the last three years
+
+The details of the changes in our Board in the last three years preceding the date of this Draft Red Herring Prospectus are set forth below:
+
+<table><thead><tr><td>Name of the director</td><td>Date of appointment / cessation</td><td>Reason</td></tr></thead><tbody><tr><td>Sachin Nandgaonkar</td><td>September 28, 2025</td><td>Appointment as Non-Executive Independent Director (Additional)</td></tr><tr><td>Anupa Rajiv Sahney</td><td>September 28, 2025</td><td>Appointment as Non-Executive Independent Director (Additional)</td></tr><tr><td>Alampallam Ramakrishnan Narayanaswamy</td><td>September 28, 2025</td><td>Appointment as Non-Executive Independent Director (Additional)</td></tr><tr><td>Pravin Agarwal</td><td>September 26, 2025</td><td>Re-appointment as Non-Executive Director</td></tr><tr><td>Anoop Seth</td><td>September 19, 2025</td><td>Resignation as Non-Executive and Independent Director</td></tr><tr><td>Pooja Somani</td><td>September 27, 2025</td><td>Resignation as Non-Executive, Woman and Independent Director</td></tr><tr><td>Frederic Andre M Trefois</td><td>February 13, 2025</td><td>Appointment as Non-Executive Independent Director</td></tr><tr><td>Alipt Sharma</td><td>December 12, 2024</td><td>Appointment as Nominee Director (Non-Executive Non Independent)</td></tr><tr><td>Alampallam Ramakrishnan Narayanaswamy</td><td>July 21, 2024</td><td>Resignation as Non-Executive and Independent Director</td></tr><tr><td>Pratik Pravin Agarwal</td><td>June 1, 2024</td><td>Re-appointment as Managing Director</td></tr><tr><td>Reshu Madan</td><td>June 1, 2024</td><td>Appointment as Whole Time Director</td></tr><tr><td>Manish Agarwal</td><td>May 31, 2024</td><td>Resignation in the capacity of Whole Time Director</td></tr><tr><td>Anoop Seth</td><td>April 2, 2024</td><td>Re-appointment as Non-Executive and Independent Director</td></tr><tr><td>Anoop Seth</td><td>October 19, 2023</td><td>Resignation as Non-Executive and Independent Director</td></tr><tr><td>Pooja Somani</td><td>September 30, 2023</td><td>Appointment as Non-executive, Woman and Independent Director</td></tr><tr><td>Pravin Agarwal</td><td>September 29, 2023</td><td>Re-appointment as director</td></tr><tr><td>Kamaljeet Kaur</td><td>June 28, 2023</td><td>Resignation as Whole Time Director</td></tr></tbody></table>
+
+*Note: This table does not include details of regularizations of additional Directors.*
+
+## Borrowing powers
+
+In accordance with our Articles of Association and the applicable provisions of the Companies Act, and pursuant to a resolution passed by our Board in its meeting held on September 4, 2023, and a resolution passed by our Shareholders at their annual general meeting held on September 29, 2023, our Board is authorized to borrow a sum or sums of money, which together with the monies already borrowed by our Company, apart from temporary loans obtained from the Company's banker in the ordinary course of business, from time to time, from banks, financial institutions, nonbanking financial institutions, body corporates, multilateral agencies, export import banks and/or any other person(s)/party(ies), in excess of our Company's aggregate paid-up capital, free reserves and securities premium of the Company, provided that the total amount so borrowed shall not in aggregate at any one time exceed ₹ 130,000.00 million.

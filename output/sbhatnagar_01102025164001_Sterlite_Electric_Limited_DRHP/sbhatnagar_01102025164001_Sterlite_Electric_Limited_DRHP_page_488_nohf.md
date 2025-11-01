@@ -1,0 +1,7 @@
+Our business is not seasonal or cyclical in nature.
+
+**Significant Developments after March 31, 2025, that may Affect our Future Results of Operations**
+
+Except as disclosed below, no circumstances have arisen since March 31, 2025, that could materially and adversely affect or are likely to affect, our operations, trading or profitability, or the value of our assets or our ability to pay our material liabilities within the next 12 months.
+
+PTC Cables Private Limited ("PTC Cables"), the holder of outstanding share warrants, had an unpaid amount of ₹ 2,698.00 million (including the amount of premium) as on September 19, 2025, in the books of our Company. Pursuant to the approval of our Board of Directors, a first and final call notice was issued to PTC Cables on September 19, 2025, to inform that in case of non-receipt of the outstanding amount, the share warrants would be forfeited on or before September 26, 2025. Since, PTC Cables declined such first and final call notice 6,000,169 share warrants held by PTC Cables were forfeited. Further, the amount of ₹ 142.00 million paid by PTC Cables as application money at the time of allotment of share warrants was also forfeited. Necessary corporate action was also completed on the National Securities Depository Limited (NSDL) website on September 27, 2025.

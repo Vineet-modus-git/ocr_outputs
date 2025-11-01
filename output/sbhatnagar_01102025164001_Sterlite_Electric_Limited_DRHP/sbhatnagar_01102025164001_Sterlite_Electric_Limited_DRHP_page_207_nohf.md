@@ -1,0 +1,23 @@
+In Fiscal 2023, conductors' production in India reached 419,653 MT. Newer technology conductors' entry in the market (high ampacity conductors and AL-59 conductors), drop in overall orders and the Covid-19 pandemic saw production of conductors drop between Fiscal 2020 to 2022.
+
+Volumes recovered in Fiscal2023. Major factors contributing to this recovery included an overall upswing in exports, favourable government initiatives such as the REC and rural electrification initiatives fostering demand for conductors, and large planned capacity addition of renewable energy in the country, thereby providing an impetus to the growth of conductors' market in India. Additionally, infrastructure investments in Indian railways, Metros and High-speed rail are expected to grow exponentially, which will further boost the conductor industry.
+
+In Fiscal 2025, production volume of conductors stood at 587,948 MT up approximately 2% on the back of healthy demand for AL-59 conductors.
+
+**Total production of conductors**
+
+<table><thead><tr><th>Production</th><th>FY19</th><th>FY20</th><th>FY21</th><th>FY22</th><th>FY23</th><th>FY24</th><th>FY25E</th><th>FY19-FY25 CAGR</th></tr></thead><tbody><tr><td>Conductor volumes (in MT)</td><td>517,051</td><td>454,805</td><td>377,609</td><td>282,933</td><td>419,653</td><td>576,226</td><td>587,948</td><td>2.2%</td></tr></tbody></table>
+
+*Source: IEEMA, Crisil Intelligence*
+
+**Conductors export grew at a CAGR of approximately 9.6% in value between Fiscal 2019 to 2025**
+
+The export demand for power conductors from India has experienced significant growth, with a Compound Annual Growth Rate (CAGR) of 9.6% between Fiscal 2019 and Fiscal 2025. The export value reached approximately ₹ 45 billion in Fiscal 2025, up from ₹ 26 billion in Fiscal 2019, driven by increased international demand. India's power conductor exports are diversified across several countries, with the USA (23%), Bangladesh (10%), Iraq (10%), Cameroon (7%), Egypt (6%), Nepal (5%), and Ghana (5%) being some of the key markets of the total exports in Fiscal 2025, respectively.
+
+Several factors are expected to boost India's power conductor exports, including multilateral funding from organizations like the World Bank and International Bank for Reconstruction and Development (IBRD) for power transmission projects in regions such as Africa, Central Asia, South, and East Asia. Additionally, India's cost-effective manufacturing, driven by lower labor costs and a strong supply chain for raw materials like aluminum and copper, enables competitive pricing, making Indian conductors appealing to price-sensitive markets in Asia, Africa, and Latin America. The government's initiatives, such as the Make in India program and Production-Linked Incentive (PLI) schemes, have also enhanced domestic production capabilities, enabling surplus capacity for exports. Furthermore, India's neutral trade relations and free trade agreements (FTAs) with countries like the UAE, Australia, and the UK enhance market access, unlike some APAC competitors, which face trade barriers due to geopolitical tensions.
+
+However, in Fiscal 2025, Indian electrical conductor exports experienced a marginal decline, primarily due to global trade disruptions and geopolitical challenges. The US Tariff announcement, although not implemented, created market uncertainty, and the high statistical base from previous years, coupled with stagnant domestic demand for certain transmission equipment, contributed to the decline. Nevertheless, this decline is expected to be temporary, with a projected increase in exports driven by the anticipated easing of US tariffs, India's strategic focus on diversifying export markets and enhancing localization, and the global push for renewable energy. The growing demand for renewable energy infrastructure, coupled with India's expertise in producing specialized conductors like solar and wind power cables, further strengthens its position in emerging markets, ensuring a temporary setback followed by growth.
+
+Note: Crisil Intelligence has considered following HSN codes for the analysis of conductor's exports from India- 76042910, 76042920, 76042930, 76042990, 76141000, 76149000. These include hard drawn bare Aluminium conductors steel re-in forced, wire rods, stranded wires, cables with steel core, etc.
+
+**Export value of conductors (Fiscal 2019 to Fiscal 2030)**

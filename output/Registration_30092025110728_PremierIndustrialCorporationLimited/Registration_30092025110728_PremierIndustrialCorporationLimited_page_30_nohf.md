@@ -1,0 +1,29 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As at and for the Fiscal</th></tr><tr><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td>Diluted earnings per equity share (in ₹/share)<sup>(2)</sup></td><td>6.41</td><td>4.20</td><td>1.58</td></tr><tr><td>Net Asset Value per share (in ₹/share)<sup>(3)</sup></td><td>24.75</td><td>174.73</td><td>134.93</td></tr><tr><td>Total borrowings<sup>(4)</sup></td><td>1,029.51</td><td>830.94</td><td>913.87</td></tr></tbody></table>
+
+Notes:
+
+1. Net Worth means the aggregate value of paid-up share capital and other equity created out of the profits, securities premium account and debit or credit balance of profit and loss account, after deducting the aggregate value of the accumulated losses, deferred expenditure and miscellaneous expenditure not written off, derived from the Restated Financial Information, but does not include reserves created out of revaluation of assets, write-back of depreciation, capital reserves and amalgamation.
+
+2. Basic EPS and Diluted EPS for all the year are considered post the split in the face value of equity shares and issue of Bonus Equity Shares in accordance with Ind AS 33 – Earning Per Share notified under the Companies (Indian Accounting Standards) Rules, 2015 (as amended). Basic EPS and Diluted EPS = Restated profit for the year attributable to equity shareholders of the Company divided by total weighted average number of equity shares outstanding at the end of the year.
+
+3. NAV is calculated by dividing net asset by number of equity shares outstanding at the end of the year adjusted for the split in the face value of the equity shares and issue of Bonus Equity Shares.
+
+4. Total borrowings includes current and non-current borrowings.
+
+For further details, see "Restated Financial Information" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" on pages 261 and 308, respectively.
+
+**Qualifications of the Statutory Auditors which have not been given effect to in the Restated Financial Information**
+
+There are no auditor qualifications in the auditor's examination report for the financial years ended March 31, 2025, March 31, 2024 and March 31, 2023 and accordingly, there are no qualifications which have not been given effect to in the Restated Financial Information.
+
+**Summary of outstanding litigation**
+
+A summary of outstanding litigation proceedings involving our Company, Directors, Promoters, KMPs and SMPs, in accordance with the SEBI ICDR Regulations and the Materiality Policy, as of the date of this Draft Red Herring Prospectus is disclosed below:
+
+<table><thead><tr><th>Name of Individual/Entity</th><th>Number of Criminal Proceedings</th><th>Number of Tax Proceedings</th><th>Number of Statutory or Regulatory Proceedings</th><th>Number of Disciplinary Actions by the SEBI or the stock exchanges against our Promoters in the last five Fiscals</th><th>Number of Material Civil Proceedings</th><th>Aggregate amount involved (₹ in million)<sup>(1)</sup></th></tr></thead><tbody><tr><td><strong>Company</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Against our Company</td><td>Nil</td><td>2</td><td>2</td><td>NA</td><td>Nil</td><td>1.03</td></tr><tr><td>By our Company</td><td>4</td><td>Nil</td><td>NA</td><td>NA</td><td>Nil</td><td>5.44</td></tr><tr><td><strong>Directors*</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Against our Directors</td><td>Nil</td><td>Nil</td><td>Nil</td><td>NA</td><td>Nil</td><td>Nil</td></tr><tr><td>By our Directors</td><td>Nil</td><td>Nil</td><td>NA</td><td>NA</td><td>Nil</td><td>Nil</td></tr><tr><td><strong>Promoters</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Against our Promoters</td><td>Nil</td><td>9</td><td>2</td><td>Nil</td><td>Nil</td><td>6.17</td></tr><tr><td>By our Promoters</td><td>Nil</td><td>Nil</td><td>NA</td><td>NA</td><td>1</td><td>612.26</td></tr><tr><td><strong>KMPs and SMPs*</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Against our KMP/ SMP</td><td>1</td><td>NA</td><td>1</td><td>NA</td><td>NA</td><td>Nil</td></tr><tr><td>By our KMP/ SMP</td><td>Nil</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>Nil</td></tr></tbody></table>
+
+(1) To the extent quantifiable
+
+* Excluding our Promoters.
+
+As on the date of this DRHP, our Company does not have any Group Companies. For further details, see "Outstanding Litigation and Material Developments" and "Risk Factor 19 - There are outstanding litigations involving our Company, Promoters, our Directors, KMPs and SMPs. Any adverse outcome in any of these proceedings may adversely affect our reputation, results of operations and financial condition." on page344 and 46, respectively."

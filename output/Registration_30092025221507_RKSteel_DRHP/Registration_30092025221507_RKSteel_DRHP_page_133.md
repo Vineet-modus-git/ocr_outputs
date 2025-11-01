@@ -1,0 +1,35 @@
+## 2. Price/Earning ("P/E") ratio in relation to Price Band of ₹ [•] to ₹ [•] per Equity Share:
+
+<table><thead><tr><td>Particulars</td><td>P/E at the Floor Price (no. of times)</td><td>P/E at the Cap Price (no. of times)</td></tr></thead><tbody><tr><td>Based on basic and diluted EPS for the year ended March 31, 2025</td><td>[•]</td><td>[•]</td></tr></tbody></table>
+
+## 3. Industry P/E ratio
+
+Based on the peer group information (excluding our Company) given below in this section:
+
+<table><thead><tr><td>Particulars</td><td>Industry P/E (no. of times)</td><td>Name of the peer company</td><td>Face value per equity shares (₹)</td></tr></thead><tbody><tr><td>Highest</td><td>30.50</td><td>Hi-Tech Pipes Limited</td><td>1</td></tr><tr><td>Lowest</td><td>18.33</td><td>Surya Roshni Limited</td><td>5</td></tr><tr><td>Average</td><td>25.48</td><td></td><td></td></tr></tbody></table>
+
+Note:
+
+es: 1) The industry high and low has been considered from the listed industry peer set provided later or Fiscal 2025. 2) The industry composite has been calculated as the arithmetic average P/E of the listed industry peer set disclosed in this section. 3) P/E Ratio for the listed industry peers has been computed based on the closing market price September 19, 2025 of equity shares on NSE, divided by the Diluted EPS. 4) All the financial information for listed industry peers mentioned above is on an audited consolidated basis and sourced from the audited financial statements of the relevant companies for Fiscal 2025, as available on the websites of the Stock Exchanges.
+
+## 4. Return on Net worth (RoNW)
+
+Return on Net Worth (RoNW) derived from the Restated Financial Statement:
+
+<table><thead><tr><td>Year Ended</td><td>RONW (%)</td><td>Weight</td></tr></thead><tbody><tr><td>March 31, 2025</td><td>9.04%</td><td>3</td></tr><tr><td>March 31, 2024</td><td>20.68%</td><td>2</td></tr><tr><td>March 31, 2023</td><td>22.84%</td><td>1</td></tr><tr><td>Weighted Average</td><td>15.22%</td><td></td></tr></tbody></table>
+
+Note:
+
+1) Net worth attributable to the Equity Shareholders of our Company has been defined as the average aggregate value of the paid-up equity share capital and all reserves created out of the profits and securities premium account and debit or credit balance of profit and loss account, including legal reserve and after deducting, if any the aggregate value of the accumulated losses, prepaid expenses, deferred expenditure and miscellaneous expenditure not written off as per the Restated Financial Statement, but does not include reserves created out of revaluation of assets and write-back of depreciation as on March 31, 2023, March 31, 2024, March 31, 2025 in accordance with Regulation 2(1)(hh) of the SEBI ICDR Regulations, as amended.
+
+(2) Return on Net worth attributable to the Equity Shareholders of our Company (%) = Restated net profit for the period/year attributable to Equity Shareholders of our Company / Restated Net worth attributable to the Equity Shareholders of our Company as at the end of the period/year. Return on Net worth attributable to the Equity Shareholders of the company is a non-GAAP measure.
+
+(3) Weighted average = Aggregate of year-wise weighted Return on Net worth attributable to the Equity Shareholders of our Company divided by the aggregate of weights i.e. (Return on Net worth attributable to the Equity Shareholders of our Company x Weight) for each period/year / Total of weights
+
+(4) The figures disclosed above are derived from the Restated Financial Statement of our Company
+
+## 5. Net Asset Value per Equity Share of face value of ₹10 each, as adjusted (NAV)<sup>(i)</sup>
+
+<table><thead><tr><td>Particulars</td><td>(₹)</td></tr></thead><tbody><tr><td>As on March 31, 2025</td><td>24.43</td></tr><tr><td>As on March 31, 2024</td><td>22.23</td></tr><tr><td>As on March 31, 2023</td><td>17.62</td></tr><tr><td>After the Issue <sup>(ii)</sup></td><td></td></tr><tr><td>-At Floor Price</td><td>[•]</td></tr></tbody></table>
+
+132

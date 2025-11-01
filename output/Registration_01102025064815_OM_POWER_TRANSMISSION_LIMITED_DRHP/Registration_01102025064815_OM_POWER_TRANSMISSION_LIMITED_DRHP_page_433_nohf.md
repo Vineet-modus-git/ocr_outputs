@@ -1,0 +1,27 @@
+12. Ensure that you request for and receive a stamped acknowledgement counterfoil or acknowledgment specifying the application number as a proof of having accepted Bid cum Application Form for all your Bid options from the concerned Designated Intermediary;
+
+13. The ASBA bidders shall ensure that bids above ₹ 1000,000, are uploaded only by the SCSBs;
+
+14. Ensure that name(s) given in the Bid cum Application Form is/are exactly the same as the name(s) in which the beneficiary account is held with the Depository Participant. In case of joint Bids, the Bid cum Application Form should contain only the name of the First Bidder whose name should also appear as the first holder of the beneficiary account held in joint names. Ensure that the signature of the First Bidder is included in the Bid cum Application Forms;
+
+15. UPI Bidders Bidding in the Offer to ensure that they shall use only their own ASBA Account or only their own bank account linked UPI ID) to make an application in the Offer and not ASBA Account or bank account linked UPI ID of any third party;
+
+16. Bidders not using the UPI Mechanism, should submit their Bid cum Application Form directly with SCSBs and/or the designated branches of SCSBs or the relevant Designated Intermediary, as applicable;
+
+17. UPI Bidders in the Offer to ensure that they shall use only their own ASBA Account or only their own bank account linked UPI ID which is UPI 2.0 certified by NPCI to make an application in the Offer and not ASBA Account or bank account linked UPI ID of any third party;
+
+18. Ensure that you submit the revised Bids to the same Designated Intermediary, through whom the original Bid was placed and obtain a revised acknowledgment;
+
+19. Ensure that you have correctly signed the authorisation/undertaking box in the Bid cum Application Form, or have otherwise provided an authorisation to the SCSB or Sponsor Banks, as applicable, via the electronic mode, for blocking funds in the ASBA Account equivalent to the Bid Amount mentioned in the Bid cum Application Form, as the case may be, at the time of submission of the Bid. In case of UPI Bidders submitting their Bids and participating in the Offer, ensure that you authorise the UPI Mandate Request, including in case of any revision of Bids, raised by the Sponsor Banks for blocking of funds equivalent to Bid Amount and subsequent debit of funds in case of Allotment;
+
+20. Except for Bids (i) on behalf of the Central or State Governments and the officials appointed by the courts, who, in terms of the SEBI circular no. MRD/Dop/Cir-20/2008 dated June 30, 2008, may be exempt from specifying their PAN for transacting in the securities market, (ii) submitted by investors who are exempt from the requirement of obtaining/specifying their PAN for transacting in the securities market, and (iii) Bids by persons resident in the state of Sikkim, who, in terms of a SEBI circular no. MRD/DoP/SE/Cir-8/2006 dated July 20, 2006, may be exempted from specifying their PAN for transacting in the securities market, all Bidders should mention their PAN allotted under the IT Act. The exemption for the Central or the State Government and officials appointed by the courts and for investors residing in the State of Sikkim is subject to (a) the Demographic Details received from the respective depositories confirming the exemption granted to the beneficial owner by a suitable description in the PAN field and the beneficiary account remaining in "active status"; and (b) in the case of residents of Sikkim, the address as per the Demographic Details evidencing the same. All other applications in which PAN is not mentioned will be rejected;
+
+21. Ensure that the Demographic Details are updated, true and correct in all respects;
+
+22. Ensure that thumb impressions and signatures other than in the languages specified in the Eighth Schedule to the Constitution of India are attested by a Magistrate or a Notary Public or a Special Executive Magistrate under official seal;
+
+23. Ensure that the category and the investor status is indicated in the Bid cum Application Form to ensure proper upload of your Bid in the electronic Bidding system of the Stock Exchanges;
+
+24. Ensure that in case of Bids under power of attorney or by limited companies, corporates, trust, etc., relevant documents including a copy of the power of attorney, if applicable, are submitted;
+
+25. Ensure that Bids submitted by any person resident outside India is in compliance with applicable foreign and Indian laws;

@@ -1,0 +1,23 @@
+of such information shall be subject to the disclaimers, context and underlying assumptions of such sources. The data used in these sources may have been reclassified by us for the purposes of presentation and may also not be comparable. The excerpts of the Infomerics Report are disclosed in this Draft Red Herring Prospectus and there are no parts, information, data (which may be relevant for the proposed Issue), left out or changed in any manner. The extent to which the industry and market data presented in this Draft Red Herring Prospectus is meaningful and depends upon the reader's familiarity with, and understanding of, the methodologies used in compiling such information. There are no standard data gathering methodologies in the industry in which our Company conducts business and methodologies, and assumptions may vary widely among different market and industry sources. Data from these sources may also not be comparable. Such information involves risks, uncertainties and numerous assumptions and is subject to change based on various factors, including those discussed in "Risk Factors – Risk Factor 67- This Draft Red Herring Prospectus contains information from third parties, including an industry report prepared by an independent third-party research agency, Infomerics Analytics & Research Private Limited ("Infomerics Analytics & Research"), which we have commissioned and paid for purposes of confirming our understanding of the industry exclusively in connection with the Issue" on page 61. Accordingly, no investment decision should be solely made on the basis of such information.
+
+In accordance with the disclosure requirements under the SEBI ICDR Regulations, "Basis for the Issue Price" on page 115 includes information relating to our peer group companies. Such information has been derived from publicly available sources specified therein.
+
+## Currency and Units of Presentation
+
+All references to:
+
+* "Rupees" or "INR" or "₹" or "Rs." Are to Indian Rupees, the official currency of the Republic of India; and
+* "U.S.$", "U.S. Dollar", "USD" are to United States Dollars, the official currency of the United States of America.
+* All references to "AED" or "Dirham" are to United Arab Emirates Dirham, the official currency of the United Arab Emirates.
+* All references to "SGD" are to the Singapore Dollar, the official currency of Singapore.
+* All references to "GBP" or "£" are to Pound, the official currency of the United Kingdom.
+
+In this Draft Red Herring Prospectus, our Company has presented certain numerical information. All figures have been expressed in lakhs, millions and crores. One lakh represents 'lakh' or 1,00,000, one million represents 'million' or 10,00,000 and One crore represents 'lakh' or 1,00,00,000. However, where any figures that may have been sourced from third-party industry sources are expressed in denominations other than million, such figures appear in this Draft Red Herring Prospectus expressed in such denominations as provided in their respective sources. Certain figures contained in this Draft Red Herring Prospectus, including financial information, have been subject to rounding adjustments. Any discrepancies in any table between the totals and the sum of the amounts listed are due to rounding off. All figures in decimals have been rounded off to the second decimal. In certain instances, (i) the sum or percentage change of such numbers may not conform exactly to the total figure given, and (ii) the sum of the figures in a column or row in certain tables may not conform exactly to the total figure given for that column or row. However, figures sourced from third-party industry sources may be expressed in denominations other than lakhs or may be rounded off to other than two decimal points in the respective sources, and such figures have been expressed in this Draft Red Herring Prospectus in such denominations or rounded-off to such number of decimal points as provided in such respective sources.
+
+## Time
+
+All references to time in this Draft Red Herring Prospectus are to Indian Standard Time. Unless indicated otherwise, all references to a year in this Draft Red Herring Prospectus are to a calendar year.
+
+## Exchange Rates
+
+This Draft Red Herring Prospectus may contain conversions of certain other currency amounts into Indian Rupees that have been presented solely to comply with the requirements of the SEBI ICDR Regulations. These conversions should not be construed as a representation that such currency amounts could have been, or can be

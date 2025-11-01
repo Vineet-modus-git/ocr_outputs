@@ -1,0 +1,76 @@
+STERLITE ELECTRIC LIMITED (formerly known as Sterlite Power Transmission Limited)
+
+CIN: U74120PN2015PLC156643
+
+ANNEXURE-VII
+
+Consolidated Summary Statement of Notes and other explanatory information forming part of Restated Consolidated Summary Statements
+(All amounts in Rupees million unless otherwise stated)
+
+NOTE 37: USE OF ACCOUNTING JUDGEMENTS, ESTIMATES AND ASSUMPTIONS
+
+The preparation of the Group’s Consolidated Financial Statements requires management to make judgements, estimates and assumptions that affect the reported amounts of revenues, expenses, assets and liabilities, and the accompanying disclosures, and the disclosure of contingent liabilities. Uncertainty about these assumptions and estimates could result in outcomes that require a material adjustment to the carrying amount of assets or liabilities affected in future periods.
+
+Judgements
+
+In the process of applying the Group's accounting policies, management has made the following judgements, which have the most significant effect on the amounts recognised in the Group's consolidated financial statements:
+
+i) Assets classified as held for sale and discontinued operations
+
+The Board of Directors of the Group in its meeting dated 28 September 2023 approved the Scheme of Arrangement ('the Scheme') between Sterlite Electric Limited (formerly Sterlite Power Transmission Limited) ('SEL' or 'Demerged company'), Sterlite Grid 5 Limited ('SGL5' or 'Resulting company') and their respective shareholders and creditors for the demerger of its Infrastructure Business ('Infra') (including the investments of SEL in Infra subsidiaries) into SGL 5 with the appointed date of 1 January 2023. The Scheme was sanctioned by the Hon'ble National Company Law Tribunal ('NCLT'), Mumbai bench vide its order dated 5 September 2024. A certified true copy of the order was received on 26 September 2024 and filed with the Registrar of Companies on 8 October 2024. The aforesaid Scheme of demerger of Infra business into SGL5 meet the criteria prescribed in Ind AS 105 "Non-current Assets Held for Sale and Discontinued Operations" to be considered as discontinued operation, hence Infra business has been disclosed as discontinued operation in the consolidated financial statements till the effective date i.e. 26 September 2024.
+
+Applicability of Appendix C to Ind AS 115 - Revenue from Contracts with Customers to transmission projects in India:
+
+The Group through its subsidiaries in India is a transmission licensee under the Electricity Act, 2003 holding valid licenses for 25 years. It has also entered into a Transmission Services Agreements ("TSA") with Long Term Transmission Customers ("LTTC") in India through a tariff based bidding process and is required to Build, Own, Operate and Maintain ("BOOM") the transmission infrastructure for a period of 25/35 years. The management of the Group is of the view that the grantor as defined under Appendix C of Ind AS 115 ("Appendix C") requires transmission licensee to obtain various approvals under the regulatory framework to conduct its operations both during the period of the license as well as at the end of the license period. However, in the view of management, the grantor's involvement and approvals are to protect public interest and are not intended to control through ownership, beneficial entitlement or otherwise, any significant residual interest in the transmission infrastructure at the end of the term of the arrangement. Accordingly, management is of the view that Appendix C is not applicable to the Group in respect of the transmission projects undertaken in India under BOOM model.
+
+Determining the lease term of contracts with renewal and termination options - Group as lessee
+
+The Group determines the lease term as the non-cancellable term of the lease, together with any periods covered by an option to extend the lease if it is reasonably certain to be exercised, or any periods covered by an option to terminate the lease, if it is reasonably certain not to be exercised. The Group has several lease contracts that include extension and termination options. The Group applies judgement in evaluating whether it is reasonably certain whether or not to exercise the option to renew or terminate the lease. That is, it considers all relevant factors that create an economic incentive for it to exercise either the renewal or termination. After the commencement date, the Group reassesses the lease term if there is a significant event or change in circumstances that is within its control and affects its ability to exercise or not to exercise the option to renew or to terminate.
+
+Disposal of Khargone Transmission Limited
+
+During the year ended 31 March 2023, the Group had entered into share purchase agreement and shareholders' agreement dated 21 January 2023 ("the Agreements") among Khargone Transmission Limited ('KTL' referred as "the SPV"), Sterlite Electric Limited (formerly Sterlite Power Transmission Limited) ('SPTL'), Axis Trustee Services Limited (on behalf of and acting in its capacity as trustee to India Grid Trust) and IndiGrid Investments Managers Limited (in its capacity as investment manager of India Grid Trust). Pursuant to the Agreements, the Group transferred 49% of equity in the SPV and for transfer of the remaining 51% equity stake, the Group has received consideration in advance which is non-refundable. The remaining stake will be transferred to the buying shareholder on expiry of the mandatory shareholding period in the SPV. Under the Agreements, the Group had also given the following rights to the buying shareholder:
+
+a. Right to nominate all directors on the board of directors of the SPV;
+
+b. Right to direct the selling shareholders to vote according to its instructions in the AGM/EGM or any other meetings of shareholders of the SPV;
+
+c. Irrevocable and unconditional call option to acquire the remaining 51% equity stake in the SPV at later dates.
+
+d. Pledge on the remaining 51% equity stake in the SPV;
+
+e. Non-disposal undertaking from the selling shareholders for the remaining 51% equity stake in the SPV.
+
+Basis the above rights and the fact that full non-refundable consideration was received in advance by the Group from the buyers, the Group has derecognised its assets in the SPV and recognised a loss of Rs. 224.06 million on sale of the SPV during the year ended 31 March 2023.
+
+Estimates and assumptions
+
+The key assumptions concerning the future and other key sources of estimation uncertainty at the reporting date, that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year, are described below. The Company based its assumptions and estimates on parameters available when the consolidated financial statement was prepared. Existing circumstances and assumptions about future developments, however, may change due to market changes or circumstances arising that are beyond the control of the Group. Such changes are reflected in the assumptions when they occur.
+
+Estimates used in the application of Appendix C of Ind AS 115 'Service Concession Arrangement' to transmission projects in Brazil
+
+The Group constructs transmission infrastructure in Brazil and operates and maintains such infrastructure for a specified period of time. The infrastructure constructed by the group (i.e. the operator) is not recorded as property, plant and equipment of the group because the concession agreement does not transfer to the concessionaire the right to control the use of public services infrastructure. The Group only has the right to operate the infrastructure for the provision of public services on behalf of the Granting Authority, as provided in the contract. Thus, under the terms of the concession agreement, the operator only acts as a service provider.
+
+The Group records "Concession contract assets", as per Ind AS 115- Revenue from Contracts with Customers for Brazilian subsidiaries in the Group's special purpose consolidated financial statements. The contract asset refers to the Group's right to the consideration as a result of the investments made in the construction of transmission line infrastructure. The measurement of contract assets involves significant estimates, such as: (i) the discount rate used, which represents the financing component embedded in the future receivable, (ii) Determination of fair value of consideration for each identified performance obligation and (iii) expected profit margins in each identified performance obligation.
+
+For determination of expected profit margins, the Group estimates the total cost of construction and maintenance of service concession assets at each period end. These estimates are based on the rates agreed with vendors/sub-contractors and management's best estimates of the costs that would be incurred for the construction and maintenance of infrastructure based on past experience and/or industry data. These estimates are re-assessed at each period end. Variations in contract works, claims and incentive payments are included to the extent that the amount can be measured reliably and its receipt is considered probable. When it is probable that total discounted cost for construction of service concession assets will exceed amount recognised as service concession contract asset, the expected loss is recognised as an expense immediately.
+
+Estimates used in the application of Appendix C of Ind AS 115 'Service Concession Arrangement' to transmission projects in India
+
+The Group constructs transmission infrastructure and operates and maintains such infrastructure for a specified period of time. The infrastructure constructed by the Group (i.e. the operator) is not recorded as property, plant and equipment of the Group because the concession agreement does not transfer to the concessionaire the right to control the use of public services infrastructure. The Group only has the right to operate the infrastructure for the provision of public services on behalf of the Granting Authority, as provided in the contract. Thus, under the terms of the concession agreement, the operator only acts as a service provider.
+
+The Group records "Concession contract assets", in accordance with Appendix C to Ind AS 115- Revenue from Contracts with Customers. The contract asset refers to the Group's right to the consideration as a result of the investments made in the construction of transmission line infrastructure. The measurement of contract assets involves significant estimates, such as: (i) the discount rate used, which represents the financing component embedded in the future receivable, (ii) Determination of fair value of consideration for each identified performance obligation and (iii) expected profit margins in each identified performance obligation.
+
+For determination of expected profit margins, the Group estimates the total cost of construction and maintenance of service concession assets at each period end. These estimates are based on the rates agreed with vendors/sub-contractors and management's best estimates of the costs that would be incurred for the construction and maintenance of infrastructure based on past experience and/or industry data. These estimates are re-assessed at each period end. Variations in contract works, claims and incentive payments are included to the extent that the amount can be measured reliably and its receipt is considered probable. When it is probable that total discounted cost for construction of service concession assets will exceed amount recognised as service concession contract asset, the expected loss is recognised as an expense immediately.
+
+Revenue from contract with customers - EPC contracts
+
+As described in note 2.3, revenue and costs in respect of construction contracts are recognised by reference to stage of completion of the contract activity at the end of the reporting period, measured based on the proportion of contract costs incurred for work performed to date relative to the estimated total contract costs. The Group estimates the total cost of the project at each period end. These estimates are based on the rates agreed with vendors/sub-contractors and management's best estimates of the costs that would be incurred for the completion of project based on past experience and/or industry data. These estimates are re-assessed at each period end. Variations in contract works, claims and incentive payments are included to the extent that the amount can be measured reliably and its receipt is considered probable. When it is probable that total contract cost will exceed total contract revenue, the expected loss is recognised as an expense immediately.
+
+Leases - Estimating the incremental borrowing rate
+
+The Group cannot readily determine the interest rate implicit in the lease, therefore, it uses its incremental borrowing rate (IBR) to measure lease liabilities. The IBR is the rate of interest that the Group would have to pay to borrow over a similar term, and with a similar security, the funds necessary to obtain an asset of a similar value to the right-of-use asset in a similar economic environment. The IBR therefore reflects what the Group 'would have to pay', which requires estimation when no observable rates are available or when they need to be adjusted to reflect the terms and conditions of the lease. For leases pertaining to vehicles, Group has used implicit rate in agreement and for leases pertaining to office buildings, Group has used incremental borrowing rate (IBR) in absence of implicit rate mentioned in the agreement.
+
+Impairment of non-financial assets
+
+Impairment exists when the carrying value of an asset or cash generating unit exceeds its recoverable amount, which is the higher of its fair value less costs of disposal and its value in use. The recoverable amounts for the transmission assets are based on the fair values less costs of disposal/value in use of the projects. The fair value less costs of disposal calculation is based on available data from binding sales transactions, conducted at arm's length, for similar assets or observable market prices less incremental costs for disposing of the asset. The value in use calculation is based on a DCF model. The cash flows are derived from the budget and do not include restructuring activities that the Group is not yet committed to or significant future investments that will enhance the asset's performance of the Cash generating unit (CGU) being tested. The recoverable amount is sensitive to the discount rate used for the DCF model as well as the expected future cash inflows and the growth rate used for extrapolation purposes.

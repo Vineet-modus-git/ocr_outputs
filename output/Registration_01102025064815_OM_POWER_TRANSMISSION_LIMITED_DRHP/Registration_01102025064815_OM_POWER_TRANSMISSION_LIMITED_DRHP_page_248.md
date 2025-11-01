@@ -1,0 +1,25 @@
+<table><thead><tr><td>Departments/Team</td><td>Number of Employees</td></tr></thead><tbody><tr><td>Substation)</td><td></td></tr><tr><td>Operation and Maintenance*</td><td>1,145</td></tr><tr><td>Supporting Staff</td><td>09</td></tr><tr><td>Tendering Department</td><td>02</td></tr><tr><td>Procurement Department</td><td>01</td></tr><tr><td>Total</td><td>1,236</td></tr></tbody></table>
+
+*Including the in-house testing team.
+
+We seek to maintain a high-performance work culture based on values of development and collaboration. Our employees are not part of any union, and we have not experienced any work stoppages due to labour disputes or cessation of work in the recent past. The following table provides our employee benefit cost for the financial year ended March 31, 2025, 2024 and 2023:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">March 31, 2025</th><th colspan="2">March 31, 2024</th><th colspan="2">March 31, 2023</th></tr><tr><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th><th>Amount (₹ in lakhs)</th><th>% of revenue from operations</th></tr></thead><tbody><tr><td>Employee Benefit Expenses (Including Director Remuneration)</td><td>3,132.15</td><td>12.48%</td><td>2,859.96</td><td>16.36%</td><td>1,871.09</td><td>16.41%</td></tr></tbody></table>
+
+We train our employees on a regular basis to upgrade the level of operational excellence, improve productivity and maintain compliance standards on quality and safety. Our teams include subject matter experts for various business areas who have relevant experience and skill sets.
+
+Further, we engage independent contractors through whom we engage contract labor for our project site operations. Such contract laborers provided by the independent contractors, carry our variety of functions at our project sites, such as excavation, loading and unloading of supply material, back filling and levelling. Our employees on a regular basis, typically carry out supervisory functions in relation to the work carried out by the contract laborers, at our project sites. However, we do not enter into any formal agreement with such independent contractors.
+
+## Insurance
+
+Under our EPC contracts we are generally required to maintain insurance. These include policies in relation to construction and erection, workmen compensation, fire and burglary insurance, vehicle and machinery insurance, keyman insurance and property insurance. We believe that the insurance coverage currently maintained by us represents an appropriate level of coverage required to insure our business and operations.
+
+Our operations are subject to hazards inherent in the EPC industry including accidents, equipment failure, exposure to dangerous materials, such as solvents, and risks related to machinery noise and manual handling activities, fire, earthquake, flood and other force majeure events, acts of terrorism and hazards that may cause injury and loss of life, severe damage to and destruction of property, equipment and environmental damage. For risks related to our insurance coverage, see “Risk Factors 24 — Our insurance coverage may be inadequate, which could have an adverse effect on our financial condition and results of operations” on page 50.
+
+## Information Technology
+
+Information technology has emerged as a key business enabler for us and plays an important role in improving our overall productivity, client service and risk management. We believe that we have stable, secure and robust IT infrastructure and applications supporting our business and strategic initiatives. We utilize Tally for various business applications. Moreover, Microsoft Office enables us to develop plans, assign resources to tasks, track progress, manage timelines, and analyse workloads effectively. Further, our infrastructure includes robust antivirus software, firewalls, and uninterruptible power supplies (UPS) to ensure data security and system reliability.
+
+## Properties
+
+Our Company's Registered and Corporate Office is situated at 703 to 706, 7th Floor, Fortune Business Hub, Nr. Shell Petrol Pump, Science City Road, Sola, Ahmedabad-380060, Gujarat, India. Further, we have rented more than 25

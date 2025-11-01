@@ -1,0 +1,25 @@
+# KEY REGULATIONS AND POLICIES IN INDIA
+
+*The following description is a summary of certain key statutes, rules, regulations, notifications, memorandums, circulars and policies which are applicable to our Company and the business undertaken by our Company.*
+
+*The information detailed in this chapter, is based on the current provisions of key statutes, rules, regulations, notifications, memorandums, circulars and policies which are subject to amendments, changes and/or modifications. The information in this section has been obtained from publications available in the public domain. The description of the applicable regulations as given below has been provided in a manner to provide general information to the investors and may not be exhaustive and is neither designed nor intended to be a substitute for professional legal advice. The indicative summary is based on the current provisions of applicable law, which are subject to change or modification or amended by subsequent legislative, regulatory, administrative or judicial decisions.*
+
+*For details of the government approvals and licenses obtained by us, see "Government and Other Statutory Approvals" beginning on page 390.*
+
+## INDUSTRY SPECIFIC REGULATIONS
+
+### The Electricity Act, 2003 ("Electricity Act")
+
+The Electricity Act is a central legislation and provides for, inter alia, generation, transmission, distribution, trading and use of electricity. Under the Electricity Act, the transmission, distribution, and trade of electricity are regulated activities which require licenses from the Central Electricity Regulatory Commission ("CERC"), the State Electricity Regulatory Commissions ("SERCs") or a joint commission (constituted by an agreement entered into between two or more state governments or the central government in relation to one or more state governments, as the case may be).
+
+Under the Electricity Act, the appropriate commission, guided by, inter alia, the methodologies specified by the CERC with the aim of promotion of co-generation and generation of electricity from renewable sources of energy, shall specify the terms and conditions for the determination of tariff.
+
+The Electricity Act requires the GOI to prepare the national electricity policy and tariff policy, from time to time, in consultation with the state governments and Central Electricity Authority. The Draft Electricity (Amendment) Bill, 2022 ("Draft EAA") was proposed by the Ministry of Power which seeks to amend certain provisions of the Electricity Act. Among others, the amendment proposes that on the issuance of license to more than one distribution licensee in an area of supply, the power and associated costs from the existing power purchase agreements with the existing distribution licensee, as on the date of issuing license to another distribution licensee, shall be shared among all the distribution licensees in the area of supply as specified by the State Commission. Further, it also proposes that in case of distribution of electricity in the same area of supply by two or more distribution licensees, the appropriate Commission, for promoting competition among such distribution licensees, will fix the maximum ceiling of tariff and the minimum tariff for retail sale of electricity. The Draft EAA also provides that a distribution licensee may use distribution systems of other licensees in the area of supply for supplying power through the system of non-discriminatory open access on payment of wheeling charges.
+
+### Electricity Rules, 2005
+
+The Electricity Rules, 2005 (the "Rules"), as amended, were framed under the Electricity Act and provide the requirements in respect of captive generating plants and generating stations. The authorities constituted under the Rules may give appropriate directions for maintaining the availability of the transmission system of a transmission licensee.
+
+### Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2023 ("CEA Regulations")
+
+The CEA Regulations supersede the Central Electricity Authority (Measures relating to Safety and Electric Supply) Regulations, 2010. The CEA Regulations have been enacted by the Central Electricity Authority, constituted under the Electricity Act, to provide for measures relating to safety and electric supply. The CEA Regulations provide for the general safety requirements pertaining to construction, installation, protection, operation and maintenance of electric supply lines and apparatus. Further, as per the CEA Regulations, installations, defined under the CEA Regulations as any composite electrical unit used for the purpose of generating, transforming, transmitting, converting, distributing, or utilizing electricity, already connected to the supply system of the supplier or trader must be periodically inspected and

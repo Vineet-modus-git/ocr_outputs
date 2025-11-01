@@ -1,0 +1,53 @@
+OM POWER TRANSMISSION LIMITED (formerly known as OM POWER TRANSMISSION PRIVATE LIMITED)
+
+47.2 Exemption and exceptions availed:
+
+47.2.1 Ind AS optional exemptions
+
+Ind AS 101 allows first-time adopters certain exemptions from the retrospective application of certain requirements under Ind AS. Set out below are the applicable Ind AS 101 optional exemption and mandatory exemption applied in the transition from previous GAAP to Ind AS.
+
+Deemed cost for property, plant and equipment, intangible assets and investment properties
+
+Ind AS 101 permits a first-time adopter to elect to continue with the carrying value for all of its Property, Plant and Equipment as recognised in the financial statements as at the date of transition to Ind AS, measured as per the previous GAAP, and use that as its deemed cost as at the date of transition, after making necessary adjustments for deConstruction liabilities. This exemption is also applicable to intangible assets covered under Ind AS 38 – Intangible Assets and investment properties covered under Ind AS 40 – Investment Property. Depreciation on investment properties has been adopted with prospective effect, in accordance with Indian Accounting Standards.
+
+Accordingly, the Company has elected to measure all of its property, plant and equipment, intangibles assets and investment properties at the carrying value under the previous GAAP and use that carrying value as the deemed cost on the date transition to Ind AS.
+
+Fair value measurement of financial assets and financial liabilities at initial recognition
+
+Ind AS 109 requires fair value measurement, retrospectively, however an entity may apply the requirements of Ind AS 109 prospectively to transactions entered into on or after the date of transition to Ind AS. Company has measured its financial asset and financial liability as per Ind As 109.
+
+47.2.2 IND AS mandatory exceptions:
+
+An entity's estimates in accordance with Ind AS at the date of transition to Ind AS shall be consistent with estimates made for the same date in accordance with previous GAAP (after adjustments to reflect any difference in accounting policies), unless there is objective evidence that those estimates were in error. Ind AS estimates as at April 1, 2022 are consistent with the estimates as at the same date made in conformity with previous GAAP.
+
+Estimates
+
+The estimates as at 31st March 2023, 31 March 2024 and as at 31 March 2025 are consistent with those made for the same dates in accordance with previous GAAP (after adjustments to reflect differences, if any in accounting policies) apart from impairment of financial assets based on the expected credit loss model where the application of previous GAAP did not require such estimation.
+
+Classification and measurement of financial assets
+
+Ind AS 101 requires an entity to assess classification and measurement of financial assets on the basis of facts and circumstances that exist at the date of transition to Ind AS. Financial assets can be measured using effective interest method by assessing its contractual cash flow characteristics only on the basis of facts and circumstances existing at the date of transition and if it is impracticable to assess the use of effective interest method, fair value of financial asset at the date of transition shall be the new carrying amount of that asset. The measurement exemption applies for financial liabilities as well.
+
+Impairment of financial assets
+
+Ind AS 101 provides relaxation from applying the impairment related requirements of Ind AS 109 retrospectively.
+
+At the date of transition, the Company has used reasonable and supportable information that is available without undue cost or effort to determine the credit risk at the date that financial instruments were initially recognised and compare that to the credit risk at the date of transition to Ind AS. Similarly the Company has recognized a loss allowance at an amount equal to lifetime expected credit losses at each reporting date until that financial instrument is de-recognised.
+
+Derecognition of financial assets and financial liabilities
+
+Ind AS 101 requires a first-time adopter to apply the de-recognition provisions of Ind AS 109 prospectively for transactions occurring on or after the date of transitions to Ind AS. However, Ind AS 101 allows a first-time adopter to apply the de-recognition requirements in Ind AS 109 retrospectively from a date of the entity's choosing, provided that the information needed to apply Ind AS 109 to financial assets and financial liabilities derecognised as a result of past transactions was obtained at the time of initially accounting for those transactions.
+
+The Company has elected to apply the de-recognition provisions of Ind AS 109 prospectively from date of transition to Ind AS.
+
+47.3 Reconciliation between statement of equity as previously reported (referred to as "Previous GAAP) and Ind AS
+
+<table><thead><tr><th>Particulars</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th><th>As at<br>April 01, 2022</th></tr></thead><tbody><tr><td>Equity under Previous Indian GAAP</td><td>5,230.45</td><td>4,528.63</td><td>3,883.86</td></tr><tr><td><strong>Ind As & other Adjustments:</strong></td><td></td><td></td><td></td></tr><tr><td>Impact of change in depreciation</td><td>(6.31)</td><td>(2.55)</td><td>(23.44)</td></tr><tr><td>Impact of charge of MSME Interest</td><td>(25.85)</td><td>(20.52)</td><td></td></tr><tr><td>Impact of Gratuity</td><td>(72.88)</td><td>(23.47)</td><td>(39.82)</td></tr><tr><td>Impact of change in Deffered Tax</td><td>143.93</td><td>75.18</td><td></td></tr><tr><td>Impact of Expected credit loss</td><td>(8.71)</td><td>(62.43)</td><td>(47.31)</td></tr><tr><td>Impact of Unbilled Revenue</td><td>(4.48)</td><td>11.89</td><td></td></tr><tr><td>Impact of Unquoted shares</td><td></td><td></td><td>0.05</td></tr><tr><td>Written off Balances</td><td></td><td></td><td>(56.47)</td></tr><tr><td>Impact of provision of tax</td><td></td><td></td><td>(3.61)</td></tr><tr><td>Impact of Adjustment made in Earlier Year</td><td>(192.50)</td><td>(170.60)</td><td></td></tr><tr><td><strong>Equity under Ind AS</strong></td><td><strong>5,063.65</strong></td><td><strong>4,336.13</strong></td><td><strong>3,713.26</strong></td></tr></tbody></table>
+
+47.4 Reconciliation between statement of TCI as previously reported (referred to as "Previous GAAP) and Ind AS
+
+<table><thead><tr><th rowspan="2">Particular</th><th rowspan="2">Note No.</th><th colspan="3">For the year ended March 31st, 2024</th><th colspan="3">For the year ended March 31st, 2023</th></tr><tr><th>Regrouped Previous GAAP*</th><th>Ind AS Adjustment</th><th>Ind AS</th><th>Regrouped Previous GAAP*</th><th>Ind AS Adjustment</th><th>Ind AS</th></tr></thead><tbody><tr><td>Revenue from operations</td><td>28</td><td>18,301.29</td><td>(25.13)</td><td>18,276.16</td><td>11,916.17</td><td>107.46</td><td>12,023.63</td></tr><tr><td>Other income</td><td>29</td><td>163.29</td><td>-</td><td>163.29</td><td>147.10</td><td>-</td><td>147.10</td></tr><tr><td><strong>Total Income</strong></td><td></td><td><strong>18,464.58</strong></td><td><strong>(25.13)</strong></td><td><strong>18,439.45</strong></td><td><strong>12,063.27</strong></td><td><strong>107.46</strong></td><td><strong>12,170.73</strong></td></tr><tr><td><strong>EXPENSES</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cost of material consumed</td><td>30</td><td>6,789.73</td><td>(20.66)</td><td>6,769.07</td><td>3,958.83</td><td>95.57</td><td>4,054.40</td></tr><tr><td>Project Related expenses</td><td>31</td><td>6,980.74</td><td>-</td><td>6,980.74</td><td>4,578.68</td><td>-</td><td>4,578.68</td></tr><tr><td>Employee Benefits Expense</td><td>32</td><td>2,805.42</td><td>54.54</td><td>2,859.96</td><td>1,848.76</td><td>22.33</td><td>1,871.09</td></tr><tr><td>Finance Costs</td><td>33</td><td>498.55</td><td>25.85</td><td>524.40</td><td>419.67</td><td>20.52</td><td>440.19</td></tr><tr><td>Depreciation and Amortization Expenses</td><td>34</td><td>125.97</td><td>6.31</td><td>132.28</td><td>129.50</td><td>2.55</td><td>132.05</td></tr><tr><td>Other Expenses</td><td>35</td><td>211.05</td><td>8.71</td><td>219.76</td><td>264.09</td><td>62.43</td><td>326.52</td></tr><tr><td><strong>Total Expenses</strong></td><td></td><td><strong>17,411.46</strong></td><td><strong>74.75</strong></td><td><strong>17,486.21</strong></td><td><strong>11,199.53</strong></td><td><strong>203.40</strong></td><td><strong>11,402.93</strong></td></tr><tr><td><strong>Profit before exceptional items and tax</strong></td><td></td><td><strong>1,053.12</strong></td><td><strong>(99.88)</strong></td><td><strong>953.24</strong></td><td><strong>863.74</strong></td><td><strong>(95.94)</strong></td><td><strong>767.80</strong></td></tr></tbody></table>
+
+*Previous GAAP figures have been reclassified & regrouped for ease of reconciliation with Ind AS presentation requirements for the purpose of this note.
+
+339

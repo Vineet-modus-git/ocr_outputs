@@ -1,0 +1,43 @@
+OM POWER TRANSMISSION LIMITED (formerly known as OM POWER TRANSMISSION PRIVATE LIMITED)
+
+Notes to Restated Financial Statements
+
+(All amounts in INR Lakhs, unless otherwise stated)
+
+22.2 In respect of borrowings availed by the Company on the basis of security of current assets from banks and financial institutions, quarterly returns / statements of current assets filed by the company with banks were in agreement with the books of accounts except as stated below:
+
+Details of quarterly returns or statements of current assets filed by the Company with bank for the Year ended March 31, 2025
+
+<table><thead><tr><th>Name of Bank</th><th>Quarter Ended</th><th>Particulars of securities provided</th><th>Amount as per books of accounts</th><th>Amount as reported in quarterly return/statement</th><th>Amount of difference*</th></tr></thead><tbody><tr><td rowspan="6">Consortium of Banks</td><td rowspan="2">Jun-24</td><td>Bookdebts</td><td>3,614.24</td><td>3,363.05</td><td>251.19</td></tr><tr><td>Inventory</td><td>367.19</td><td>367.19</td><td>-</td></tr><tr><td rowspan="2">Sep-24</td><td>Bookdebts</td><td>4,315.81</td><td>8,337.97</td><td>(4,022.16)</td></tr><tr><td>Inventory</td><td>423.11</td><td>423.11</td><td>-</td></tr><tr><td rowspan="2">Dec-24</td><td>Bookdebts</td><td>2,556.01</td><td>2,716.13</td><td>(160.12)</td></tr><tr><td>Inventory</td><td>545.30</td><td>545.30</td><td>-</td></tr><tr><td rowspan="2">Mar-25</td><td>Bookdebts</td><td>3,963.50</td><td>3,699.45</td><td>264.05</td></tr><tr><td>Inventory</td><td>747.16</td><td>747.16</td><td>-</td></tr></tbody></table>
+
+*The differences are due to submissions being made basis provisional financial information by the Company & Statutory deductions are recorded as and when it appears on tax department portal by the company.
+
+Details of quarterly returns or statements of current assets filed by the Company with bank for the Year ended March 31, 2024
+
+<table><thead><tr><th>Name of Bank</th><th>Quarter Ended</th><th>Particulars of securities provided</th><th>Amount as per books of accounts</th><th>Amount as reported in quarterly return/statement</th><th>Amount of difference*</th></tr></thead><tbody><tr><td rowspan="6">Consortium of Banks</td><td rowspan="2">Jun-23</td><td>Bookdebts</td><td>1,734.23</td><td>1,941.20</td><td>(206.97)</td></tr><tr><td>Inventory</td><td>1,358.82</td><td>1,358.82</td><td>-</td></tr><tr><td rowspan="2">Sep-23</td><td>Bookdebts</td><td>1,367.94</td><td>1,408.33</td><td>(40.39)</td></tr><tr><td>Inventory</td><td>1,906.16</td><td>1,906.16</td><td>-</td></tr><tr><td rowspan="2">Dec-23</td><td>Bookdebts</td><td>1,570.79</td><td>1,716.65</td><td>(145.86)</td></tr><tr><td>Inventory</td><td>1,410.99</td><td>1,410.99</td><td>-</td></tr><tr><td rowspan="2">Mar-24</td><td>Bookdebts</td><td>3,120.07</td><td>3,105.98</td><td>14.09</td></tr><tr><td>Inventory</td><td>194.79</td><td>194.79</td><td>-</td></tr></tbody></table>
+
+*The differences are due to submissions being made basis provisional financial information by the Company & Statutory deductions are recorded as and when it appears on tax department portal by the company.
+
+Details of quarterly returns or statements of current assets filed by the Company with bank for the Year ended March 31, 2023
+
+<table><thead><tr><th>Name of Bank</th><th>Quarter Ended</th><th>Particulars of securities provided</th><th>Amount as per books of accounts</th><th>Amount as reported in quarterly return/statement</th><th>Amount of difference*</th></tr></thead><tbody><tr><td rowspan="6">Consortium of Banks</td><td rowspan="2">Jun-22</td><td>Bookdebts</td><td>861.51</td><td>1,067.26</td><td>(205.75)</td></tr><tr><td>Inventory</td><td>229.05</td><td>229.05</td><td>-</td></tr><tr><td rowspan="2">Sep-22</td><td>Bookdebts</td><td>1,198.46</td><td>1,245.36</td><td>(46.90)</td></tr><tr><td>Inventory</td><td>41.95</td><td>41.95</td><td>-</td></tr><tr><td rowspan="2">Dec-22</td><td>Bookdebts</td><td>1,452.01</td><td>1,528.00</td><td>(75.99)</td></tr><tr><td>Inventory</td><td>678.35</td><td>678.35</td><td>-</td></tr><tr><td rowspan="2">Mar-23</td><td>Bookdebts</td><td>2,957.67</td><td>2,939.29</td><td>18.39</td></tr><tr><td>Inventory</td><td>266.95</td><td>266.95</td><td>-</td></tr></tbody></table>
+
+*The differences are due to submissions being made basis provisional financial information by the Company & Statutory deductions are recorded as and when it appears on tax department portal by the company.
+
+23 Trade Payables (Current)
+
+<table><thead><tr><th>Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr></thead><tbody><tr><td>Dues to Micro Enterprises and Small Enterprises</td><td>700.23</td><td>1,023.63</td><td>1,043.73</td></tr><tr><td>Dues to Others</td><td>3,816.71</td><td>1,883.16</td><td>1,494.51</td></tr><tr><td><strong>Total</strong></td><td><strong>4,516.94</strong></td><td><strong>2,906.79</strong></td><td><strong>2,538.24</strong></td></tr></tbody></table>
+
+Notes:
+
+1) Trade payables are generally non-interest bearing and are settled within normal operating cycle of the Company.
+
+2) Trade payables includes Retention money payable
+
+23.1 Trade Payables under MSME Development Act, 2006 :
+
+Based on the information available as identified by the Company there are certain vendors who have confirmed that they are covered under the Micro, Small and Medium Enterprises Development Act, 2006. Disclosures relating to dues of Micro and Small enterprises under section 22 of 'The Micro, Small and Medium Enterprises Development Act, 2006", are given below:
+
+<table><thead><tr><th>Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr></thead><tbody><tr><td>(a) The principal amount and the interest due thereon remaining unpaid to any supplier as at the end of each accounting year</td><td></td><td></td><td></td></tr><tr><td>- Principal amount due to micro and small enterprises</td><td>595.26</td><td>977.26</td><td>1,023.21</td></tr><tr><td>- Interest due on above</td><td>104.96</td><td>46.37</td><td>20.52</td></tr><tr><td>(b) The amount of interest paid by the buyer in terms of Section 16 of the Micro, Small and Medium Enterprises Development Act, 2006, along with the amount of the payment made to the supplier beyond the appointed day during each accounting year.</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(c) The amount of interest due and payable for the period of delay in making payment (which have been paid but beyond the appointed day during the year) but without adding the interest specified under the Micro, Small and Medium Enterprises Development Act, 2006.</td><td>2.85</td><td>2.00</td><td>8.91</td></tr><tr><td>(d) The amount of interest accrued and remaining unpaid at the end of each accounting year.</td><td>58.59</td><td>25.85</td><td>20.52</td></tr><tr><td>(e) The amount of further interest remaining due and payable even in the succeeding years, until such date when the interest dues above are actually paid to the small enterprise, for the purpose of disallowance of a deductible expenditure under Section 23 of the Micro, Small and Medium Enterprises Development Act, 2006.</td><td>104.96</td><td>46.37</td><td>20.52</td></tr></tbody></table>
+
+This information has been determined to the extent such parties have been identified on the basis of information available with the Company and relied upon by auditor.

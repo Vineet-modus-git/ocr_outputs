@@ -1,0 +1,23 @@
+in relation to these missing documents in "Capital Structure" on page 90 in this Draft Red Herring Prospectus.
+
+Additionally, the Company along with Arvind Chhotalal Morzaria, Managing Director, Dilip Chhotalal Morzaria, Joint Managing Director, Subhash Chhotalal Morzaria, Whole-Time Director, Lalit Navin Morzaria, Whole-Time Director, Anand Dilip Morzaria, Whole-Time Director, Smeet Morzaria, Whole-Time Director and Meet Arvind Morzaria. Whole-Time Director have on 11th September, 2025 voluntarily filed an application for compounding of offence relating to non-appointment of whole-Time Company Secretary, in Form GNL-1 vide SRN: AB6701704, before the Registrar of Companies, Maharashtra at Mumbai ("ROC") under section 441 of the Companies Act, 2013 ("Act"). The matter is currently pending before the ROC.
+
+While no legal proceedings or regulatory action has been initiated against our Company and against our Promoter following the filing of the Application, in connection with the said non-compliance of the Companies Act, 2013 as of the date of this Draft Red Herring Prospectus, we cannot assure you that such proceedings or regulatory actions will not be initiated in the future. Further, we cannot assure you that such lapses will not occur in the future and that we will not be subject to further penalties or other regulatory action.
+
+**40. We have certain contingent liabilities which, if materialized, may adversely affect our financial condition.**
+
+As of March 31, 2025, our contingent liabilities as per Ind AS 37 - Provisions, Contingent Liabilities and Contingent Assets, that have not been provided for in our results of operations were as follows:
+
+<table><thead><tr><td>Particulars</td><td>As on March 31, 2025 (₹ in million)</td></tr></thead><tbody><tr><td>(i) Claims against the Company/ disputed liabilities not acknowledged as debts</td><td>0.17</td></tr><tr><td>Disputed income tax demands</td><td></td></tr></tbody></table>
+
+If a significant portion of these liabilities materialize, we may have to fulfil our payment obligations, which could have an adverse effect on our business, financial condition and results of operations. For further information on our contingent liabilities, see "Restated Financial Information" on page 261.
+
+**41. Our Company may not be successful in penetrating new export markets.**
+
+We derive a significant portion of our revenue from operations from overseas markets. During Fiscals 2025, 2024 and 2023, we earned ₹ 1,928.81 million, ₹ 1,034.94 million and ₹ 1,179.92 million representing 40.49%, 30.50% and 31.83%, respectively, of our revenue from operations. Expansion into new export markets subjects us to various challenges, including those relating to our lack of familiarity with the culture and economic conditions of these new regions, language barriers, difficulties in staffing and managing such operations and the lack of reputation in such regions. As part of our strategy, we intend to expand our international footprint by targeting new and existing overseas markets, strengthening global customer relationships, enhancing visibility through trade fairs, and leveraging our sales, marketing, and distribution network to drive export growth and revenue diversification.
+
+We believe establishing a local presence in such international markets would facilitate our sales, marketing and business development activities and provide us with timely insights into the economic, product requirements and regulatory environment in such markets. The risks involved in entering new geographic markets and expanding operations, may be higher than expected, and we may face significant competition in such markets. In the eventuality we are unable to successfully expand into new geographical regions, our growth plans and future performance shall be adversely affected. By expanding into new geographical regions, we could be subject to additional risks associated with establishing and conducting operations, including compliance with a wide range of laws, regulations and practices; exposure to expropriation or other government actions; and political, economic and social instability.
+
+**42. Fraud or misconduct by our employees could adversely affect our reputation, business, results of operations and financial condition.**
+
+Fraud or misconduct by our employees such as leaking of confidential information in relation to our contracts, unauthorized business transaction, bribery, breach of any applicable law or our internal policies could result in regulatory actions and litigation thereby creating an adverse impact on our business, reputation, results of

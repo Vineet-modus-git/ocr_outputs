@@ -1,0 +1,23 @@
+<table><thead><tr><th>Date of allotment / transfer of equity shares</th><th>Number of equity shares allotted / transferred</th><th>Face value per equity share (₹)</th><th>Issue/ transfer / buy-back price per equity share (₹)</th><th>Nature of consideration</th><th>Nature of transaction</th><th>Percentage of pre- Offer equity share capital of our Company on fully diluted basis^ (%)</th><th>Percentage of post-Offer equity share capital of our Company (%)</th></tr></thead><tbody><tr><td>August 22, 2016*</td><td>41,880,550</td><td>2</td><td>N.A.</td><td>Other than cash</td><td>Allotment of 41,880,550 equity shares pursuant to the STL Demerger Scheme</td><td>29.64</td><td>●</td></tr><tr><td>March 3, 2017</td><td>1,789,848</td><td>2</td><td>112.30</td><td>Cash</td><td>Purchase of 1,789,848 equity shares from 47 existing shareholders</td><td>1.27</td><td>●</td></tr><tr><td>October 20, 2022</td><td>43,670,398</td><td>2</td><td>N.A.</td><td>Other than cash</td><td>Bonus issue of 1:1</td><td>30.91</td><td>●</td></tr><tr><td><strong>Total</strong></td><td><strong>87,340,796</strong></td><td></td><td></td><td></td><td></td><td><strong>61.81</strong></td><td><strong>●</strong></td></tr></tbody></table>
+
+^ The pre-Offer equity share capital of our Company on a fully diluted basis has been computed (a) assuming conversion of all outstanding 15,317,134 CCPS of face value of ₹10 each of our Company into maximum of 15,317,134 Equity Shares of face value of ₹2 each; and (b) pursuant to exercise of all outstanding RSUs that are vested as on the date of this Draft Red Herring Prospectus, under the RSU Plans.
+
+* For further details in relation to the STL Demerger Scheme, please see the section entitled “History and Certain Corporate Matters - Details regarding material acquisitions or divestments or slump sale of business/undertakings, mergers, amalgamations or any revaluation of assets, in the last 10 years - Scheme of arrangement between Sterlite Technologies Limited (“STL”), our Company and their respective shareholders and creditors as sanctioned by the High Court of Bombay by way of its order dated April 22, 2016” on page 253.
+
+All the Equity Shares held by our Promoters were fully paid-up on the respective dates of acquisition of such equity shares.
+
+As on the date of this Draft Red Herring Prospectus, our Promoters are not holding any CCPS in our Company. Further, as on the date of this Draft Red Herring Prospectus, none of the Equity Shares held by our Promoters are pledged.
+
+### (b) Details of secondary transactions involving the Promoters (including the Promoter Selling Shareholder), Promoter Group and Other Selling Shareholders
+
+Except as disclosed in “- Share capital build-up of our Promoters (including the Promoter Selling Shareholder)” on page 102, there have been no acquisition or transfer of equity shares of our Company through secondary transactions by our Promoters (including the Promoter Selling Shareholder).
+
+There have been no acquisition or transfer of CCPS of our Company through secondary transactions by our Promoters, the Promoter Group or the Other Selling Shareholders.
+
+There have been no acquisition or transfer of equity shares of our Company through secondary transactions by the Other Selling Shareholders.
+
+Further, except as disclosed below, there have been no acquisition or transfer of equity shares of our Company through secondary transactions by the Promoter Group:
+
+<table><thead><tr><th>Date of transfer of equity shares</th><th>Number of equity shares transferred / acquired</th><th>Nature of transaction</th><th>Nature of consideration</th><th>Face value per equity share (₹)</th><th>Issue price/ transfer price per equity share (₹)</th></tr></thead><tbody><tr><td colspan="6"><strong>Pravin Agarwal</strong></td></tr><tr><td>February 8, 2017</td><td>145</td><td>Purchase of equity shares</td><td>Cash</td><td>2</td><td>112.00</td></tr><tr><td>February 10, 2017</td><td>3,700</td><td>Purchase of equity shares</td><td>Cash</td><td>2</td><td>112.00</td></tr><tr><td>February 13, 2017</td><td>2,900</td><td>Purchase of equity shares</td><td>Cash</td><td>2</td><td>112.00</td></tr><tr><td>February 14, 2017</td><td>371</td><td>Purchase of equity shares</td><td>Cash</td><td>2</td><td>112.00</td></tr></tbody></table>
+
+103

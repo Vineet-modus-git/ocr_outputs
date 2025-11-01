@@ -1,0 +1,19 @@
+s) DERIVATIVE FINANCIAL INSTRUMENTS
+
+The Company uses derivative financial instruments primarily to hedge its exposure to fluctuations in foreign currency exchange rates.
+
+Derivatives are recognized initially at fair value on the date a derivative contract is entered into and are subsequently remeasured at fair value. Changes in fair value of derivatives not designated as hedging instruments are recognized in profit or loss.
+
+Derivatives that qualify for hedge accounting are designated as either fair value hedges or cash flow hedges. For fair value hedges, changes in fair value of derivatives and hedged items attributable to the hedged risk are recognized in profit or loss. For cash flow hedges, the effective portion of changes in the fair value of derivatives is recognized in other comprehensive income, the ineffective portion is recognized in profit or loss immediately.
+
+Hedge effectiveness is assessed at inception and on an ongoing basis. Hedge accounting is discontinued prospectively if the hedge no longer meets the criteria.
+
+The Company discloses derivative instruments in the balance sheet at fair value, with classification as current or non-current based on the timing of expected cash flows.
+
+2.5. RECENT ACCOUNTING PRONOUNCEMENTS
+
+New Standards/Amendments notified but not yet effective:
+
+The Ministry of Corporate Affairs has vide notification dated 14 August 2024 and 9 September 2024 notified Companies (Indian Accounting Standards) Amendment Rules, 2024 (the ‘Rules’) which amends certain accounting standards, and are effective 1 April 2024. The Rules predominantly brings new Ind AS 117 ‘Insurance Contracts’ replacing the existing Ind AS 104 “Insurance Contracts and amends Ind AS 116, ‘Leases’. As per the Management’s assessment, these amendments are not expected to have a material impact on the Company in the current or future reporting periods and on foreseeable future transactions.
+
+Additionally, the Ministry of Corporate Affairs, vide notification dated 7 May 2025, has notified the Companies (Indian Accounting Standards) Amendment Rules, 2025, which amend certain standards effective for annual reporting periods beginning on or after 1 April 2025. Notably, this includes amendments to Ind AS 21 ‘The Effects of Changes in Foreign Exchange Rates,’ which are also not expected to significantly affect the Company’s financial statements in current or future periods.

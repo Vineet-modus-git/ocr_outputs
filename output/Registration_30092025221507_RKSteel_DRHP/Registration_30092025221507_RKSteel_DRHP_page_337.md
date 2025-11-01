@@ -1,0 +1,9 @@
+CAPITALISATION STATEMENT
+
+The following table sets forth our capitalisation as at Fiscal 2025 on the basis of our Restated Financial Information, and as adjusted for the Issue. This table should read in conjunction with “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, “Financial Statements” and “Risk Factors” beginning on pages 354, 271, and 37 respectively.
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>Pre-Issue as on Fiscal 2025</th><th>As adjusted for the Issue*</th></tr></thead><tbody><tr><td><strong>Borrowings</strong></td><td></td><td></td></tr><tr><td>Current Borrowings (A)</td><td>29,170.32</td><td>-</td></tr><tr><td>Non-Current Borrowings including current maturities (B)</td><td>5,938.90</td><td>-</td></tr><tr><td><strong>Total Borrowings (C = A+B)</strong></td><td><strong>35,109.22</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Shareholders' funds</strong></td><td></td><td></td></tr><tr><td>Equity Share Capital (D)</td><td>4,940.31</td><td>-</td></tr><tr><td>Other Equity (E)</td><td>7,128.00</td><td>-</td></tr><tr><td><strong>Total Equity (F = D+E)</strong></td><td><strong>12,068.31</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Non-Current Borrowings / Total Equity (G = B / F)</strong></td><td><strong>0.49</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Total Borrowings / Total Equity (H = C / F)</strong></td><td><strong>2.91</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Notes:</strong></td><td></td><td></td></tr><tr><td colspan="3">*Will be determined upon completion of the Issue.</td></tr></tbody></table>
+
+336

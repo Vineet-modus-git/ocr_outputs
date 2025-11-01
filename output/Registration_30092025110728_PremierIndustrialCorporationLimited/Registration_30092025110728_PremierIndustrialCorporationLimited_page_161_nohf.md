@@ -1,0 +1,25 @@
+a sharp increase in food prices and expensive imports because of weakening of yen. Going forward, inflation is expected to ease a bit but remain at 2-2.4% over the next 5 years due to high expectations of wage increments and depreciated yen.
+
+## UK
+
+Inflation jumped sharply to 9.1% in 2022, before easing to 7.3% in 2023. Going forward, inflation is expected to ease to the pre-pandemic levels and reach 2% in 2030. This, because of steep fall in oil and gas prices and softening in core price and service price pressures.
+
+## China
+
+Consumer price inflation eased from 2.5% in 2020 to 0.9% in 2021 due to the government's effective action to bolster production of daily necessities and smoothen the sharp fluctuation in commodity prices. In 2022, however, inflation increased to 2% because of increase in pork prices. In 2023, inflation slipped again to 0.2% owing to weak domestic demand in the wake of a higher unemployment rate, slower income growth and the real estate market downturn. Going forward, inflation is expected to rise to 2% in medium to long term to reach near-optimum levels because of moderation in the demand-supply gap.
+
+## India
+
+India's consumer price inflation rate fluctuated between 4.80% in 2019 and 6.7% in 2022, inflation rose sharply in 2020 (6.2%) and peaked in 2022 (6.7%), primarily due to global supply chain disruptions, pandemic-induced uncertainties, and surging commodity prices. However, post-2023, inflation began to decline steadily, reaching 5.4% in 2023 and is projected to stabilize at 4.0% by 2030. This decline reflects India's improved fiscal policies, structural reforms, and effective monetary measures by the Reserve Bank of India (RBI). Stabilization is also attributed to easing global uncertainties and better management of supply chain dynamics. The projections for 2024 onwards indicate a return to moderate inflation levels, balancing economic growth with price stability.
+
+## Emerging and developing Asia
+
+Inflation in emerging Asia is projected to converge with advanced economies, at 2.0% in 2024 and 1.7% in 2025. Timely monetary tightening and price controls have contributed to this moderation. Energy prices have played a significant role in shaping inflation trends, with countries experiencing lower energy price inflation also seeing lower overall CPI inflation. The inflation outlook is expected to stabilize at around 2.7-2.8% by 2029.
+
+## Indian macroeconomic overview
+
+### GDP trend and composition by sectors
+
+India's economy has demonstrated remarkable resilience, with its GDP increasing to Rs 188 trillion in fiscal 2025, representing a six-year compound annual growth rate (CAGR) of 5% between fiscal 2019 and 2025. Notably, India is the fastest-growing economy among the G20 countries in fiscal 2024 and fiscal 2025, and is projected to maintain this position until 2030, driven by rising incomes, infrastructure development, favorable consumption trends, a younger population, and rapid urbanization. After a pandemic-induced contraction of 5.8% in fiscal 2021, India's GDP rebounded strongly, growing 9.7% and 7.6% year-on-year in fiscals 2022 and 2023, respectively, fuelled by pent-up demand in sectors such as manufacturing and construction, positioning the country for sustained economic growth in the coming years.
+
+### Real GDP trend (at constant 2011-2012 prices)

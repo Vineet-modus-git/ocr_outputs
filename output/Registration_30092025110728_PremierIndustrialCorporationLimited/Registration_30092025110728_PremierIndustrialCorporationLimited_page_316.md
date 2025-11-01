@@ -1,0 +1,25 @@
+<table><thead><tr><td>Wire type</td><td>Description</td></tr></thead><tbody><tr><td>ER70S-6</td><td>Enhanced with additional manganese and silicon; offers improved weldability and tensile strength; ideal for welding thicker sections and heavy fabrication</td></tr><tr><td>ER80S-B2</td><td>Specifically formulated with higher manganese and silicon content; designed for welding high-strength low-alloy steels, ensuring excellent toughness and ductility</td></tr><tr><td>ER90S-B3</td><td>Contains increased alloying elements for improved strength and toughness; suitable for welding high-strength steel applications in industries such as pressure vessels and heavy machinery</td></tr></tbody></table>
+
+## SIGNIFICANT DEVELOPMENTS SUBSEQUENT TO THE LAST REPORTING PERIOD:
+
+In the opinion of the Board of Directors of our Company, there have not arisen, since the date of March 31, 2025 as disclosed in this Draft Red Herring Prospectus, any significant developments or any circumstance that materially or adversely affect or are likely to affect the profitability of our Company or the value of its assets or its ability to pay its material liabilities within the next twelve months.
+
+## KEY FACTORS AFFECTING THE RESULTS OF OPERATION:
+
+Our Company's future results of operations could be affected potentially by the following factors:
+
+1. Our business and profitability are substantially dependent on the availability and the cost of our raw materials consumed for which we primarily rely on third parties. Any disruption in timely and adequate supply of the raw materials, or volatility in the prices of raw materials or failure to maintain cordial relations with our suppliers may adversely impact our business, results of operations, financial condition and cash flows.
+
+Our cost of raw materials consumed which primarily consists of elemental metals such as, nickel, chrome, ferro manganese, ferro chrome, ferro silicon, molybdenum, ferro tungsten, ferro niobium, iron powder, high carbon ferro chrome lumps, ferro titanium lumps & various other ferro alloys including ferrous and non ferrous metals, chemicals & minerals packing material etc, for our powder products; and nickel, mild steel wire and stainless steel wire for the wires we manufacture, constitute a significant portion of our expenses.
+
+The following table sets forth the details of our total cost of materials consumed for the years indicated:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount<br>(₹ in million)</th><th>% of total<br>expense</th><th>Amount<br>(₹ in million)</th><th>% of total<br>expense</th><th>Amount<br>(₹ in million)</th><th>% of total<br>expense</th></tr></thead><tbody><tr><td>Powders</td><td>2,822.15</td><td>68.46</td><td>1,855.70</td><td>61.29</td><td>2,351.07</td><td>66.62</td></tr><tr><td>Wires</td><td>593.55</td><td>14.40</td><td>568.46</td><td>18.78</td><td>619.29</td><td>17.55</td></tr><tr><td><strong>Total cost of materials<br>consumed</strong></td><td><strong>3,415.70</strong></td><td><strong>82.85</strong></td><td><strong>2,424.16</strong></td><td><strong>80.07</strong></td><td><strong>2,970.36</strong></td><td><strong>84.17</strong></td></tr></tbody></table>
+
+The price and availability of raw materials for our products depends on several factors beyond our control, including overall economic conditions, production costs and levels, market demand and competition for such materials, production and transportation cost, government policies, indirect taxes and import duties, global geopolitical events, tariffs, absence of long-term supply agreements and contracts and fluctuations in the foreign currency exchange rate. We source a substantial portion of our raw materials from international markets.
+
+Details of our raw materials sourced from domestic and overseas suppliers are as follows:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount (₹ in million)</th><th>% of raw materials purchased</th><th>Amount (₹ in million)</th><th>% of raw materials purchased</th><th>Amount (₹ in million)</th><th>% of raw materials purchased</th></tr></thead><tbody><tr><td>India</td><td>2,046.43</td><td>51.95</td><td>1,847.23</td><td>64.83</td><td>1,978.24</td><td>66.35</td></tr><tr><td>Overseas</td><td>1,892.79</td><td>48.05</td><td>1,002.09</td><td>35.17</td><td>1,003.39</td><td>33.65</td></tr><tr><td><strong>Total</strong></td><td><strong>3,939.22</strong></td><td><strong>100.00</strong></td><td><strong>2,849.32</strong></td><td><strong>100.00</strong></td><td><strong>2,981.63</strong></td><td><strong>100.00</strong></td></tr></tbody></table>
+
+311

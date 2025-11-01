@@ -1,0 +1,31 @@
+# SECTION VII: OFFER INFORMATION
+
+## TERMS OF THE OFFER
+
+The Equity Shares of face value of ₹ 10 being offered and Allotted pursuant to this Offer shall be subject to the provisions of the Companies Act, the SCRA, the SCRR, the SEBI ICDR Regulations, the SEBI Listing Regulations, our Memorandum of Association and Articles of Association, the terms of this Draft Red Herring Prospectus the Red Herring Prospectus, the Prospectus, the Abridged Prospectus, the Bid cum Application Form, the Revision Form, the CAN, the Allotment Advice and other terms and conditions as may be incorporated in the Allotment Advice and other documents or certificates that may be executed in respect of this Offer. The Equity Shares of face value of ₹ 10 shall also be subject to all applicable laws, guidelines, rules, notifications and regulations relating to the issue of capital, transfer of securities and listing and trading of securities offered from time to time by SEBI, the GoI, the Stock Exchanges, the RoC, the RBI, and/or other authorities, as in force on the date of this Offer and to the extent applicable or such other conditions as may be prescribed by the SEBI, the GoI, the Stock Exchanges, the RoC and/or any other authorities while granting its approval for the Offer.
+
+### The Offer
+
+The Offer comprises of a Fresh Issue by our Company and an Offer for Sale by the Promoter Selling Shareholders.
+
+Expenses for the Offer shall be borne by our Company and Promoter Selling Shareholders in the manner specified in "*Objects of the Offer - Offer related expenses*" on page 123.
+
+### Ranking of Equity Shares
+
+The Equity Shares being offered/ Allotted and transferred pursuant to the Offer will be subject to the provisions of the Companies Act, the SEBI ICDR Regulations, the SCRA, the SCRR, the Memorandum of Association and Articles of Association and will rank *pari passu* in all respects with the existing Equity Shares, including in respect of voting rights, dividends and other corporate benefits, if any, declared by our Company after the date of Allotment. For more information, see "*Description of Equity Shares and Terms of Articles of Association*" on page 439.
+
+### Mode of Payment of Dividend
+
+Our Company shall pay dividend, if declared, to our Shareholders, as per the provisions of the Companies Act, the SEBI Listing Regulations, the Memorandum of Association and Articles of Association, and any guidelines or directives that may be issued by the GoI in this respect. Any dividends declared after the date of Allotment in this Offer will be payable to the Allottees, for the entire year, in accordance with applicable law. For more information, see "*Dividend Policy*" and "*Description of Equity Shares and Terms of Articles of Association*" on pages 287 and 439, respectively.
+
+### Face Value, Offer Price, Floor Price, CAP Price and Price Band
+
+The face value of each Equity Share is ₹ 10 and the Offer Price is ₹ [●] per Equity Share. The Floor Price of the Equity Shares is ₹ [●] and the Cap Price of the Equity Shares is ₹ [●], being the Price Band. The Anchor Investor Offer Price is ₹ [●] per Equity Share. The Offer Price and the Anchor Investor Offer Price shall be determined by our Company, in consultation with the BRLM, after the Bid/ Offer Closing Date, on the basis of assessment of market demand for the Equity Shares offered by way of Book Building Process.
+
+The Offer Price, Price Band and the minimum Bid Lot will be decided by our Company, in consultation with the BRLM, and shall be published at least two Working Days prior to the Bid/ Offer Opening Date, in all editions of [●], a widely circulated English national daily newspaper and all editions of [●], a widely circulated Hindi national daily newspaper and [●] editions of [●], Gujarati daily newspaper (Gujarati being the regional language of Gujarat, where the Registered and Corporate Office is located), and shall be made available to the Stock Exchanges for the purpose of uploading on their respective websites. The Price Band, along with the relevant financial ratios calculated at the Floor Price and at the Cap Price shall be pre-filled in the Bid-cum-Application Forms available on the respective websites of the Stock Exchanges. The Offer Price shall be determined by our Company, in consultation with the BRLM, and in compliance with the SEBI ICDR Regulations, after the Bid / Offer Closing Date, on the basis of assessment of market demand for the Equity Shares offered by way of Book Building Process.
+
+At any given point of time there shall be only one denomination for the Equity Shares.
+
+### Compliance with disclosure and accounting norms
+
+Our Company shall comply with all applicable disclosure and accounting norms as specified by SEBI from time to time.

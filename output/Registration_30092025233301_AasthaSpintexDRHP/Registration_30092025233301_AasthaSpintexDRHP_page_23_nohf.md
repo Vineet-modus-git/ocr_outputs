@@ -1,0 +1,1 @@
+reflect the occurrence of underlying events, even if the underlying assumptions do not come to fruition. In accordance with the SEBI ICDR Regulations, our Company, and the BRLMs will ensure that investors in India are informed of material developments until the time of the grant of listing and trading permission by the Stock Exchanges for the Equity shares pursuant to the Issue.

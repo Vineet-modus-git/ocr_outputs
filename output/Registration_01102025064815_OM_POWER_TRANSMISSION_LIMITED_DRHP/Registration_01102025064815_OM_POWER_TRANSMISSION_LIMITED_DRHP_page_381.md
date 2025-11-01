@@ -1,0 +1,41 @@
+Our opening stock for the Fiscal 2024 was ₹ 266.95 lakhs as compared to ₹ 295.36 lakhs in Fiscal 2023. Our total purchase of material, stores, spares and tools consumed (purchase) during Fiscal 2024 was ₹ 6,696.91 lakhs as compared to ₹ 4,025.99 lakhs in Fiscal 2023, showing increase of 66.34%. While, our closing stock for the Fiscal 2023 was ₹ 266.95 lakhs, it was decreased to ₹ 194.79 lakhs in Fiscal 2024.
+
+## Project Related Expenses
+
+Project related expenses increased by 52.46 %, from ₹ 4,578.68 lakhs in Fiscal 2023 to ₹ 6,980.74 lakhs in Fiscal 2024. However, as a proportion of total income, remain consistent from 37.62% in Fiscal 2023 to 37.86% in Fiscal 2024.
+
+Additionally, right of way and crop compensation expenses increased significantly by 302.67 %, from ₹655.18 lakhs in Fiscal 2023 to ₹ 2,638.23 lakhs in Fiscal 2024. These expenses represented 14.31% of our total income in Fiscal 2024, compared to only 5.38% in Fiscal 2023.
+
+## Employee Benefit Expenses
+
+Our employee benefit expenses increased by 52.85% from ₹ 1,871.09 lakhs for Fiscal 2023 to ₹ 2,859.96 lakhs for Fiscal 2024, primarily due to an increase in full time employee headcount to 1,211 as at March 31, 2024 from 978 as at March 31, 2023 together with the annual wage increase resulting in an increase in salaries and annual wage increases.
+
+## Finance Costs
+
+Our finance costs increased by 19.13% from ₹ 440.19 lakhs in Fiscal 2023 to ₹ 524.40 lakhs in Fiscal 2024. The increase was primarily on account of other borrowing cost, which rose to ₹ 158.42 lakhs in Fiscal 2024 as compared to ₹ 83.00 lakhs in Fiscal 2023. Other borrowing cost increased primarily due to increase of Bank charges & Bank commission and processing fees by 86.58% from ₹81.71 lakhs in Fiscal 2023 from ₹152.46 lakhs in Fiscal 2024.
+
+## Depreciation and Amortisation Expense
+
+Our depreciation and amortization charge increased by 0.17% from ₹132.05 lakhs for Fiscal 2023 to ₹132.28 lakhs for Fiscal 2024.
+
+## Other Expenses
+
+Our other expenses decreased by 32.70% from ₹326.52 lakhs for Fiscal 2023 to ₹219.76 lakhs for Fiscal 2024. Our total other expenses represented 1.19% of total income for Fiscal 2024 and 2.68% of total income for Fiscal 2023. The primary reason for decrease in other expenses is attributable to:
+
+(i) Decrease of 86.05% in allowances for expected credit loss from ₹ 62.43 lakhs in Fiscal 2023 to ₹ 8.71 lakhs in Fiscal 2024.
+
+(ii) Decrease of 89.74% in donation expenses from ₹ 13.25 lakhs in Fiscal 2023 to ₹ 1.36 lakhs in Fiscal 2024.
+
+(iii) Decrease of 20.87% in repair and maintenance expenses from ₹ 37.86 lakhs in Fiscal 2023 to ₹ 29.96 lakhs in Fiscal 2024.
+
+## Profit before Tax (PBT)
+
+As a result of the factors explained above, our profit before taxes increased by 24.15% from ₹ 767.80 lakhs for Fiscal 2023 to ₹ 953.24 lakhs for Fiscal 2024. Profit before tax as a percentage of total income decreased from 6.31% in Fiscal 2023 to 5.17% in Fiscal 2024.
+
+## Tax Expenses
+
+Tax expense was ₹212.00 lakhs and ₹144.08 lakhs for the Fiscal 2024 and Fiscal 2023 respectively showing increase of 47.14%. Increase in tax expenses was primarily attributable to overall increase in Revenue from Operations and profit before tax.
+
+## Profit after Tax (PAT)
+
+Due to the factors discussed above, our profit for the year increased by 18.84% from ₹ 622.87 lakhs for Fiscal 2023 to ₹ 741.24 lakhs for Fiscal 2024. Profit after tax as a percentage of total income decreased from 5.12% in Fiscal 2023 to

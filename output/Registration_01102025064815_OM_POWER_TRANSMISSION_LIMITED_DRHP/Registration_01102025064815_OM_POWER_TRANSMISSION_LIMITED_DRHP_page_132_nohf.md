@@ -1,0 +1,25 @@
+## BASIS FOR OFFER PRICE
+
+The Price Band and the Offer Price will be determined by our Company, in consultation with the Book Running Lead Manager, on the basis of assessment of market demand for the Equity Shares offered through the Book Building Process and on the basis of quantitative and qualitative factors as described below. The face value of the Equity Shares is ₹ 10 each and the Offer Price is [●] times the face value at the lower end of the Price Band and [●] times the face value at the higher end of the Price Band. The Cap Price shall be minimum 105% of the Floor Price and shall not exceed 120% of the Floor Price. Bidders should also see "Risk Factors", "Our Business", "Summary of Financial Information", and "Management's Discussion and Analysis of Financial Condition and Results of Operations" on pages 33, 225, 82 and 354, respectively, to have an informed view before making an investment decision.
+
+Investors should also see "Risk Factors", "Summary of Financial Information", "Our Business", "Restated Financial Information", and "Management's Discussion and Analysis of Financial Condition and Results of Operations" beginning on pages 33, 82, 225, 288 and 354, respectively, to have an informed view before making an investment decision.
+
+### Qualitative Factors
+
+Some of the qualitative factors and our strengths which form the basis for computing the Offer Price are as follows:
+
+* **Track record of timely completion of complex and high-value projects:** We have over 14 years of experience as a Gujarat-based power transmission infrastructure and distribution EPC company, with demonstrated capabilities in delivering high-voltage ("HV") and extra-high voltage ("EHV") transmission line and substation projects. Our expertise covers the complete EPC value chain including design, engineering, procurement, supply, construction, installation, and commissioning of transmission lines ranging from 11 kV to 400 kV, as well as substation projects ranging from 66 kV to 400 kV. Our ability to deliver projects within schedule is further supported by standardized processes, efficient resource allocation, and continuous improvement in project execution methodologies. Numerous projects have been completed ahead of schedule, such as a 66 kV line (18 km) in 4 months for One of the customer engaged in automobile industry and a 220 kV line (83 km) ahead of time for GETCO. (Source: D&B Report).
+
+* **Strong Order Book for existing project portfolio and geography:** In the industry which we operate, order book is the considered an indicator of future performance since it represents a committed portion of anticipated future revenue (Source: D&B Report). As of August 31, 2025, our Order Book consisted of 56 projects aggregating to ₹77,619.35 lakhs. The growth of our Order Book over the last three Fiscals has contributed to the scale-up of our operations and provided revenue visibility. The consistent growth in our Order Book is a result of our execution track record, our focus on maintaining quality standards in our construction and project execution skills.
+
+* **Proven Track Record of Growth in Financial Performance:** The significant growth of our business in the last three Fiscals has contributed considerably to our financial strength. Our revenue from operations increasing from ₹ 12,023.63 lakhs in Fiscal 2023 to ₹ 27,943.51 lakhs in Fiscal 2025, representing a CAGR of 52.45%. Our profit for the year grew from ₹622.87 lakhs in Fiscal 2023 to ₹ 2,208.48 lakhs in Fiscal 2025, representing a CAGR of 88.17%. For Fiscal 2025, 2024, and 2023, our EBITDA margins were 12.66%, 7.85%, and 9.80%, respectively, while our net profit margins were 7.84%, 4.02%, and 5.12%, respectively.
+
+* **Experienced management team and qualified personnel with significant industry experience:** Our Company has achieved significant growth and strong financial performance under the leadership and guidance of our Promoters, who bring deep domain expertise and extensive experience in the power transmission infrastructure sector. Kalpesh Dhanjibhai Patel, our Chairman and Executive Director, Vasantkumar Narayanbhai Patel, our Whole-Time Director and Kanubhai Patel, our Managing Director, are the Promoters and founding members of our Company who have been on the Board since its incorporation. Together, they bring over 30 years of experience each in electronic products and power transmission infrastructure, including extensive work as electrical contractors for government and private projects involving the development, operation, and maintenance of transmission lines, substations, and underground cabling.
+
+### Quantitative Factors
+
+Some of the information presented below relating to our Company is derived from the Restated Financial Information. For details, see "Summary of Financial Information" and "Other Financial Information" on pages 82 and 346, respectively.
+
+Some of the quantitative factors which may form the basis for computing the Offer Price are as follows:
+
+A. Basic and Diluted Earnings Per Equity Share ("EPS") (face value of each Equity Share is ₹ 10):

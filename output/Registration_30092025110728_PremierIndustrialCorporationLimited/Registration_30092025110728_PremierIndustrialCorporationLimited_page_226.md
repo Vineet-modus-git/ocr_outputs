@@ -1,0 +1,23 @@
+a single tax. The CGST Act mandates every supplier providing the goods or services to be registered within the State or Union Territory it falls under, within 30 days from the day on which he becomes liable for such registration. Such registrations can be amended, as well as cancelled by the proper office on receipt of application by the registered person or his legal heirs.
+
+**Maharashtra Goods and Services Tax Act, 2017 ("MGST Act")**
+
+The Maharashtra Goods and Services Tax Act, 2017 regulates the levy and collection of tax on the supply of goods and services within the state by the state government. The MGST Act covers all the transaction occurring within the geographical boundaries of Maharashtra. The MGST mandates every supplier providing the goods and services to be registered within the state, within 30 days from which it becomes liable for such registration.
+
+**Tamil Nadu Goods and Services Tax Act, 2017 ("TNGST Act")**
+
+The Tamil Nadu Goods and Services Tax Act, 2017 regulates the levy and collection of tax on the supply of goods and services within the state by the state government. The TNGST Act covers all the transaction occurring within the geographical boundaries of Tamil Nadu. The TNGST mandates every supplier providing the goods and services to be registered within the state, within 30 days from which it becomes liable for such registration.
+
+**The Integrated Goods and Services Tax Act, 2017 ("IGST Act")**
+
+The IGST Act regulates the levy and collection of tax on the inter-State supply of goods and services by the Central Government or State Governments. It also includes the import and export of goods and services. The IGST Act mandates every supplier providing the goods or services to be registered within the State or Union Territory it falls under, within 30 days from the day on which he becomes liable for such registration.
+
+**Laws relating to foreign investment and trade**
+
+**Foreign Trade (Development and Regulation) Act, 1992 and the rules framed thereunder ("Foreign Trade Act")**
+
+The Foreign Trade Act, read with the applicable provisions of the Indian Foreign Trade Policy 2023, authorizes the government to formulate as well as announce the export and import policy and to keep amending the same on a timely basis. The Central Government has also been given a wide power to prohibit, restrict and regulate the exports and imports in general as well as specified cases of foreign trade. The Foreign Trade Act requires every importer as well as exporter to obtain the Importer Exporter Code Number ("IEC") from the Director-General or the authorised officer. The Director General is authorised to suspend or cancel IEC in case of (i) contravention by 295any person any of the provisions of the Foreign Trade Act or any rules or orders made thereunder or the foreign trade policy or any other law for the time being in force relating to Central excise or customs or foreign exchange or person has committed any other economic offence under any other law for the time being in force as may be specified by the Central Government or (ii) making an export or import in a manner prejudicial to the trade relations of India with any foreign country or to the interests of other persons engaged in imports or exports or has brought disrepute to the credit or the goods of, or services or technology provided from, the country; or (iii) importing or exporting specified goods or services or technology, in contravention of any provision of the Foreign Trade Act or any rules or orders made thereunder or the foreign trade policy. Where any IEC number granted to a person has been suspended or cancelled, the person shall not be entitled to import or export any goods or services or technology except under a special licence, granted by the Director General to that person in a manner and subject to conditions as may be prescribed.
+
+**The Foreign Exchange Management Act, 1999 ("FEMA")**
+
+Foreign investment in India is governed by the provisions of FEMA along with the rules, regulations and notifications made by RBI thereunder, and the Consolidated Foreign Direct Investment Policy ("FDI Policy") issued by the DPIIT from time to time. Further, the RBI has enacted the Foreign Exchange Management (Mode of Payment and Reporting of Non-Debt Instruments) Regulations, 2019 which regulate the mode of payment and reporting requirements for investments in India by a person resident outside India. As per the current FDI Policy (effective October 15, 2020), 100% foreign direct investment is allowed for companies in the manufacturing sector through the automatic route.

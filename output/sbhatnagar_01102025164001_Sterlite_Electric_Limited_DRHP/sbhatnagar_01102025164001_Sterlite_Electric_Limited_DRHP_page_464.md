@@ -1,0 +1,29 @@
+maintenance costs are recognised in statement of profit or loss as incurred. No decommissioning liabilities are expected or to be incurred on the assets of plant and equipment.
+
+Expenditure directly relating to construction activity is capitalised. Indirect expenditure incurred during construction period is capitalised as part of the construction costs to the extent the expenditure can be attributable to construction activity or is incidental there to. Income earned during the construction period is deducted from the total of the indirect expenditure.
+
+Depreciation is calculated on a straight-line basis over the estimated useful lives of the assets as follows:
+
+(Life in number of years)
+
+<table><thead><tr><td>Asset Category</td><td>Useful Life Considered</td><td>Useful life (Schedule II)#</td></tr></thead><tbody><tr><td>Buildings (Factory/Office)**</td><td>10-60 Years</td><td>30/60 Years</td></tr><tr><td>Plant and machinery</td><td>2 - 20 Years *</td><td>Continuous process plant- 25 Years<br>Others- 15 Years</td></tr><tr><td>Furniture and fixtures</td><td>3 - 10 Years *</td><td>10 Years</td></tr><tr><td>Power transmission lines</td><td>25-35 Years*</td><td>40 Years</td></tr><tr><td>Data processing equipment</td><td>3 - 6 Years *</td><td>Service and networks- 6 Years and<br>desktops and laptop etc - 3 Years</td></tr><tr><td>Office equipment</td><td>2 - 5 Years *</td><td>5 Years</td></tr><tr><td>Electrical installations</td><td>4 - 20 Years *</td><td>10 Years</td></tr><tr><td>Vehicles</td><td>3 - 5 Years *</td><td>8 Years</td></tr><tr><td>Leasehold improvements</td><td>Lease period</td><td>Lease period</td></tr></tbody></table>
+
+* Considered on the basis of management's estimation, supported by technical advice, of the useful lives of the respective assets.
+
+** Includes roads for which life considered is 15-25 years.
+
+# Residual value considered as 5% on the basis of management's estimation, supported by technical advice.
+
+The Group, based on technical assessments made by technical experts and management estimates, depreciates certain items of building, plant and machinery, data processing equipment, furniture and fixtures, electrical fittings, office equipment and other telecom networks equipment over estimated useful lives which are different from the useful life prescribed in Schedule II to the Companies Act, 2013. The management believes that these estimated useful lives are realistic and reflect fair approximation of the period over which the assets are likely to be used.
+
+An item of property, plant and equipment and any significant part initially recognised is derecognised upon disposal or when no future economic benefits are expected from its use or disposal. Any gain or loss arising on derecognition of the asset (calculated as the difference between the net disposal proceeds and the carrying amount of the asset) is included in the statement of profit or loss when the asset is derecognised.
+
+The residual values, useful lives and methods of depreciation of property, plant and equipment are reviewed at each financial year end and adjusted prospectively, if appropriate.
+
+## Intangible assets
+
+Intangible assets acquired separately are measured on initial recognition at cost. Following initial recognition, intangible assets are carried at cost less accumulated amortisation and accumulated impairment losses. Internally generated intangible assets, excluding capitalised development costs, are not capitalized and the related expenditure is recognised in the statement of profit or loss in the period in which the expenditure is incurred.
+
+The useful lives of intangible assets are assessed as either finite or indefinite.
+
+Intangible assets with finite lives are amortised over their useful economic lives and assessed for impairment whenever there is an indication that the intangible asset may be impaired. The amortization period and the amortisation method for an intangible asset with a finite useful life are reviewed at least at the end of each reporting period. Changes in the expected useful life or the expected pattern of consumption of future economic benefits embodied in the asset are considered to modify the amortisation period or method, as appropriate, and are treated as changes in accounting estimates. The amortisation expense on intangible assets with finite lives is recognised in the statement of profit or loss unless such expenditure forms part of carrying value of

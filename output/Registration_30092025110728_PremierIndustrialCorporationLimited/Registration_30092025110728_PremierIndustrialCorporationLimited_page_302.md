@@ -1,0 +1,31 @@
+Notes to the Restated Financial Information
+for the years ended 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+(ii) Disclosures for defined benefit plans
+
+(a) Defined benefit obligations - Gratuity (unfunded)
+
+The Company has a defined benefit gratuity plan for its employees. The gratuity plan is governed by the Payment of Gratuity Act, 1972. Under the Act, every employee who has completed five years of service is entitled to specific benefit. The level of benefits provided depends on the employee's length of service and salary at retirement age. Every employee who has completed five years or more of service gets a gratuity on departure at 15 days salary (last drawn) for each completed year of service as per the provisions of the Payment of Gratuity Act, 1972. The scheme is unfunded.
+
+Risks associated with plan provisions
+
+Valuations are based on certain assumptions, which are dynamic in nature and vary over time. As such Company is exposed to various risks as follows:
+
+<table><tr><td>Interest rate risk</td></tr><tr><td>Salary inflation risk</td></tr><tr><td>Demographic risk</td></tr></table>
+
+For determination of the liability in respect of gratuity, the Company has used following actuarial assumptions:
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Discount Rate (per annum)</td><td>6.65%</td><td>7.20%</td><td>7.40%</td></tr><tr><td>Rate of Return on Plan Assets (per annum)</td><td>0.00%</td><td>0.00%</td><td>0.00%</td></tr><tr><td>Salary Escalation (per annum)</td><td>6.00%</td><td>6.00%</td><td>6.00%</td></tr><tr><td>Attrition Rate (per annum) (Age 25 years and below)</td><td>10.00%</td><td>10.00%</td><td>10.00%</td></tr><tr><td>Attrition Rate (per annum) (Age 25 to 35 years)</td><td>8.00%</td><td>8.00%</td><td>8.00%</td></tr><tr><td>Attrition Rate (per annum) (Age 35 to 45 years)</td><td>6.00%</td><td>6.00%</td><td>6.00%</td></tr><tr><td>Attrition Rate (per annum) (Age 45 to 55 years)</td><td>4.00%</td><td>4.00%</td><td>4.00%</td></tr><tr><td>Attrition Rate (per annum) (Age 55 years and above)</td><td>2.00%</td><td>2.00%</td><td>2.00%</td></tr><tr><td>Mortality Rate</td><td>Indian Assured Lives<br>Mortality (2012-14)<br>Urban</td><td>Indian Assured Lives<br>Mortality (2012-14)<br>Urban</td><td>Indian Assured Lives<br>Mortality (2012-14)<br>Urban</td></tr></tbody></table>
+
+<table><thead><tr><th>Changes in the present value of obligations</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Liability at the beginning of the year</td><td>23.96</td><td>19.70</td><td>26.55</td></tr><tr><td>Interest cost</td><td>1.40</td><td>1.21</td><td>1.54</td></tr><tr><td>Current service cost</td><td>2.70</td><td>2.09</td><td>1.87</td></tr><tr><td>Benefits paid</td><td>(0.32)</td><td>(0.95)</td><td>(0.40)</td></tr><tr><td>Past service cost</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Actuarial (gain)/loss on obligations</td><td>1.87</td><td>1.92</td><td>(9.86)</td></tr><tr><td><strong>Liability at the end of the year</strong></td><td><strong>29.61</strong></td><td><strong>23.96</strong></td><td><strong>19.70</strong></td></tr></tbody></table>
+
+<table><thead><tr><th>Table of recognition of actuarial gain / loss</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Actuarial (gain)/ loss on obligation for the year</td><td>1.87</td><td>1.92</td><td>(9.86)</td></tr><tr><td>Actuarial gain/ (loss) on assets for the year</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Actuarial (gain)/ loss recognized in Statement of OCI</strong></td><td><strong>1.87</strong></td><td><strong>1.92</strong></td><td><strong>(9.86)</strong></td></tr></tbody></table>
+
+<table><thead><tr><th>Breakup of actuarial (gain)/loss:</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Actuarial loss/(gain) arising from change in demographic</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Actuarial loss arising from change in financial assumption</td><td>1.04</td><td>0.29</td><td>(0.63)</td></tr><tr><td>Actual return on plan assets less interest on plan assets</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Actuarial loss/(gain) arising from experience</td><td>0.83</td><td>1.63</td><td>(9.23)</td></tr><tr><td><strong>Total</strong></td><td><strong>1.87</strong></td><td><strong>1.92</strong></td><td><strong>(9.86)</strong></td></tr></tbody></table>
+
+<table><thead><tr><th>Amount recognized in the Balance Sheet:</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Liability at the end of the year</td><td>29.71</td><td>23.96</td><td>19.70</td></tr><tr><td>Fair value of plan assets at the end of the year</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Amount recognized in Balance Sheet</strong></td><td><strong>29.71</strong></td><td><strong>23.96</strong></td><td><strong>19.70</strong></td></tr></tbody></table>
+
+<table><thead><tr><th>Expenses recognized in the Income Statement:</th><th>As at<br>31st March, 2025</th><th>As at<br>31st March, 2024</th><th>As at<br>31st March, 2023</th></tr></thead><tbody><tr><td>Current service cost</td><td>2.70</td><td>2.09</td><td>1.87</td></tr><tr><td>Interest cost</td><td>1.40</td><td>1.21</td><td>1.54</td></tr><tr><td>Expected return on plan assets</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Past Service Cost</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Actuarial (Gain)/Loss</td><td>1.87</td><td>1.92</td><td>(9.86)</td></tr><tr><td>Expense/ (income) recognized in</td><td></td><td></td><td></td></tr><tr><td>- Statement of Profit and Loss</td><td>4.10</td><td>3.30</td><td>3.41</td></tr><tr><td>- Other comprehensive income (OCI)</td><td>1.87</td><td>1.92</td><td>(9.86)</td></tr></tbody></table>
+
+297

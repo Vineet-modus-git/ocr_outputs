@@ -1,0 +1,23 @@
+a period of six months from the date of Allotment as required under the SEBI ICDR Regulations except for (i) the Equity Shares offered pursuant to the Offer for Sale; (ii) the Equity Shares held by Shareholders who are VCFs, Category I AIFs, Category II AIFs or FVCIs, subject to the conditions set out in Regulation 17 of the SEBI ICDR Regulations, provided that such Equity Shares will be locked-in for a period of at least six months from the date of purchase by such VCFs or Category I AIFs or Category II AIFs or FVCI Shareholders respectively. Further, any unsubscribed portion of the Equity Shares forming part of the Offer for Sale will also be locked in, as required under the SEBI ICDR Regulations. As required under Regulation 20 of the SEBI ICDR Regulations, our Company shall ensure that the details of the Equity Shares locked-in are recorded by the relevant Depository.
+
+(ii) In terms of Regulation 21 of the SEBI ICDR Regulations, the Equity Shares held by our Promoters, which are locked-in as per Regulation 16 of the SEBI ICDR Regulations, may be pledged only with scheduled commercial banks, public financial institutions, NBFC-SIs or housing finance companies as collateral security for loans granted by such entities, provided that such loans have been granted for the purpose of financing one or more of the objects of the Offer and pledge of the Equity Shares is a term of sanction of such loans. However, the relevant lock-in period shall continue post the invocation of the pledge referenced above, and the relevant transferee shall not be eligible to transfer the Equity Shares till the relevant lock-in period has expired in terms of the SEBI ICDR Regulations
+
+(iii) In terms of Regulation 22 of the SEBI ICDR Regulations, the Equity Shares held by our Promoters, which are locked-in may be transferred to and amongst the members of the Promoter Group including other Promoters or to any new promoter, and Equity Shares held by person other than the Promoter and which are locked-in may be transferred to any other person holding equity shares which are locked in along with the securities proposed to be transferred subject to continuation of the lock-in in the hands of the transferees for the remaining period and compliance with the SEBI Takeover Regulations, as applicable and such transferee shall not be eligible to transfer them till the lock-in period stipulated in SEBI ICDR Regulations has expired.
+
+(iv) 50% of the Equity Shares allotted to Anchor Investors under the Anchor Investor Portion shall be locked-in for a period 90 days from the date of Allotment and the remaining 50% shall be locked-in for a period of 30 days from the date of Allotment.
+
+iii) *Build-up of the shareholding of the members of our Promoter Group in our Company*
+
+As on the date of this Draft Red Herring Prospectus, one of member of our Promoter Group, namely, Bhavikaben Mahesh Patel hold 4,310 Equity Shares equivalent to 0.02% of the issued, subscribed, and paid-up pre-Offer Equity Share capital of our Company.
+
+The details regarding the build-up of the Equity shareholding of members of our Promoter Group in our Company is set forth in the table below:
+
+<table><thead><tr><th>Date of allotment/ transfer</th><th>Nature of transaction</th><th>Number of equity shares</th><th>Nature of consideration</th><th>Face value per equity share (₹)</th><th>Issue price/ transfer price per equity share (₹)</th><th>Percentage of the pre-Offer share capital (%)</th><th>Percentage of the post-Offer share capital (%)*</th></tr></thead><tbody><tr><td colspan="8" style="text-align: center; font-weight: bold;">BHAVIKABEN MAHESH PATEL</td></tr><tr><td>September 06, 2025</td><td>Private Placement</td><td>4,310</td><td>Cash</td><td>10</td><td>116</td><td>0.02</td><td>[•]</td></tr><tr><td style="font-weight: bold;">Total</td><td></td><td style="font-weight: bold;">4,310</td><td></td><td></td><td></td><td style="font-weight: bold;">0.02</td><td style="font-weight: bold;">[•]</td></tr></tbody></table>
+
+*Subject to finalization of Basis of Allotment.
+
+7. **Shareholding pattern of our Company**
+
+Set forth below is the shareholding pattern of our Company as on the date of this Draft Red Herring Prospectus:
+
+[remainder of the page has been intentionally left blank]

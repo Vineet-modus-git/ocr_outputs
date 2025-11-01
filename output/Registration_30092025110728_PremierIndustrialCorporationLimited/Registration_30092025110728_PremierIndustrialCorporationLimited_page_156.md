@@ -1,0 +1,7 @@
+3. The above Statement of possible special tax benefits sets out the provisions of Tax Laws in a summary manner only and is not a complete analysis or listing of all the existing and potential tax consequences of the purchase, ownership and disposal of Equity Shares.
+
+4. This Statement does not discuss any tax consequences in any country outside India of an investment in the Equity Shares. The subscribers of the Equity Shares in the country other than India are urged to consult their own professional advisers regarding possible income -tax consequences that apply to them.
+
+5. This Statement is only intended to provide general information to the investors and is neither designed nor intended to be a substitute for professional tax advice. In view of the individual nature of the tax consequences, the changing tax laws, each investor is advised to consult their own tax consultant with respect to the specific tax implications arising out of their participation in the Offer.
+
+6. No assurance is given that the revenue authorities/courts will concur with the views expressed herein. Our views are based on the existing provisions of law and its interpretation, which are subject to changes from time to time. We do not assume responsibility to update the views consequent to such change

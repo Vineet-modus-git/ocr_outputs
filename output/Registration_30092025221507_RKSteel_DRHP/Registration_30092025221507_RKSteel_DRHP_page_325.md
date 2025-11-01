@@ -1,0 +1,35 @@
+R.K. STEEL MANUFACTURING COMPANY LIMITED
+CIN: U24106TN2006PLC059519
+Annexure VI - Notes to Restated Ind AS Summary Statements
+
+(All amounts in Rs. lakhs, except as otherwise stated)
+
+## 50 Financial risk management
+
+The Company's principal financial liabilities, comprise loans and borrowings, trade and other payables. The main purpose of these financial liabilities is to finance the Company's operations. The Company's principal financial assets include loans, investments, security deposits, trade and other receivables, inter-corporate deposits and cash and cash equivalents that are derived directly from its operations.
+
+The Company's activities expose it to market risk, credit risk and liquidity risk. The Company's management oversees the management of these risk and works towards minimizing the potential adverse effects, if any, on its financial performance.
+
+### A Market risk
+
+Market risk is the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market prices. Market risk comprises interest rate risk and foreign currency risk. Financial instruments affected by market risk include loans and borrowings, payables, investments and deposits. The sensitivity analysis in the following sections relate to the position as at March 31, 2025, March 31, 2024 and March 31, 2023. The sensitivity of the relevant Profit and Loss item is the effect of the assumed changes in the respective market risks. This is based on the financial assets and financial liabilities held as at March 31, 2025, March 31, 2024 and March 31, 2023.
+
+#### (i) Interest rate risk management
+
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The Company's exposure to the risk of changes in market interest rates relates primarily to the Company's debt obligations with floating interest rates in form of Term loans.
+
+#### Interest rate Sensitivity analysis
+
+The sensitivity analyses below have been determined based on the exposure to interest rates for non-derivative instruments at the end of the reporting period. For floating rate liabilities, the analysis is prepared assuming the amount of the liability outstanding at the end of the reporting period was outstanding for the whole year. A 100 basis increase or decrease is used when reporting interest rate risk internally to key management personnel and represents management's assessment of the reasonably possible change in interest rates.
+
+The following table provides a break-up of the Company's floating and fixed rate borrowings:
+
+<table><thead><tr><th>Particulars</th><th>As at March 31, 2025</th><th>As at March 31, 2024</th><th>As at March 31, 2023</th></tr></thead><tbody><tr><td>Long term debts from Banks and NBFC</td><td>3,600.61</td><td>5,043.79</td><td>6,219.50</td></tr><tr><td>Current Maturities of long term debts</td><td>2,338.29</td><td>2,197.28</td><td>1,446.17</td></tr><tr><td>Unsecured Loan</td><td></td><td></td><td></td></tr><tr><td>- From Bank</td><td>-</td><td>189.24</td><td>978.18</td></tr><tr><td>- From Related parties and others</td><td>316.72</td><td>596.62</td><td>0.19</td></tr><tr><td>- From Body Corporates</td><td>575.00</td><td>725.00</td><td>725.00</td></tr><tr><td>Loan from others</td><td>-</td><td>4.84</td><td>4.84</td></tr><tr><td>Working Capital Loans from Banks</td><td>24,254.38</td><td>18,546.12</td><td>13,169.26</td></tr><tr><td>Working Capital Loans from NBFC</td><td>4,024.22</td><td>13.20</td><td>786.51</td></tr><tr><td><strong>Total of the above borrowings bearing fixed rate of interest</strong></td><td><strong>4,422.07</strong></td><td><strong>1,383.19</strong></td><td><strong>765.26</strong></td></tr><tr><td><strong>Total of the above borrowings bearing variable rate of interest</strong></td><td><strong>30,687.15</strong></td><td><strong>25,932.90</strong></td><td><strong>22,564.39</strong></td></tr><tr><td><strong>% of Borrowings out of above bearing variable rate of interest</strong></td><td><strong>87.40%</strong></td><td><strong>94.94%</strong></td><td><strong>96.72%</strong></td></tr></tbody></table>
+
+If interest rates had been 100 basis points higher or lower, with all other variables held constant, the Company's profit after tax would have decreased or increased,
+
+respectively. These effects are primarily attributable to the Company's exposure to variable rate borrowings and are summarized in the table below.
+
+<table><thead><tr><th>Risk Type</th><th>Change Assumed</th><th>Impact on Profit After Tax/Loss (₹ Lakhs)</th><th>2025</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td rowspan="2">Interest Rate Risk (Variable borrowings)</td><td>+100 bps</td><td>Decrease</td><td>229.63</td><td>194.06</td><td>168.85</td></tr><tr><td>-100 bps</td><td>Increase</td><td>229.63</td><td>194.06</td><td>168.85</td></tr></tbody></table>
+
+#### (ii) Foreign currency risk management

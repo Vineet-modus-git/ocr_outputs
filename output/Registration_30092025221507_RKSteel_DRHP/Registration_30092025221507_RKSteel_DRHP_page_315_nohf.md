@@ -1,0 +1,21 @@
+45 CSR Expenditure
+
+a) The Company has constituted a CSR committee in accordance with the provisions of the Companies Act, 2013. The focus of CSR activities of the Company comprise promotion of healthcare, education, gender equality, ensuring environment sustainability, training for rural sports and rural development objects. The amount required to be spent towards the CSR activities as per Section 135 and the CSR activities undertaken by the Company is given below:
+
+b) The composition of the CSR Committee:
+
+The Company has constituted a CSR Committee to fulfil, interalia, its responsibility towards CSR. The composition of the Committee is as follows:
+
+Mr. Pramod Kumar Bhalotia and Mr. Abhishek Bhalotia
+
+<table><thead><tr><th></th><th>for the year ended<br>31 March 2025</th><th>for the year ended<br>31 March 2024</th><th>for the year ended<br>31 March 2023</th></tr></thead><tbody><tr><td>c) Average net profit of the Company for last three financial years.</td><td>2740.27</td><td>2277.47</td><td>1543.63</td></tr><tr><td>d) Prescribed CSR Expenditure (two per cent of the amount of above, to be spent).</td><td>54.81</td><td>45.55</td><td>30.87</td></tr><tr><td>e) Details of CSR spent during the financial year</td><td></td><td></td><td></td></tr><tr><td>(a) Total amount spent for the financial year</td><td>54.76</td><td>45.57</td><td>30.80</td></tr><tr><td>(b) Amount unspent, if any;</td><td>(0.05)</td><td>0.02</td><td>(0.07)</td></tr><tr><td>(c) Manner in which the amount spent during the financial year is detailed below:</td><td></td><td></td><td></td></tr></tbody></table>
+
+f) Movement of CSR Provisions
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31 March 2025</th><th>As at<br>31 March 2024</th><th>As at<br>31 March 2023</th></tr></thead><tbody><tr><td>Opening Provision for the year</td><td>0.05</td><td>0.07</td><td>-</td></tr><tr><td>Add: Provision for the year/Period</td><td>54.81</td><td>45.55</td><td>30.87</td></tr><tr><td>Less: Paid during the year</td><td>(54.76)</td><td>(45.57)</td><td>(30.80)</td></tr><tr><td>Shortfall at the end of the year</td><td>0.10</td><td>0.05</td><td>0.07</td></tr></tbody></table>
+
+<table><thead><tr><th>S.No</th><th>Financial Year</th><th>CSR project or activity identified</th><th>Sector in which the project is covered</th><th>Projects or programs (Local area and the State and district)</th><th>Amount outlay (budget) project or programs wise</th><th>Amount spent on the projects or programs</th><th>Cumulative expenditure up to the reporting period</th><th>Amount spent Excess or (Shortage)</th></tr></thead><tbody><tr><td>1</td><td>2023-24</td><td>Promoting of Health care including preventive health and sanitation.</td><td>Healthcare</td><td>Anshika Seva Trust, Gujarat.</td><td>30.87</td><td>30.80</td><td>30.80</td><td>(0.07)</td></tr><tr><td>2</td><td>2024-25</td><td>Promoting of Education including special education.</td><td>Education</td><td>Ashirvad Foundation, Gujarat.</td><td>45.55</td><td>45.57</td><td>45.57</td><td>0.02</td></tr><tr><td rowspan="2">3</td><td rowspan="2">2024-25</td><td>Promoting of Education including special education.</td><td>Education</td><td>Ashirvad Foundation, Gujarat.</td><td>54.81</td><td>29.76</td><td>54.76</td><td>(0.05)</td></tr><tr><td>Providing food items, plantation medical and other social activities.</td><td>Education</td><td>Arya Foundation, Gujarat.</td><td></td><td>25.00</td><td></td><td></td></tr></tbody></table>
+
+Note: The company had a shortfall in its Corporate Social Responsibility (CSR) spending. The shortage amount of Rs.10,311 as at 31st March 2025 was duly paid and utilized towards eligible activities as per Schedule VII of the Companies Act, 2013. The payment was made within the prescribed time limit, thereby ensuring compliance with CSR provisions.
+
+g) A responsibility statement of the CSR Committee that the implementation and monitoring of CSR Policy, is in compliance with CSR objectives and Policy of the Company: We hereby declare that implementation and monitoring of the CSR Policy are in compliance with CSR objectives and Policy of the Company.

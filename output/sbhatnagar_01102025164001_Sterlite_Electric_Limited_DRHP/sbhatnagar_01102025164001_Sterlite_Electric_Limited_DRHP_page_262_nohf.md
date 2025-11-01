@@ -1,0 +1,5 @@
+<table><tr><td>Silvassa (Dadra and Nagar Haveli) Facility</td><td>Overhead conductors</td><td>Owned</td><td>NA</td></tr><tr><td>Haridwar (Uttarakhand) Facility</td><td>Power cables including solar</td><td>Owned</td><td>NA</td></tr></table>
+
+## Installed Capacity, Actual Production and Capacity Utilisation
+
+The information relating to the installed capacity, available capacity, actual production and capacity utilisation of our products included below and elsewhere in this Draft Red Herring Prospectus are based on various assumptions and estimates of our management that have been taken into account in the calculation of our capacity and the same has been certified by Rajul Garg, an independent chartered engineer by certificate dated September 29, 2025. See “Risk Factors – Information relating to our installed capacity and the historical capacity utilization of our manufacturing facilities and products included in this Draft Red Herring Prospectus is based on various assumptions and estimates and future production and capacity utilization may vary.” on page 67.

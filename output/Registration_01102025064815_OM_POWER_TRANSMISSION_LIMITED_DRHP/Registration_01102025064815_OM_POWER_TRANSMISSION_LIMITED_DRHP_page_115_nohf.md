@@ -1,0 +1,27 @@
+## Details of the Objects
+
+### 1. Funding of capital expenditure requirements of our Company towards purchase of machinery and equipment
+
+We are a power transmission infrastructure engineering, procurement, and construction ("EPC") company with over 14 years of experience. Our expertise lies in the execution of high-voltage ("HV") and extra-high voltage ("EHV") transmission lines, substations and underground cabling projects delivered on a turnkey basis, encompassing design, engineering, supply, erection, installation, testing, commissioning, and comprehensive operation and maintenance ("O&M") services. Since commencement of our operations in 2011 in the State of Gujarat, we have commissioned transmission lines, substations and underground cables, covering in aggregate over 1,000 circuit kilometers ("CKM") of transmission lines and 11 substations respectively. Our EPC capabilities extend to transmission lines ranging from 11 kilovolts ("kV") to 400 kV and substations up to 220 kV.
+
+Our Company was incorporated in June 2011 and since then, we have gradually increased our execution capabilities in terms of size of the projects and scope of service. In last three financial years, we have completed EPC of more than 400 CKM of transmission lines, more than 65 CKM of underground cabling and 04 substations. As of August 31, 2025, our unexecuted Order Book comprised 56 projects amounting to ₹77,619.35 lakhs, including 50 EPC projects and 6 O&M contracts.
+
+As of August 31, 2025, our borrowings was as follows:
+
+<table><thead><tr><th>Borrowings - Fund Based</th><th>Amount sanctioned<br>(₹ in Lakhs)</th><th>Amount outstanding<br>(₹ in Lakhs)</th><th>Utilised (%)</th></tr></thead><tbody><tr><td>Term Loan</td><td>494.11</td><td>345.25</td><td>69.87%</td></tr><tr><td>Cash Credit and Overdraft Facility</td><td>4,058.22</td><td>3,266.67</td><td>80.50%</td></tr><tr><td><strong>Total</strong></td><td><strong>4,552.33</strong></td><td><strong>3,611.92</strong></td><td><strong>79.34%</strong></td></tr></tbody></table>
+
+Some of the key areas where we have utilised our internal accruals and borrowings are as follows:
+
+(₹ in lakhs, unless otherwise specified)
+
+<table><thead><tr><th>Particulars</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td><strong>A) Investment in Fixed Assets</strong></td><td></td><td></td><td></td></tr><tr><td>Gross Carrying Amount<sup>(1)</sup></td><td>1,191.20</td><td>1,169.88</td><td>1,126.66</td></tr><tr><td><strong>B) Investment in Working Capital</strong></td><td></td><td></td><td></td></tr><tr><td>Net Working Capital (NWC)<sup>(2)</sup></td><td>8,573.68</td><td>6,504.47</td><td>5,656.31</td></tr></tbody></table>
+
+**Notes:**
+
+(1) Closing balance of gross carrying amount of Fixed Assets.
+
+(2) Net Working Capital requirement as calculated in Object No. 3.
+
+As of March 31, 2025, our investments in Gross Fixed Assets are ₹ 1,191.20 lakhs, which primarily comprise of an office building, furniture and fixtures, equipment, vehicles and computers. We propose to utilise ₹ 1,086.89 lakhs out of Net Offer Proceeds towards purchase of machinery and equipment to be used in our existing business operations. The amount to be utilised is based on our current estimates, the specific number and nature of such equipment and machinery to be procured by our Company may change, depending on our business requirements, from time to time.
+
+A list of such equipment and machinery proposed to be funded from Net Offer Proceeds, along with details of its cost, based on Cost Vetting Report dated September 29, 2025 from Dun & Bradstreet and approved, pursuant to a resolution dated September 30, 2025 passed by our Board is provided below:

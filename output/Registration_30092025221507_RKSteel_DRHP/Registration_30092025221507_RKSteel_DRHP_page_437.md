@@ -1,0 +1,23 @@
+Application Form "*exceeds the Issue size and/or investment limit or maximum number of the Equity Shares that can be held under applicable laws or regulations or maximum amount permissible under applicable laws or regulations, or under the terms of the Red Herring Prospectus.*"
+
+For example, an FPI must ensure that any Bid by a single FPI and/ or an investor group (which means the same multiple entities having common ownership directly or indirectly of more than 50% or common control) (collective, the “FPI Group”) shall be below 10% of the total paid-up Equity Share capital of our Company on a fully diluted basis. Any Bids by FPIs and/ or the FPI Group (including but not limited to (a) FPIs Bidding through the MIM Structure; or (b) FPIs with separate registrations for offshore derivative instruments and proprietary derivative instruments) for 10% or more of our total paid-up post Issue Equity Share capital shall be liable to be rejected.
+
+For details of investment by FPIs, see "*Restrictions on Foreign Ownership of Indian Securities*" beginning on page 692.
+
+**All non-resident investors should note that refunds (in case of Anchor Investors), dividends and other distributions, if any, will be payable in Indian Rupees only and net of bank charges and commission.**
+
+Our Company or the BRLM will not be responsible for loss, if any, incurred by the Bidder on account of conversion of foreign currency.
+
+**Bids under Power of Attorney**
+
+In case of Bids made pursuant to a power of attorney or by limited companies, corporate bodies, registered societies, eligible FPIs, AIFs, Mutual Funds, insurance companies, insurance finds set up by the army, navy or air force of India, insurance funds set up by the Department of Posts, India or the National Investment Fund and provident funds with a minimum corpus of ₹250.00 million and pension funds with a minimum corpus of ₹250.00 million registered with the Pension Fund Regulatory and Development Authority established under Section 3(1) of the Pension Fund Regulatory and Development Authority Act, 2013 (in each case, subject to applicable law and in accordance with their respective constitutional documents), a certified copy of the power of attorney or the relevant resolution or authority, as the case may be, along with a certified copy of the memorandum of association and articles of association and/or bye laws, as applicable must be lodged along with the Bid cum Application Form. Failing this, our Company reserves the right to accept or reject any Bid in whole or in part, in either case, without assigning any reasons thereof.
+
+Our Company, in consultation with the BRLM in their absolute discretion, reserves the right to relax the above condition of simultaneous lodging of the power of attorney along with the Bid cum Application Form subject to such terms and conditions that our Company in consultation with the BRLM, may deem fit.
+
+**Bids by Securities Exchange Board of India registered Venture Capital Funds, Alternate Investment Funds and Foreign Venture Capital Investors**
+
+The SEBI FVCI Regulations, *inter alia*, prescribe the investment restrictions on VCFs and FVCIs registered with SEBI. Further, the SEBI AIF Regulations prescribe, amongst others, the investment restrictions on AIFs. Accordingly, the holding in any company by any individual VCF or FVCI registered with SEBI should not exceed 25% of the corpus of the VCF or FVCI. Further, subject to FEMA Rules, VCFs and FVCIs can invest only up to 33.33% of their investible funds in various prescribed instruments, including in public offerings.
+
+Category I AIFs and Category II AIFs cannot invest more than 25% of the investible funds in one investee company. A category III AIF cannot invest more than 10% of the investible funds in one investee company. A VCF registered as a Category I AIF, as defined in the SEBI AIF Regulations, cannot invest more than one-third of its investible funds by way of subscription to an initial public offering of a venture capital undertaking. Pursuant to the repeal of the SEBI VCF Regulations, the VCFs which have not re-registered as an AIF under the SEBI AIF Regulations shall continue to be regulated by the SEBI VCF Regulations until the existing fund or scheme managed by the fund is wound up and such fund shall not launch any new scheme after the notification of the SEBI AIF Regulations.
+
+Participation of VCFs, AIFs or FVCIs in the Issue shall be subject to the FEMA NDI Rules.

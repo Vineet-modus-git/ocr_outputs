@@ -1,0 +1,27 @@
+In case of revision in the Price Band, the Bid/ Offer Period shall be extended for at least three additional Working Days after such revision, subject to the Bid/ Offer Period not exceeding 10 Working Days. In cases of force majeure, banking strike or similar unforeseen circumstances, our Company, in consultation with the BRLMs, for reasons to be recorded in writing, extend the Bid/Offer Period for a minimum of one Working Day, subject to the Bid/ Offer Period not exceeding 10 Working Days. Any revision in Price Band, and the revised Bid/Offer Period, if applicable, shall be widely disseminated by notification to the Stock Exchanges, by issuing a press release and also by indicating the change on the respective websites of the BRLMs and at the terminals of the Syndicate Members and by intimation to the Designated Intermediaries and the Sponsor Bank(s), as applicable. In case of revision of Price Band, the Bid Lot shall remain the same.
+
+Employee Discount, if any, will be offered to Eligible Employees bidding in the Employee Reservation Portion, and, at the time of making a Bid. Eligible Employees bidding in the Employee Reservation Portion at a price within the Price Band can make payment based on Bid Amount net of Employee Discount, at the time of making a Bid. Eligible Employees bidding in the Employee Reservation Portion at the Cut-Off Price have to ensure payment at the Cap Price, less Employee Discount, at the time of making a Bid.
+
+In case of discrepancy in data entered in the electronic book vis-vis data contained in the Bid cum Application Form for a particular Bidder, the details as per the Bid file received from the Stock Exchanges shall be taken as the final data for the purpose of Allotment.
+
+### Minimum Subscription
+
+In the event of under-subscription in the Offer, subject to receiving minimum subscription for 90% of the Fresh Issue and compliance with Rule 19(2)(b) of the Securities Contracts (Regulation) Rules, 1957, Allotment shall first be made towards the Fresh Issue towards receiving the minimum subscription of 90% of the Fresh Issue, then if there remain any valid Bids in the Offer, the Allotment for the balance valid Bids will be made on a pro-rata basis in a manner proportionate to the respective portion of the Offered Shares of each Selling Shareholder through the sale of the Offered Shares being offered by each of the Selling Shareholders and once Equity Shares have been Allotted as mentioned above, such number of Equity Shares will be Allotted by the Company towards the balance 10% of the Fresh Issue.
+
+The requirement for minimum subscription is not applicable for the Offer for Sale.
+
+In the event of under-subscription in the Offer, subject to receiving minimum subscription for 90% of the Fresh Issue and in compliance with Rule 19(2)(b) of the SCRR, the Allotment for the valid Bids will be made in the first instance towards subscription for 100% of the Fresh Issue. If there remain any balance valid Bids in the Offer, the Allotment for the balance valid Bids will be made towards Equity Shares offered by the Selling Shareholder in such manner as specified in the Offer Agreement.
+
+Further our Company shall ensure that the number of prospective Allottees to whom the Equity Shares will be Allotted shall not be less than 1,000 in compliance with Regulation 49(1) of the SEBI ICDR Regulations, failing which the entire application money shall be unblocked in the respective ASBA Accounts of the Bidders. In case of delay, if any, in unblocking the ASBA Accounts within such timeline as prescribed under applicable laws, our Company shall be liable to pay interest on the application money in accordance with applicable laws.
+
+### Arrangements for disposal of odd lots
+
+Since our Equity Shares will be traded in dematerialised form only, and market lot for our Equity Shares will be one Equity Share, there are no arrangements for disposal of odd lots.
+
+### New Financial Instruments
+
+Our Company is not issuing any new financial instruments through this Offer.
+
+### Withdrawal of the Offer
+
+The Offer shall be withdrawn in the event the requirement of the minimum subscription as prescribed under Regulation 45 of the SEBI ICDR Regulations is not fulfilled. Our Company, in consultation with the BRLMs, reserve the right not to proceed with the Fresh Issue and the Selling Shareholders, reserves the right not to proceed with the Offer for Sale, in whole or in part thereof, to the extent of its respective portion of the Offered Shares, after the Bid/ Offer Opening Date but before Allotment. In such an event, our Company would issue a public notice in the newspapers in which the pre-Offer and price band advertisement were published, within two days of the Bid/ Offer Closing Date or such other time as may be prescribed by SEBI, providing reasons for not proceeding with the Offer and inform the Stock Exchanges promptly on which the Equity Shares are proposed to be listed. The BRLMs, through the Registrar to the Offer, shall notify the SCSBs and the Sponsor Bank(s), to unblock the

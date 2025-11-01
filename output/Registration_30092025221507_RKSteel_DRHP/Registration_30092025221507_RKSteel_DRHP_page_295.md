@@ -1,0 +1,17 @@
+R.K. STEEL MANUFACTURING COMPANY LIMITED
+
+CIN: U24106TN2006PLC059519
+
+Annexure VI - Notes to Restated Ind AS Summary Statements
+
+(All amounts in Rs. lakhs, except as otherwise stated)
+
+8 Other intangible assets
+
+<table><thead><tr><th>Particulars</th><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td>Opening balance</td><td>6.69</td><td>6.43</td><td>-</td></tr><tr><td>Additions during the year</td><td>5.25</td><td>8.33</td><td>6.43</td></tr><tr><td>Amortisation during the year</td><td>(6.88)</td><td>(8.07)</td><td>-</td></tr><tr><td><strong>Closing balance</strong></td><td><strong>5.06</strong></td><td><strong>6.69</strong></td><td><strong>6.43</strong></td></tr><tr><td><strong>Gross Block (Cost or Deemed cost)</strong></td><td></td><td></td><td></td></tr><tr><td></td><td><strong>Computer software</strong></td><td><strong>Total</strong></td><td></td></tr><tr><td><strong>At March 31, 2022</strong></td><td>-</td><td>-</td><td>-</td></tr><tr><td>Additions</td><td>6.43</td><td>6.43</td><td>-</td></tr><tr><td>Disposals/Modification</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2023</strong></td><td><strong>6.43</strong></td><td><strong>6.43</strong></td><td><strong>-</strong></td></tr><tr><td>Additions</td><td>8.33</td><td>8.33</td><td>-</td></tr><tr><td>Disposals/Modification</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2024</strong></td><td><strong>14.76</strong></td><td><strong>14.76</strong></td><td><strong>-</strong></td></tr><tr><td>Additions</td><td>5.25</td><td>5.25</td><td>-</td></tr><tr><td>Disposals/Modification</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2025</strong></td><td><strong>20.01</strong></td><td><strong>20.01</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Accumulated Amortisation</strong></td><td></td><td></td><td></td></tr><tr><td><strong>At March 31, 2022</strong></td><td>-</td><td>-</td><td>-</td></tr><tr><td>Charge for the year</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disposals</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2023</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td></tr><tr><td>Charge for the year</td><td>8.07</td><td>8.07</td><td>-</td></tr><tr><td>Disposals</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2024</strong></td><td><strong>8.07</strong></td><td><strong>8.07</strong></td><td><strong>-</strong></td></tr><tr><td>Charge for the year</td><td>6.88</td><td>6.88</td><td>-</td></tr><tr><td>Disposals</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>At March 31, 2025</strong></td><td><strong>14.95</strong></td><td><strong>14.95</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Carrying amount (Net)</strong></td><td></td><td></td><td></td></tr><tr><td><strong>At March 31, 2023</strong></td><td><strong>6.43</strong></td><td><strong>6.43</strong></td><td><strong>-</strong></td></tr><tr><td><strong>At March 31, 2024</strong></td><td><strong>6.69</strong></td><td><strong>6.69</strong></td><td><strong>-</strong></td></tr><tr><td><strong>At March 31, 2025</strong></td><td><strong>5.06</strong></td><td><strong>5.06</strong></td><td><strong>-</strong></td></tr></tbody></table>
+
+Notes:
+
+Note: There are no intangible assets under development projects whose completion is overdue or has exceeded the cost, based on original approved plan.
+
+294

@@ -1,0 +1,25 @@
+An increase in receivable days can lead to higher working capital requirements, dependence on external borrowings, and increased finance costs. For details, see "Financial Information – Trade Receivables" on page 246
+
+We currently do not have a formal written credit policy, which may expose us to inconsistent recovery practices and heightened credit risk. Factors such as financial stress of our customers, downturn in the textile or garmenting sectors, global economic volatility, or concentration of credit exposure to key customers may further aggravate payment delays or defaults. Any significant rise in bad debts would directly impact our profitability and financial stability.
+
+Although we have not written off significant receivables in last three Fiscals, there can be no assurance that such delays or defaults will not occur in the future. Any adverse change in payment cycle could materially and adversely affect our cash flows, liquidity, ability to fund operations, and overall financial performance.
+
+**17. Outstanding dues to creditors may adversely affect our business, reputation, and financial condition**
+
+We have certain dues outstanding to our trade and other creditors. Delays or failure in settling these outstanding amounts in a timely manner may lead to strained relationships with suppliers and service providers, disruption in the supply chain, or withdrawal of credit support. Persistent or significant delays in payments could negatively impact our reputation, business operations, and creditworthiness. It may also result in legal claims, increased borrowing costs, or penalties, all of which could materially and adversely affect our financial condition and operational performance.
+
+We actively manage our payables and maintain regular communication with creditors to ensure timely settlements. We align payment schedules with our cash flow planning to sustain healthy supplier relationships, ensuring supply chain stability and supporting our operational and financial performance.
+
+Below table shows the details of outstanding Trade Payables of our Company:
+
+(Amount in ₹ lakhs)
+
+<table><thead><tr><th>Particulars</th><th>For the year ended March 31, 2025</th><th>For the year ended March 31, 2024</th><th>For the year ended March 31, 2023</th></tr></thead><tbody><tr><td>Trade Payables</td><td>3,946.57</td><td>6,507.06</td><td>2,215.74</td></tr><tr><td>Trade Payables Ratio</td><td>6.19</td><td>4.97</td><td>8.31</td></tr></tbody></table>
+
+**18. Our dependence on procuring raw cotton from farmers and traders directly and cotton bales from other ginning units and traders, without formal arrangements, exposes us to supply and price risks that may materially impact our operations, revenues, and financial performance.**
+
+While cotton bales are the principal raw material for our manufacturing of cotton yarn, we procure raw cotton from farmers and traders, which is then ginned and converted into cotton bales for further processing in-house or trading in the market. Additionally, we procure cotton bales from other ginning units and traders. We do not have any formal arrangements or long-term agreements with farmers or traders for the supply of such raw cotton and cotton bales. As a result, our procurement is subject to prevailing market conditions and availability at the time of purchase. This dependence increases our exposure to risks relating to timely supply, consistency of quality, and fluctuations in pricing.
+
+The availability and pricing of raw cotton and cotton bales depend on several factors beyond our control, including crop yields, weather conditions, pest infestations, government procurement policies, global demand-supply dynamics and availability and pricing of cotton bales. Since our procurement relies on spot market purchases directly from farmers, traders and other ginning units, any adverse developments in these factors may lead to shortages, higher procurement costs, or delays in supply. Such disruptions could reduce our capacity utilization, increase our cost of production, and impair our ability to meet customer demand on time. If we are unable to pass on such increased costs to customers, our margins and profitability may be adversely affected.
+
+While we maintain relationships with multiple traders and adopt procurement planning strategies, there can be no assurance that such measures will always be effective. Any inability to secure adequate quantities of raw cotton and cotton bales at competitive prices, or within the required timeframe, may materially and adversely affect our business, financial condition, and results of operations. For further details on our procurement operations and cost

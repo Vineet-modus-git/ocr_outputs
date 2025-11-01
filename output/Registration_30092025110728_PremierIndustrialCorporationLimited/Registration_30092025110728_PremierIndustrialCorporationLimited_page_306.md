@@ -1,0 +1,27 @@
+Notes to the Restated Financial Information
+for the years ended 31st March 2023, 2024, 2025
+(₹ in Millions except as otherwise stated)
+
+<table><thead><tr><th>Financial ratios</th><th>% change<br>from 31 March 2024<br>to 31 March 2025</th><th>% change<br>from 31 March 2023<br>to 31 March 2024</th></tr></thead><tbody><tr><td>(a) Current ratio</td><td>-23.09%</td><td>-9.66%</td></tr><tr><td>(b) Debt Equity Ratio</td><td>-8.10%</td><td>-29.79%</td></tr><tr><td>(c) Debt Service coverage ratio</td><td>112.47%</td><td>12.61%</td></tr><tr><td>(d) Return on Equity (%)</td><td>15.17%</td><td>117.25%</td></tr><tr><td>(e) Inventory Turnover ratio</td><td>-2.85%</td><td>-33.62%</td></tr><tr><td>(f) Trade receivable Turnover ratio</td><td>18.76%</td><td>-8.82%</td></tr><tr><td>(g) Trade payable Turnover ratio</td><td>-16.47%</td><td>-34.75%</td></tr><tr><td>(h) Net capital turnover ratio</td><td>21.58%</td><td>-19.09%</td></tr><tr><td>(i) Net profit (%)</td><td>8.75%</td><td>189.29%</td></tr><tr><td>(j) EBITDA</td><td>56.71%</td><td>57.20%</td></tr><tr><td>(k) Return on capital employed</td><td>23.66%</td><td>46.84%</td></tr></tbody></table>
+
+<table><thead><tr><th>Reason for change more than 25%</th><th>For the Year ended 'March 31, 2025</th><th>For the Year ended 'March 31, 2024</th></tr></thead><tbody><tr><td>(a) Current ratio</td><td>NA</td><td>NA</td></tr><tr><td>(b) Debt Equity Ratio</td><td>Debts being reduced due to repayment</td><td>Increase in Borrowings for Capex and Working capital</td></tr><tr><td>(c) Debt Service coverage ratio</td><td>NA</td><td>NA</td></tr><tr><td>(d) Return on Equity (%)</td><td>NA</td><td>Due to increase in revenue from operations mainly due to goods-in-transit</td></tr><tr><td>(e) Inventory Turnover ratio</td><td>NA</td><td>Due to increase in inventory mainly due to goods-in-transit</td></tr><tr><td>(f) Trade receivable Turnover ratio</td><td>NA</td><td>Better collection from</td></tr><tr><td>(g) Trade payable Turnover ratio</td><td>NA</td><td>Increase due to payment of accumulated vendor</td></tr><tr><td>(h) Net capital turnover ratio</td><td>NA</td><td>NA</td></tr><tr><td>(i) Net profit (%)</td><td>NA</td><td>Increase due to decrease in prices of Raw Material.</td></tr><tr><td>(j) EBITDA</td><td>Increase due to decrease in prices of Raw Material.</td><td>Increase due to decrease in prices of Raw Material.</td></tr><tr><td>(k) Return on capital employed</td><td>NA</td><td>Decrease in cost of materials consumed due to goods in transit.</td></tr></tbody></table>
+
+**Notes:-**
+
+EBIT - Earnings before interest and taxes.
+
+EBITDA - Earnings before interest, taxes, depreciation and amortization.
+
+PAT - Profit after taxes
+
+The above ratios have been computed on the basis of the Financial Information.
+
+**Foreign Currency Risk Management**
+
+Foreign Currency Risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates. The Company's exposure to the risk of changes in foreign exchange rates relates primarily to the Company's operating activities (when revenue, expense or capital expenditure is denominated in foreign currency.) Foreign Currency Exchange Rate exposure is partly balanced by purchasing of goods from the respective countries. The Company evaluates exchange rate exposure arising from foreign currency transactions and follows established risk management policies.
+
+The Company's exposure to foreign currency risk at the end of reporting period expressed in Foreign Currency for major currencies, are as follows:
+
+<table><thead><tr><th>Particulars</th><th>For the Year ended 'March 31, 2025</th><th>For the Year ended March 31, 2024</th><th>For the Year ended March 31, 2023</th></tr></thead><tbody><tr><td><strong>USD</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>5.11</td><td>3.74</td><td>2.20</td></tr><tr><td>Trade Payables</td><td>1.33</td><td>0.16</td><td>0.29</td></tr><tr><td><strong>CNY</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>0.92</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Euro</strong></td><td></td><td></td><td></td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>0.07</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>0.01</td></tr></tbody></table>
+
+301

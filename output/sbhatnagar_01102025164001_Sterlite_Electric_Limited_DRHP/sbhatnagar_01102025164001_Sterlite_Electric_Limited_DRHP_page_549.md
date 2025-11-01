@@ -1,0 +1,11 @@
+* details of all monies utilised out of the Fresh Issue shall be disclosed, and continue to be disclosed till the time any part of the Fresh Issue proceeds remains un-utilised, under an appropriate head in the balance sheet of our Company indicating the purpose for which such monies have been utilised; and
+
+* details of all un-utilised monies out of the Fresh Issue, if any shall be disclosed under an appropriate separate head in the balance sheet indicating the form in which such un-utilised monies have been invested.
+
+### Withdrawal of the Offer
+
+* Our Company in consultation with the BRLMs, reserves the right not to proceed with the Offer, after the Bid/Offer Opening Date but before the Allotment. In such an event, our Company will issue a public notice within two days from the Bid/Offer Closing Date, or such time as may be prescribed by SEBI, providing reasons for not proceeding with the Offer. The BRLMs, through the Registrar to the Offer, will instruct the SCSBs or the Sponsor Bank(s), as the case may be, to unblock the ASBA Accounts within one Working Day from the day of receipt of such instruction. The notice of withdrawal will be issued in the same newspapers where the pre-Offer advertisements have appeared, and the Stock Exchanges will also be informed promptly by our Company.
+
+* If our Company in consultation with the BRLMs, withdraw the Offer after the Bid/Offer Closing Date and thereafter determine that they will proceed with a public offering of Equity Shares, our Company will file a fresh draft red herring prospectus with SEBI and the Stock Exchanges.
+
+* Notwithstanding the foregoing, the Offer is also subject to obtaining the final listing and trading approvals of the Stock Exchanges, which our Company will apply for only after Allotment and within such time period as prescribed under applicable law.

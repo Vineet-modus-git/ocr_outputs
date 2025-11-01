@@ -1,0 +1,25 @@
+7.85%, and 9.80%, respectively, while our net profit margins were 7.84%, 4.02% and 5.12%, respectively.
+
+Further, on account of efficient utilisation of resources, effective control over operational expenses, asset light model, we have been able to generate RoCE of 41.76%, 18.41% and 15.45% and RoE of 35.83%, 15.77% and 15.18%, for the financial year ended March 31, 2025, 2024 and 2023, respectively. We strive to maintain our financial position with emphasis on having a strong balance sheet. Our financial performance over the past three Fiscals has strengthened our ability to bid for and execute larger and more complex projects in the future. For further details, see "Key Performance Indicators" on page 358.
+
+Our financial position enables us to obtain bank guarantees on competitive terms. Additionally, our Company has received the following credit ratings:
+
+<table><thead><tr><th>Agency</th><th>Instrument</th><th>Rating</th></tr></thead><tbody><tr><td rowspan="2">CRISIL Ratings Limited (2025)</td><td>Debt Instruments/Facilities – Long term</td><td>Crisil BBB-/Stable (Upgraded from 'Crisil BB+/Stable')</td></tr><tr><td>Debt Instruments/Facilities – Short term</td><td>Crisil A3 (Upgraded from 'Crisil A4+')</td></tr><tr><td rowspan="2">CRISIL Ratings Limited (2024)</td><td>Debt Instruments/Facilities – Long term</td><td>CRISIL BB+/Stable (Reaffirmed)</td></tr><tr><td>Debt Instruments/Facilities – Short term</td><td>CRISIL A4+ (Reaffirmed)</td></tr><tr><td rowspan="2">CRISIL Ratings Limited (2023)</td><td>Debt Instruments/Facilities – Long term</td><td>CRISIL BB+/Stable (Assigned)</td></tr><tr><td>Debt Instruments/Facilities – Short term</td><td>CRISIL A4+ (Assigned)</td></tr></tbody></table>
+
+**Experienced Promoters and Senior Management team, having domain knowledge**
+
+Our Company has achieved significant growth and strong financial performance under the leadership and guidance of our Promoters, who bring deep domain expertise and extensive experience in the power transmission infrastructure sector.
+
+Kalpesh Dhanjibhai Patel, our Chairman and Executive Director, and Kanubhai Patel, our Managing Director, are the Promoters and founding members of our Company who have been on the Board since its incorporation. Together, they bring over 30 years of experience each in electronic products and power transmission infrastructure, including extensive work as electrical contractors for government and private projects involving the development, operation, and maintenance of transmission lines, substations, and underground cabling. Additionally, Kanubhai Patel was awarded the "Outstanding Achievement Award for Business Excellence" in 2017 by the All-India Achievers Foundation.
+
+Vasantkumar Narayanbhai Patel, our Whole-time Director and Promoter, holds a bachelor's degree in mechanical engineering and brings over 14 years of experience in the development, operation, and maintenance of transmission lines, substations, and underground cable laying. He is also one of our founding members and has been on our Board since incorporation.
+
+Our Key Management team, including Chetan Bharatkumar Modi (CFO), and Hardikkumar Jitendrabhai Patel (Company Secretary and Compliance Officer), along with our Senior Management, Arvindkumar Ambalal Patel (Vice President – Project & Substation), Bipinkumar Govindlal Patel (Vice President – Operation & Maintenance), and Jayesh Rameshbhai Patel (General Manager – Finance), complement our Promoters with expertise in finance, compliance, operations, and project execution. For further details in relation to our Promoters, Key Managerial Personnel and Senior Management, see "Our Promoters and Promoter Group" and "Our Management" on pages 278 and 225, respectively. Their industry experience enables us to anticipate market trends, grow our operations, and leverage our customer relationships. Leveraging the technical knowledge, operational experience, and industry relationships of our Promoters and Senior Management, we are well-positioned to execute complex power transmission infrastructure projects and drive sustained growth in the sector.
+
+**Our Strategies**
+
+**Strengthen our presence by expanding our geographical footprint**
+
+Since incorporation in 2011, our operations have been primarily concentrated in the State of Gujarat, where we have successfully executed various transmission and substation projects. In the last three Fiscals alone, we have completed more than 60 projects in the State of Gujarat.
+
+India's power generation and transmission sectors are projected to expand 2.2 times, reaching USD 280 billion between FY24 and FY30. The country's total power generation capacity is expected to increase from 442 GW in FY24 to 673 GW by FY30. Renewable energy capacity is also set to expand, with annual capacity additions projected to increase 3.5 times

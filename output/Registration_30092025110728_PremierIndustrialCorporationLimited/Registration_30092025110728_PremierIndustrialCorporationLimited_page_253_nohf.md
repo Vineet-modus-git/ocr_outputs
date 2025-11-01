@@ -1,0 +1,19 @@
+by way of fees, commission, brokerage or the like or reimburse expenses incurred in connection with the Offer by the BRLM and to do or cause to be done any and all such acts or things that the Authorized Officer(s) may deem necessary, appropriate or desirable in order to carry out the purpose and intent of the foregoing resolutions for the Offer; and any such agreements or documents so executed and delivered and acts and things done by any such Authorized Officer(s) shall be conclusive evidence of the authority of the Authorized Officer and the Company in so doing;
+
+v) To determine the utilization of proceeds of the Fresh Issue and accept and appropriate proceeds of the Fresh Issue in accordance with the Applicable Laws;
+
+w) To determine the price at which the Equity Shares are offered, allocated, transferred and/or allotted to investors in the Offer in accordance with applicable regulations in consultation with the BRLM and/or any other advisors, and determine the discount, if any, proposed to be offered to eligible categories of investors; To make applications for listing of the Equity Shares on one or more recognised stock exchange(s) and to execute and to deliver or arrange the delivery of necessary documentation to the concerned stock exchange(s) and to take all such other actions as may be necessary in connection with obtaining such listing, including, without limitation, entering into the listing agreements;
+
+x) To settle all questions, difficulties or doubts that may arise in regard to such issues or allotment and matters incidental thereto as it may, deem fit and to delegate such of its powers as may be deemed necessary to the officials of the Company;
+
+y) If deemed appropriate, to invite the existing shareholders of the Company to participate in the Offer by offering for sale the Equity Shares held by them at the same price as in the Offer;
+
+z) To approve expenditure in relation to the Offer;
+
+aa) all actions as may be necessary in connection with the Offer, including extending the Bid/Offer period, revision of the Price Band, allow revision of the Offer for Sale portion in case any of the Selling Shareholders decide to revise it, in accordance with the Applicable Laws;
+
+bb) To submit undertakings/certificates or provide clarifications to the Securities Exchange Board of India and the Stock Exchanges where the Equity Shares of the Company are proposed to be listed;
+
+cc) To decide all matters regarding the Pre-IPO Placement if any, including the execution of the relevant documents with the investors, in consultation with the BRLM, and
+
+dd) To take all other actions as may be necessary in connection with the Offer.

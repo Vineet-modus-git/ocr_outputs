@@ -1,0 +1,29 @@
+NOTE 45: PERFORMANCE CASH INCENTIVE PLAN FOR EMPLOYEE
+
+Long Term Incentive Plan 2022
+
+During the financial year 2021-22, the Group introduced Sterlite Power Plus Performance Cash Incentive Plan– 2021 (‘Performance Cash Incentive Plan’) for its employees pursuant to the approval from the Nomination and Remuneration committee vide resolution dated 24 September 2021. Performance Cash Incentive Plan is designed to provide annual incentives to the employees of the Group to contribute towards long term performance of the Group and achievement of the Group’s goals. It is a cash settled plan.
+
+The Nomination and remuneration committee of Sterlite Electric Limited (formerly Sterlite Power Transmission Limited) has approved related vesting conditions. Vesting of the benefits under Performance Cash Incentive Plan would be subject to continuous employment with the Group and certain performance parameters subject to which the incentives would vest. The total cash incentives payable as per the Performance Cash Incentive Plan are approved by the Nomination and remuneration committee and the cash pay out will be spread over a period of 3 years as per the pay out schedule specified in the Performance Cash Incentive Plan based on the performance parameters achieved by the Group during the relevant financial year. Subsequent to the first grant which was issued during the year ended 31 March 2022, the second grant was issued to eligible employees in financial year 2022-23.
+
+The Group has recorded liability towards Performance Cash Incentive Plan based on the projected unit completion method. The Group has used certain assumptions such as attrition rate and discount rate to derive the present value of the obligation under Performance Cash Incentive Plan.
+
+The details of expenses and liability recognised during the year for the Performance Cash Incentive Plan are as follows:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">(Rs. in million)</th></tr><tr><th>31 March 2025<br>(Rs. in million)</th><th>31 March 2024<br>(Rs. in million)</th><th>31 March 2023<br>(Rs. in million)</th></tr></thead><tbody><tr><td>Opening balance as at the beginning of the year</td><td>82.58</td><td>87.87</td><td>114.30</td></tr><tr><td>Performance Cash Incentive Plan provision during the year</td><td>15.06</td><td>53.38</td><td>33.11</td></tr><tr><td>Payment towards Performance Cash Incentive Plan vested</td><td>(54.27)</td><td>(58.67)</td><td>(59.54)</td></tr><tr><td><strong>Closing balance as at the end of the year</strong></td><td><strong>43.37</strong></td><td><strong>82.58</strong></td><td><strong>87.87</strong></td></tr></tbody></table>
+
+NOTE 46: LEASE LIABILITIES
+
+The Group has long term lease contracts for office premises and various vehicles. Information about leases for which the Group is lessee is presented below.
+
+<table><caption>Lease liabilities *</caption><thead><tr><th>Maturity analysis</th><th>31 March 2025<br>(Rs. in million)</th><th>31 March 2024<br>(Rs. in million)</th><th>31 March 2023<br>(Rs. in million)</th></tr></thead><tbody><tr><td>Less than one year</td><td>152.79</td><td>124.87</td><td>101.04</td></tr><tr><td>One to two years</td><td>110.08</td><td>148.15</td><td>118.24</td></tr><tr><td>Two to five years</td><td>13.03</td><td>108.86</td><td>241.44</td></tr><tr><td>More than five years</td><td>11.70</td><td>6.15</td><td>6.36</td></tr></tbody><tfoot><tr><td><strong>Total lease liabilities as at balance sheet date</strong></td><td><strong>287.60</strong></td><td><strong>388.03</strong></td><td><strong>467.08</strong></td></tr></tfoot></table>
+
+Set out below, are the carrying amount of the Group's liabilities and the movement during the year.
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">-</th></tr><tr><th>31 March 2025<br>(Rs. in million)</th><th>31 March 2024<br>(Rs. in million)</th><th>31 March 2023<br>(Rs. in million)</th></tr></thead><tbody><tr><td>Opening lease liabilities at the beginning of the year</td><td>388.03</td><td>467.08</td><td>579.36</td></tr><tr><td>Add: Additions/(deletions) [net]</td><td>27.61</td><td>57.21</td><td>(18.96)</td></tr><tr><td>Add: Interest expense</td><td>39.14</td><td>48.87</td><td>56.42</td></tr><tr><td>Add: Disposals</td><td>(2.64)</td><td>-</td><td>-</td></tr><tr><td>Add: Payments</td><td>(164.54)</td><td>(161.20)</td><td>(149.21)</td></tr><tr><td>Add/(Less): Foreign currency translation</td><td>-</td><td>0.35</td><td>(0.53)</td></tr><tr><td>Add: Transferred to discontinued operations (refer note 51A)</td><td>-</td><td>(11.03)</td><td>-</td></tr><tr><td>Add: Transferred to EPC infra business (refer note 51B)</td><td>-</td><td>(13.25)</td><td>-</td></tr><tr><td><strong>Closing lease liabilities at the end of the year</strong></td><td><strong>287.60</strong></td><td><strong>388.03</strong></td><td><strong>467.08</strong></td></tr><tr><td><strong>Current</strong></td><td><strong>152.79</strong></td><td><strong>124.87</strong></td><td><strong>101.04</strong></td></tr><tr><td><strong>Non-current</strong></td><td><strong>134.81</strong></td><td><strong>263.16</strong></td><td><strong>366.04</strong></td></tr></tbody></table>
+
+*The weighted average incremental borrowing rate for discounting lease payments for India: 9.83%-12.25% p.a. (March 31, 2024: 9.83%-12.25% p.a.) (March 31, 2023: 11.00% p.a. to 11.50% p.a.) and Brazil: 9.79% p.a. for March 31, 2023.
+
+Leases not yet commenced which are committed by the Group amounts to Rs. 721.03 million (discounted) (31 March 2024: Nil) for a definite lease lock in term of 45 months.
+
+[THIS SPACE IS INTENTIONALLY LEFT BLANK]

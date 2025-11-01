@@ -1,0 +1,23 @@
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">Fiscal</th></tr><tr><th>2025</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Number of customers with relationships over 3 years</td><td>124</td><td>181</td><td>167</td></tr><tr><td>Number of customers with relationships over 6 years</td><td>135</td><td>117</td><td>104</td></tr></tbody></table>
+
+Such long-term associations give us revenue visibility, cross-selling opportunities of new products to established customers, and reinforces our reputation for quality and reliability.
+
+On the supply side, we have established relationships with our suppliers for procuring raw material, aimed at ensuring a reliable and consistent supply of materials. By working closely with our suppliers, we maintain a steady flow of quality raw materials, ensuring product consistency and timely deliveries. Our network also provides us with competitive pricing advantages and supply chain resilience, allowing us to meet customer demands efficiently, even in dynamic market conditions. The table below sets forth the details of our repeat suppliers:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">Fiscal</th></tr><tr><th>2025</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Total number of suppliers</td><td>192</td><td>193</td><td>200</td></tr><tr><td>Number of repeat suppliers</td><td>100</td><td>117</td><td>100</td></tr><tr><td>Percentage of repeat suppliers</td><td>65.63</td><td>60.62</td><td>50.00</td></tr><tr><td>Cost of purchases from repeat suppliers (₹ in million)</td><td>3,178.54</td><td>2,369.31</td><td>1933.26</td></tr><tr><td>Purchases from repeat suppliers as a percentage of total purchases (%)</td><td>80.69</td><td>83.15</td><td>64.84</td></tr></tbody></table>
+
+During last 3 fiscals, we sourced our materials from 1,392 suppliers. Our top 10 suppliers as of March 31, 2025 have been associated with us for an average term of approximately five years. The table below sets forth our purchases from our top 5 suppliers and top 10 suppliers as a percentage of our total purchases for the periods / years indicated:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Fiscal 2025</th><th colspan="2">Fiscal 2024</th><th colspan="2">Fiscal 2023</th></tr><tr><th>Amount (₹ in million)</th><th>Percentage of revenues</th><th>Amount (₹ in million)</th><th>Percentage of revenues</th><th>Amount (₹ in million)</th><th>Percentage of revenues</th></tr></thead><tbody><tr><td>Top 5 suppliers</td><td>1,172.40</td><td>29.76</td><td>652.88</td><td>22.91</td><td>533.33</td><td>17.89</td></tr><tr><td>Top 10 suppliers</td><td>1,858.11</td><td>47.17</td><td>1,049.56</td><td>36.84</td><td>936.71</td><td>31.42</td></tr></tbody></table>
+
+We believe that our ability to cultivate enduring relationships across the value chain positions us to capture incremental opportunities over time.
+
+### Financial performance and growth through internal accruals
+
+Our financial performance has been crucial in funding our growth plans. Over the last 3 fiscals, we have demonstrated growth in our profit margins and returns. Our profit after tax has grown at a CAGR of 59.31% from ₹ 126.69 million in Fiscal 2023 to ₹ 512.26 million during Fiscal 2025. Our revenue from operations also increased at a CAGR of 8.73% from ₹ 3,706.45 million during Fiscal 2023 to ₹ 4,763.89 million during Fiscal 2025. We have witnessed consistent improvement in our balance sheet position in the last three Fiscals. Our total assets have grown from ₹ 2,229.46 million during Fiscal 2023 to ₹ 3,418.76 million during Fiscal 2025.
+
+Some of our key performance indicators are –
+
+<table><thead><tr><th>Sr. No.</th><th>Particulars</th><th>Unit</th><th>Fiscal 2025</th><th>Fiscal 2024</th><th>Fiscal 2023</th></tr></thead><tbody><tr><td>1.</td><td>Revenue From operations</td><td>(₹ in Million)</td><td>4,763.89</td><td>3,394.88</td><td>3,706.45</td></tr><tr><td>2.</td><td>EBITDA</td><td>(₹ in Million)</td><td>806.32</td><td>514.53</td><td>327.31</td></tr><tr><td>3.</td><td>EBITDA Margin</td><td>(in %)</td><td>16.93%</td><td>15.16%</td><td>8.83%</td></tr><tr><td>4.</td><td>Profit after tax</td><td>(₹ in Million)</td><td>512.26</td><td>335.68</td><td>126.69</td></tr><tr><td>5.</td><td>PAT Margin</td><td>(in %)</td><td>10.75%</td><td>9.89%</td><td>3.42%</td></tr><tr><td>6.</td><td>Return on Equity (ROE)</td><td>(in %)</td><td>29.73%</td><td>25.81%</td><td>11.88%</td></tr><tr><td>7.</td><td>Debt To Equity Ratio</td><td>(in times)</td><td>0.52</td><td>0.57</td><td>0.81</td></tr><tr><td>8.</td><td>Return on Capital Employed (ROCE)</td><td>(in %)</td><td>25.98%</td><td>21.01%</td><td>14.31%</td></tr></tbody></table>
+
+Notes:

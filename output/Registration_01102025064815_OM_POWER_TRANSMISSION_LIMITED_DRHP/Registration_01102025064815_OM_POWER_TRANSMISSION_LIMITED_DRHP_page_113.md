@@ -1,0 +1,27 @@
+<table><thead><tr><th>Particulars</th><th>Amount (₹ in Lakhs)</th></tr></thead><tbody><tr><td>Gross proceeds of the Fresh Issue</td><td>[•]<sup>(1)</sup></td></tr><tr><td>(Less): Offer related expenses in relation to the Fresh Issue</td><td>[•]<sup>(2) (3)</sup></td></tr><tr><td><strong>Net Proceeds</strong></td><td>[•]<sup>(3)</sup></td></tr></tbody></table>
+
+(1) Our Company, in consultation with the BRLMs, may consider an issue of Specified Securities, as may be permitted under applicable law, to any person(s), aggregating up to 20.00% of the fresh issue size at its discretion, prior to filing of the Red Herring Prospectus with the RoC. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company, in consultation with the BRLMs. If the Pre-IPO Placement is completed, the amount raised pursuant to the Pre-IPO Placement will be reduced from the Fresh Issue, subject to compliance with Rule 19(2)(b) of the Securities Contracts (Regulation) Rules, 1957, as amended. Prior to the completion of the Offer, our Company shall appropriately intimate the subscribers to the Pre-IPO Placement, prior to allotment pursuant to the Pre-IPO Placement, that there is no guarantee that our Company may proceed with the Offer or the Offer may be successful and will result into listing of the Equity Shares on the Stock Exchanges. Further, relevant disclosures in relation to such intimation to the subscribers to the Pre-IPO Placement (if undertaken) shall be appropriately made in the relevant sections of the Red Herring Prospectus and the Prospectus.
+
+(2) For details of the expenses related to the Offer, see “Offer Related Expenses” on page 123.
+
+(3) To be finalized upon determination of the Offer Price and will be updated in the Prospectus prior to filing with the RoC.
+
+## Utilization of Net Proceeds
+
+The Net Proceeds are proposed to be utilized by our Company as follows:
+
+<table><thead><tr><th>Sr. No.</th><th>Particulars</th><th>Amount (₹ in Lakhs)</th></tr></thead><tbody><tr><td>1.</td><td>Funding of capital expenditure requirements of our Company towards purchase of machinery and equipment</td><td>1,086.89</td></tr><tr><td>2.</td><td>Pre-payment/ re-payment, in part or full, of certain outstanding borrowings availed by our Company</td><td>2,561.76</td></tr><tr><td>3.</td><td>Funding long-term working capital requirement of our Company</td><td>5,500.00</td></tr><tr><td>4.</td><td>General Corporate Purposes<sup>(1)(2)</sup></td><td>[•]</td></tr><tr><td colspan="2"><strong>Total<sup>(1)</sup></strong></td><td><strong>[•]</strong></td></tr></tbody></table>
+
+(1) To be finalized upon determination of the Offer Price and updated in the Prospectus prior to filing with the RoC.
+
+(2) The amount utilized for general corporate purposes shall not exceed 25% of the Gross Proceeds.
+
+## Proposed schedule of implementation and deployment of Net Proceeds
+
+We propose to deploy the Net Proceeds towards the Objects in accordance with the estimated schedule of implementation and deployment of funds, as set out in the table below: (rs. In lakhs)
+
+<table><thead><tr><th>Particulars</th><th>Estimated utilization from Net Proceeds<sup>(5)</sup></th><th>Estimated utilization from Net Proceeds in Financial Year 2025-26</th><th>Estimated utilization from Net Proceeds in Financial Year 2026-27</th><th>Estimated utilization from Net Proceeds in Financial Year 2027-28</th></tr></thead><tbody><tr><td>Funding of capital expenditure requirements of our Company towards purchase of machinery and equipment<sup>(1) (2)</sup></td><td>1,086.89</td><td>-</td><td>1,086.89</td><td>-</td></tr><tr><td>Pre-payment/ re-payment, in part or full, of certain outstanding borrowings availed by our Company</td><td>2,561.76</td><td>-</td><td>2,561.76</td><td>-</td></tr><tr><td>Funding long-term working capital requirement of our Company</td><td>5,500.00</td><td>-</td><td>2,500.00</td><td>3,000.00</td></tr><tr><td>General Corporate Purposes<sup>(3) (4)</sup></td><td>[•]</td><td>[•]</td><td>[•]</td><td>[•]</td></tr><tr><td><strong>Total<sup>(3) (4)</sup></strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td><td><strong>[•]</strong></td></tr></tbody></table>
+
+(1) Applicable taxes, to the extent required, have been included in the estimated cost.
+
+109

@@ -1,0 +1,31 @@
+- There is no unconditional right to defer the settlement of the liability for at least twelve months after the reporting period.
+
+All other liabilities are classified as non-current.
+
+The operating cycle is the time between the acquisition of assets for processing and their realisation in cash or cash equivalents. The Company has identified twelve months as its operating cycle.
+
+### u) Segment reporting
+
+An operating segment is component of the Company that engages in the business activity from which the Company earns revenues and incurs expenses, for which discrete financial information is available and whose operating results are regularly reviewed by the chief operating decision maker (CODM), in deciding about resources to be allocated to the segment and assess its performance. The Company's chief operating decision maker is the Board of Directors. Operating segments are reported in a manner consistent with the internal reporting provided to the CODM.
+
+### v) Assets held for sale
+
+Assets are classified as Held for Sale if their carrying amount will be recovered principally through a sale transaction rather than through continuing use and the sale is highly probable. A sale is considered as highly probable when such assets have been decided to be sold by the Company; are available for immediate sale in their present condition; are being actively marketed for sale at a price and the sale has been agreed or is expected to be concluded within one year of the date of classification. Such assets are measured at lower of carrying amount or fair value, less selling costs.
+
+Assets held for sale are presented separately from other assets in the Balance Sheet and are not depreciated or amortised while they are classified as held for sale.
+
+### Key accounting estimates and judgements
+
+The preparation of the Company's financial statements requires the management to make judgements, estimates and assumptions that affect the reported amounts of revenues, expenses, assets and liabilities, and the accompanying disclosures, and the disclosure of contingent liabilities. Uncertainty about these assumptions and estimates could result in outcomes that require a material adjustment to the carrying amount of assets or liabilities affected in future periods. Management believes that the estimates used in the preparation of the financial statements are prudent and reasonable. Examples of such estimates include estimation of useful lives of property plant and equipment, employee costs, assessments of recoverable amounts of deferred tax assets, trade receivables and cash generating units, provisions against litigations and contingencies. Estimates and underlying assumptions are reviewed by management at each reporting date. Actual results could differ from these estimates. Any revision of these estimates is recognised prospectively in the current and future periods.
+
+#### (i) Deferred income taxes
+
+The assessment of the probability of future taxable profit in which deferred tax assets can be utilized is based on the Company's latest forecast, which is adjusted for significant non-taxable profit and expenses and specific limits to the use of any unused tax loss or credit. The tax rules in the different jurisdictions in which the Company operate are also carefully taken into consideration. If a positive forecast of taxable profit indicates the probable use of a deferred tax asset, especially when it can be utilized without a time limit, that deferred tax asset is usually recognised in full.
+
+#### (ii) Revenue recognition
+
+Determination of revenue under percentage of completion method necessarily involves making estimates, some of which are of a technical nature, concerning, where relevant, the percentage of completion, costs to completion, the expected revenue from the project or activity and foreseeable losses to completion. Estimates of project income, as well as project costs, are reviewed periodically. The effect of changes, if any, to estimates is recognised in the financial statements for the year in which such changes are determined.
+
+#### (iii) Current income taxes
+
+The tax jurisdiction for the Company is India. Significant judgments are involved in determining the provision for income taxes including judgment on whether tax positions are probable of being sustained in tax assessments. A tax assessment can involve complex issues, which can only be resolved over extended time periods. The recognition of taxes that are

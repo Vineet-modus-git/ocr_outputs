@@ -1,0 +1,25 @@
+**Revenue Growth** Revenue from operations rose from ₹84,744.25 lakhs to ₹1,02,216.00 lakhs—an increase of ₹17,471.75 lakhs (↑ 20.62%), providing a stronger base for profitability.
+
+**Controlled Expense Growth** Total expenses increased by 19.96% (₹99,796.77 lakhs vs ₹83,167.22 lakhs), which was proportionally lower than the revenue growth—preserving operating margins.
+
+**Higher Depreciation from Asset Expansion** Depreciation rose from ₹653.68 lakhs to ₹806.90 lakhs (↑ ₹153.22 lakhs or 23.44%) due to capitalisation of the solar plant and other fixed assets (PPE increased by ₹3,402.92 lakhs).
+
+**Finance Cost Absorption** Finance costs increased by ₹747.15 lakhs (₹2,093.69 lakhs vs ₹1,346.54 lakhs), but were offset by improved operating profit and working capital efficiency.
+
+## Cash Flows
+
+(Amount ₹ in lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">Fiscals</th></tr><tr><th>2025</th><th>2024</th><th>2023</th></tr></thead><tbody><tr><td>Net Cash from / (used in) Operating Activities</td><td>(4,462.58)</td><td>(2,752.16)</td><td>(2,318.79)</td></tr><tr><td>Net Cash from / (used in) Investing Activities</td><td>(3,889.92)</td><td>(375.00)</td><td>(6,138.32)</td></tr><tr><td>Net Cash from / (used in) Financing Activities</td><td>5,326.51</td><td>1,749.26</td><td>8,855.78</td></tr></tbody></table>
+
+### Cash Flows from Operating Activities
+
+1. For the year ended March 31, 2025, Net cash flow used in operating activities was ₹4,462.58 Lakhs. This comprised Profit before tax of ₹1,467.90 Lakhs, which was primarily adjusted for Depreciation and amortisation expense of ₹895.28 Lakhs, Interest income on fixed deposits of ₹355.66 Lakhs, Balances written back of ₹59.11 Lakhs, Profit from sale of investment property of ₹83.78 Lakhs and Finance costs of ₹2,466.65 Lakhs. The resultant operating profit before working capital changes was ₹4,331.26 Lakhs, which was primarily adjusted for increase in inventories of ₹6,273.88 Lakhs, increase in trade receivables of ₹6,461.52 Lakhs, increase in other assets of ₹1,126.17 Lakhs, increase in other financial assets of ₹3.18 Lakhs, increase in trade payables of ₹5,337.84 Lakhs, increase in provisions of ₹19.46 Lakhs, increase in other liabilities of ₹68.65 Lakhs and decrease in other financial liabilities of ₹52.19 Lakhs.
+
+Cash used in operations was ₹4,159.71 Lakhs, which was further increased by Net income taxes paid of ₹302.85 Lakhs, resulting in Net cash flow used in operating activities of ₹4,462.58 Lakhs.
+
+2. For the year ended March 31, 2024, Net cash flow generated from operating activities was ₹2,752.16 Lakhs. This comprised Profit before tax of ₹3,054.78 Lakhs, which was primarily adjusted for Depreciation and amortisation expense of ₹806.90 Lakhs, Interest income on fixed deposits of ₹242.64 Lakhs, Balances written back of ₹178.50 Lakhs and Finance costs of ₹2,093.69 Lakhs. The resultant operating profit before working capital changes was ₹5,534.23 Lakhs, which was primarily adjusted for increase in inventories of ₹1,635.92 Lakhs, increase in trade receivables of ₹1,311.36 Lakhs, decrease in other assets of ₹2,573.80 Lakhs, increase in other financial assets of ₹4.49 Lakhs, decrease in trade payables of ₹1,492.95 Lakhs, increase in provisions of ₹44.50 Lakhs, increase in other liabilities of ₹159.79 Lakhs and decrease in other financial liabilities of ₹104.40 Lakhs.
+
+Cash generated from operations was ₹3,763.20 Lakhs, which was reduced by Net income taxes paid of ₹1,011.03 Lakhs, resulting in Net cash flow generated from operating activities of ₹2,752.16 Lakhs.
+
+3. For the year ended March 31, 2023, Net cash flow used in operating activities was ₹2,318.79 Lakhs. This comprised Profit before tax of ₹2,713.18 Lakhs, which was primarily adjusted for Depreciation and amortisation expense of ₹653.68 Lakhs, Interest income on fixed deposits of ₹75.97 Lakhs, Fair value gain in investments of ₹1.16 Lakhs and Finance costs of ₹1,346.54 Lakhs. The resultant operating profit before working capital changes was ₹4,636.29 Lakhs, which was primarily adjusted for increase in inventories of ₹5,110.42 Lakhs, decrease in trade receivables of ₹966.58 Lakhs, increase in other assets
