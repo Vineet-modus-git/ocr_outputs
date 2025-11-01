@@ -1,0 +1,29 @@
+* **The Occupational Safety, Health and Working Conditions Code, 2020**
+
+The Occupational Safety, Health and Working Conditions Code consolidates and amends the laws regulating the occupational safety and health and working conditions of the persons employed in an establishment. It replaces 13 old central labour laws including the Factories Act, 1948, Contract Labour (Regulation and Abolition) Act, 1970, the Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and the Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979.
+
+## C. TAX RELATED LAWS
+
+1. **Income-tax Act, 1961**
+
+Income-tax Act, 1961 ("IT Act") is applicable to every company, whether domestic or foreign whose income is taxable under the provisions of this Act or Rules made there under depending upon its 'Residential Status' and 'Type of Income' involved. Every assessee, under the IT Act, which includes a company, is required to comply with the provisions thereof, including those relating to tax deduction at source, advance tax, minimum alternative tax and like.
+
+2. **Central Goods and Services Tax Act, 2017**
+
+The Central Goods and Services Tax Act, 2017 ("CGST Act") regulates the levy and collection of tax on the intra- State supply of goods and services by the Central Government or State Governments. The CGST Act amalgamates a large number of Central and State taxes into a single tax. The CGST Act mandates every supplier providing the goods or services to be registered within the State or Union Territory it falls under, within 30 days from the day on which he becomes liable for such registration. Such registrations can be amended, as well as cancelled by the proper office on receipt of application by the registered person or his legal heirs. There would be four tax rates namely 5%, 12%, 18% and 28%. The rates of GST applied are subject to variations based on the goods or services.
+
+3. **Integrated Goods and Services Tax Act, 2017**
+
+Integrated Goods and Services Tax Act, 2017 ("IGST Act") is a Central Act enacted to levy tax on the supply of any goods and/or services in the course of inter-State trade or commerce. IGST is levied and collected by Centre on interstate supplies. The IGST Act sets out the rules for determination of the place of supply of goods. Where the supply involves movement of goods, the place of supply shall be the location of goods at the time at which the movement of goods terminates for delivery to the recipient. The IGST Act also provides for determination of place of supply of service where both supplier and recipient are located in India or where supplier or recipient is located outside India. The provisions relating to assessment, audit, valuation, time of supply, invoice, accounts, records, adjudication, appeal etc. given under the CGST Act are applicable to IGST Act.
+
+4. **The Customs Act, 1962 and the Customs Tariff Act, 1975**
+
+The provisions of the Customs Act, 1962 and Rules made there under are applicable at the time of import of goods into India from a place outside India or at the time of export of goods out of India to a place outside India. Any company requiring to import or export any goods is required to get itself registered under this Act and obtain an Importer Exporter Code number. The Customs Tariff Act, 1975 provides the rates at which duties of customs will be levied under the Customs Act, 1962.
+
+5. **Professional Tax**
+
+The professional tax slabs in India are applicable to those citizens of India who are either involved in any profession or trade. The State Government of each State is empowered with the responsibility of structuring as well as formulating the respective professional tax criteria and is also required to collect funds through professional tax. The professional taxes are charged on the incomes of individuals, profits of business or gains in vocations. The professional tax is charged as per the List II of the Constitution. The professional taxes are classified under various tax slabs in India. The tax payable under the State Acts by any person earning a salary or wage shall be deducted by his employer from the salary or wages payable to such person before such salary or wages is paid to him, and such employer shall, irrespective of whether such deduction has been made or not when the salary and wage is paid to such persons, be liable to pay tax on behalf of such person and employer has to obtain the registration from the assessing authority in the prescribed manner. Every person liable to pay tax under these Acts (other than a person earning salary or wages, in respect of whom the tax is payable by the employer), shall obtain a certificate of enrolment from the assessing authority.
+
+6. **Foreign Trade (Development and Regulation) Act, 1992 and the Foreign Trade (Regulation) Rules, 1993 ("FT Rules")**
+
+In India, the main legislation concerning foreign trade is Foreign Trade (Development and Regulation) Act, 1992 ("FTA"). The FTA read along with relevant rules provides for the development and regulation of foreign trade by facilitating imports into, and

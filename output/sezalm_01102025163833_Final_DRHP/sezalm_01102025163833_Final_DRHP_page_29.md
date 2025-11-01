@@ -1,0 +1,25 @@
+Further, our operations in the EV segment will be subject to various external factors that could impact our cost structure and profitability. These include fluctuations in raw material prices, supply chain disruptions, and dependence on key components such as batteries and electronic control units. Given the limited availability and price volatility of lithium-ion and other battery-related raw materials, sourcing challenges could increase production costs and affect our pricing strategy.
+
+Moreover, the EV industry is heavily influenced by government policies, incentives, and regulatory norms, which are subject to frequent changes. Any unfavorable policy shifts, such as the reduction or withdrawal of subsidies, modifications to tax benefits, or the imposition of stricter regulatory requirements, could impact demand, operational costs, and overall feasibility of our expansion. Delays in obtaining regulatory approvals or challenges in complying with evolving safety, emissions, and manufacturing standards could further hinder our growth prospects in this segment.
+
+Another critical factor to consider is the potential for conflicting interests, as our promoters have an existing venture in the EV space. This overlap may lead to concerns regarding resource allocation, strategic focus, and business priorities. There is also a risk that competition between the two businesses could impact decision-making, investor confidence, or market positioning. Ensuring clear corporate governance mechanisms and transparent business practices will be essential to mitigating any potential conflicts of interest.
+
+If we are unable to successfully establish a foothold in the two-wheeler EV market, our investments in this new segment may not yield the expected returns. This could result in financial strain, misallocation of resources, and a negative impact on our overall business performance. Therefore, careful planning, strategic execution, and continuous monitoring of market dynamics will be crucial to ensuring sustainable growth in this segment.
+
+## 7. Handling and distribution of flammable products expose us to safety, regulatory, and liability risks.
+
+Our business involves the trading, distribution, and retrofitting of alternative fuel systems, including CNG, LPG, and LNG conversion kits, which are highly flammable and require stringent safety measures. The storage, transportation, and installation of these products pose inherent risks, including leakage, fire hazards, and explosions, which could lead to property damage, injuries, regulatory penalties, and legal liabilities.
+
+Despite adhering to safety standards and obtaining necessary approvals, there is always a possibility of accidents due to human error, equipment failure, or non-compliance by third-party distributors and installers. Any such incidents could result in reputational damage, product recalls, increased insurance costs, and potential litigation, adversely impacting our financial condition and business operations.
+
+Additionally, regulatory bodies may impose stricter safety norms or compliance requirements for handling flammable products, leading to increased operational costs. While we have not faced any such incidents in past, while we cannot assure you that this will continue to be the case in the future. If we fail to meet these evolving safety standards, we could face business disruptions, fines, or restrictions on our operations, negatively affecting our growth prospects.
+
+## 8. Our business is substantially dependent on certain major customers and loss of any one or more of them would have a material adverse effect on our business, results of operations, financial condition and cash flows.
+
+A significant portion of our revenue comes from a limited number of major customers, including institutional clients, government tenders, and corporate fleet operators. The loss of any one or more of these key customers due to contract non-renewal, financial distress, regulatory changes, or shifting market preferences could materially affect our business operations, revenue, and profitability.
+
+Additionally, our reliance on these customers limits our ability to mitigate risks associated with demand fluctuations. If any major customer reduces its order volume, delays payments, or discontinues business with us, it could lead to liquidity constraints, affect our working capital, and disrupt our cash flow.
+
+While we continue to expand our customer base and diversify revenue streams, there is no assurance that we will be able to replace key customers in a timely manner. Any such loss or reduction in business from major customers could have a material adverse effect on our financial condition and future growth prospect.
+
+## 9. We rely on third parties for the supply of alternate fuel kits and other ancillaries for our trading business. Any failure to maintain our relationship with these suppliers or any adverse changes affecting their

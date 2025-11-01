@@ -1,0 +1,24 @@
+For 220 kV and 400 kV transmission lines, fabrication demand is approximately 25-30 MT per circuit kilometre in steel lattice towers and gantry structures. POWERGRID and state discoms project cumulative investments of ₹1.1-1.2 lakh crore in transmission over FY25-FY29, creating significant downstream fabrication opportunity.
+
+**Distribution Infrastructure:**
+
+Distribution capex, projected to double by 2030 per CEA and NITI Aayog estimates, drives demand for lightweight fabricated enclosures, aluminium-based transformer base plates, and weatherproof kiosks. Steel-aluminium hybrids are increasingly used in urban distribution zones for modular kiosks and load centres.
+
+**Telecom Sector**
+
+India's telecommunications sector constitutes a significant component of the national digital infrastructure framework, with over 1.17 billion total subscribers and more than 900 million internet users as of early 2025 (TRAI, IAMAI). The sector's evolution, driven by exponential growth in mobile data consumption and the progressive deployment of fifth generation (5G) networks, is catalyzing sustained investments in physical infrastructure. Tower densification, edge computing, and rural broadband expansion are all contributing to an increase in demand for fabricated steel and aluminium-based components tailored to telecommunications specifications.
+
+The confluence of key macroeconomic and policy variables including digital adoption, increasing private sector capex, favourable FDI norms, and the implementation of public-sector programs such as Digital India has created long-term visibility for infrastructure investment. This in turn is generating consistent procurement pipelines for domestic metal fabricators specializing in custom-fabricated assemblies, structural supports, and weather-resistant enclosures.
+
+India's telecom infrastructure growth spans macro towers, 5G small cell sites, fiberization, and an expanding data centre footprint. As per the Department of Telecommunications (DoT), Cellular Operators Association of India (COAI), and leading rating agencies, capital expenditure across these segments is projected to exceed ₹4.0 lakh crore (~USD 48 billion) between FY24 and FY30. Key developments include:
+
+* The telecom tower base is expected to grow from approximately 750,000 units in FY24 to over 1.1 million by FY30, largely to support 5G densification and rural connectivity.
+* Small cell and rooftop site deployment will account for over 25% of new installations, involving modular structural steel elements and IP-rated enclosures.
+* Data centre capacity is projected to rise from 870 MW in FY24 to over 1,400 MW by FY28, translating to a CAGR of over 18%, requiring a diverse array of fabricated solutions including server racks, support structures, and HVAC frames.
+* Fiberization of telecom towers, currently at ~35%, is expected to surpass 70% by 2030, generating demand for cable trays, outdoor cabinets, and utility enclosures.
+
+The BharatNet initiative, India's rural broadband program, targets optical fibre connectivity across over 640,000 villages, necessitating a variety of weather-resistant fabricated components including feeder pillars, passive enclosures, and mounted junction boxes.
+
+Metal Fabrication: Segment-Wise Opportunity Matrix:
+
+<table><thead><tr><td>Segment</td><td>Applications</td><td>Fabricated Components</td></tr></thead><tbody><tr><td>Macro & Rooftop Towers</td><td>5G/4G network rollout, site densification</td><td>Tubular steel poles, 3- and 4-legged lattice towers, foundation frames, antenna brackets</td></tr><tr><td>Small Cells & DAS Systems</td><td>Urban network densification, smart cities</td><td>Compact steel mounts, pole attachments, IP-rated steel enclosures</td></tr><tr><td>Data Centres</td><td>Hyperscale and edge deployments</td><td>Sheet metal server racks, UPS enclosures, HVAC support frames, cable management trays</td></tr><tr><td>FTTH & BharatNet Rollouts</td><td>Rural and semi-urban last-mile connectivity</td><td>Weatherproof distribution boxes, feeder cabinets, fibre enclosures, pedestal mounts</td></tr><tr><td>Network Equipment Shelters</td><td>Core and backhaul network installations</td><td>Anti-vandal equipment shelters, seismic-rated base frames, structural skids</td></tr></tbody></table>

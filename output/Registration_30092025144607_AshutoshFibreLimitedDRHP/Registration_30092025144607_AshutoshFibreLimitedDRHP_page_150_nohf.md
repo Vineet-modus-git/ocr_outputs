@@ -1,0 +1,31 @@
+ply, three-ply, four-ply and six-ply), with applications ranging from Friction resistant parts, Heat and Flame retardant Protective wear, Anti-static Flexible Intermediate Bulk Containers ("FIBC") and High Tenacity Sewing Threads to Filter Bags.
+
+DREF friction spun yarns are produced in counts ranging from 0.4 Ne to 2.5 Ne and are primarily used in filter cartridges. Open end yarns are produced in counts ranging from 2 Ne to 4 Ne with applications including the manufacture of Gas Filter Bags, Carpet Backing material and Friction Resistant parts. The facility is also equipped with two-for-one twisting technology for producing twisted yarns with enhanced strength and performance and splicing technology to interlock yarns without knots, ensuring smooth and uniform joints.
+
+Our Company is primarily engaged in the manufacture of products, which contributed the largest share of our revenue during the last three financial years. In addition to manufacturing, the Company is also involved in trading of goods (yarn), job work services, wherein raw materials are provided by customers and the Company processes them into finished yarn. Overall, our business model is a combination of manufacturing, trading of goods (yarn) and job work services, with manufacturing forming the principal activity.
+
+The Company has installed a 380 KW rooftop solar power system at its manufacturing unit in Petlad for captive consumption, aimed at reducing electricity costs and supporting sustainable operations. In addition, the Company has leased land for the development of a 4 MW solar power facility, also dedicated to captive consumption. These initiatives reinforce the Company's commitment towards sustainability, reduction of carbon footprint and long-term energy cost optimization. Future plans include enhancing capacity and capabilities in the Indutech and Protech segments, where demand for high-performance and application-specific textile materials is growing across industries such as chemicals, pharmaceuticals, safety equipment manufacturing and industrial filtration.
+
+For quality control, electronic yarn clearing systems continuously inspect yarn during winding, detect faults such as thick or thin places, contamination, or foreign matter and automatically remove defective sections to ensure uniformity and compliance with specifications. We are registered with:
+
+* ISO 9001:2015 for Quality Management System issued by Alcumus ISOQAR Limited.
+
+* ISO 14001: 2015 for Environment Management System issued by Alcumus ISOQAR Limited.
+
+* ISO 45001:2018 for Occupational Health & Safety Management System issued by Alcumus ISOQAR Limited.
+
+* 5S Certification for Workplace Management System issued by 4C Consulting Private Limited.
+
+* Oeko-Tax Standard 100 Certification for Textile Safety from Harmful Substances issued by Shirley Technologies Limited.
+
+## FINANCIAL KPIs OF OUR COMPANY
+
+(₹ in Lakhs)
+
+<table><thead><tr><th rowspan="3">Particular</th><th rowspan="3">Unit</th><th colspan="3">Ashutosh Fibre Limited</th></tr><tr><th colspan="3">As at end for Fiscal</th></tr><tr><th>FY 2025</th><th>FY 2024</th><th>FY 2023</th></tr></thead><tbody><tr><td>Total Income</td><td>₹ in lakhs</td><td>11,497.40</td><td>10,988.92</td><td>9,797.42</td></tr><tr><td>Revenue from Operations</td><td>₹ in lakhs</td><td>11,403.40</td><td>10,987.18</td><td>9,792.54</td></tr><tr><td>EBITDA</td><td>₹ in lakhs</td><td>1,783.58</td><td>1,614.38</td><td>1,049.52</td></tr><tr><td>EBITDA Margin</td><td>in %</td><td>15.64%</td><td>14.69%</td><td>10.72%</td></tr><tr><td>Profit After Tax (PAT)</td><td>₹ in lakhs</td><td>850.92</td><td>704.94</td><td>329.78</td></tr><tr><td>PAT Margin (%)</td><td>in %</td><td>7.46%</td><td>6.42%</td><td>3.37%</td></tr><tr><td>Debt - equity Ratio</td><td>In Times</td><td>1.60</td><td>1.27</td><td>1.47</td></tr><tr><td>Net worth</td><td>₹ in lakhs</td><td>3,585.31</td><td>2,755.39</td><td>2,071.45</td></tr><tr><td>Return on Net Worth (RoNW)</td><td>in %</td><td>23.73%</td><td>25.58%</td><td>15.92%</td></tr><tr><td>Return on Capital Employed (ROCE)</td><td>in %</td><td>16.27%</td><td>21.00%</td><td>14.92%</td></tr></tbody></table>
+
+## OPERATIONAL KPIs OF THE COMPANY
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td>Synthetic yarn such as Para Aramid Based Spun Yarn, High Tenacity Polyester Yarn, Meta Aramid and FR Viscose Yarn, Polypropylene Yarn, Modacrylic Based Yarn, Poly Poly Core spun Yarn and Stainless-Steel Yarn (up to 50 NE)</td><td></td><td></td><td></td></tr><tr><td>Installed Capacity (In MT)</td><td>3,750</td><td>3,500</td><td>3,500</td></tr></tbody></table>

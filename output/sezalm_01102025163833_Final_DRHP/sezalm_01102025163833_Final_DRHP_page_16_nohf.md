@@ -1,0 +1,29 @@
+FORWARD LOOKING STATEMENTS
+
+This Draft Red Herring Prospectus contains certain "forward-looking statements". These forward-looking statements generally can be identified by words or phrases such as "aim", "anticipate", "are likely", "believe", "expect", "estimate", "intend", "likely to", "objective", "plan", "project", "propose", "will", "seek to", "will continue", "will pursue" or other words or phrases of similar import. Similarly, statements that describe our strategies, objectives, plans or goals are also forward-looking statements. All forward-looking statements are subject to risks, uncertainties, expectations and assumptions about us that could cause actual results to differ materially from those contemplated by the relevant forward-looking statement. All statements in this Draft Red Herring Prospectus that are not statements of historical fact constitute 'forward-looking statements'. All statements regarding our expected financial conditions and results of operations, business plans and objectives, strategies and goals and prospects are forward looking statements.
+
+These forward-looking statements, whether made by us or a third party, are based on our current plans, estimates and expectations and actual results may differ materially from those suggested by such forward-looking statements. Actual results may differ materially from those suggested by forward-looking statements due to risks or uncertainties associated with expectations relating to, and including, regulatory changes pertaining to the industries in India in which we operate and our ability to respond to them, our ability to successfully implement our strategy, our growth and expansion, technological changes, our exposure to market risks, general economic and political conditions in India which have an impact on its business activities or investments, the monetary and fiscal policies of India, inflation, deflation, unanticipated turbulence in interest rates, foreign exchange rates, equity prices or other rates or prices, the performance of the financial markets in India and globally, changes in domestic laws, changes in the incidence of any natural calamities and/or violence, regulations and taxes and changes in competition in the industries in which we operate.
+
+Certain important factors that could cause actual results to differ materially from our expectations include, but are not limited to, the following:
+
+* Our business operations are geographically concentrated in India, and our inability to expand into new markets may adversely impact our growth and revenue potential;
+
+* Our inability to obtain or renew necessary approvals from government agencies may adversely affect our business operations and growth prospects.;
+
+* Changes in government policies in India and Italy may adversely impact our supply chain, market demand, and overall business operations;
+
+* We are dependent on our exclusive dealership agreements with Landi Renzo SpA. If such agreements are terminated, we may consequently lose distributors and dealers that distribute our products, which could materially and adversely impact our business, results of operations and financial condition.;
+
+* Our promoters' involvement in other ventures may divert their attention and impact our business operations;
+
+* Our expansion into the two-wheeler electric vehicle (EV) segment involves operational, financial, and market acceptance risks;
+
+* Handling and distribution of flammable products expose us to safety, regulatory, and liability risks;
+
+* Our business is substantially dependent on certain major customers and loss of any one or more of them would have a material adverse effect our business, results of operations, financial condition and cash flows.
+
+For further details regarding factors that could cause actual results to differ from our estimates and expectations, see "Risk Factors", "Our Business" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" beginning on page 22, 130 and 238, respectively. By their nature, certain market risk disclosures are only estimates and could be materially different from what actually occurs in the future. As a result, actual gains or losses could materially differ from those that have been estimated.
+
+There can be no assurance to Applicants that the expectations reflected in these forward-looking statements will prove to be correct. Given these uncertainties, Applicants are cautioned not to place undue reliance on such forward-looking statements and not to regard such statements to be a guarantee of our future performance.
+
+Forward-looking statements reflect current views as on the date of this Draft Red Herring Prospectus and are not a guarantee of future performance. These statements are based on our management's beliefs and assumptions, which in turn are based on currently available information. Although we believe the assumptions upon which these forward-looking statements are based are reasonable, any of these assumptions could prove to be inaccurate, and the forward-looking statements based on these assumptions could be incorrect. Neither our Company, our Promoters, our Directors, the Book Running Lead Manager nor any of their respective affiliates have any obligation to update or otherwise revise any statements reflecting circumstances arising after the date hereof or to reflect the occurrence of underlying events, even if the underlying assumptions do not come to fruition. In accordance with the SEBI ICDR Regulations, our Company and the Book Running Lead Manager will ensure that the Applicants in India are informed of material developments until the time of the grant of listing and trading permission by the Stock Exchanges for the Equity shares pursuant to the Issue.

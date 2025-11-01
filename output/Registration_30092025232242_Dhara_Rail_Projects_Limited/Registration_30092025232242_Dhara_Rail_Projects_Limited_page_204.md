@@ -1,0 +1,26 @@
+Dhara Rail Projects Limited
+
+ANNEXURE – Y
+RESTATED CONSOLIDATED STATEMENT OF DEPRECIATION & AMORTISATION
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">year ended on</th></tr><tr><th>31-03-25</th><th>31-03-24</th><th>31-03-23</th></tr></thead><tbody><tr><td>Depreciation Expenses</td><td>4.28</td><td>3.89</td><td>4.47</td></tr><tr><td>Amortization Expenses</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td><strong>Total</strong></td><td><strong>4.29</strong></td><td><strong>3.90</strong></td><td><strong>4.48</strong></td></tr></tbody></table>
+
+ANNEXURE – Z
+RESTATED CONSOLIDATED STATEMENT OF OTHER EXPENSES
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">year ended on</th></tr><tr><th>31-03-25</th><th>31-03-24</th><th>31-03-23</th></tr></thead><tbody><tr><td>Business Promotion Expenses</td><td>0.05</td><td>3.03</td><td>3.10</td></tr><tr><td>Labour Charges</td><td>511.55</td><td>249.24</td><td>81.87</td></tr><tr><td>Consultancy Fees for Tender</td><td>16.05</td><td>1.50</td><td>-</td></tr><tr><td>Legal And Professional Expenses</td><td>20.28</td><td>16.29</td><td>9.21</td></tr><tr><td>Payment to Auditors</td><td>2.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Printing & Stationary</td><td>3.12</td><td>4.02</td><td>0.90</td></tr><tr><td>Site Rent Expenses</td><td>5.98</td><td>3.82</td><td>5.66</td></tr><tr><td>Conveyance Expenses</td><td>3.28</td><td>1.28</td><td>0.91</td></tr><tr><td>Penalty Expenses - Railway</td><td>86.47</td><td>8.40</td><td>15.19</td></tr><tr><td>Tender Charges</td><td>4.58</td><td>4.69</td><td>4.64</td></tr><tr><td>Transport Charges</td><td>6.01</td><td>1.29</td><td>3.27</td></tr><tr><td>Travelling Expenses</td><td>23.85</td><td>17.04</td><td>16.48</td></tr><tr><td>Other Expenses*</td><td>12.28</td><td>5.82</td><td>10.88</td></tr><tr><td><strong>Total</strong></td><td><strong>695.50</strong></td><td><strong>317.40</strong></td><td><strong>153.11</strong></td></tr></tbody></table>
+
+* Does not include any individual item of expenditure with a value of more than 1% of the revenue from operations
+
+ANNEXURE – AA
+RESTATED CONSOLIDATED STATEMENT OF MANDATORY ACCOUNTING RATIOS
+
+(Amount in Rs. Lakhs except Per Share Data)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As at</th></tr><tr><th>31-03-25</th><th>31-03-24</th><th>31-03-23</th></tr></thead><tbody><tr><td>Net Worth (A)</td><td>1,288.56</td><td>635.77</td><td>338.99</td></tr><tr><td>Restated Profit after tax</td><td>652.78</td><td>296.78</td><td>106.42</td></tr><tr><td>Less: Prior Period Item</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adjusted Profit after Tax (B)</td><td>652.78</td><td>296.78</td><td>106.42</td></tr><tr><td>Number of Equity shares (Face Value Rs 10) outstanding as on the end of Year</td><td>100,000</td><td>100,000</td><td>100,000</td></tr><tr><td>Weighted Average Number of Equity shares (Face Value Rs 10) (C)</td><td>100,000</td><td>100,000</td><td>100,000</td></tr><tr><td>Weighted Average Number of Equity shares (Face Value Rs 10) after considering Issue of Bonus Shares during the year (D)</td><td>11,100,000</td><td>11,100,000</td><td>11,100,000</td></tr><tr><td>Current Assets (E)</td><td>3,247.32</td><td>2,085.38</td><td>1,965.23</td></tr><tr><td>Current Liabilities (F)</td><td>3,304.50</td><td>4,068.51</td><td>3,021.79</td></tr><tr><td>Face Value per Share</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>Restated Basic and Diluted Earnings Per Share (Rs.) (B/D) (After Issue of Bonus Shares)</td><td>5.88</td><td>2.67</td><td>0.96</td></tr></tbody></table>
+
+202

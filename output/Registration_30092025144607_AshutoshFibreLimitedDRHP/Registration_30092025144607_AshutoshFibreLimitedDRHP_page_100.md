@@ -1,0 +1,23 @@
+<table><thead><tr><th>Sr. No.</th><th>Work/Type of Machinery</th><th>Name of the Supplier*</th><th>Quantity</th><th>Total Estimated Cost (₹ in lakhs)</th><th>Amount proposed to be funded from the Net Proceeds (₹ in lakhs)</th><th>Date of Quotation</th><th>Validity of Quotation</th></tr></thead><tbody><tr><td></td><td>India Make Model “COSMOS 201.5 ARRAF with 240 Spindles”</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.</td><td>"Two-For-One Twisters of Vandewiele-Savio India Make Model “SIRIUS EDS 252 AF” with 192 Spindles"</td><td>Vandewiele Savio India Private Limited</td><td>6</td><td>217.20</td><td>217.20</td><td>August 13, 2025</td><td>February 09, 2026</td></tr><tr><td>7.</td><td>Electrification</td><td>Adishwar Electricals</td><td>11</td><td>54.54</td><td>54.54</td><td>August 30, 2025</td><td>February 26, 2026</td></tr><tr><td></td><td>Total (B)</td><td></td><td></td><td>2,035.86</td><td>2,035.86</td><td></td><td></td></tr><tr><td></td><td>Total (A + B)</td><td></td><td></td><td>2,495.75</td><td>2,495.75</td><td></td><td></td></tr></tbody></table>
+
+As certified by our Statutory Auditors by way of their certificate dated September 29, 2025.
+
+* None of the vendors from whom quotations have been obtained or from whom the Company proposes to purchase equipment and machinery are related to or connected in any manner to our Promoters, members of the Promoter Group, Directors, or the Merchant Banker(s) associated with the Issue. This has been certified by the Company by a declaration dated September 29, 2025.
+
+** The quotations received from the seller have been converted from Euros to Indian Rupees as per the conversion rate below.
+
+€ Foreign Exchange Rate of the Euro as is considered as 1€ = ₹ 103.15 for conversion as on August 22, 2025 (date of receipt of quotation from international vendor) from https://foservices.icegate.gov.in/#/services/viewExchangeRate.
+
+**Notes:**
+
+The purchase price mentioned is exclusive of GST and other applicable taxes. We have considered the above quotations for the budgetary estimate purpose and have not placed orders for them. No orders have been placed with any of the aforementioned vendors. The actual cost of procurement and actual supplier/dealer may vary. Further, our Promoters, Directors, Key Managerial Personnel and the Group Companies do not have any interest in the proposed acquisition of the equipment or in the entity from whom we have placed or may place purchase orders in relation to such proposed acquisition of the equipment.
+
+## Government approvals
+
+Our Company undertakes to file necessary application before relevant authorities to obtain all approvals, as applicable at relevant stage, including but not limited to those as mentioned below:
+
+<table><thead><tr><th>Name of the statutory approval</th><th>Authority</th><th>Status</th></tr></thead><tbody><tr><td>Electrical load sanction</td><td>Madhya Gujarat Vij Company Ltd.</td><td>Application made on August 30, 2025 regarding intimation w.r.t additional load of 1195 KVA (Existing 1805 KVA + 1195 KVA = 3,000 KVA) for their existing unit located near Bus Stand, Ashapuri Road, Petlad - 388450 under Petlad division of Anand Circle.</td></tr><tr><td>Consolidated Consent and Authorization (CC&A)</td><td>Gujarat Pollution Control Board</td><td>Application for amendment of expansion of production capacity of yarn from 368 MT per month to 460 MT per month has been made by our Company on September 22, 2025.</td></tr></tbody></table>
+
+## 2. Repayment/pre-payment, in full or in part, of certain borrowings availed by our Company
+
+Our Company, in the ordinary course of business, has availed various financing arrangements for borrowing in the form of working capital loans and term loans, among others. As on August 31, 2025 the aggregate outstanding amount of such loans and facilities stood at ₹ 4,793.63 lakhs. Our Company proposes to utilize an estimated amount of ₹ 2,500 lakhs of the net proceeds towards the partial repayment or pre-payment of certain borrowings availed from the lenders by our Company. The loan facilities availed by our Company include borrowing in the form of, inter alia, term loans and working capital facility from various lenders. For further details, see “Financial Indebtedness” on page 231 of this Draft Red Herring Prospectus.

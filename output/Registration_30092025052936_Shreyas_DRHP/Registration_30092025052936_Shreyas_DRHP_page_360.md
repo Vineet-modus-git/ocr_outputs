@@ -1,0 +1,25 @@
+The Equity Shares have not been, and will not be, registered, listed or otherwise qualified in any other jurisdiction outside India and may not be offered or sold, and applications may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction.
+
+Further, each applicant where required agrees that such applicant will not sell or transfer any Equity Shares or create any economic interest therein, including any off-shore derivative instruments, such as participatory notes, issued against the Equity Shares or any similar security, other than pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and in compliance with applicable laws, legislations and this Draft Red Herring Prospectus in each jurisdiction, including India.
+
+## DISCLAIMER CLAUSE OF THE EMERGE PLATFORM OF NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+
+Emerge Platform of National Stock Exchange of India Limited (“NSE or NSE Emerge”) has vide its letter dated [●] given permission to “Shreyas Fabtech Limited” to use its name in the Offer Document as the Stock Exchange on whose Small and Medium Enterprises Platform (“SME Platform”) the Company’s securities are proposed to be listed. NSE has scrutinized this offer document for its limited internal purpose of deciding on the matter of granting the aforesaid permission to the Company.
+
+The Exchange has scrutinized offer document for its limited internal purpose of deciding on the matter of granting the aforesaid permission to this Issuer.
+
+It is to be distinctly understood that the aforesaid permission given by National Stock Exchange of India Limited should not in any way be deemed or construed that the offer document has been cleared or approved by NSE; nor does it in any manner warrant, certify or endorse the correctness or completeness of any of the contents of this offer document; nor does it warrant that this Issuer’s securities will be listed or will continue to be listed on the Exchange; nor does it take any responsibility for the financial or other soundness of this Issuer, its Promoter, its management or any scheme or project of this Issuer. Every person who desires to apply for or otherwise acquire any securities of this Issuer may do so pursuant to independent inquiry, investigation and analysis and shall not have any claim against the Exchange whatsoever by reason of any loss which may be suffered by such person consequent to or in connection with such subscription /acquisition whether by reason of anything stated or omitted to be stated herein or any other reason whatsoever.
+
+## DISCLAIMER CLAUSE UNDER RULE 144A OF THE U.S. SECURITIES ACT
+
+The Equity Shares have not been, and will not be, registered under the U.S. Securities Act 1933, as amended (the "Securities Act") or any state securities laws in the United States and may not be Issued or sold within the United States or to, or for the account or benefit of, "U.S. persons" (as defined in Regulation S under the Securities Act), except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act. Accordingly, the Equity Shares will be Issued and sold outside the United States in compliance with Regulation S of the Securities Act and the applicable laws of the jurisdiction where those Issues and sales occur.
+
+The Equity Shares have not been, and will not be, registered, listed or otherwise qualified in any other jurisdiction outside India and may not be issued or sold, and Bids may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction.
+
+Further, each Applicant where required agrees that such Applicant will not sell or transfer any Equity Shares or create any economic interest therein, including any off-shore derivative instruments, such as participatory notes, issued against the Equity Shares or any similar security, other than pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and in compliance with applicable laws and legislations in each jurisdiction, including India.
+
+## FILING
+
+The Red Herring Prospectus is being filed with Emerge Platform of National Stock Exchange of India Limited (“NSE Emerge”) Exchange Plaza, C/1, G Block, Bandra Kurla Complex, Bandra (East), Mumbai - 400 051, Maharashtra, India. The Draft Red Herring Prospectus will not be filed with SEBI, nor will SEBI issue any observation on the Offer Document in terms of Regulation 246(2) of SEBI (ICDR) Regulations, 2018.
+
+Pursuant to Regulation 246(5) of SEBI (ICDR) Regulations, 2018 and SEBI Circular Number SEBI/HO/CFD/DIL1/CIR/P/2018/011 dated January 19, 2018, a copy of Prospectus will be filed online through SEBI Intermediary Portal at https://siportal.sebi.gov.in.

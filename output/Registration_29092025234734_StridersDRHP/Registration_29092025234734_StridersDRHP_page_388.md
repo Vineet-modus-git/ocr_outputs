@@ -1,0 +1,39 @@
+46. If there is no such Chairperson or if he is not present within fifteen minutes after the time appointed for holding the meeting or is unwilling to act as chairperson of the meeting the directors present shall elect one of their members to be Chairperson of the meeting.
+
+47. If at any meeting no director is willing to act as Chairperson or if no director is present within fifteen minutes after the time appointed for holding the meeting the members present shall choose one of their members to be Chairperson of the meeting.
+
+48. In case of a One Person Company the resolution required to be passed at the general meetings of the company shall be deemed to have been passed if the resolution is agreed upon by the sole member and communicated to the company and entered in the minutes book maintained under section 118 such minutes book shall be signed and dated by the member the resolution shall become effective from the date of signing such minutes by the sole member.
+
+## ADJOURNMENT OF MEETING
+
+49.1) (i) The Chairperson may with the consent of any Meeting at which a quorum is present and shall if so directed by the Meeting adjourn the Meeting from time to time and from place to place.
+
+(ii) If at a Shareholders Meeting no quorum is present then the Meeting shall stand adjourned to the same day at the same time of the following week (Adjourned Shareholders Meeting).
+
+(iii) If at an Adjourned Shareholders Meeting quorum is not present within half an hour from the time appointed the Members present being not less than two in number will constitute the Quorum.
+
+(iv) No business shall be transacted at any adjourned Meeting other than the business left unfinished at the Meeting from which the adjournment took place.
+
+(v) When a Meeting is adjourned for thirty days or more Notice of the adjourned Meeting shall be given as in the case of an original Meeting. Save as aforesaid and as provided in Section 103 of the Act it shall not be necessary to give any Notice of an adjournment of the business to be transacted at an adjourned Meeting.
+
+## VOTING RIGHTS
+
+50. Subject to any rights or restrictions for the time being attached to any class or classes of shares on a show of hands every member present in person shall have one vote and on a poll the voting rights of members shall be in proportion to his share in the paid-up equity share capital of the company.
+
+51. A member may exercise his vote at a meeting by electronic means in accordance with section 108 and shall vote only once.
+
+52. In the case of joint holders the vote of the senior who tenders a vote whether in person or by proxy shall be accepted to the exclusion of the votes of the other joint holders. For this purpose seniority shall be determined by the order in which the names stand in the register of members.
+
+53. A member of unsound mind or in respect of whom an order has been made by any court having jurisdiction in lunacy may vote whether on a show of hands or on a poll by his committee or other legal guardian and any such committee or guardian may on a poll vote by proxy.
+
+54. Any business other than that upon which a poll has been demanded maybe proceeded with pending the taking of the poll.
+
+55. No member shall be entitled to vote at any general meeting unless all calls or other sums presently payable by him in respect of shares in the company have been paid
+
+56. No objection shall be raised to the qualification of any voter except at the meeting or adjourned meeting at which the vote objected to is given or tendered and every vote not disallowed at such meeting shall be valid for all purposes. Any such objection made in due time shall be referred to the Chairperson of the meeting whose decision shall be final and conclusive.
+
+## PROXY
+
+57. The instrument appointing a proxy and the power-of-attorney or other authority if any under which it is signed or a notarised copy of that power or authority shall be deposited at the registered office of the company not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote or in the case of a poll
+
+318

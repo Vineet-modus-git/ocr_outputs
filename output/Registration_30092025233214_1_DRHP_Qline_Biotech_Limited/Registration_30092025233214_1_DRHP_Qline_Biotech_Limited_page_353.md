@@ -1,0 +1,29 @@
+Q-Line Biotech Limited
+
+a) The Bid / Issue Period shall be for a minimum of three Working Days and shall not exceed 10 Working Days. The Bid/ Issue Period maybe extended, if required, by an additional one Working Days, subject to the total Bid/ Issue Period not exceeding 10 Working Days. Any revision in the Price Band and the revised Bid/ Issue Period, if applicable, will be published in all editions of the English national newspaper [●] and all editions of Hindi national newspaper [●], each with wide circulation and also by indicating the change on the websites of the Book Running Lead Managers.
+
+b) During the Bid/ Issue Period, Individual Bidders, should approach the Book Running Lead Managers or their authorized agents to register their Bids. The Book Running Lead Managers shall accept Bids from Anchor Investors and ASBA Bidders in Specified Cities and it shall have the right to vet the Bids during the Bid/ Issue Period in accordance with the terms of the Red Herring Prospectus. ASBA Bidders should approach the Designated Branches or the Book Running Lead Managers (for the Bids to be submitted in the Specified Cities) to register their Bids.
+
+c) Each Bid cum Application Form will give the Bidder the choice to Bid for up to three optional prices (for details refer to the paragraph titled "Bids at Different Price Levels and Revision of Bids" below) within the Price Band and specify the demand (i.e., the number of Equity Shares Bid for) in each option. The price and demand options submitted by the Bidder in the Bid cum Application Form will be treated as optional demands from the Bidder and will not be cumulated. After determination of the Issue Price, the maximum number of Equity Shares Bid for by a Bidder/Applicant at or above the Issue Price will be considered for allocation/Allotment and the rest of the Bid(s), irrespective of the Bid Amount, will become automatically invalid.
+
+d) The Bidder/ Applicant cannot Bid through another Bid cum Application Form after Bids through one Bid cum Application Form have been submitted to a Book Running Lead Managers or the SCSBs. Submission of a second Bid cum Application Form to either the same or to another Book Running Lead Managers or SCSB will be treated as multiple Bid and is liable to be rejected either before entering the Bid into the electronic bidding system, or at any point of time prior to the allocation or Allotment of Equity Shares in this Issue. However, the Bidder can revise the Bid through the Revision Form, the procedure for which is detailed under the paragraph "Buildup of the Book and Revision of Bids".
+
+e) Except in relation to the Bids received from the Anchor Investors, the Book Running Lead Managers /the SCSBs will enter each Bid option into the electronic bidding system as a separate Bid and generate a Transaction Registration Slip, ("TRS"), for each price and demand option and give the same to the Bidder. Therefore, a Bidder can receive up to three TRSs for each Bid cum Application Form
+
+f) The Book Running Lead Managers shall accept the Bids from the Anchor Investors during the Anchor Investor Bid/ Issue Period i.e. one working day prior to the Bid/ Issue Opening Date. Bids by QIBs under the Anchor Investor Portion and the QIB Portion shall not be considered as multiple Bids.
+
+g) Along with the Bid cum Application Form, Anchor Investors will make payment in the manner described in "Escrow Mechanism - Terms of payment and payment into the Escrow Accounts" in the section "Issue Procedure" beginning on page 344 of this Draft Red Herring Prospectus
+
+h) Upon receipt of the Bid cum Application Form, submitted whether in physical or electronic mode, the Designated Branch of the SCSB shall verify if sufficient funds equal to the Bid Amount are available in the ASBA Account, as mentioned in the Bid cum Application Form prior to uploading such Bids with the Stock Exchange.
+
+i) If sufficient funds are not available in the ASBA Account, the Designated Branch of the SCSB shall reject such Bids and shall not upload such Bids with the Stock Exchange.
+
+j) If sufficient funds are available in the ASBA Account, the SCSB shall block an amount equivalent to the Bid Amount mentioned in the Bid cum Application Form and will enter each Bid option into the electronic bidding system as a separate Bid and generate a TRS for each price and demand option. The TRS shall be furnished to the ASBA Bidder on request.
+
+k) The Bid Amount shall remain blocked in the aforesaid ASBA Account until finalisation of the Basis of Allotment and consequent transfer of the Bid Amount against the Allotted Equity Shares to the Public Issue Account, or until withdrawal/failure of the Issue or until withdrawal/rejection of the Bid cum Application Form, as the case may be. Once the Basis of Allotment is finalized, the Registrar to the Issue shall send an appropriate request to the SCSB for unblocking the relevant ASBA Accounts and for transferring the amount allocable to the successful Bidders to the Public Issue Account. In case of withdrawal/failure of the Issue, the blocked amount shall be unblocked on receipt of such information from the Registrar to the Issue.
+
+## BIDS AT DIFFERENT PRICE LEVELS AND REVISION OF BIDS
+
+a. Our Company in consultation with the Book Running Lead Managers, and without the prior approval of, or intimation, to the Bidders, reserves the right to revise the Price Band during the Bid/ Issue Period, provided that the Cap Price shall be less than or equal to 120% of the Floor Price and the Floor Price shall not be less than the face value of the Equity Shares. The revision
+
+350

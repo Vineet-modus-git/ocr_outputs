@@ -1,0 +1,11 @@
+## INDUSTRY OVERVIEW
+
+Unless otherwise indicated, the industry and market data contained in this Draft Red Herring Prospectus is derived from the “Industry Report on Indian Technical Textile Yarns”, which has been commissioned by our Company. We have received the consent to use the extracts from this report vide Consent Letter dated September 22, 2025.
+
+This study has been undertaken through extensive secondary research, which involves compiling inputs from publicly available sources, including official publications and research reports. Estimates provided by Dun & Bradstreet Information Services Private Limited (“D&B”) and its assumptions are based on varying levels of quantitative and qualitative analysis including industry journals, company reports and information in the public domain.
+
+Dun & Bradstreet has prepared this study in an independent and objective manner and it has taken all reasonable care to ensure its accuracy and completeness. D&B believes that this study presents a true and fair view of the industry within the limitations of, among others, secondary statistics and research and it does not purport to be exhaustive. The results that can be or are derived from these findings are based on certain assumptions and parameters/conditions. As such, a blanket, generic use of the derived results or the methodology is not encouraged.
+
+Forecasts, estimates, predictions and other forward-looking statements contained in this report are inherently uncertain because of changes in factors underlying their assumptions, or events or combinations of events that cannot be reasonably foreseen. Actual results and future events could differ materially from such forecasts, estimates, predictions, or such statements.
+
+The recipient should conduct its own investigation and analysis of all facts and information contained in this report is a part and the recipient must rely on its own examination and the terms of the transaction, as and when discussed. The recipients should not construe any of the contents in this report as advice relating to business, financial, legal, taxation or investment matters and are advised to consult their own business, financial, legal, taxation and other advisors concerning the transaction.

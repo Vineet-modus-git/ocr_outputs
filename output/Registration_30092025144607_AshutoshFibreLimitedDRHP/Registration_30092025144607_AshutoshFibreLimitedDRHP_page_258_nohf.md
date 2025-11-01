@@ -1,0 +1,16 @@
+ASHUTOSH FIBRE LIMITED
+[FORMERLY KNOWN AS ASHUTOSH FIBRE PRIVATE LIMITED]
+
+CIN No. : U24299GJ1985PLC007831
+
+SUB ANNEXURE - V - Restated Statement of Share Capital
+
+Details of Shareholding more than 5% of the aggregate shares in the company
+
+<table><thead><tr><th rowspan="2">Name of Shareholder</th><th colspan="2">31-Mar-25</th><th colspan="2">31-Mar-24</th><th colspan="2">31-Mar-23</th></tr><tr><th>Nos</th><th>% of Holding</th><th>Nos</th><th>% of Holding</th><th>Nos</th><th>% of Holding</th></tr></thead><tbody><tr><td>(A)Equity Shareholder</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Prahas Finstock Pvt. Ltd.</td><td>3,05,100</td><td>17.43%</td><td>3,051</td><td>17.43%</td><td>3,051</td><td>17.43%</td></tr><tr><td>Abhishek R. Agarwal</td><td>2,60,000</td><td>14.86%</td><td>2,600</td><td>14.86%</td><td>2,600</td><td>14.86%</td></tr><tr><td>Vinod S. Agarwal</td><td>1,75,000</td><td>10.00%</td><td>1,750</td><td>10.00%</td><td>1,750</td><td>10.00%</td></tr><tr><td>Shree Bajrangbali Int & Day Pvt. Ltd.</td><td>1,70,000</td><td>9.71%</td><td>1,700</td><td>9.71%</td><td>1,700</td><td>9.71%</td></tr><tr><td>R.K. Agrawal Trading Co.Pvt. Ltd.</td><td>1,70,000</td><td>9.71%</td><td>1,700</td><td>9.71%</td><td>1,700</td><td>9.71%</td></tr><tr><td>Swapnil Hasmukhbhai Patel</td><td>1,38,376</td><td>7.91%</td><td>1,412</td><td>8.07%</td><td>1,412</td><td>8.07%</td></tr><tr><td>Pravinchandra P. Patel</td><td>-</td><td>0.00%</td><td>1,212</td><td>6.93%</td><td>1,212</td><td>6.93%</td></tr><tr><td>Varshabebn P. Patel</td><td>1,21,200</td><td>6.93%</td><td>-</td><td>0.00%</td><td>-</td><td>0.00%</td></tr><tr><td>Siddharth P. Patel</td><td>1,41,300</td><td>8.07%</td><td>1,000</td><td>5.71%</td><td>1,000</td><td>5.71%</td></tr><tr><td>Rameshwaram Metal Pvt. Ltd.</td><td>1,00,000</td><td>5.71%</td><td>1,000</td><td>5.71%</td><td>1,000</td><td>5.71%</td></tr></tbody><tfoot><tr><td>Total</td><td>15,80,976</td><td>90.34%</td><td>15,425</td><td>88.14%</td><td>15,425</td><td>88.14%</td></tr></tfoot></table>
+
+Shareholding of Promoters
+
+<table><thead><tr><th rowspan="2">Name of Shareholder</th><th colspan="2">31-Mar-25</th><th colspan="2">31-Mar-24</th><th colspan="2">31-Mar-23</th></tr><tr><th>Nos</th><th>% of Holding</th><th>Nos</th><th>% of Holding</th><th>Nos</th><th>% of Holding</th></tr></thead><tbody><tr><td>(A)Equity Shareholder</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Siddharth P. Patel</td><td>1,41,300</td><td>8.07%</td><td>1,000</td><td>5.71%</td><td>1,000</td><td>5.71%</td></tr><tr><td>Abhishek R. Agarwal</td><td>2,60,000</td><td>14.86%</td><td>2,600</td><td>14.86%</td><td>2,600</td><td>14.86%</td></tr><tr><td>Prahas Finstock Pvt. Ltd.</td><td>3,05,100</td><td>17.43%</td><td>3,051</td><td>17.43%</td><td>3,051</td><td>17.43%</td></tr></tbody><tfoot><tr><td>Total</td><td>7,06,400</td><td>40.37%</td><td>6,651</td><td>38.01%</td><td>6,651</td><td>38.01%</td></tr></tfoot></table>
+
+Note: The company has identified Mr. Siddharth Patel, Mr. Abhishek Agarwal and M/s. Prahas Finstock Private Limited as a promoter of the company vide their resolution dated September 16, 2025.

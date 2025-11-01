@@ -1,0 +1,21 @@
+Dhara Rail Projects Limited
+
+# SECTION I – GENERAL
+
+## DEFINITIONS AND ABBREVIATIONS
+
+This Draft Red Herring Prospectus uses certain definitions and abbreviations which, unless the context otherwise indicates or implies, or unless otherwise specified shall have the meaning as provided below. References to any legislation, act, regulation, rules, guidelines, policies, circulars, notifications, directions or clarifications shall be to such legislation, act, regulation, rule, guideline, policy, circular, notification, direction or clarification as amended, updated, supplemented, re-enacted or modified, from time to time, and any reference to a statutory provision shall include any subordinate legislation made, from time to time, under such provision.
+
+The words and expressions used in this Draft Red Herring Prospectus but not defined herein shall have, to the extent applicable, the same meaning ascribed to such terms in the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, the Companies Act 2013, the Securities Contracts (Regulation) Act, 1956, the Depositories Act and the rules and regulations made thereunder, as amended. Further, the Issue related terms used but not defined in this Draft Red Herring Prospectus shall have the meaning ascribed to such terms under the General Information Document. In case of any inconsistency between the definitions given below and the definitions contained in the General Information Document (as defined below), the definitions given below shall prevail.
+
+Notwithstanding the foregoing, the terms used in "Industry Overview", "Key Industry Regulations and Policies", "Statement of Special Tax Benefits", "Financial Information of the Company", "Basis of Issue Price", "Outstanding Litigation and Material Developments", "Issue Procedure" and "Main Provisions of the Articles of Association" on page 105, 125, 102, 166, 96, 224, 263 and 295 respectively, shall have the meaning ascribed to such terms in the relevant Sections/Chapters.
+
+In this Draft Red Herring Prospectus, unless the context otherwise requires, the terms and abbreviations stated hereunder shall have the meanings as assigned therewith.
+
+### General Terms:
+
+<table><thead><tr><td>Terms</td><td>Description</td></tr></thead><tbody><tr><td>"Dhara", "the Company", "our Company", "Issuer", "DRPL" and "Dhara Rail Projects Limited" "we", "us" and "our".</td><td>Dhara Rail Projects Limited, a Company incorporated in India under the Companies Act, 1956 and having its Registered office situated at Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai-400004, Maharashtra, India.</td></tr><tr><td>"you", "your" or "yours"</td><td>Prospective investors in this Issue.</td></tr></tbody></table>
+
+### Company related and Conventional terms:
+
+<table><thead><tr><td>Term</td><td>Description</td></tr></thead><tbody><tr><td>AOA/ Articles/ Articles of Association</td><td>Articles of Association of our Company, as amended from time to time.</td></tr><tr><td>Audit Committee</td><td>The Audit Committee of our Board, constituted in accordance with the applicable provisions of the Companies Act, 2013 and the SEBI Listing Regulations and as described in the chapter titled "Our Management" beginning on page 143 of this Draft Red Herring Prospectus.</td></tr><tr><td>Auditors/ Statutory Auditors</td><td>The Statutory Auditor of our Company, currently being M/s. Mundra & Co., Chartered Accountants, Jaipur (FRN:013023C) holding a valid Peer Review Certificate bearing number 020688 as mentioned in the Chapter titled "General Information" on page 61 of this Draft Red Herring Prospectus.</td></tr><tr><td>Banker to our Company</td><td>Canara Bank</td></tr><tr><td>Board of Directors/ the Board/ our Board</td><td>The Board of Directors of our Company, including all duly constituted Committees thereof. For further details of our Directors, please refer to section titled "Our Management" beginning on page 143 of this Draft Red Herring Prospectus.</td></tr><tr><td>Chief Financial Officer/ CFO</td><td>The Chief Financial Officer of our Company being Shivaraja Annappa Devadiga</td></tr></tbody></table>

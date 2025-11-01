@@ -1,0 +1,23 @@
+Development costs pertain to the laboratory and on-road tests conducted by ICAT. Each vehicle must undergo comprehensive evaluations to verify compliance with safety, emission, and performance standards as mandated by regulatory authorities.
+
+## Approval Costs
+
+These include all charges related to obtaining certification, such as application processing, layout approvals, clearance tests, on-road evaluations, and final certification— all administered through ICAT.
+
+Further, the company has entered into a Memorandum of Understanding (MoU) with a leading automotive manufacturer (name withheld due to confidentiality obligations under the DRHP) for zero-mile CNG kit fitment. Additionally, the company has finalized a supply arrangement with the awardee of the West Bengal Road Transport Corporation tender, positioning it as the exclusive supplier of CNG kits under that initiative.
+
+We propose to utilize ₹ 1,298.58 lakhs out of the Net Proceeds towards purchase of Vehicles, Modification, Development & Approval Cost i.e., buses and trucks, as well as for two-wheelers. The detail of fund to be utilized for the purchase of Vehicles, Modification, Development & Approval Cost out of the Issue proceeds is set forth below:
+
+<table><thead><tr><th>Particulars</th><th>Heavy Vehicles<br>vertical</th><th>2 Wheeler<br>Vertical</th><th>Existing 4<br>wheeler<br>vertical</th><th>Total</th></tr></thead><tbody><tr><td>Average Vehicle cost</td><td>99,05,000.00</td><td>1,84,000.00</td><td>1,98,00,000.00</td><td>2,98,89,000.00</td></tr><tr><td>Modification Cost</td><td>72,42,950.00</td><td>31,700.00</td><td>45,27,200.00</td><td>1,18,01,850.00</td></tr><tr><td>Development & Certification</td><td>3,60,92,930.40</td><td>3,00,000.00</td><td>1,26,65,862.00</td><td>4,90,58,792.40</td></tr><tr><td>Type Approval</td><td>92,93,875.20</td><td>20,00,000.00</td><td>2,78,00,975.00</td><td>3,90,94,850.20</td></tr><tr><td><strong>Total cost</strong></td><td><strong>6,25,34,755.60</strong></td><td><strong>25,15,700.00</strong></td><td><strong>6,47,94,037.00</strong></td><td><strong>12,98,44,492.60</strong></td></tr></tbody></table>
+
+## Detailed Cost Estimate:
+
+Details Of vertical wise Vehicles, Modification, Type Approval & Development Cost are as follows:
+
+### 1. Average Vehicle cost
+
+#### A. Heavy Vehicle
+
+The funding requirements and deployment of proceeds for Acquisition of Second hand Heavy vehicle based on a quotation from Big Wheel Deal dated August 7, 2025. Further, the funding requirements are based on current market conditions and are subject to revisions in light of changes in external circumstances or costs, or our financial condition, business or strategy
+
+<table><thead><tr><th>Sr.no</th><th>Model</th><th>Approximate Cost</th><th>Age of the<br>Vehicle</th><th>Remaining<br>Useful life</th></tr></thead><tbody><tr><td>1</td><td>Eicher Bus - 11.12</td><td>7,95,000.00</td><td>142 Months</td><td>17 Months</td></tr><tr><td>2</td><td>Tata Bus LPO 1212</td><td>7,15,000.00</td><td>142 Months</td><td>17 Months</td></tr><tr><td>3</td><td>Eicher Truck 10.59</td><td>6,30,000.00</td><td>142 Months</td><td>17 Months</td></tr><tr><td>4</td><td>Tata Truck 1412</td><td>11,25,000.00</td><td>142 Months</td><td>17 Months</td></tr></tbody></table>

@@ -1,0 +1,27 @@
+3. To make applications, seek clarifications, obtain approvals and seek exemptions from, where necessary, SEBI, the ROC and any other governmental or statutory authorities as may be required in connection with the Issue and accept on behalf of the Company such conditions and modifications as may be prescribed or imposed by any of them while granting such approvals, permissions and sanctions as may be required and wherever necessary, incorporate such modifications /alterations / amendments/corrections as may be required in the draft red herring prospectus (the "DRHP"), the red herring prospectus (the "RHP") and the Prospectus (Collectively known as Offer Documents) as applicable;
+
+4. To finalize, settle, approve, adopt, deliver and file in consultation with the BRLM where applicable, the DRHP, the RHP and any amendments (including dating of such documents), addendums, supplements, notices, addenda or corrigenda thereto and take all such actions as may be necessary for the submission and filing of these documents including incorporating such alterations/corrections/ modifications as may be required by SEBI, the ROC or any other relevant governmental and statutory authorities or in accordance with Applicable Laws;
+
+5. To appoint and enter into, amend and/or terminate arrangements with the BRLM and appoint and enter into and terminate arrangements in consultation with the BRLM with various intermediaries/agencies in connection with the Issue including with underwriters to the Issue, syndicate members to the Issue, brokers to the Issue, escrow collection bankers to the Issue, refund bankers to the Issue, registrars, public offer account bankers to the Issue, sponsor bank, legal advisors, auditors, independent chartered accountants, advertising agency, registrar to the Issue, depositories, custodians, grading agency, monitoring agency, industry expert, credit rating agencies, printers and any other agencies or persons or intermediaries whose appointment is required in relation to the Issue including any successors or replacements thereof and to negotiate, finalise and amend the terms of their appointment, including but not limited to the execution of the mandate letter with the BRLM and negotiation, finalization, execution and, if required, amendment or termination of the Issue agreement with the BRLM;
+
+6. To decide the total number of Equity Shares to be reserved for allocation to eligible categories of investors, if any,
+
+7. To negotiate, finalise and settle and to execute and deliver or arrange the delivery of the DRHP, the RHP, Issue agreement, syndicate agreement, underwriting agreement, share escrow agreement, cash escrow and sponsor bank agreement, ad agency agreement, agreements with the registrar to the issue and all other documents, deeds, agreements and instruments whatsoever with the registrar to the Issue, legal advisors, auditors, stock exchange(s), BRLM and any other agencies/intermediaries in connection with the Issue with the power authorize one or more officers of the Company to execute all or any of the aforesaid documents or any amendments thereto as may be required or desirable in relation to the Issue;
+
+8. To authorise the maintenance of a register of holders of the Equity Shares;
+
+9. To seek, if required, the consent and/or waiver of the lenders of the Company, customers, suppliers, parties with whom the Company has entered into various commercial and other agreements, all concerned government and regulatory authorities in India or outside India and any other consents and/or waivers that may be required in relation to the Issue or any actions connected therewith;
+
+10. To open and operate bank accounts in terms of the escrow agreement and to authorize one or more officers of the Company to execute all documents/deeds as may be necessary in this regard;
+
+11. To open and operate bank accounts of the Company in terms of Section 40(3) of the Companies Act, 2013, as amended and to authorize one or more officers of the Company to execute all documents/deeds as may be necessary in this regard;
+
+12. To authorize and approve incurring of expenditure and payment of fees, commissions, brokerage, remuneration and reimbursement of expenses in connection with the Issue;
+
+13. To accept and appropriate the proceeds of the Issue in accordance with the Applicable Laws;
+
+14. To approve code of conduct as may be considered necessary or as required under Applicable Laws, regulations or guidelines for the Board, officers of the Company and other employees of the Company;
+
+15. To implement any corporate governance requirements that may be considered necessary by the Board or the any other committee or as may be required under the Applicable Laws, including the SEBI Listing Regulations and listing agreements to be entered into by the Company with the relevant stock exchanges, to the extent allowed under law;
+
+16. To issue receipts/allotment letters/confirmation of allotment notes either in physical or electronic mode representing the underlying Equity Shares in the capital of the Company with such features and attributes as may be required and to provide for the tradability and free transferability thereof as per market practices and regulations, including listing on one or more

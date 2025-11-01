@@ -1,0 +1,29 @@
+All Bidders, except Anchor Investors, are mandatorily required to use the ASBA process for participating in the Issue. In accordance with the SEBI ICDR Regulations, none of the bidders are not allowed to withdraw or lower the size of their Bids (in terms of the quantity of the Equity Shares or the Bid Amount) at any stage. Further, Anchor Investors cannot withdraw their Bids after the Anchor Investor Bid / Issue Period. Allocation to the Anchor Investors will be on a discretionary basis.
+
+a) One-third of the portion available to Non-Institutional Bidders shall be reserved for Bidders with application size of not more than ₹ 10 lakhs;
+
+b) Two-thirds of the portion available to Non-Institutional Bidders shall be reserved for Bidders with application size of more than ₹ 10 lakhs.
+
+Provided that the unsubscribed portion in either of the sub-categories specified under clauses (a) or (b), may be allocated to Bidders in the other sub-category of Non-Institutional Bidders.
+
+Allotment to Individual Bidders shall not be less than the minimum application value, subject to availability of Equity Shares in Individual Investor Portion, and the remaining available Equity Shares, if any, shall be allotted on a proportionate basis. Under – subscription (except in the QIB Category), if any, in any category, would be allowed to be met with spill – over from any other category or a combination of categories at the discretion of our Company in consultation with the Book Running Lead Manager and the Stock Exchange.
+
+Each Bidder by submitting a Bid in the Issue, will be deemed to have acknowledged the above restrictions and the terms of the Issue. Bidders should note that the Issue is also subject to obtaining the final listing and trading approvals of the Stock Exchanges, which our Company shall apply for after Allotment; and filing of the Prospectus with the RoC.
+
+The process of Book Building under the SEBI ICDR Regulations is subject to change from time to time and the investors are advised to make their own judgment about investment through this process prior to making a Bid or application in the Issue. For further details on the method and procedure for Bidding, please see section entitled "Issue Procedure" on page 263 of this Draft Red Herring Prospectus.
+
+In terms of SEBI Circular No. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015 and the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, all the investors (except Anchor Investors) applying in a public issue shall use only Application Supported by Blocked Amount (ASBA) process for application providing details of the bank account which will be blocked by the Self Certified Syndicate Banks (SCSBs) for the same. Further, pursuant to SEBI Circular No. SEBI/HO/CFD/DIL2/CIR/P/2018/138 dated November 01, 2018, Individual Investors applying in public issue may use either Application Supported by Blocked Amount (ASBA) facility for making application or also can use UPI as a payment mechanism with Application Supported by Blocked Amount for making application. For details in this regards, specific attention are invited to the chapter titled "Issue Procedure" beginning on page 263 of the Draft Red Herring Prospectus.
+
+**Illustration of the Book Building and Price Discovery Process:**
+
+For an illustration of the Book Building Process and the price discovery process, please refer to the chapter titled "Issue Procedure" on page 263 of this Draft Red Herring Prospectus.
+
+**Steps to be taken by the Bidders for Bidding:**
+
+* Check eligibility for making a Bid (see section titled "Issue Procedure" on page 263);
+
+* Ensure that you have a demat account and the demat account details are correctly mentioned in the Bid cum Application Form;
+
+* Ensure correctness of your PAN, DP ID and Client ID mentioned in the Bid cum Application Form. Based on these parameters, the Registrar to the Issue will obtain the Demographic Details of the Bidders from the Depositories.
+
+* Except for Bids on behalf of the Central or State Government officials, residents of Sikkim and the officials appointed by the courts, who may be exempt from specifying their PAN for transacting in the securities market, for Bids of all values ensure that you have mentioned your PAN allotted under the Income Tax Act in the Bid cum Application Form. The exemption for Central or State Governments and officials appointed by the courts and for investors residing in Sikkim is subject to the Depositary Participant's verification of the veracity of such claims of the investors by collecting sufficient documentary evidence in support of their claims.

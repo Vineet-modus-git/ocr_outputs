@@ -1,0 +1,21 @@
+<table><tbody><tr><td>(ii) Disputed Trade Receivables</td><td></td><td></td><td></td></tr><tr><td>- Considered Good</td><td></td><td></td><td></td></tr><tr><td>a) Less than 6 months</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b) 6 months - 1 year</td><td>-</td><td>51.21</td><td>-</td></tr><tr><td>c) 1 - 2 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d) 2 - 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>e) More than 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>51.21</td><td>-</td></tr><tr><td>- Consider Doubtful</td><td></td><td></td><td></td></tr><tr><td>a) Less than 6 months</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b) 6 months - 1 year</td><td>-</td><td>-</td><td>-</td></tr><tr><td>c) 1 - 2 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d) 2 - 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>e) More than 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+Note: The Company has no unbilled revenue and there are no undue receivable from any party.
+
+## 17 Restated Statement of Cash and cash equivalents
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td><strong>Cash and cash equivalents</strong></td><td></td><td></td><td></td></tr><tr><td>a) Cash on Hand</td><td>3.58</td><td>3.97</td><td>-</td></tr><tr><td>b) Balance with banks</td><td></td><td></td><td></td></tr><tr><td>-In current accounts</td><td>9.15</td><td>9.01</td><td>1.05</td></tr><tr><td><strong>Other Bank Balances</strong></td><td></td><td></td><td></td></tr><tr><td>Fixed deposit with banks (held as margin money)*</td><td>650.00</td><td>450.00</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>662.73</strong></td><td><strong>462.98</strong></td><td><strong>1.05</strong></td></tr></tbody></table>
+
+*Fixed Deposits amounting to Rs.650 Lakhs for the period 31.03.2025 and Rs.450 Lakhs for the period 31.03.2024 with banks is held as margin money or security against borrowings and other commitments.
+
+## 18 Restated Statement of Short-Term Loans and Advances
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td><strong>Unsecured, considered good</strong></td><td></td><td></td><td></td></tr><tr><td>a) Advances to suppliers</td><td>1.78</td><td>4.16</td><td>-</td></tr><tr><td>b) Advances to employees</td><td>3.89</td><td>9.86</td><td>-</td></tr><tr><td>c) Loan and Advances to related party</td><td>-</td><td>227.94</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>5.67</strong></td><td><strong>241.95</strong></td><td><strong>-</strong></td></tr></tbody></table>
+
+Note: Loans and advances given to employees are in nature of advances against salaries and not in nature of loans, therefore are not interest bearing.
+
+## 19 Other Current Assets
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>a) Balances with statutory authorities</td><td></td><td></td><td></td></tr><tr><td>(i) Balance With Goods and Services Tax etc.</td><td>451.27</td><td>397.45</td><td>0.46</td></tr><tr><td>(ii) Balance With Income Tax Authority</td><td>2.30</td><td>-</td><td>-</td></tr><tr><td>b) Accrued Interest</td><td>38.02</td><td>4.73</td><td>-</td></tr><tr><td>c) Prepaid Expenses</td><td>1.80</td><td>3.36</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>493.39</strong></td><td><strong>405.54</strong></td><td><strong>0.46</strong></td></tr></tbody></table>
+
+F - 26

@@ -1,0 +1,23 @@
+*Global growth* is projected at 3.0 percent in 2025 and 3.1 percent in 2026, below the pre pandemic average of 3.7 percent recorded during 2000 to 2019. While the near-term outlook has been revised slightly upward from April 2025, the global growth profile remains fragile and uneven across regions.
+
+Among advanced economies, the *United States* is expected to expand by 1.9 percent in 2025 and 2.0 percent in 2026, reflecting lower effective tariff rates, improved financial conditions, and fiscal support from recent policy measures. Growth is expected to converge toward potential as private demand normalises.
+
+In the *euro area*, growth is projected at 1.0 percent in 2025 and 1.2 percent in 2026, supported by investment and net exports but restrained by weak household consumption and policy uncertainty.
+
+*Other advanced economies* are forecast to grow at 1.6 percent in 2025 and 2.1 percent in 2026, with outcomes shaped by currency movements and trade policy changes. *Japan* is expected to grow at 0.7 percent in 2025 before moderating to 0.5 percent in 2026, reflecting soft domestic demand.
+
+*Emerging market and developing economies* are projected to grow by 4.1 percent in 2025 and 4.0 percent in 2026. Within Asia, *China's* growth outlook has been revised upward to 4.8 percent in 2025 and 4.2 percent in 2026, supported by stronger than expected activity in the first half of 2025, fiscal measures, and reduced tariff pressures, partly offset by continued property sector weakness.
+
+*India* remains one of the fastest growing large economies, with growth expected at 6.4 percent in both 2025 and 2026, reflecting resilient domestic demand and a supportive external environment.
+
+In the *Middle East and Central Asia*, growth is forecast at 3.4 percent in 2025 and 3.5 percent in 2026, with a stronger outlook for *Saudi Arabia* where growth is projected at 3.6 percent and 3.9 percent respectively on account of policy support and recovery in oil output.
+
+*Sub Saharan Africa* is expected to grow at 4.0 percent in 2025 and 4.3 percent in 2026, supported by investment and rising consumption.
+
+In *Latin America and the Caribbean*, growth is projected at 2.2 percent in 2025 and 2.4 percent in 2026, reflecting steady but modest expansion in the region's largest economies.
+
+*Emerging and developing Europe* is expected to expand at 1.8 percent in 2025 and 2.2 percent in 2026, weighed down by weak momentum and lingering geopolitical uncertainties.
+
+*Overview of the World Economic Outlook Projections (Percentage change, unless noted otherwise)*
+
+<table><thead><tr><th rowspan="2"></th><th rowspan="2">2023</th><th rowspan="2">2024</th><th colspan="2">Projections</th></tr><tr><th>2025</th><th>2026</th></tr></thead><tbody><tr><td><strong>World Output</strong></td><td><strong>3.5</strong></td><td><strong>3.3</strong></td><td><strong>3.0</strong></td><td><strong>3.1</strong></td></tr><tr><td><strong>Advanced Economies</strong></td><td><strong>1.8</strong></td><td><strong>1.8</strong></td><td><strong>1.5</strong></td><td><strong>1.6</strong></td></tr><tr><td>United States</td><td>2.9</td><td>2.8</td><td>1.9</td><td>2.0</td></tr><tr><td>Euro Area</td><td>0.5</td><td>0.9</td><td>1.0</td><td>1.2</td></tr><tr><td>Germany</td><td>-0.3</td><td>-0.2</td><td>0.1</td><td>0.9</td></tr><tr><td>France</td><td>1.6</td><td>1.1</td><td>0.6</td><td>1.0</td></tr><tr><td>Italy</td><td>0.7</td><td>0.7</td><td>0.5</td><td>0.8</td></tr><tr><td>Spain</td><td>2.7</td><td>3.2</td><td>2.5</td><td>1.8</td></tr><tr><td>Japan</td><td>1.4</td><td>0.2</td><td>0.7</td><td>0.5</td></tr><tr><td>United Kingdom</td><td>0.4</td><td>1.1</td><td>1.2</td><td>1.4</td></tr><tr><td>Canada</td><td>1.5</td><td>1.6</td><td>1.6</td><td>1.9</td></tr><tr><td>Other Advanced Economies 1</td><td>1.9</td><td>2.2</td><td>2.1</td><td>2.1</td></tr><tr><td><strong>Emerging Market and Developing Economies</strong></td><td><strong>4.7</strong></td><td><strong>4.3</strong></td><td><strong>4.1</strong></td><td><strong>4.0</strong></td></tr><tr><td>Emerging and Developing Asia</td><td>6.1</td><td>5.3</td><td>5.1</td><td>4.7</td></tr><tr><td>China</td><td>5.4</td><td>5.0</td><td>4.8</td><td>4.2</td></tr><tr><td>India 2/</td><td>9.2</td><td>6.5</td><td>6.4</td><td>6.4</td></tr><tr><td>Emerging and Developing Europe</td><td>3.6</td><td>3.5</td><td>1.8</td><td>2.2</td></tr><tr><td>Russia</td><td>4.1</td><td>4.3</td><td>0.9</td><td>1.0</td></tr><tr><td>Latin America and the Caribbean</td><td>2.4</td><td>2.4</td><td>2.2</td><td>2.4</td></tr></tbody></table>

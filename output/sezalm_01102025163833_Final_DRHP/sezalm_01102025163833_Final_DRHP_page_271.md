@@ -1,0 +1,19 @@
+Our Company is in compliance with the provisions specified in Part A of Schedule VI of the SEBI (ICDR) Regulations, 2018. No exemption from eligibility norms has been sought under Regulation 300 of the SEBI (ICDR) Regulations, 2018, with respect to the Issue.
+
+## SEBI DISCLAIMER CLAUSE
+
+IT IS TO BE DISTINCTLY UNDERSTOOD THAT SUBMISSION OF THE ISSUE DOCUMENT TO THE SECURITIES AND EXCHANGE BOARD OF INDIA (SEBI) SHOULD NOT IN ANY WAY BE DEEMED OR CONSTRUED THAT THE SAME HAS BEEN CLEARED OR APPROVED BY SEBI. SEBI DOES NOT TAKE ANY RESPONSIBILITY EITHER FOR THE FINANCIAL SOUNDNESS OF ANY SCHEME OR THE PROJECT FOR WHICH THE ISSUE IS PROPOSED TO BE MADE OR FOR THE CORRECTNESS OF THE STATEMENTS MADE OR OPINIONS EXPRESSED IN THE ISSUE DOCUMENT. THE BOOK RUNNING LEAD MANAGER, ARIHANT CAPITAL LIMITED HAS CERTIFIED THAT THE DISCLOSURES MADE IN THE ISSUE DOCUMENT ARE GENERALLY ADEQUATE AND ARE IN CONFORMITY WITH THE REGULATIONS. THIS REQUIREMENT IS TO FACILITATE INVESTORS TO TAKE AN INFORMED DECISION FOR MAKING INVESTMENT IN THE PROPOSED ISSUE.
+
+IT SHOULD ALSO BE CLEARLY UNDERSTOOD THAT WHILE THE ISSUER IS PRIMARILY RESPONSIBLE FOR THE CORRECTNESS, ADEQUACY AND DISCLOSURE OF ALL RELEVANT INFORMATION IN THIS ISSUE DOCUMENT, THE BOOK RUNNING LEAD MANAGER IS EXPECTED TO EXERCISE DUE DILIGENCE TO ENSURE THAT THE ISSUER DISCHARGES ITS RESPONSIBILITY ADEQUATELY IN THIS BEHALF AND TOWARDS THIS PURPOSE, THE BOOK RUNNING LEAD MANAGER, ARIHANT CAPITAL MARKETS LIMITED HAS FURNISHED TO SEBI A DUE DILIGENCE CERTIFICATE DATED [●] IN THE FORMAT PRESCRIBED UNDER SCHEDULE V(A) OF THE SECURITIES AND EXCHANGE BOARD OF INDIA (ISSUE OF CAPITAL AND DISCLOUSER REQUIREMENTS) REGULATIONS, 2018.
+
+THE FILING OF THE ISSUE DOCUMENT DOES NOT, HOWEVER, ABSOLVE OUR COMPANY FROM ANY LIABILITIES UNDER OF THE COMPANIES ACT, 2013 OR FROM THE REQUIREMENT OF OBTAINING SUCH STATUTORY OR OTHER CLEARANCES AS MAY BE REQUIRED FOR THE PURPOSE OF THE PROPOSED ISSUE. SEBI FURTHER RESERVES THE RIGHT TO TAKE UP AT ANY POINT OF TIME, WITH THE BOOK RUNNING LEAD MANAGER, ANY IRREGULARITIES OR LAPSES IN THIS ISSUE DOCUMENT.
+
+ALL LEGAL REQUIREMENTS PERTAINING TO THIS ISSUE WILL BE COMPLIED WITH AT THE TIME OF FILING OF THE PROSPECTUS WITH THE REGISTRAR OF COMPANIES, CENTRAL PROCESSING CENTRE, IN TERMS OF SECTION 26 OF THE COMPANIES ACT, 2013.
+
+Our Company, our Directors and the BRLM accept no responsibility for statements made otherwise than in this Draft Red Herring Prospectus or in the advertisements or any other material issued by or at our instance and anyone placing reliance on any other source of information, including our Company's website www.ecofuel.in would be doing so at his or her own risk.
+
+The BRLM accept no responsibility, save to the limited extent as provided in the Issue Agreement and the Underwriting Agreement entered into between the Underwriters and our Company. All information shall be made available by our Company and the BRLM to the investors and the public at large and no selective or additional information would be made available for a section of the investors in any manner whatsoever.
+
+## CAUTION
+
+Investors who apply in the Issue will be required to confirm and will be deemed to have represented to our Company and the Underwriters and their respective directors, officers, agents, affiliates and representatives that they are eligible under all applicable laws, rules, regulations, guidelines and approvals to acquire Equity Shares of our Company and will not Issue, sell, pledge or transfer the Equity Shares of our Company to any person who is not eligible under applicable laws, rules, regulations, guidelines and approvals to acquire Equity Shares of our Company. Our Company, the Underwriters and their respective directors, officers, agents, affiliates and representatives accept no responsibility or liability for advising any investor on whether such investor is eligible to acquire the Equity Shares in the Issue.

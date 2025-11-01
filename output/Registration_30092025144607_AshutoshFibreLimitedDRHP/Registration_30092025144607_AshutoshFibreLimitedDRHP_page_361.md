@@ -1,0 +1,27 @@
+be subject to conditions of Government approval and compliance of sectoral conditions as per FDI Policy. The total foreign investment, direct and indirect, in the issuing entity will not exceed the sectoral/statutory cap.
+
+## Investment by FPIs under Portfolio Investment Scheme (PIS)
+
+With regards to purchase/sale of capital instruments of an Indian company by an FPI under PIS the total holding by each FPI or an investor group as referred in SEBI (FPI) Regulations, 2014 shall not exceed 10% of the total paid-up equity capital on a fully diluted basis or less than 10% of the paid-up value of each series of debentures or preference shares or share warrants issued by an Indian company and the total holdings of all FPIs put together shall not exceed 24% of paid-up equity capital on fully diluted basis or paid-up value of each series of debentures or preference shares or share warrants. The said limit of 10% and 24% will be called the individual and aggregate limit, respectively. However, this limit of 24% may be increased up to sectoral cap/statutory ceiling, as applicable, by the Indian company concerned by passing a resolution by its Board of Directors followed by passing of a special resolution to that effect by its general body.
+
+### Investment by NRI or OCI on repatriation basis:
+
+The purchase/sale of equity shares, debentures, preference shares and share warrants issued by an Indian company (hereinafter referred to as "Capital Instruments") of a listed Indian company on a recognised stock exchange in India by Non-Resident Indian (NRI) or Overseas Citizen of India (OCI) on repatriation basis is allowed subject to certain conditions under Foreign Exchange Management (Non-debt Instruments) Rules, 2019.
+
+The total holding by any individual NRI or OCI shall not exceed 5% of the total paid-up equity capital on a fully diluted basis or should not exceed 5% of the paid-up value of each series of debentures or preference shares or share warrants issued by an Indian company and the total holdings of all NRIs and OCIs put together shall not exceed 10% of the total paid-up equity capital on a fully diluted basis or shall not exceed 10% of the paid-up value of each series of debentures or preference shares or share warrants; provided that the aggregate ceiling of 10% may be raised to 24% if a special resolution to that effect is passed by the general body of the Indian company.
+
+### Investment by NRI or OCI on non-repatriation basis
+
+As per current FDI Policy 2020, Foreign Exchange Management (Non-debt Instruments) Rules, 2019, Purchase/ sale of Capital Instruments or convertible notes or units or contribution to the capital of an LLP by a NRI or OCI on non-repatriation basis – will be deemed to be domestic investment at par with the investment made by residents. This is further subject to remittance channel restrictions.
+
+The Equity Shares have not been and will not be registered under the U.S. Securities Act of 1933, as amended ("US Securities Act") or any other state securities laws in the United States of America and may not be sold or offered within the United States of America, or to, or for the account or benefit of "US Persons" as defined in Regulation S of the U.S. Securities Act, except pursuant to exemption from, or in a transaction not subject to, the registration requirements of US Securities Act and applicable state securities laws.
+
+Accordingly, the equity shares are being issued and sold only outside the United States of America in an offshore transaction in reliance upon Regulation S under the US Securities Act and the applicable laws of the jurisdiction where those offers and sale occur.
+
+Further, no issue to the public (as defined under Directive 20003/71/EC, together with any amendments) and implementing measures thereto, (the "Draft Red Herring Prospectus Directive") has been or will be made in respect of the issue in any member State of the European Economic Area which has implemented the Draft Red Herring Prospectus Directive except for any such issue made under exemptions available under the Draft Red Herring Prospectus Directive, provided that no such Issue shall result in a requirement to publish or supplement a Draft Red Herring Prospectus pursuant to the Draft Red Herring Prospectus Directive, in respect of the Issue.
+
+Any forwarding, distribution or reproduction of this document in whole or in part may be unauthorised. Failure to comply with this directive may result in a violation of the Securities Act or the applicable laws of other jurisdictions. Any investment decision should be made on the basis of the final terms and conditions and the information contained in this Draft Red Herring Prospectus.
+
+The Equity Shares have not been and will not be registered, listed or otherwise qualified in any other jurisdiction outside India and may not be offered or sold and Application may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction.
+
+The above information is given for the benefit of the Applicants. Our Company and the Book Running Lead Manager are not liable for any amendments or modification or changes in applicable laws or regulations, which may occur after the date of this Draft Red Herring Prospectus. Applicants are advised to make their independent investigations and ensure that the Applications

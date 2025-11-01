@@ -1,0 +1,29 @@
+ANNEXURE – AG
+
+Other Notes & Additional Disclosures-
+
+1. Title deeds of all immovable properties owned by the Company, if any are held in the name of the Company.
+
+2. The Company has borrowed from Banks and Financial Institutions on the basis of securities of Current Assets as primary security.
+
+3. Breakup of Amount Paid to Auditors is as under-
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><td>Particulars</td><td>31-03-25</td><td>31-03-24</td><td>31-03-23</td></tr></thead><tbody><tr><td>Statutory Audit & Tax Audit Fees</td><td>2.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Other Consultancy Services</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Reimbursement of Expenses</td><td>0.00</td><td>0.00</td><td>0.04</td></tr></tbody></table>
+
+4. The Company does not have any Benami property, where any proceeding has been initiated or pending against the Company for holding any Benami property.
+
+5. The Company did not have any material transactions with companies struck-off under section 248 of the Companies Act, 2013 or section 560 of the Companies Act, 1956 during the period ended on March 31, 2025.
+
+6. The Company has not traded or invested in Crypto Currency or Virtual Currency.
+
+7. During the period of restatement, the Company has no such transactions which is not recorded in the books of accounts that has been surrendered or disclosed as income during the year in tax assessments under Income Tax Act, 1961.
+
+8. Disclosures related to Micro, Small and Medium Enterprises.
+
+Management is in the process of compiling information from its suppliers regarding their status under the MSME act, who qualify under the definition of micro and small enterprises, as defined under the Micro, Small and Medium Enterprises Development Act 2006 and hence disclosure, if any, of the amount unpaid as at the year-end together with the interest paid/payable as required has been given to the extent information available;
+
+The details relating to Micro, Small and medium enterprise disclosed as under to the extent of information available:
+
+<table><thead><tr><td>Sr. No.</td><td>Particulars</td><td>31-03-25</td><td>31-03-24</td><td>31-03-23</td></tr></thead><tbody><tr><td>1</td><td>The principal amount and the interest due thereon remaining unpaid to any supplier at the end of each accounting year</td><td>489.29</td><td>698.81</td><td>338.31</td></tr><tr><td>2</td><td>The amount of interest paid by the buyer in terms of section 16 of the Micro, Small and Medium Enterprises Development Act, 2006 (27 of 2006), along with the amount of the payment made to the supplier beyond the appointed day during each accounting year;</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>The amount of interest due and payable for the period of delay in making payment (which has been paid but beyond the appointed day during the year) but without adding the interest specified under the Micro, Small and Medium Enterprises Development Act, 2006;</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>The amount of interest accrued and remaining unpaid at the end of each accounting year; and</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>The amount of further interest remaining due and payable even in the succeeding years, until such date when the interest dues above are actually paid to the small enterprise, for the purpose of disallowance of a deductible expenditure under section 23 of the Micro, Small and Medium Enterprises Development Act, 2006.</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>

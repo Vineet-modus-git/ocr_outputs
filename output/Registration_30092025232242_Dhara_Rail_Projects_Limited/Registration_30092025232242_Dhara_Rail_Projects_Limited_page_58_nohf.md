@@ -1,0 +1,3 @@
+Bids. For further details, please refer section titled "**Issue Procedure**" beginning on page 263 of this Draft Red Herring Prospectus.
+
+For details, including grounds for rejection of Bids, refer to "**Issue Structure**" and "**Issue Procedure**" on page 259 and 263, respectively. For details of the terms of the Issue, see "**Terms of the Issue**" on page 251 of this Draft Red Herring Prospectus.

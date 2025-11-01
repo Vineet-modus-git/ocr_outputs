@@ -1,0 +1,31 @@
+## e. Board of Directors
+
+Following are the Directors of Q-Line Iris Private Limited as on the date of this Draft Red Herring Prospectus:
+
+<table><thead><tr><td>Name of Director</td><td>DIN</td><td>Designation</td></tr></thead><tbody><tr><td>Saurabh Garg</td><td>02891621</td><td>Director</td></tr><tr><td>Amita Garg</td><td>02891610</td><td>Director</td></tr><tr><td>Kavitha Chalasani</td><td>03142838</td><td>Director</td></tr><tr><td>Chalasani Lalitha Kumari</td><td>05226456</td><td>Director</td></tr></tbody></table>
+
+## f. Financial Performance
+
+The brief financial details of Q-Line Iris Private Limited derived from its audited financial statements for Fiscal 2024-25 and 2023-24 is set forth below:
+
+(Rs. in lakhs, except per share data)
+
+<table><thead><tr><td>Audited Financial Information</td><td>For the year ended March 31, 2025</td><td>For the year ended March 31, 2024</td></tr></thead><tbody><tr><td>Equity Share Capital (₹)</td><td>1.00</td><td>1.00</td></tr><tr><td>Reserves & Surplus</td><td>(2.50)</td><td>(0.33)</td></tr><tr><td>Net worth</td><td>(1.50)</td><td>0.67</td></tr><tr><td>Total Revenue (including other income)</td><td>-</td><td>-</td></tr><tr><td>Profit/(Loss) after tax</td><td>(2.17)</td><td>(0.33)</td></tr><tr><td>Basic and Diluted Earnings per share (face value of ₹ 10 each)</td><td>(21.73)</td><td>(4.60)</td></tr><tr><td>Net asset value per share (₹)</td><td>(15.06)</td><td>6.66</td></tr></tbody></table>
+
+## g. Accumulated profits or losses
+
+As on the date of this Draft Red Herring Prospectus, there are no accumulated profits or losses of Q-Line Iris Private Limited that have not been accounted for or consolidated by our Company.
+
+### Launch of key products or services, entry into new geographies or exit from existing markets, capacity/facility creation and location of plants
+
+For information on key products or services launched by our Company, entry into new geographies or exit from existing markets, capacity/ facility creation, location of our manufacturing facility, please see the section titled "Our Business" on page 123 of this Draft Red Herring Prospectus.
+
+### Shareholders Agreements:
+
+There are no subsisting shareholder's agreements among our shareholders in relation to our Company, to which our Company is a party or otherwise has notice of the same as on the date of the Draft Red Herring Prospectus.
+
+### Details regarding Acquisition of Business/Undertakings, Mergers, Amalgamation, Revaluation of Assets etc.
+
+Except as mentioned below, our Company has not made any material acquisitions or divestments of any business or undertakings, mergers, amalgamation or revaluation of assets in the last 10 years preceding the date of this Draft Red Herring Prospectus.
+
+<table><thead><tr><td>Date of acquisition/ divestment</td><td>Name of Company</td><td>Nature of Transaction</td><td>Amount involved (in Rs. Lakhs)</td><td>Shareholding (in Shares)</td><td>Shareholding post-acquisition/ divestment (%)</td></tr></thead><tbody><tr><td>January 10, 2019</td><td>POCT Science House Private Limited</td><td>Acquisition</td><td>0.50</td><td>5,000</td><td>50.00%</td></tr><tr><td>July 11, 2023</td><td>Q-Line Nutraceuticals Private Limited</td><td>Acquisition</td><td>0.55</td><td>5,500</td><td>55.00%</td></tr><tr><td>July 26, 2023</td><td>IQ-Line Private Limited</td><td>Acquisition</td><td>0.63</td><td>6,340</td><td>63.40%</td></tr><tr><td>December 07, 2023</td><td>Q-Line Iris Private Limited</td><td>Acquisition</td><td>0.50</td><td>5,000</td><td>50.00%</td></tr><tr><td>March 28, 2024</td><td>IQ-Line Private Limited</td><td>Divestment</td><td>0.63</td><td>6,340</td><td>0.00%</td></tr></tbody></table>

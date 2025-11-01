@@ -1,0 +1,33 @@
+Passenger traffic in FY25 is 7.35 crore, 6% higher than the previous year.
+
+In FY25, Indian Railways loaded 1,617.0 MT of freight and Revenue rose by approximately Rs. 1.75 lakh crore (US$ 20.5 billion) compared to 1.70 lakh crore (US$19.8 billion) last year.
+
+Indian Railways is developing and creating technology in areas such as signalling and telecommunication with 15,000 km being converted into automatic signalling and 37,000 km to be fitted with 'KAVACH', the domestically developed Train Collision Avoidance System.
+
+## Investments/ Developments
+
+Following is some of the major investments and developments in India's railways sector:
+
+* A wave of on-demand, shared, and electric-powered urban transportation services will generate Rs. 56,44,320 crore (US$ 660 billion) in revenue globally by 2030.
+
+* Over 21,800 track km (TKM) of Indian Railways are now fit to run semi-high-speed trains of 130 km per hr in India, as per an internal report of the Ministry.
+
+* Around 76% of the excavation work has been completed on the Mumbai bullet train station located at 'Bandra Kurla Complex' (BKC), which is the only underground station on the Mumbai-Ahmedabad High-Speed Rail Corridor. According to the official report, 14.2 lakh cubic metres of the excavation work has been completed. 18.7 lakh cubic metres of earthwork must be excavated from this site.
+
+* In a significant move towards enhancing passenger experience by returning the lost/missing mobile phones, the Railway Protection Force (RPF) has successfully onboarded with the Central Equipment Identity Register (CEIR) portal of the Department of Telecommunication. This initiative follows the success of a pilot program in the Northeast Frontier Railway (NFR).
+
+* Indian Railways has taken a major step towards automation and efficiency in rolling stock maintenance by signing a Memorandum of Understanding (MoU) with the Delhi Metro Rail Corporation (DMRC) for the procurement and installation of Automatic Wheel Profile Measurement Systems (AWPMS).
+
+* India is in the process of developing high-speed train sets capable of reaching a maximum speed of 280 km/h. These trains are being designed and manufactured by the Integral Coach Factory in collaboration with BEML. Each train car is estimated to cost approximately Rs. 28 crore (US$ 3.2 million) and will incorporate advanced features such as aerodynamic designs, sealed gangways, and modern amenities.
+
+* India aims to transform Indian Railways into a net-zero emitter as part of its broader energy goals by 2030, as confirmed by Prime Minister Mr. Narendra Modi.
+
+* The implementation of the PPP model is anticipated to meet the growing demand for mineral and coal transportation, with the development of these corridors—integral to the economic corridor program—projected to attract over Rs. 5.25 lakh crore (US$ 60.43 billion) in investments by 2031.
+
+## Government Initiatives
+
+The Government of India has adopted few initiatives for the Railways sector in the recent past, some of these are as follows:
+
+* Under the Union Budget 2025-26, the government allocated Rs. 3.02 lakh crore (US$ 34.7 billion) compared to Rs. 2.52 lakh crore (US$ 30.3 billion) in 2024-25 to the Ministry of Railways.
+
+* Starting November 1, 2024, Indian Railways has revised its ticket booking rules by reducing the advance reservation period (ARP) from 120 days to 60 days.

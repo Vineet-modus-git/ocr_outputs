@@ -1,0 +1,25 @@
+### Inventories
+
+Our Inventory increased by ₹ 450.11 Lakhs from ₹ 63.61 Lakhs for the financial year ended March 31,2023, to ₹ 513.72 Lakhs for the financial year ended March 31,2024 representing an increase of 707.67%.
+
+### Long-Term Loans and Advances
+
+Our Long-Term Loans and Advances stood at ₹ 46.00 lakhs as on March 31, 2024, as against nil in the previous year ended March 31,2023, representing an increase of ₹ 100%. The increase was primarily on account of increase in capital advance.
+
+### Short-Term Loans and Advances
+
+Our Short-term loans and advances increase by ₹ 29.40 lakhs from ₹ 212.55 Lakhs for the financial year ended March 31,2024 to ₹ 241.95 Lakhs for the financial year ended March 31,2025 representing a decrease of 13.83%, such significant increase is on account of higher Advance to related party.
+
+## DISCUSSION ON RESULTS OF OPERATIONS
+
+### As per the Restated Financial Statements
+
+The following discussion on results of operations should be read in conjunction with the Restated Financial Results of our Company for the financial years ended on March 31, 2025, 2024 and 2023.
+
+### Results of Our Operations
+
+The following table sets forth select financial data from our Financial Statements as Restated Profit and Loss for the financial years ended on March 31, 2025, 2024 and 2023 the components of which are also expressed as a percentage of total revenue for such periods:
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>For the year ended 31.03.25</th><th>% of Total income</th><th>For the year ended 31.03.24</th><th>% of Total income</th><th>For the year ended 31.03.23</th><th>% of Total income</th></tr></thead><tbody><tr><td>Revenue from operations</td><td>7,554.76</td><td>97.55</td><td>3,526.89</td><td>98.98</td><td>-</td><td>-</td></tr><tr><td>Other income</td><td>189.47</td><td>2.45</td><td>36.46</td><td>1.02</td><td>-</td><td>-</td></tr><tr><td><strong>Total Income (A)</strong></td><td><strong>7,744.23</strong></td><td><strong>100.00</strong></td><td><strong>3,563.34</strong></td><td><strong>100.00</strong></td><td><strong>-</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Expenses:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cost of Materials Consumed</td><td>5,967.12</td><td>77.05</td><td>2,611.74</td><td>73.29</td><td>-</td><td>-</td></tr><tr><td>Increase/(Decrease) in inventories of finished goods, work in progress and traded goods</td><td>17.09</td><td>0.22</td><td>(112.68)</td><td>(3.16)</td><td>-</td><td>-</td></tr><tr><td>Employee Benefit Expenses</td><td>231.88</td><td>2.99</td><td>221.25</td><td>6.21</td><td>-</td><td>-</td></tr><tr><td>Other Expenses</td><td>179.38</td><td>2.32</td><td>107.94</td><td>0.03</td><td>2.81</td><td>-</td></tr><tr><td><strong>Total Expenses (B)</strong></td><td><strong>6395.47</strong></td><td><strong>82.58</strong></td><td><strong>2,828.25</strong></td><td><strong>79.37</strong></td><td><strong>2.81</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Earnings Before Interest, Taxes, Depreciation & Amortization</strong></td><td><strong>1348.76</strong></td><td><strong>17.42</strong></td><td><strong>735.10</strong></td><td><strong>20.63</strong></td><td><strong>(2.81)</strong></td><td><strong>-</strong></td></tr><tr><td>Finance Cost</td><td>26.62</td><td>0.34</td><td>15.42</td><td>0.43</td><td>-</td><td>-</td></tr><tr><td>Depreciation and Amortization Expenses</td><td>75.08</td><td>0.97</td><td>52.03</td><td>1.46</td><td>-</td><td>-</td></tr><tr><td><strong>Profit before Exceptional Items</strong></td><td><strong>1,247.06</strong></td><td><strong>16.10</strong></td><td><strong>667.65</strong></td><td><strong>18.74</strong></td><td><strong>(2.81)</strong></td><td><strong>-</strong></td></tr><tr><td>Exceptional Items</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Profit/(Loss) before Tax</strong></td><td><strong>1,247.06</strong></td><td><strong>16.10</strong></td><td><strong>667.65</strong></td><td><strong>18.74</strong></td><td><strong>(2.81)</strong></td><td><strong>-</strong></td></tr><tr><td><strong>Tax Expenses:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current Tax</td><td>302.50</td><td>3.91</td><td>210.50</td><td>5.91</td><td>-</td><td>-</td></tr><tr><td>Prior period tax</td><td>10.94</td><td>0.14</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Deferred Tax</td><td>13.61</td><td>0.18</td><td>(33.48)</td><td>0.94</td><td>-</td><td>-</td></tr><tr><td><strong>Profit/(Loss) After Tax for the year</strong></td><td><strong>920.01</strong></td><td><strong>11.88</strong></td><td><strong>490.63</strong></td><td><strong>13.77</strong></td><td><strong>(2.81)</strong></td><td><strong>-</strong></td></tr></tbody></table>

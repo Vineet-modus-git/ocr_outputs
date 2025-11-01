@@ -1,0 +1,7 @@
+## SIGNIFICANT DEVELOPMENTS SUBSEQUENT TO THE LAST FINANCIAL YEAR
+
+In the opinion of the Board of Directors of our Company, since the date of the last audited period i.e., March 31, 2025 as disclosed in this Draft Red Herring Prospectus, there have not arisen any circumstance that materially or adversely affect or are likely to affect the trading or profitability of our Company or the value of its assets or its ability to pay its material liabilities within the next twelve months except as follow :
+
+1. We established our subsidiary Ecofuel Cylinders Private Limited which was incorporated as a private limited company under the Companies Act, 2013, pursuant to a certificate of incorporation dated November 07, 2024 issued by the Registrar of Companies, Central registration center. Its Corporate Identification Number is U25121GJ2024PTC156216, and its registered office is located at 10, Ashwamegh Inds Estate, Sarkhej Balva Highway, Chan Godar, Ahmedabad, Sanand, Gujarat, India, 382213.
+
+2. The subsidiary company has entered into an Exclusive distributor agreement on 18th of November, 2024 for distribution of Industrial seamless cylinders and CNG Cylinders.

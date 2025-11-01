@@ -1,0 +1,13 @@
+Dhara Rail Projects Limited
+
+<table><tr><td></td><td></td><td></td><td>Corporation, Surat</td><td></td><td></td></tr></table>
+
+E. Business Operations related approvals obtained by our Company:
+
+<table><thead><tr><td>Sr. No.</td><td>Nature of Registration/ License</td><td>Registration/ License No.</td><td>Applicable Laws</td><td>Issuing Authority</td><td>Date of Registration/ Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Registration Certificate of Establishment</td><td>820198489 / D Ward / COMMERCIAL II</td><td>The Maharashtra Shop and Establishments (Regulations of Employment and conditions of Service) Act, 2017</td><td>Inspector under the Maharashtra Shops and Establishments Act, 1948</td><td>December 28, 2021</td><td>Valid till Cancelled</td></tr><tr><td>2.</td><td>Udyam Registration Certificate (Small)</td><td>UDYAM-MH-19-0156610</td><td>Micro, Small and Medium Enterprises Development Act, 2006</td><td>Ministry of Micro, Small and Medium Enterprises</td><td>August 27, 2022</td><td>Valid till Cancelled</td></tr><tr><td>3.</td><td>Certificate of Enrolment for Professional Tax (P.T.E.C.)</td><td>99422501323P</td><td>The Maharashtra State Tax on Professions, Trades, Callings and Employments Act, 1975</td><td>Profession Tax Officer, Mumbai</td><td>June 04, 2017</td><td>Valid till Cancelled</td></tr><tr><td>4.</td><td>Certificate of Registration for Professional Tax (P.T.R.C.)</td><td>27180826580P</td><td>The Maharashtra State Tax on Professions, Trades, Callings and Employments Act, 1975</td><td>Profession Tax Officer, Mumbai</td><td>October 16, 2017</td><td>Valid till Cancelled</td></tr></tbody></table>
+
+F. Quality Certifications
+
+<table><thead><tr><td>Sr. No.</td><td>Nature of Registration/ License</td><td>Registration/ Certificate No.</td><td>Description</td><td>Issuing Authority</td><td>Date of Registration/ Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Certificate of Registration (For the following scope: Providing Services for Supply, Installation, Testing, Commissioning Operations &amp; Annual Maintenance Contract of Power Cars, Coaches, Railway Stocks &amp; Other Electrical/Mechanical Equipment)</td><td>25ZGZQ02525Q</td><td>ISO 9001:2015 (Quality Management System)</td><td>International Quality Certification Services UK Ltd.</td><td>April 09, 2025</td><td>April 08, 2028</td></tr></tbody></table>
+
+233

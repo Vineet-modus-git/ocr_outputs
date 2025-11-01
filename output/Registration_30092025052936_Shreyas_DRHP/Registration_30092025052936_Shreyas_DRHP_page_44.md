@@ -1,0 +1,25 @@
+records of daily transactions. In order to maintain and improve the effectiveness of the Company's disclosure controls and procedures and internal control over financial reporting, significant resources and management attention will be required. As a result, the Board of Directors of the Company may have to provide increased attention to such procedures and their attention may be diverted from our business concerns, which may adversely affect our business, prospects, results of operations and financial condition. In addition, we may need to hire additional legal and accounting staff with appropriate experience and technical accounting knowledge, but we cannot assure you that we will be able to do so in a timely and efficient manner.
+
+**18. Failure to Obtain or Maintain Customer Pre-Qualifications or Loss of Approved Vendor Status May Adversely Affect Our Business Operations.**
+
+Majority of our customers require Fabrication manufacturers to undergo pre-qualification processes. These processes evaluate both the technical ability to provide relevant products with the exact specifications needed by the end-user, and the production capabilities of the supplier. These processes generally take time to complete and involves incurring significant upfront expenses in learning and meeting customer qualification requirements. We continuously strive to retain our prequalification status as approved suppliers, with the existing customers.
+
+Retention of pre-qualified status with existing customers is equally critical, as periodic reviews and renewals are typically required. Failure to obtain pre-qualification approvals from potential new customers may restrict our ability to expand our customer base. Similarly, the loss of pre-qualified status with existing customers could result in reduced order flow, adversely affecting our revenues. Our failure to obtain pre-qualifications from newer customers or loss of our prequalified status from our existing customers could have an adverse impact on our profits, results of operations and cash flows.
+
+**19. Our Promoter's lack of prior experience in the Company's line of business may impact decision-making and growth prospects**
+
+Our Promoter does not possess prior experience in the line of business in which our Company operates. While this may limit their ability to independently assess certain industry-specific challenges, our Promoter has demonstrated managerial and entrepreneurial skills in establishing and growing the Company. Further, our business is supported by a team of qualified and experienced professionals who possess relevant technical and operational expertise.
+
+Accordingly, although our Promoter's lack of prior experience in this specific industry may pose certain risks in terms of sectoral knowledge and decision-making, the same is mitigated by the strength of our management team and advisors. Nevertheless, any inability of our Promoter to effectively oversee and guide the operations of our Company, despite such support, could adversely impact our business prospects, results of operations, and financial performance.
+
+Investors are advised to consider this risk factor carefully before making an investment decision in the Equity Shares of our Company and should rely on their own examination of the Company and the Offer, including the risks involved.
+
+**20. Our business is dependent on customer relationships, reflected in the continuance of commercial transactions, as we have not entered into formal purchase agreements with defined minimum order commitments.**
+
+The nature of our industry is such that, once our capability to manufacture products meeting customer specifications is validated; often after several iterations and significant resource expenditure; customers generally continue their association with the same supplier unless a compelling reason arises to switch. Accordingly, we have had continuing commercial transactions with certain customers over multiple years. Our ability to sustain these relationships is contingent upon adherence to specifications, maintaining satisfactory quality standards, and ensuring timely delivery.
+
+We have not entered into any formal long-term agreements with our customers and generally operate on a purchase order basis. Further, our Company has not appointed any exclusive agents for handling its operations. Any change in the buying pattern of our end users, disassociation of one or more significant customers, or inability to secure repeat orders could adversely affect our business, revenues, cash flows, and operations. While we have not encountered such instances in the past, there can be no assurance that they will not occur in the future.
+
+**21. Failure to Consolidate Financial Statements of Subsidiary**
+
+Shreyas Fabtech Limited is required under applicable accounting standards to consolidate the financial statements of Shreyas Fabtech INC, a wholly-owned subsidiary incorporated in the United States in February 2024. However, the company has not consolidated the financials of this subsidiary in its consolidated financial statements for the relevant reporting period.

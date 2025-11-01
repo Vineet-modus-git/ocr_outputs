@@ -1,0 +1,25 @@
+EXAMINATION REPORT OF THE AUDITOR
+
+To,
+The Board of Directors,
+**Eco Fuel Systems (India) Limited**
+*(Formerly known as Eco Fuel Systems (India) Private Limited)*
+B-102, Bellona Bldg, Pant Nagar 90 Feet Road,
+Ghatkopar (E), Mumbai City, Mumbai,
+Maharashtra, India, 400075
+
+Dear Sirs,
+
+1. We have examined the attached Restated Consolidated Financial Information of Eco Fuel Systems (India) Limited (Formerly known as Eco Fuel Systems (India) Private Limited) (the “Company” or the “Issuer”) which comprises of the Restated Consolidated Statement of Assets and Liabilities as at March 31, 2025, March 31, 2024, and March 31, 2023, the Restated Consolidated Statements of Profit and Loss (including other comprehensive income), the Restated Consolidated Statement of Changes in Equity, the Restated Consolidated Cash Flow Statement for the year ended March 31, 2025, March 31, 2024, and March 31, 2023, the Statement of Significant Accounting Policies, and other explanatory information (collectively, referred to as the “Restated Statements”, “Restated Financial Statements” or the “Restated Consolidated Financial Information”), annexed to this report for the purpose of inclusion in the Draft Red Herring Prospectus (“DRHP”) prepared by the Company in connection with its proposed Initial Public Offer of equity shares (“IPO”) on SME Platform of NSE Limited (“NSE Emerge”), as approved by the Board of Directors of the Company and have been prepared in terms of the requirement of :
+
+a) Section 26 of Part I of Chapter III of the Companies Act, 2013 (the “Act”); read with companies (Prospectus and allotment of Securities) Rules 2014 as amended from time to time;
+
+b) The Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, ("SEBI ICDR Regulations"); as amended from time to time in pursuance of Section 11 of the securities Exchange Board of India, 1992.
+
+c) The Guidance Note on Reports in Company Prospectuses (Revised 2019) issued by the Institute of Chartered Accountants of India (“ICAI”), as amended from time to time (the “Guidance Note”);
+
+2. The Company's Management and Board of Directors are responsible for the preparation of the Restated Consolidated Financial Information for the purpose of inclusion in the DRHP to be filed with Securities and Exchange Board of India, SME Platform of NSE Limited (“NSE Emerge”), and the Registrar of Companies (ROC) (Mumbai) in connection with the proposed SME IPO. The Restated Consolidated Financial Information has been prepared by the management of the Company on the basis of preparation stated in Note 1 to 4 in the Restated Consolidated Financial Information. The responsibilities of the respective management and the Board of Directors of the Company include designing, implementing and maintaining adequate internal control relevant to the preparation and presentation of the Restated Consolidated Financial Information. The respective Management and Board of Directors are also responsible for identifying and ensuring that the Company complies with the Act, ICDR Regulations and the Guidance Note.
+
+3. We have examined such Restated Consolidated Statements taking into consideration:
+
+a) The terms of reference and terms of our engagement agreed upon with you in accordance with our engagement letter dated December 1, 2024 in connection with the proposed Initial Public offering of equity shares on SME Platform of NSE Limited (“NSE Emerge”) (“IPO” or “SME IPO”);

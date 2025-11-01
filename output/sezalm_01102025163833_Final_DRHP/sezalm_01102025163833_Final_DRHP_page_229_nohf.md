@@ -1,0 +1,21 @@
+# ECO Fuel Systems (India) Limited
+
+(Formerly known as ECO Fuel Systems (India) Private Limited)
+
+## Notes to Ind AS Restated Consolidated Financial Statements
+
+(Amount in Rs. Lakhs)
+
+## 38. FAIR VALUE MEASUREMENTS
+
+### (a) Financial instruments by category
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">As At<br>31-Mar-25</th><th colspan="3">As At<br>31-Mar-24</th><th colspan="3">As At<br>31-Mar-23</th></tr><tr><th>FVTPL</th><th>FVOCI</th><th>Amortised<br>cost</th><th>FVTPL</th><th>FVOCI</th><th>Amortised<br>cost</th><th>FVTPL</th><th>FVOCI</th><th>Amortised cost</th></tr></thead><tbody><tr><td><strong>Financial assets</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Trade receivables</td><td>-</td><td>-</td><td>5086.91</td><td>-</td><td>-</td><td>4253.62</td><td>-</td><td>-</td><td>3882.81</td></tr><tr><td>Cash and cash equivalents</td><td>-</td><td>-</td><td>220.00</td><td>-</td><td>-</td><td>388.41</td><td>-</td><td>-</td><td>113.90</td></tr><tr><td>Bank balances other than cash and<br>cash equivalents</td><td>-</td><td>-</td><td>561.38</td><td>-</td><td>-</td><td>577.19</td><td>-</td><td>-</td><td>790.81</td></tr><tr><td>Security deposits</td><td>-</td><td>-</td><td>25.80</td><td>-</td><td>-</td><td>3.48</td><td>-</td><td>-</td><td>3.34</td></tr><tr><td>Other financial assets</td><td>-</td><td>-</td><td>44.30</td><td>-</td><td>-</td><td>63.73</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total financial assets</strong></td><td>-</td><td>-</td><td>5938.39</td><td>-</td><td>-</td><td>5286.42</td><td>-</td><td>-</td><td>4790.86</td></tr><tr><td><strong>Financial liabilities</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings (includes current<br>maturities of borrowings and accrued<br>interest)</td><td>-</td><td>-</td><td>1181.70</td><td>-</td><td>-</td><td>1912.71</td><td>-</td><td>-</td><td>1876.91</td></tr><tr><td>Trade payable</td><td>-</td><td>-</td><td>274.10</td><td>-</td><td>-</td><td>833.54</td><td>-</td><td>-</td><td>547.93</td></tr><tr><td>Lease liabilities</td><td>-</td><td>-</td><td>77.83</td><td>-</td><td>-</td><td>125.95</td><td>-</td><td>-</td><td>42.83</td></tr><tr><td>Other financial liabilities</td><td>-</td><td>-</td><td>86.70</td><td>-</td><td>-</td><td>52.27</td><td>-</td><td>-</td><td>40.56</td></tr><tr><td><strong>Total financial liabilities</strong></td><td>-</td><td>-</td><td>1620.34</td><td>-</td><td>-</td><td>2924.47</td><td>-</td><td>-</td><td>2508.23</td></tr></tbody></table>
+
+### (b) Fair value hierarchy
+
+This section explains the judgements and estimates made in determining the fair values of the financial instruments that are (a) recognised and measured at fair value and (b) measured at amortised cost and for which fair values are disclosed in the financial statements. To provide an indication about the reliability of the inputs used in determining fair value, the Company has classified its financial instruments into the three levels prescribed under the accounting standard. An explanation of each level follows underneath the table.
+
+<table><thead><tr><th>Financial assets and liabilities measured at fair value - recurring fair value measurements as at March 31 2025</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Total</th></tr></thead><tbody><tr><td>Financial assets</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total financial assets</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Financial liabilities</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total financial liabilities</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+<table><thead><tr><th>Financial assets and liabilities measured at fair value - recurring fair value measurements as at March 31, 2024</th><th>Level 1</th><th>Level 2</th><th>Level 3</th><th>Total</th></tr></thead><tbody><tr><td>Financial assets</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total financial assets</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Financial liabilities</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total financial liabilities</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>

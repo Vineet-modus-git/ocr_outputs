@@ -1,0 +1,3 @@
+ARRANGEMENTS AND UNDERSTANDING WITH MAJOR SHAREHOLDERS
+
+None of our Key Managerial Personnel, Senior Managerial Personnel or Directors have been appointed pursuant to any arrangement or understanding with our major shareholders, customers, suppliers or others pursuant to which of the directors was selected as a director or member of senior management. For more information, please refer chapter titled "Our History and Certain Other Corporate Matters" beginning on page 163 of this Draft Red Herring Prospectus.

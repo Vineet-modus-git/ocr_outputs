@@ -1,0 +1,47 @@
+ASHUTOSH FIBRE LIMITED
+[FORMERLY KNOWN AS ASHUTOSH FIBRE PRIVATE LIMITED]
+CIN - U24299GJ1985PLC007831
+
+ANNEXURE – III: RESTATED STATEMENT OF CASH FLOWS FOR THE YEAR ENDEN ON
+
+(₹ in Lakhs otherwise Stated)
+
+<table><thead><tr><th>Particulars</th><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td><strong>A. CASH FLOW FROM OPERATING ACTIVITIES</strong></td><td></td><td></td><td></td></tr><tr><td>Profit/(Loss) before tax</td><td>1,109.75</td><td>978.20</td><td>456.49</td></tr><tr><td>Adjustments for:</td><td></td><td></td><td></td></tr><tr><td>Depreciation</td><td>360.14</td><td>305.48</td><td>290.88</td></tr><tr><td>Finance Cost</td><td>407.70</td><td>332.44</td><td>307.02</td></tr><tr><td>Net Loss/(Gain) on Sale of Investments/Assets</td><td>-</td><td>17.30</td><td>-</td></tr><tr><td>Bad Debt Written Off</td><td>-</td><td>-</td><td>133.77</td></tr><tr><td>Interest Income</td><td>(16.03)</td><td>(1.74)</td><td>(2.14)</td></tr><tr><td><strong>Operating profit before working capital changes</strong></td><td><strong>1,861.56</strong></td><td><strong>1,631.68</strong></td><td><strong>1,186.02</strong></td></tr><tr><td>Movements in working capital:</td><td></td><td></td><td></td></tr><tr><td>(Increase)/Decrease in Inventories</td><td>(173.07)</td><td>(387.80)</td><td>36.55</td></tr><tr><td>(Increase)/Decrease in Trade Receivables</td><td>(388.80)</td><td>(165.57)</td><td>228.96</td></tr><tr><td>(Increase)/Decrease in Short Loans & Advances</td><td>(23.29)</td><td>(266.40)</td><td>(14.70)</td></tr><tr><td>(Increase)/Decrease in Other Current Assets</td><td>43.15</td><td>(178.06)</td><td>(59.44)</td></tr><tr><td>(Increase)/Decrease in Other Non Current Assets</td><td>-</td><td>-</td><td>6.47</td></tr><tr><td>(Increase)/Decrease in Long Term Loans & Advances</td><td>(10.57)</td><td>(30.78)</td><td>(0.03)</td></tr><tr><td>Increase/(Decrease) in Trade Payables</td><td>72.73</td><td>0.49</td><td>(68.49)</td></tr><tr><td>Increase/(Decrease) in Other Current Liabilities</td><td>(13.38)</td><td>42.48</td><td>(17.97)</td></tr><tr><td>Increase/(Decrease) in Short Term Provisions</td><td>(7.38)</td><td>21.01</td><td>(24.60)</td></tr><tr><td><strong>Cash generated from operations</strong></td><td><strong>(500.61)</strong></td><td><strong>(964.63)</strong></td><td><strong>86.75</strong></td></tr><tr><td>Adjustment on Account of Income Tax Expense</td><td>(238.73)</td><td>(103.51)</td><td>(60.70)</td></tr><tr><td><strong>Net cash from operating activities (A)</strong></td><td><strong>1,122.22</strong></td><td><strong>563.54</strong></td><td><strong>1,212.07</strong></td></tr><tr><td><strong>B. CASH FLOW FROM INVESTING ACTIVITIES</strong></td><td></td><td></td><td></td></tr><tr><td>Interest Income</td><td>16.03</td><td>1.74</td><td>2.14</td></tr><tr><td>Sale/(Purchase) of Fixed Assets</td><td>(2,645.94)</td><td>(762.36)</td><td>(240.88)</td></tr><tr><td><strong>Net cash from investing activities (B)</strong></td><td><strong>(2,629.91)</strong></td><td><strong>(760.62)</strong></td><td><strong>(238.73)</strong></td></tr><tr><td><strong>C. CASH FLOW FROM FINANCING ACTIVITIES</strong></td><td></td><td></td><td></td></tr><tr><td>Interest/Other expenses paid on borrowings</td><td>(239.89)</td><td>(332.44)</td><td>(146.14)</td></tr><tr><td>Proceeds of Long Term Borrowings</td><td>3,497.95</td><td>1,228.81</td><td>757.22</td></tr><tr><td>(Repayment) of Long Term Borrowings</td><td>(1,397.96)</td><td>(949.67)</td><td>(1,026.74)</td></tr><tr><td>Increase/(Decrease) in Short Term Borrowings</td><td>(10.60)</td><td>162.05</td><td>(426.21)</td></tr><tr><td>Dividend Paid</td><td>(21.00)</td><td>(21.00)</td><td>(21.00)</td></tr><tr><td><strong>Net cash from financing activities (C)</strong></td><td><strong>1,828.50</strong></td><td><strong>87.75</strong></td><td><strong>(862.88)</strong></td></tr><tr><td><strong>Net increase in cash and cash equivalents (A+B+C)</strong></td><td><strong>320.81</strong></td><td><strong>(109.32)</strong></td><td><strong>110.46</strong></td></tr><tr><td><strong>Cash and cash equivalents at the beginning of the year</strong></td><td><strong>25.78</strong></td><td><strong>135.10</strong></td><td><strong>24.64</strong></td></tr><tr><td><strong>Cash and cash equivalents at the end of the year</strong></td><td><strong>346.59</strong></td><td><strong>25.78</strong></td><td><strong>135.10</strong></td></tr></tbody></table>
+
+Note 1: Balances stated above has been rounded off in nearest Rs. 10 to remove the fractional differences from the balances as mentioned in Balance sheet
+
+FOR, SHAH & PATEL
+Chartered Accountants
+FRN: 124743W
+
+FOR, ASHUTOSH FIBRE LIMITED
+[FORMERLY KNOWN AS ASHUTOSH FIBRE PRIVATE LIMITED]
+
+Siddharth P. Patel
+Managing Director
+DIN : 01477471
+
+Abhishek Agarwal
+Whole Time Director
+DIN : 01567158
+
+Nimesh N Shah
+Partner
+Mem.No. 111329
+UDIN : 25111329BMLIMK3248
+
+Alpesh R. Bhavsar
+Chief Financial Officer
+PAN : AGWPB5414D
+
+Sonal Bankim Bhansali
+Company Secretary
+Membership no : F3016
+
+Place: Ahmedabad
+Date: 19/09/2025
+
+Place: Ahmedabad
+Date: 19/09/2025
+
+F9

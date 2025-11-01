@@ -1,0 +1,1 @@
+Our Company shall ensure that transactions in the Equity Shares by the Promoters and the Promoter Group between the date of filing this Draft Red Herring Prospectus and the Offer Closing Date shall be reported to the Stock Exchange within twenty-four hours of such transaction.

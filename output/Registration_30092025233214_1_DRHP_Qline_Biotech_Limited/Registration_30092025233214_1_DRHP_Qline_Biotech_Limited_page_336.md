@@ -1,0 +1,27 @@
+Q-Line Biotech Limited
+
+# SECTION VIII: ISSUE RELATED INFORMATION
+
+## TERMS OF THE ISSUE
+
+The Equity Shares being Issued are subject to the provisions of the Companies Act, SCRA, SCRR, SEBI (ICDR) Regulations, the SEBI Listing Regulations, our Memorandum and Articles of Association, the terms of this Draft Red Herring Prospectus, Red Herring Prospectus, Prospectus, Application Form, any Confirmation of Allocation Note (“CAN”), the Revision Form, Allotment advices, and other terms and conditions as may be incorporated in the Allotment advices and other documents/certificates that may be executed in respect of the Issue. The Equity Shares shall also be subject to all applicable laws, guidelines, rules, notifications and regulations relating to the issue of capital and listing and trading of securities issued from time to time by SEBI, the GoI, the Stock Exchange, the RoC, the RBI and/or other authorities, as in force on the date of the Issue and to the extent applicable or such other conditions as may be prescribed by SEBI, RBI, the GoI, the Stock Exchange, the RoC and/or any other authorities while granting its approval for the Issue.
+
+Please note that in terms of SEBI Circular No. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015 and the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, all the investors applying in a public Issue shall use only Application Supported by Blocked Amount (ASBA) process for application providing details of the bank account which will be blocked by the Self Certified Syndicate Banks (SCSBs) for the same. Further, pursuant to SEBI Circular No. SEBI/HO/CFD/DIL2/CIR/P/2018/138 dated November 01, 2018 read with its circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/50 dated April 3, 2019 and circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28, 2019 has introduced an alternate payment mechanism using Unified Payments Interface (UPI) and consequent reduction in timelines for listing in a phased manner. From December 1, 2023, the UPI Mechanism for Individual Investors applying through Designated Intermediaries was made effective along-with the existing process existing timeline of T+3 days.
+
+Further vide the said circular Registrar to the Issue and Depository Participants have been also authorized to collect the Bid-cum-Application forms. Investor may visit the official website of the concerned for any information on operational utilization of this facility of form collection by the Registrar to the Issue and Depository Participants as and when the same is made available.
+
+### Authority for the Issue
+
+The present Public Offer of upto 70,53,200 Equity Shares has been authorized by a resolution of the Board of Directors of our Company at their meeting held on September 27, 2025 and was approved by the Shareholders of the Company by passing Special Resolution at the Extra Ordinary General Meeting held on September 27, 2025 in accordance with the provisions of Section 62(1)(c) of the Companies Act, 2013.
+
+Our Company, in consultation with the BRLMs, may consider a Pre-IPO placement of up to 8,00,000 Equity Shares prior to filing of the Red Herring Prospectus with the RoC. The Pre-IPO Placement, if undertaken, will be at a price to be decided by our Company, in consultation with the BRLMs. If the Pre-IPO Placement is undertaken, the number of Equity Shares issued pursuant to the Pre-IPO Placement will be reduced from the Issue, subject to compliance with Rule 19(2)(b) of the SCRR. Details of Pre-IPO Placement, if undertaken, shall be included in the Red Herring Prospectus.
+
+### Ranking of Equity Shares
+
+The Equity Shares being issued shall be subject to the provisions of the Companies Act, 2013 and our MOA and AOA and shall rank Pari-passu in all respects with the existing Equity Shares of our Company including rights in respect of dividend. The Allottees, upon Allotment of Equity Shares under this Issue, will be entitled to receive dividends and other corporate benefits, if any, declared by our Company after the date of Allotment. For further details, please refer to section titled, "Main Provisions of Article of Association", beginning on page 373 of this Draft Red Herring Prospectus.
+
+### Mode of Payment of Dividend
+
+The declaration and payment of dividend will be as per the provisions of Companies Act, the Articles of Association, the provision of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and any other rules, regulations or guidelines as may be issued by the Government of India in connection thereto and as per the recommendation by the Board of Directors and the Shareholders at their discretion and will depend on a number of factors, including but not limited to earnings, capital requirements and overall financial condition of our Company. We shall pay dividends in cash and as per provisions of the Companies Act and our Articles of Association. Further Interim Dividend (if any declared) will be approved by the Board of Directors. For further details, please refer to section titled "Dividend Policy" and "Main Provisions of Article of Association" beginning on page 178 and 373 respectively of this Draft Red Herring Prospectus.
+
+### Face Value and Issue Price

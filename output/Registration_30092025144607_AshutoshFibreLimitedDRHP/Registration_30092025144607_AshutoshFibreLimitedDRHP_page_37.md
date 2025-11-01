@@ -1,0 +1,27 @@
+<table><tr><td></td><td>traceable.</td><td></td><td>acknowledged.</td></tr><tr><td>Director Filings</td><td>Delay / non-traceability in Form-32 / DIR-12 for appointment, resignation, and change in designation of directors.</td><td>Delays ranging from 7 to 264 days</td><td>Fresh filings / additional fees paid; rectifications made where possible.</td></tr><tr><td>Related Party Disclosure</td><td>Incorrect disclosure in AOC-4 for FY 2022-23.</td><td>Not applicable</td><td>Adjudication application filed with RoC.</td></tr><tr><td>Other Discrepancies</td><td>Errors in share transfer records, auditor appointment filings, MSME-1 mismatches, incomplete annexures.</td><td>Various</td><td>Rectifications / revised forms filed, or explanations submitted to RoC.</td></tr></table>
+
+Our Company has not filed Form CHG-1 for creation of charge in respect of car loans availed from BMW India Financial Services Private Limited and ICICI Bank. This constitutes non-compliance of Section 77 of the Companies Act, 2013 and may attract penalties under Section 86 or other applicable provisions. While ICICI Bank loans have been repaid.
+
+While no legal proceedings or regulatory action has been initiated against our Company in relation to these matters as of the date of this Draft Red Herring Prospectus, we cannot assure you that such actions will not be initiated in the future or that our Company and its Directors will not be subject to penalties by the concerned regulatory authorities.
+
+## 11. If our Company is unable to effectively manage our working capital cycle and inventory levels, our business, results of operations and financial condition may be adversely affected.
+
+Our Company's operations require maintaining substantial levels of working capital to procure raw materials, support production and ensure timely supply to customers. We manufacture a diversified range of technical yarns across the Indutech, Protech, Mobiltech and Hometech products including polypropylene yarns, aramid-based yarns, modacrylic blends, FR viscose yarns and high-tenacity polyester yarns. Since a significant portion of our raw materials, such as para-aramid, meta-aramid, modacrylic and FR viscose, are imported with longer procurement lead times, our working capital cycle is highly dependent on maintaining adequate inventory of both raw materials and finished goods.
+
+The success of our business depends upon our ability to anticipate and forecast customer demand accurately. Any mismatch between actual demand and our forecast may lead to inventory imbalances. Under-stocking could delay production, impair our ability to meet customer requirements and cause loss of revenue. Over-stocking, on the other hand, may result in blocked funds, increased financing costs and potential deterioration or obsolescence of products. Unsold inventory may need to be discounted or written down, which could adversely affect profitability.
+
+As of March 31, 2025, March 31, 2024 and March 31, 2023, our inventory as a percentage of current assets was 30.66%, 33.04% and 29.85%, respectively. During the same periods, our inventory turnover ratio was 8.41 times, 10.21 times and 10.87 times. A substantial portion of our working capital is therefore tied up in inventory and the associated amounts are realised only after the completion of the inventory cycle.
+
+Further, since we extend credit to certain customers, our receivables also form a significant part of working capital. Any delays in collection of receivables could further elongate our working capital cycle and necessitate additional short-term borrowings. Increased reliance on borrowings to finance working capital would raise our finance costs and reduce our profitability.
+
+The details of our Company's working capital position for the last three financial years are set out below:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">For the Financial Year ended on</th></tr><tr><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td>Net Working Capital (₹ in lakhs)*</td><td>3,659.60</td><td>3,112.83</td><td>2,247.53</td></tr><tr><td>Net Working Capital as % of revenue from operations</td><td>32.09%</td><td>28.33%</td><td>22.95%</td></tr><tr><td>Working Capital Turnover Ratio (times)#</td><td><strong>3.12</strong></td><td><strong>3.53</strong></td><td><strong>4.36</strong></td></tr></tbody></table>
+
+* Excluding cash & cash equivalent and short-term derivatives.
+
+# Revenue from Operations/Net Working Capital.
+
+While our Company has been able to manage its working capital and inventory requirements historically, there is no assurance that this will continue in the future. Any inefficiency in managing the working capital cycle or maintaining optimal inventory levels may materially and adversely affect our Company's operations, results of operations, cash flows and financial condition.
+
+## 12. Our Company operates on a business-to-business (“B2B”) model and any reduction in demand from our institutional clients, delays in repeat orders, or adverse developments in the industries we cater to could adversely affect our business, results of operations and financial condition.

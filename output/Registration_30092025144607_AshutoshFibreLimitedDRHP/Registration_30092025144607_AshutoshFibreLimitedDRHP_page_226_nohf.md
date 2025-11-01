@@ -1,0 +1,13 @@
+<table><tr><td></td><td></td><td></td><td>Vivaan Siddharth Patel</td></tr><tr><td>7.</td><td>Daughters</td><td>Aahana Abhishek Agarwal</td><td>N/A</td></tr><tr><td>8.</td><td>Spouse's Father</td><td>Kamal Kishore Poddar</td><td>Amit Indradaman Sheth</td></tr><tr><td>9.</td><td>Spouse's Mother</td><td>Santosh Devi Poddar</td><td>Priti Amit Sheth</td></tr><tr><td>10.</td><td>Spouse's Brother</td><td>N/A</td><td>Varun Amitkumar Sheth</td></tr><tr><td>11.</td><td>Spouse's Sisters</td><td>N/A</td><td>N/A</td></tr></table>
+
+Body corporates, partnership firms forming part of the Promoter Group (other than our Promoter):
+
+<table><thead><tr><td>Sr. No.</td><td>Nature of Relationship</td><td>Entities</td></tr></thead><tbody><tr><td>1.</td><td>Any Body Corporate (other than Subsidiary & Associate) in which 20% or more of the share capital is held by the Promoter or an immediate relative of the Promoter or a firm in which the Promoter or any one or more of his immediate relatives is a member;</td><td>1. R K Trading Company Private Limited<br>2. Shri Bajrangbali Intermediate and Dyechem Pvt. Ltd.<br>3. Shyamprakash Spinning Mills Limited<br>4. Shree Prakash Textiles (Gujarat) Private Limited<br>5. Terra Biofuels Private Limited</td></tr><tr><td>2.</td><td>Any Body Corporate in which a body corporate as provided in (1) above holds 20% or more, of the equity share capital; and</td><td>N/A</td></tr><tr><td>3.</td><td>Any HUF or firm in which the aggregate shareholding of the promoter and his immediate relatives is equal to or more than 20%</td><td>1. Abhishek Agarwal HUF<br>2. Rajendrakumar Agarwal HUF<br>3. Shilpa Synthetics<br>4. L K Enterprise<br>5. More Synthetics<br>6. R K Trading Co<br>7. Prabhuji Advisory LLP<br>8. Radhamohan Industries LLP<br>9. Aahana Synthetics<br>10. Storex Containers Industries<br>11. Amtex Corporation<br>12. Atharv trading Co</td></tr></tbody></table>
+
+As per Regulation 2(1) (pp)(iii) of the SEBI ICDR Regulations, the following Companies/Trusts/ Partnership firms/HUFs or Sole Proprietorships are forming part of our Promoter group.
+
+<table><thead><tr><td>S.No.</td><td>Nature of Relationship</td><td>Entities</td></tr></thead><tbody><tr><td>1.</td><td>A subsidiary or holding company of such body corporate</td><td>N/A</td></tr><tr><td>2.</td><td>Any body corporate in which the promoter holds 20% or more of the equity share capital; and/or any body corporate which holds twenty percent, or more of the equity share capital of the promoter</td><td>N/A</td></tr></tbody></table>
+
+Other persons included in Promoters Group:
+
+None of other persons forms part of promoters group for the purpose of shareholding of the Promoters Group under Regulation 2(1) (pp) (v) of SEBI (ICDR) Regulations 2018.

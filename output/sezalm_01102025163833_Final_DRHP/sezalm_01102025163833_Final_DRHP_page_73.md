@@ -1,0 +1,19 @@
+19. Price Band and Spreads: The price band shall be 20% and the market maker spread (difference between the sell and the buy quote) shall be within 10% or as intimated by Exchange from time to time.
+
+20. Additionally, the trading shall take place in TFT segment for first 10 days from commencement of trading. The following spread will be applicable on the NSE Emerge.
+
+<table><thead><tr><td>Sr. No.</td><td>Market Price slab (in ₹)</td><td>Proposed spread (in % to sale price)</td></tr></thead><tbody><tr><td>1.</td><td>Up to 50</td><td>9</td></tr><tr><td>2.</td><td>50 to 75</td><td>8</td></tr><tr><td>3.</td><td>75 to 100</td><td>6</td></tr><tr><td>4.</td><td>Above 100</td><td>5</td></tr></tbody></table>
+
+21. The Marker Maker may also be present in the opening call auction, but there is no obligation on him to do so.
+
+22. The Market Making arrangement, trading and other related aspects including all those specified above shall be subject to the applicable provisions of law and / or norms issued by SEBI/ NSE Limited from time to time.
+
+23. All the above-mentioned conditions and systems regarding the Market Making Arrangement are subject to change based on changes or additional regulations and guidelines from SEBI and Stock Exchange from time to time.
+
+## Withdrawal of the Issue
+
+Our Company in consultation with the Book Running Lead Manager, reserve the right not to proceed with the Issue at any time after the Issue Opening Date but before the Board meeting for Allotment. In such an event our Company would issue a public notice in the newspapers, in which the pre-Issue advertisements were published, within 2 (Two) days of the Issue Closing Date or such other time as may be prescribed by SEBI, providing reasons for not proceeding with the Issue.
+
+The Book Running Lead Manager, through the Registrar to the Issue, shall notify the SCSBs (in case of II's using the UPI Mechanism), to unblock the bank accounts of the ASBA Applicants, within 1 (One) day of receipt of such notification. Our Company shall also promptly inform the Stock Exchange on which the Equity Shares were proposed to be listed.
+
+Notwithstanding the foregoing, the Issue is also subject to obtaining the final listing and trading approvals from NSE Emerge, which our Company shall apply for after Allotment. If our Company withdraws the Issue after the Issue Closing Date and thereafter determines that it will proceed with an IPO, our Company shall be required to file a fresh Draft Red Herring Prospectus.

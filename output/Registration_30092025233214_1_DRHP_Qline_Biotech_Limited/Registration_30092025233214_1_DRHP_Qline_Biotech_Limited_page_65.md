@@ -1,0 +1,17 @@
+Q-Line Biotech Limited
+
+<table><tr><td>SEBI Reg. No.: INM000010981</td><td></td></tr><tr><td>Legal Advisor to the Issue</td><td>Registrar to the Issue</td></tr><tr><td>Kanga & Company<br>Advocate & Solicitors<br>Address: Ready money Mansion, 43, Veer Narimon Road, Mumbai-400013, Maharashtra, India.<br>Tel No.: +91-22-66230000, 66332288<br>Email: chetan.thakkar@kangacompany.com<br>Contact Person: Chetan Thakkar<br>Designation: Partner</td><td>Purva Sharegistry (India) Private Limited<br>Address: 9, Shiv Shakti Industrial Estate, J.R. Boricha Marg Lower Parel (East), Mumbai, Maharashtra, India, 400011<br>Tel. No.: +91 22 49614132<br>Email: newissue@purvashare.com<br>Website: www.purvashare.com<br>Contact Person: Ms. Deepali Dhuri<br>SEBI Registration No.: INR000001112</td></tr><tr><td>Statutory Auditor of the Company</td><td>Banker to the Company</td></tr><tr><td>M/s. R K Jagetiya & Co.<br>Chartered Accountants<br>Address – B-303, Eklavya CHSL, N. L. Complex, Dahisar East, Mumbai, Maharashtra, India, 400068<br>Tel: +91-9820800926<br>Email: rkjagetiyaco@gmail.com<br>Peer Review Number: 017355<br>Contact Person: CA Ravi K Jagetiya<br>FRN No.: 146264W<br>Membership No: 134691</td><td>ICICI Bank Limited<br>Address: ICICI Bank Ltd, 28/10, Ashok Marg, Hazratganj, Lucknow, Uttar Pradesh, India, 226001<br>Tel No.: +91-8853000745<br>Email: kumar.rajeev@icicibank.com<br>Contact Person: Rajeev Kumar<br>Designation: Regional Sales Head- Business Banking Group</td></tr><tr><td>Banker to the Company</td><td>Banker to the Company</td></tr><tr><td>Kotak Mahindra Bank Limited<br>Address: Rohtas Summit Building, 9th Floor, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh, India, 226010<br>Tel No.: +91-9029129107<br>Email: rahulkumar.jha4@kotak.com<br>Contact Person: Rahul Kumar Jha<br>Designation: ABM- Agri Business Group</td><td>IndusInd Bank Limited<br>Address: Ground Floor, 56/1, Madhuban Hotel Building, Shivaji Marg, Ghasyari Mandi, Aminabad, Lucknow, Uttar Pradesh, 226018<br>Tel No.: +91-9993460217<br>Email: vidit.singh@indusind.com<br>Contact Person: Vidit Singh<br>Designation: Branch Manager</td></tr><tr><td>Banker to the Company</td><td>Banker to the Issue, Refund Banker and Sponsor Bank*</td></tr><tr><td>HDFC Bank Limited<br>Address: Pranay Tower, 38, Darbari Lal Sharma Marg, Behind Bapu Bhawan Vidhan Sabha, Hazratganj, Lucknow, Uttar Pradesh, India, 226001<br>Tel No.: +91-7800847885<br>Email: abhishekv.singh@hdfcbank.com<br>Contact Person: Abhishek Kumar Singh<br>Designation: Relationship Manager</td><td>●</td></tr><tr><td>Syndicate Members*</td><td>Monitoring Agency*</td></tr><tr><td>●</td><td>●</td></tr></table>
+
+*The Banker to the Issue (Sponsor Bank), Syndicate Members and Monitoring Agency shall be appointed prior to filing of the Red Herring Prospectus with the RoC.
+
+## DESIGNATED INTERMEDIARIES:
+
+### Self-Certified Syndicate Banks (SCSB's)
+
+The list of SCSBs, as updated till date, is available on website of Securities and Exchange Board of India at below link
+[www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34](http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34);
+[www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35](http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35). Investors are requested to refer the SEBI website for updated list of SCSBs and their designated branches.
+
+### Self-Certified Syndicate Banks eligible as Sponsor Banks for UPI
+
+62

@@ -1,0 +1,3 @@
+Other confirmations
+
+There are no material existing or anticipated transactions with our Promoter, our Directors, our Company's key Managerial personnel, in relation to the utilization of the Net Proceeds. No part of the Net Proceeds will be paid by us as consideration to our Promoters, our Directors or key managerial personnel except in the normal course of business and in compliance with the applicable laws.

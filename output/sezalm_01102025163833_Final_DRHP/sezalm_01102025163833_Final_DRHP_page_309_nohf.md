@@ -1,0 +1,29 @@
+the Bid cum Application Form, failing which our Company, in consultation with the BRLM, reserve the right to reject any Bid without assigning any reason thereof subject to applicable law
+
+The investment limit for banking companies in non-financial services companies as per the Banking Regulation Act, 1949, as amended ("Banking Regulation Act"), and Master Direction – Reserve Bank of India (Financial Services provided by Banks) Directions, 2016, as amended, is 10% of the paid-up share capital of the investee company or 10% of the bank's own paid-up share capital and reserves, whichever is lower. However, a banking company would be permitted to invest in excess of 10% but not exceeding 30% of the paid-up share capital of such investee company if (i) the investee company is engaged in non-financial activities permitted for banks in terms of Section 6(1) of the Banking Regulation Act, or (ii) the additional acquisition is through restructuring of debt / corporate debt restructuring / strategic debt restructuring, or to protect the banks' interest on loans / investments made to a company. The bank is required to submit a time bound action plan for disposal of such shares within a specified period to RBI. A banking company would require a prior approval of RBI to make (i) investment in a subsidiary and a financial services company that is not a subsidiary (with certain exception prescribed), and (ii) investment in a nonfinancial services company in excess of 10% of such investee company's paid-up share capital as stated in 5(a)(v)(c)(i) of the Reserve Bank of India (Financial Services provided by Banks) Directions, 2016, as amended.
+
+## Bids by SCSBs
+
+SCSBs participating in the Issue are required to comply with the terms of the circulars bearing numbers CIR/CFD/DIL/12/2012 and CIR/CFD/DIL/1/2013 dated September 13, 2012 and January 2, 2013, respectively, issued by SEBI. Such SCSBs are required to ensure that for making applications on their own account using ASBA, they should have a separate account in their own name with any other SEBI registered SCSBs. Further, such account shall be used solely for the purpose of making application in public issues and clear demarcated funds should be available in such account for such applications.
+
+## Bids by Insurance Companies
+
+In case of Bids made by insurance companies registered with the IRDAI, a certified copy of certificate of registration issued by IRDAI must be attached to the Bid cum Application Form. Failing this, our Company and the in consultation with the BRLM reserve the right to reject any Bid without assigning any reason thereof, subject to applicable law.
+
+The exposure norms for insurers, prescribed under the Insurance Regulatory and Development Authority of India (Investment) Regulations, 2016, as amended, are broadly set forth below:
+
+(i) equity shares of a company: the lower of 10% of the outstanding equity shares (face value) or 10% of the respective fund in case of life insurer or 10% of investment assets in case of general insurer or reinsurer or health insurer;
+
+(ii) the entire group of the investee company: not more than 15% of the respective fund in case of a life insurer or 15% of investment assets in case of a general insurer or reinsurer or health insurer or 15% of the investment assets in all companies belonging to the group, whichever is lower; and
+
+(iii) the industry sector in which the investee company operates: not more than 15% of the fund of a life insurer or a general insurer or a reinsurer or health insurer or 15% of the investment asset, whichever is lower.
+
+The maximum exposure limit, in the case of an investment in equity shares, cannot exceed the lower of an amount of 10% of the investment assets of a life insurer or general insurer and the amount calculated under (i), (ii) and (iii) above, as the case may be.
+
+Insurance companies participating in the Issue shall comply with all applicable regulations, guidelines and circulars issued by IRDAI from time to time.
+
+## Bids by Systemically Important NBFCs
+
+In case of Bids made by Systemically Important NBFCs registered with RBI, certified copies of: (i) the certificate of registration issued by RBI; (ii) certified copy of its last audited financial statements on a standalone basis; (iii) a net worth certificate from its statutory auditor; and (iv) such other approval as may be required by the Systemically Important NBFCs, are required to be attached to the Bid cum Application Form. Failing this, our Company in consultation with the BRLM, reserves the right to reject any Bid without assigning any reason thereof, subject to applicable law. Systemically Important NBFCs participating in the Issue shall comply with all applicable regulations, guidelines and circulars issued by RBI from time to time.
+
+The investment limit for NBFC-SI shall be prescribed by RBI from time to time.

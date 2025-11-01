@@ -1,0 +1,24 @@
+**28. Our inability to collect receivables in time or at all and default in payment from our customers could result in the reduction of our profits and affect our cash flows.**
+
+Our business operations rely heavily on timely payments from customers, including government entities, corporate clients, and distributors. Efficient receivables management is crucial to maintaining a healthy working capital cycle, ensuring steady cash flows, and meeting our operational and financial obligations. However, any delays, defaults, or disputes in payment collections could strain our liquidity, disrupt our ability to cover day-to-day expenses, and impact our overall financial stability.
+
+One of the key challenges we face is extended payment cycles, particularly when dealing with government entities and large institutional buyers, where payment approvals and disbursements often take longer than expected. In cases where customers delay payments beyond agreed terms or default entirely, we may be required to make provisions for doubtful debts, which could negatively impact our profitability and financial statements. Moreover, any substantial non-payment or accumulation of overdue receivables may necessitate legal actions, renegotiations, or extended recovery efforts, increasing administrative costs and financial uncertainty. In past we have experienced unexpected payment delays in a project converting diesel boats to Compressed Natural Gas (CNG) at Varanasi Ghats. This environmental initiative was overseen by the Municipal Corporation of Varanasi, with payments processed through a customer in Delhi and funded by Corporate Social Responsibility (CSR) contributions from government enterprises. The delays occurred because CSR funds are typically disbursed only at the beginning of fiscal years, creating a timing mismatch between the company's project execution costs and actual payment receipts.
+
+Additionally, our exposure to credit risk is influenced by external factors such as economic downturns, industry slowdowns, and financial distress among customers, which may affect their ability to meet payment obligations. While we have implemented credit control measures, due diligence processes, and structured payment terms to manage these risks, there is no assurance that all receivables will be collected on time or in full.
+
+Any significant defaults or prolonged delays in payments could have a material adverse effect on our liquidity position, financial health, and overall business operations. To mitigate these risks, we continuously monitor customer creditworthiness, diversify our client base, and strengthen collection and risk management strategies. However, despite these efforts, persistent payment delays or financial distress among key customers could pose ongoing challenges to our cash flow management and long-term growth.
+
+**29. We could incur losses under our purchase orders with our customers or be subjected to disputes or contractual penalties as a result of delays in delivery or failures to meet contract specifications or delivery schedules which may have a material adverse effect on our business, results of operations and financial condition**
+
+Our business involves supplying alternative fuel kits and components under purchase orders from customers, including government agencies, corporate clients, and fleet operators. Any delay in fulfilling these orders or failure to meet agreed contract specifications and delivery schedules could expose us to financial losses, disputes, or contractual penalties.
+
+Delays may arise due to supply chain disruptions, logistics issues, regulatory hurdles, or unforeseen operational challenges. In such cases, customers may cancel orders, demand compensation, or impose penalties, impacting our revenue and profitability. Additionally, repeated delays or quality concerns could harm our reputation and result in the loss of future business opportunities.
+
+While we strive to maintain efficient procurement, production, and delivery processes, there is no assurance that we can fully mitigate such risks. Any significant failure to meet contractual obligations may have a material adverse effect on our business operations, financial performance, and overall growth prospects.
+
+**30. Our inability to meet our obligations, including financial and restrictive covenants, under our financing arrangements could adversely affect our business, results of operations, financial condition and cash flows.**
+
+As of August 31, 2025, we have ₹1,637.69 Lakhs of outstanding debt. Our level of indebtedness has important consequences to us, such as:
+
+* Increasing our vulnerability to general adverse economic, industry and competitive conditions;
+* Limiting our flexibility in planning for, or reacting to, changes in our business and the industry;

@@ -1,0 +1,15 @@
+# SUMMARY OF SPECIAL PURPOSE COMBINED FINANCIAL STATEMENTS
+
+## SHREYAS FABTECH LIMITED
+
+Address : Plot No.H37, MIDC Ambad, Nashik, Nashik, Maharashtra, India, 422010
+
+CIN: U28999MH2022PLC391593
+
+### SPECIAL PURPOSE COMBINED STATEMENT OF PROFIT AND LOSS
+
+(₹ in Lakhs, Unless Otherwise Stated)
+
+<table><thead><tr><th>Particulars</th><th>Year Ended 31<sup>st</sup><br>March, 2025</th><th>Year Ended 31<sup>st</sup><br>March, 2024</th><th>Year Ended 31<sup>st</sup><br>March, 2023</th></tr></thead><tbody><tr><td>I. Revenue from operations</td><td>7554.76</td><td>3803.00</td><td>4371.21</td></tr><tr><td>II. Other Income</td><td>189.47</td><td>65.25</td><td>159.63</td></tr><tr><td><strong>III Total Revenue (I+II)</strong></td><td><strong>7744.23</strong></td><td><strong>3868.26</strong></td><td><strong>4530.84</strong></td></tr><tr><td><strong>IV. Expenses:</strong></td><td></td><td></td><td></td></tr><tr><td>Cost of raw material and components consumed</td><td>5967.12</td><td>2856.90</td><td>3844.97</td></tr><tr><td>Increase/(Decrease) in inventories of finished goods, work in progress and traded goods</td><td>17.09</td><td>(112.68)</td><td>-</td></tr><tr><td>Employee Benefit Expense</td><td>231.88</td><td>221.48</td><td>37.34</td></tr><tr><td>Finance Costs</td><td>26.62</td><td>17.48</td><td>87.16</td></tr><tr><td>Depreciation & Amortization Expense</td><td>75.08</td><td>52.03</td><td>75.67</td></tr><tr><td>Other Expenses</td><td>179.38</td><td>114.87</td><td>105.37</td></tr><tr><td><strong>Total Expenses</strong></td><td><strong>6497.17</strong></td><td><strong>3150.08</strong></td><td><strong>4150.50</strong></td></tr><tr><td>V. Profit before exceptional and extraordinary items and tax (III-IV)</td><td>1247.06</td><td>718.18</td><td>380.34</td></tr><tr><td>VI. Exceptional Items</td><td>-</td><td>-</td><td>-</td></tr><tr><td>VII. Profit before extraordinary items and tax (V-VI)</td><td>1247.06</td><td>718.18</td><td>380.34</td></tr><tr><td>VIII. Extraordinary Items</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>IX. Profit before tax (VII-VIII)</strong></td><td><strong>1247.06</strong></td><td><strong>718.18</strong></td><td><strong>380.34</strong></td></tr><tr><td><strong>X. Tax expense:</strong></td><td></td><td></td><td></td></tr><tr><td>(1) Current tax</td><td>302.50</td><td>223.22</td><td>181.74</td></tr><tr><td>(2) Earlier Year Tax</td><td>10.94</td><td>-</td><td>-</td></tr><tr><td>(3) Deferred Tax</td><td>13.61</td><td>(3.48)</td><td>-</td></tr><tr><td><strong>XI. Profit/(Loss) for the year (IX-X)</strong></td><td><strong>920.01</strong></td><td><strong>528.44</strong></td><td><strong>198.60</strong></td></tr><tr><td>XII. Earnings per Equity Shares</td><td></td><td></td><td></td></tr><tr><td>- Basic EPS (Face Value of ₹ 10/- each)</td><td>3.65</td><td>3.49</td><td>43.27</td></tr><tr><td>- Diluted EPS (Face Value of ₹ 10/- each)</td><td>3.65</td><td>3.49</td><td>43.27</td></tr></tbody></table>
+
+64

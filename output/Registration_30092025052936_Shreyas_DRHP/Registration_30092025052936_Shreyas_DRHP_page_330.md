@@ -1,0 +1,25 @@
+# Results of Our Operations
+
+The following table sets forth select financial data from our Financial Statements as Special Purpose Combined Profit and Loss for the financial years ended on March 31, 2025, 2024 and 2023 the components of which are also expressed as a percentage of total revenue for such periods:
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>For the year ended 31.03.25</th><th>% of Total income</th><th>For the year ended 31.03.24</th><th>% of Total income</th><th>For the year ended 31.03.23</th><th>% of Total income</th></tr></thead><tbody><tr><td>Revenue from operations</td><td>7,554.76</td><td>97.55</td><td>3,803.00</td><td>98.31</td><td>4,371.21</td><td>96.48</td></tr><tr><td>Other income</td><td>189.47</td><td>2.45</td><td>65.25</td><td>1.69</td><td>159.63</td><td>3.52</td></tr><tr><td><strong>Total Income (A)</strong></td><td><strong>7,744.23</strong></td><td><strong>100.00</strong></td><td><strong>3,868.26</strong></td><td><strong>100.00</strong></td><td><strong>4,530.84</strong></td><td><strong>100.00</strong></td></tr><tr><td><strong>Expenses:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cost of Materials Consumed</td><td>5,967.12</td><td>77.05</td><td>2,856.90</td><td>73.85</td><td>3,844.97</td><td>84.86</td></tr><tr><td>Increase/(Decrease) in inventories of finished goods, work in progress and traded goods</td><td>17.09</td><td>0.22</td><td>(112.68)</td><td>(2.91)</td><td>-</td><td>-</td></tr><tr><td>Employee Benefit Expenses</td><td>231.88</td><td>2.99</td><td>221.48</td><td>5.73</td><td>37.34</td><td>0.82</td></tr><tr><td>Other Expenses</td><td>179.38</td><td>2.32</td><td>114.87</td><td>2.97</td><td>105.37</td><td>2.33</td></tr><tr><td><strong>Total Expenses (B)</strong></td><td><strong>6,395.47</strong></td><td><strong>82.58</strong></td><td><strong>3,080.56</strong></td><td><strong>76.67</strong></td><td><strong>3,987.67</strong></td><td><strong>88.01</strong></td></tr><tr><td><strong>Earnings Before Interest, Taxes, Depreciation & Amortization</strong></td><td><strong>1,348.76</strong></td><td><strong>17.42</strong></td><td><strong>787.69</strong></td><td><strong>23.33</strong></td><td><strong>543.17</strong></td><td><strong>11.99</strong></td></tr><tr><td>Finance Cost</td><td>26.62</td><td>0.34</td><td>17.48</td><td>0.45</td><td>87.16</td><td>1.92</td></tr><tr><td>Depreciation and Amortization Expenses</td><td>75.08</td><td>0.97</td><td>52.03</td><td>1.34</td><td>75.67</td><td>1.67</td></tr><tr><td><strong>Profit before Exceptional Items</strong></td><td><strong>1,247.06</strong></td><td><strong>16.10</strong></td><td><strong>718.18</strong></td><td><strong>18.57</strong></td><td><strong>380.34</strong></td><td><strong>8.39</strong></td></tr><tr><td>Exceptional Items</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Profit/(Loss) before Tax</strong></td><td><strong>1,247.06</strong></td><td><strong>16.10</strong></td><td><strong>718.18</strong></td><td><strong>18.57</strong></td><td><strong>380.34</strong></td><td><strong>8.39</strong></td></tr><tr><td><strong>Tax Expenses:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Current Tax</td><td>302.50</td><td>3.91</td><td>223.22</td><td>5.77</td><td>181.74</td><td>4.01</td></tr><tr><td>Prior period tax</td><td>10.94</td><td>0.14</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Deferred Tax</td><td>13.61</td><td>0.18</td><td>(33.48)</td><td>0.87</td><td>-</td><td>-</td></tr><tr><td><strong>Profit/(Loss) After Tax for the year</strong></td><td><strong>920.01</strong></td><td><strong>11.88</strong></td><td><strong>528.44</strong></td><td><strong>13.66</strong></td><td><strong>198.60</strong></td><td><strong>4.38</strong></td></tr></tbody></table>
+
+## Overview of Revenue and expenditure
+
+### Revenue and Expenditure
+
+**Total Income:** Our total income comprises of revenue from operations and other income.
+
+**Revenue from operations:** Our revenue from operations comprises of (1) Sales of Manufactured Products and (2) Other Operating Revenue which consist of Sale of Scrap, Freight Charges and Packing & Forwarding charges.
+
+**Other Income:** Our other income consists of Dividend Income, Export Incentives, Exchange Gain/(Loss) on Foreign Currency Transactions and Translation, Interest Income and Sale of Duty Credit Scrips.
+
+**Expenses:** Our expenses comprise of Cost of raw material and components consumed, Increase/(Decrease) in inventories of finished goods, work in progress and traded goods, Employee Benefit Expense, Depreciation & Amortization Expense, Finance Costs and Other Expenses.
+
+**Cost of Raw Material and components Consumed:** Our Raw Material consumed consists of Opening Stock, Purchase of Raw Material, Direct Manufacturing expenses and Closing Stock.
+
+**Changes in Inventories finished goods, work in progress and traded goods:** Our change in Inventories comprises of Change in Stock of Finished goods and Work-In-Progress, from the beginning of the year to the end of the year.
+
+223

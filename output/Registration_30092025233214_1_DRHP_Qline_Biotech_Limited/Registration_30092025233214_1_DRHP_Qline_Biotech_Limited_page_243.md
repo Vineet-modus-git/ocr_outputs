@@ -1,0 +1,15 @@
+Q-Line Biotech Limited
+
+## OTHER FINANCIAL INFORMATION
+
+The Audited Financial Statements of our Company as at and for the financial year ended March 31, 2025, March 31, 2024 and March 31, 2023 and their respective Audit reports thereon (Audited Financial Statements) are available at www.qlinebiotech.com.
+
+Our Company is providing a link to this website solely to comply with the requirements specified in the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirement) Regulations, 2018. The Audited Financial Statements do not constitute, (i) a part of this Draft Red Herring Prospectus; or (ii) Red Herring Prospectus; or (iii) prospectus, a statement in lieu of a prospectus, an advertisement, an offer or a solicitation of any offer or an offer document to purchase or sell any securities under the Companies Act, 2013, the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirement) Regulations, 2018, or any other applicable law in India or elsewhere in the world. The Audited Financial Statements should not be considered as part of information that any investor should consider subscribing for or purchase any securities of our Company and should not be relied upon or used as a basis for any investment decision. Neither our Company, nor BRLMs, nor any of their respective Employees, Directors, Affiliates, Agents or representatives accept any liability whatsoever for any loss, direct or indirect, arising from any information presented or contained in the Audited Financial Statements, or the opinions expressed therein.
+
+The accounting ratios required under Clause 11 of Part A of Schedule VI of the SEBI (ICDR) Regulations are given below:
+
+(₹ In Lakhs except percentages and ratios)
+
+<table><thead><tr><th rowspan="3">Particulars</th><th colspan="3">For the year ended</th></tr><tr><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr><tr><th colspan="3">Consolidated</th></tr></thead><tbody><tr><td>Profit After Tax (₹ In Lakhs)</td><td>2,813.09</td><td>3,444.47</td><td>3,209.71</td></tr><tr><td>Basic & Diluted Earnings per Share</td><td>28.63</td><td>21.87</td><td>20.38</td></tr><tr><td>Return on Net Worth (%)</td><td>23.74%</td><td>21.29%</td><td>25.20%</td></tr><tr><td>NAV per Equity Shares (Based on Actual Number of Shares)</td><td>1,206.00</td><td>1,027.39</td><td>808.67</td></tr><tr><td>NAV per Equity Shares (based on Weighted Average Number of Shares - With Bonus issue effect)</td><td>120.60</td><td>102.74</td><td>80.87</td></tr><tr><td>Earnings before interest, tax, depreciation and amortization (EBITDA)</td><td>7,132.12</td><td>3,762.50</td><td>3,297.72</td></tr></tbody></table>
+
+240

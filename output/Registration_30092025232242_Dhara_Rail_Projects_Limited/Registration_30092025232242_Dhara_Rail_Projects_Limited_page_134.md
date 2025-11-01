@@ -1,0 +1,23 @@
+Dhara Rail Projects Limited
+
+Labour (Regulation and Abolition) Act, 1970, and the Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979. This code proposes to provide for, among other things, standards for health, safety and working conditions for employees of establishments, and will come into effect on a date to be notified by the Central Government.
+
+(b) **The Industrial Relations Code, 2020** received the assent of the President of India on September 28, 2020, and proposes to subsume three existing legislations, namely, the Industrial Disputes Act, 1947, the Trade Unions Act, 1926 and the Industrial Employment (Standing Orders) Act, 1946. The Industrial Relations Code, 2020 will come into effect on a date to be notified by the Central Government.
+
+(c) **The Code on Wages, 2019** received the assent of the President of India on August 8, 2019. Through its notification dated December 18, 2020, the Government of India brought into force certain sections of the Code on Wages, 2019. The remaining provisions of this code will be brought into force on a date to be notified by the Government of India. It proposes to subsume four separate legislations, namely, the Payment of Wages Act, 1936, the Minimum Wages Act, 1948, the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976.
+
+(d) **The Code on Social Security, 2020** received the assent of the President of India on September 28, 2020. Through its notification dated April 30, 2021, the Government of India brought into force Section 142 of the Code on Social Security, 2020. The remaining provisions of this code will be brought into force on a date to be notified by the Government of India. It proposes to subsume several separate legislations including the Employee's Compensation Act, 1923, the Employees' State Insurance Act, 1948, the Employees' Provident Funds and Miscellaneous Provisions Act, 1952, the Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959, the Maternity Benefit Act, 1961, and the Payment of Gratuity Act, 1972.
+
+*The Code on Social Security, 2020 received the assent of the President of India on September 28, 2020. Through its notification dated April 30, 2021, the Government of India brought into force section 142 of the Code on Social Security, 2020. The remaining provisions of this code will be brought into force on a date to be notified by the Government of India. Once effective, it will subsume, inter alia, the Employees' Compensation Act, 1923, the Employees' State Insurance Act, 1948, the Employee's Provident Fund and Miscellaneous Provisions Act, 1952, the Maternity Benefit Act, 1961 and the Payment of Gratuity Act, 1972.
+
+**The Government of India enacted 'The Code on Wages, 2019' (the "Code") which received the assent of the President of India on August 8, 2019. The provisions of the Code will be brought into force on a date to be notified by the Central Government. The Code proposes to subsume the Payment of Bonus Act, 1965 and the Equal Remuneration Act, 1976, each as amended. As on date, certain provisions of the Code have been brought into force vide notification dated December 18, 2020.
+
+## TAX RELATED LEGISLATIONS
+
+### INCOME TAX ACT, 1961
+
+Income Tax Act, 1961 is applicable to every Domestic / Foreign Company whose income is taxable under the provisions of this Act or Rules made under it depending upon its Residential Status and-Type of Income involved. U/s 139(1) every Company is required to file its Income tax return for every Previous Year by 30th September of the Assessment Year. Other compliances like those relating to Tax Deduction at Source, Fringe Benefit Tax, Advance Tax, and Minimum Alternative Tax like are also required to be complied by every Company.
+
+### GOODS AND SERVICE TAX (GST)
+
+Goods and Services Tax (GST) is levied on supply of goods or services or both jointly by the Central and State Governments. It was introduced as The Constitution (One Hundred and First Amendment) Act 2017 and is governed by the GST Council. GST provides for imposition of tax on the supply of goods or services and will be levied by central on intra-state supply of goods or services and by the States including Union territories with legislature/ Union Territories without legislature respectively. A destination-based consumption tax GST would be a dual GST with the central and states simultaneously levying tax with a common base. The GST law is enforced by various acts viz. Central Goods and Services Act, 2017 (CGST), State Goods and Services Tax Act, 2017 (SGST), Union Territory Goods and Services Tax Act, 2017 (UTGST), Integrated Goods

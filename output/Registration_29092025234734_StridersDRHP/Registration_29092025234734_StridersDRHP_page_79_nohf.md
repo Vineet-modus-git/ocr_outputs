@@ -1,0 +1,21 @@
+<table><thead><tr><th colspan="2">PRESENT ISSUE IN TERMS OF THIS DRAFT RED HERRING PROSPECTUS</th></tr><tr><th>Particulars</th><th>Details of Equity Shares</th></tr></thead><tbody><tr><td>application size of more than ₹10 lakhs</td><td></td></tr><tr><td>(c) Individual Investor Portion</td><td>Upto [●] Equity Shares having face value of ₹10/- each at an Issue Price of ₹[●] per Equity Share (including a securities premium of ₹[●] per Equity Share) aggregating to ₹ [●] Lakhs</td></tr><tr><th colspan="2">Pre and Post Issue Equity Share Capital of our Company</th></tr><tr><td>Equity Shares outstanding prior to the Issue</td><td>1,40,85,680 Equity Shares having face value of ₹ 10 per Equity Share</td></tr><tr><td>Equity Shares outstanding after the Issue</td><td>Up to [●] Equity Shares having face value of ₹ 10 per Equity Share</td></tr><tr><td>Objects of the Issue</td><td>Please refer Section titled "Objects of the Issue" on page [●] of this Draft Red Herring Prospectus.</td></tr></tbody></table>
+
+* Subject to finalisation of the Basis of Allotment. Number of shares may need to be adjusted for lot size upon determination of Issue price.
+
+Notes:
+
+(1) The Issue is being made in terms of Chapter IX of the SEBI (ICDR) Regulations, 2018, as amended from time to time. This Issue is being made by our company in terms of Regulation of 229 (2) of SEBI ICDR Regulations read with Rule 19(2)(b)(i) of SCRR wherein not less than 25% of the post - Issue paid up equity share capital of our company are being Issued to the public for subscription.
+
+(2) Public Issue of up to 52,00,000 Equity Shares face value of ₹ 10 each for cash at a price of ₹ [●] including premium of ₹ [●] per Equity Share of our Company aggregating to ₹ [●]. This Issue is being made in terms of Chapter IX of the SEBI (ICDR) Regulations, 2018, as amended from time to time. For further details, please refer to section "Issue Structure" beginning on page 263 of this Draft Red Herring Prospectus.
+
+(3) The Issue has been authorised by a resolution of our Board dated August 22, 2025. Our Shareholders have authorised the Issue pursuant to a special resolution dated August 29, 2025.
+
+(4) The Equity Shares being Offered by the Selling Shareholder has been held for a period of at least one year immediately preceding the date of the Draft Red Herring Prospectus, and are eligible for being Offered for sale pursuant to the Issue in terms of the SEBI ICDR Regulations:
+
+<table><thead><tr><th>Sr. No.</th><th>Name of Selling Shareholders</th><th>Date of consent letter</th><th>No. of Equity Shares</th><th>Amount (₹ in lakhs)</th></tr></thead><tbody><tr><td>1</td><td>Mustafa Esmail Kapasi</td><td>September 25, 2025</td><td>2,55,000</td><td>[●]</td></tr><tr><td>2</td><td>Kumarshri Rajkumar Bahety</td><td>September 25, 2025</td><td>2,55,000</td><td>[●]</td></tr></tbody></table>
+
+The Selling Shareholders have confirmed that the Equity Shares proposed to be offered and sold in the Issue are eligible in terms of SEBI (ICDR) Regulations, 2018 and that they have not been prohibited from dealings in securities market and the Equity Shares Issued and sold are free from any lien, encumbrance or third-party rights. The Selling Shareholders have also severally confirmed that they are the legal and beneficial owners of the Equity Shares being Issued by them under the Offer for Sale.
+
+(5) The Equity Shares being offered by the Selling Shareholders are eligible for being offered for sale as part of the Issue in terms of the SEBI ICDR Regulations. For details of authorizations received for the Issue, see "Other Regulatory and Statutory Disclosures" on page 243.
+
+(6) In the event of over-subscription, allotment shall be made on a proportionate basis, subject to valid Bids received at or above the Issue Price. Allocation to investors in all categories, except the Individual Investor Portion, shall be made on a proportionate basis subject to valid bids received at or above the Issue Price. The allocation to each Individual Investor shall not be less than

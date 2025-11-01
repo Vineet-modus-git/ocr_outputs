@@ -1,0 +1,31 @@
+eligible to invest. The QIB Portion will be reduced in proportion to allocation under the Anchor Investor Portion. In the event of undersubscription in the Anchor Investor Portion, the balance Equity Shares will be added to the QIB Portion.
+
+In accordance with the SEBI Regulations, the key terms for participation in the Anchor Investor Portion are provided below.
+
+1. Anchor Investor Bid cum Application Forms will be made available for the Anchor Investors at the offices of the Book Running Lead Manager.
+
+2. The Bid must be for a minimum of such number of Equity Shares so that the Bid Amount is at least 200.00 lakhs. A Bid cannot be submitted for over 60% of the QIB Portion. In case of a Mutual Fund, separate Bids by individual schemes of a Mutual Fund will be aggregated to determine the minimum application size of 200.00 lakhs.
+
+3. One-third of the Anchor Investor Portion will be reserved for allocation to domestic Mutual Funds.
+
+4. Bidding for Anchor Investors will open one Working Day before the Bid / Offer Opening Date and be completed on the same day.
+
+5. Our Company in consultation with the Book Running Lead Manager, will finalize allocation to the Anchor Investors on a discretionary basis, provided that the minimum and maximum number of Allottees in the Anchor Investor Portion will be, as mentioned below:
+
+* where allocation in the Anchor Investor Portion is up to Rs. 200.00 Lakhs, maximum of 2 (two) Anchor Investors.
+
+* where the allocation under the Anchor Investor Portion is more than Rs. 200.00 Lakhs but upto Rs. 2500.00 Lakhs, minimum of 2 (two) and maximum of 15 (fifteen) Anchor Investors, subject to a minimum Allotment of 100.00 Lakhs per Anchor Investor; and
+
+* where the allocation under the Anchor Investor portion is more than 2500.00 Lakhs: (i) minimum of 5 (five) and maximum of 15 (fifteen) Anchor Investors for allocation upto 2500.00 Lakhs; and (ii) an additional 10 Anchor Investors for every additional allocation of 2500.00 Lakhs or part thereof in the Anchor Investor Portion; subject to a minimum Allotment of 100.00 Lakhs per Anchor Investor.
+
+6. Allocation to Anchor Investors will be completed on the Anchor Investor Bid / Offer Period. The number of Equity Shares allocated to Anchor Investors and the price at which the allocation is made will be made available in the public domain by the Book Running Lead Manager before the Bid / Offer Opening Date, through intimation to the Stock Exchange.
+
+7. Anchor Investors cannot withdraw or lower the size of their Bids at any stage after submission of the Bid.
+
+8. If the Offer Price is greater than the Anchor Investor Allocation Price, the additional amount being the difference between the Offer Price and the Anchor Investor Allocation Price will be payable by the Anchor Investors within 2 (two) Working Days from the Bid / Offer Closing Date. If the Offer Price is lower than the Anchor Investor Allocation Price, Allotment to successful Anchor Investors will be at the higher price, i.e., the Anchor Investor Offer Price.
+
+9. At the end of each day of the bidding period, the demand including allocation made to anchor investors, shall be shown graphically on the bidding terminals of syndicate members and website of stock exchange offering electronically linked transparent bidding facility, for information of public.
+
+10. 50% of the Equity Shares Allotted to Anchor Investors in the Anchor Investor Portion shall be locked in for a period of 90 days from the date of Allotment, while the remaining 50% of the Equity Shares Allotted to Anchor Investors in the Anchor Investor Portion shall be locked in for a period of 30 days from the date of Allotment.
+
+11. The Book Running Lead Manager, our Promoters, Promoter Group or any person related to them (except for Mutual Funds sponsored by entities related to the Book Running Lead Manager) will not participate in the Anchor Investor Portion. The parameters for selection of Anchor Investors will be clearly identified by the Book Running Lead Manager and made available as part of the records of the Book Running Lead Manager for inspection by SEBI.

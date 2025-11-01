@@ -1,0 +1,25 @@
+Subject to compliance with all applicable Indian laws, rules, regulations, guidelines and approvals in terms of Regulation 22 of the SEBI FPI Regulations, an FPI, other than Category III foreign portfolio investor by virtue of their investment manager being appropriately regulated, may Offer or otherwise deal in offshore derivative instruments (as defined under the SEBI FPI Regulations as any instrument, by whatever name called, which is issued overseas by an FPI against securities held by it that are listed or proposed to be listed on any recognized stock exchange in India, as its underlying) directly or indirectly, only in the event (i) such offshore derivative instruments are issued only to persons who are regulated by an appropriate regulatory authority; and (ii) such offshore derivative instruments are issued after compliance with know your client norms. An FPI is also required to ensure that no further issue or transfer of any offshore derivative instrument is made by or on behalf of it to any persons that are not regulated by an appropriate foreign regulatory authority. Further, where an investor has investments as FPI and also holds positions as an overseas direct investment subscriber, investment restrictions under the SEBI FPI Regulations shall apply on the aggregate of FPI investments and overseas direct investment positions held in the underlying Indian company.
+
+FPIs who wish to participate in the Offer are advised to use the Bid cum Application Form for Non-Residents (blue in colour).
+
+Bids received from FPIs bearing the same PAN shall be treated as multiple Bids and shall be liable to be rejected, except for Bids from FPIs that utilize the multiple investment manager structure in accordance with SEBI master circular bearing reference number SEBI/HO/AFD/AFD-PoD-2/P/CIR/2024/70 dated May 30, 2024, provided such Bids have been made with different beneficiary account numbers, Client IDs and DP IDs.
+
+Accordingly, it should be noted that multiple Bids received from FPIs, who shall not utilize the multiple investment managers (“MIM”) Structure, and bear the same PAN, shall be liable to be rejected. In order to ensure valid Bids, FPIs making multiple Bids using the same PAN, and with different beneficiary account numbers, Client IDs and DP IDs, are required to provide a confirmation in the Bid cum Application Forms that the relevant FPIs making multiple Bids utilize the MIM Structure. In the absence of such confirmation from the relevant FPIs, such multiple Bids are required to be rejected.
+
+## BIDS BY SEBI REGISTERED VCF'S, AIF'S AND FVCI'S
+
+The SEBI FVCI Regulations, SEBI VCF Regulations and the SEBI AIF Regulations prescribe, inter alia, the investment restrictions on the FVCIs, VCFs and AIFs registered with SEBI respectively. Further, VCFs and FVCIs can invest only up to 33.33% of the investible funds by way of subscription to an initial public offering.
+
+The Category I AIF and Category II AIF cannot invest more than 25% of the investible funds in one Investee Company directly or through investment in the units of other AIFs. A Category III AIF cannot invest more than 10% of the investible funds in one Investee Company directly or through investment in the units of other AIFs. AIFs which are authorized under the fund documents to invest in units of AIFs are prohibited from offering their units for subscription to other AIFs. A VCF registered as a Category I AIF, as defined in the SEBI AIF Regulations, cannot invest more than 1/3rd of its investible funds by way of subscription to an initial public offering of a venture capital undertaking. Additionally, a VCF that has not re-registered as an AIF under the SEBI AIF Regulations shall continue to be regulated by the SEBI VCF Regulations (and accordingly shall not be allowed to participate in the Issue) until the existing fund or scheme managed by the fund is wound up and such funds shall not launch any new scheme after the notification of the SEBI AIF Regulations.
+
+There is no reservation for Eligible NRIs, FPIs and FVCIs and all Bidders will be treated on the same basis with other categories for the purpose of allocation.
+
+Further, the shareholding of VCFs, category I AIFs or category II AIFs and FVCIs holding Equity Shares prior to Offer, shall be locked-in for a period of at least one year from the date of purchase of such Equity Shares.
+
+All non-resident investors should note that refunds, dividends and other distributions, if any, will be payable in Indian Rupees only and net of bank charges and commission.
+
+**Our Company or the Book Running Lead Manager will not be responsible for loss, if any, incurred by the Bidder on account of conversion of foreign currency.**
+
+## BIDS BY HUFS
+
+Hindu Undivided Families or HUFs, in the individual name of the Karta. The Bidder should specify that the Application is being made in the name of the HUF in the Bid cum Application Form as follows: “Name of sole or first Applicant: XYZ Hindu Undivided Family applying through XYZ, where XYZ is the name of the Karta”. Bid cum Applications by HUFs may be considered at par with Bid cum Applications from individuals.

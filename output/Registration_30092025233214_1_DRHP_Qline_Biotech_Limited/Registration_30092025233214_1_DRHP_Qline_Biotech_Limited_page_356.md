@@ -1,0 +1,35 @@
+Q-Line Biotech Limited
+
+6) Allocation to Anchor Investors will be completed on the Anchor Investor Bid/ Issue Period. The number of Equity Shares allocated to Anchor Investors and the price at which the allocation is made will be made available in the public domain by the Book Running Lead Managers before the Bid/Issue Opening Date, through intimation to the Stock Exchange.
+
+7) Anchor Investors cannot withdraw or lower the size of their Bids at any stage after submission of the Bid.
+
+8) If the Issue Price is greater than the Anchor Investor Allocation Price, the additional amount being the difference between the Issue Price and the Anchor Investor Allocation Price will be payable by the Anchor Investors within 2 (two) Working Days from the Bid/ Issue Closing Date. If the Issue Price is lower than the Anchor Investor Allocation Price, Allotment to successful Anchor Investors will be at the higher price, i.e., the Anchor Investor Issue Price.
+
+9) At the end of each day of the bidding period, the demand including allocation made to anchor investors, shall be shown graphically on the bidding terminals of syndicate members and website of stock exchange offering electronically linked transparent bidding facility, for information of public.
+
+10) 50% of the Equity Shares Allotted to Anchor Investors in the Anchor Investor Portion shall be locked in for a period of 90 days from the date of Allotment, while the remaining 50% of the Equity Shares Allotted to Anchor Investors in the Anchor Investor Portion shall be locked in for a period of 30 days from the date of Allotment.
+
+11) The Book Running Lead Managers, our Promoters, Promoter Group or any person related to them (except for Mutual Funds sponsored by entities related to the Book Running Lead Managers) will not participate in the Anchor Investor Portion. The parameters for selection of Anchor Investors will be clearly identified by the Book Running Lead Managers and made available as part of the records of the Book Running Lead Managers for inspection by SEBI.
+
+12) Bids made by QIBs under both the Anchor Investor Portion and the QIB Portion will not be considered multiple Bids.
+
+13) Anchor Investors are not permitted to Bid in the Issue through the ASBA process.
+
+## BIDS BY ELIGIBLE NRI'S:
+
+Eligible NRIs may obtain copies of Bid cum Application Form from the offices of the Book Running Lead Managers and the Designated Intermediaries. Eligible NRI Bidders bidding on a repatriation basis by using the Non- Resident Forms should authorize their SCSB to block their Non-Resident External ("NRE") accounts, or Foreign Currency Non-Resident ("FCNR") ASBA Accounts, and eligible NRI Bidders bidding on a non-repatriation basis by using Resident Forms should authorize their SCSB to block their Non- Resident Ordinary ("NRO") accounts for the full Bid Amount, at the time of the submission of the Bid cum Application Form.
+
+* Eligible NRIs bidding on non-repatriation basis are advised to use the Bid cum Application Form for residents (white in colour).
+
+* Eligible NRIs bidding on a repatriation basis are advised to use the Bid cum Application Form meant for Non-Residents (blue in colour).
+
+## BIDS BY FPI INCLUDING FII'S:
+
+In terms of the SEBI FPI Regulations, the issue of Equity Shares to a single FPI including its investor group (which means multiple entities registered as FPIs and directly or indirectly having common ownership of more than 50% or common control) must be below 10% of the post-Offer paid-up capital.
+
+In case of Bids made by FPIs, a certified copy of the certificate of registration issued under the SEBI FPI Regulations is required to be attached to the Bid cum Application Form, failing which our Company reserves the right to reject any Bid without assigning any reason. FPIs who wish to participate in the Offer are advised to use the Bid cum Application Form for Non-Residents (● in colour).
+
+If the total holding of an FPI increases beyond 10% of the total paid-up Equity Share capital, on a fully diluted basis or 10% or more of the paid-up value of any series of debentures or preference shares or share warrants issued that may be issued by our Company, the total investment made by the FPI will be re-classified as FDI subject to the conditions as specified by SEBI and the RBI in this regard and our Company and the investor will be required to comply with applicable reporting requirements. Further, the total holdings of all FPIs put together, with effect from April 1, 2020, can be up to the sectoral cap applicable to the sector in which our Company operates.
+
+In terms of the FEMA Regulations, for calculating the aggregate holding of FPIs in a company, holding of all registered FPIs shall be included.

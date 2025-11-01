@@ -1,0 +1,25 @@
+(AML/CFT) guidelines, Value Added Tax (VAT) laws, and applicable Free Zone regulations. Any failure to comply with these requirements, whether due to inadvertence, misinterpretation, or delay in reporting, may result in monetary penalties, regulatory actions, or restrictions on our operations. Such instances of non-compliance may also adversely affect our reputation, business continuity, and financial performance.
+
+**46. We are dependent on our Promoters, Directors, Key Managerial Personnel and senior management, including other employees with technical expertise, and any loss of or our inability to retain such persons could adversely affect our business, results of operations and financial condition.**
+
+Our success depends significantly on the continued efforts, domain knowledge, experience and contributions of our Promoters, Directors, Key Managerial Personnel (“KMPs”), senior management and certain other employees with technical and industry-specific expertise. Our Promoters and senior leadership play a vital role in the formulation and execution of our business strategies and in managing our day-to-day operations. Their deep understanding of the industry and established relationships with customers, suppliers, vendors, and other stakeholders are critical to our current and future performance.
+
+We do not currently maintain any key man insurance policy for any of our Directors or senior managerial personnel. The loss of the services of one or more of these individuals or our inability to attract, retain or replace such personnel in a timely manner, or on commercially acceptable terms, may adversely impact our operations, ability to execute business plans, and maintain customer relationships.
+
+Further, as we continue to grow and diversify, our ability to recruit, train and retain skilled personnel with relevant experience in manufacturing, quality control, compliance, supply chain and retail operations will be critical. Failure to do so could impact our operational efficiency and hinder our ability to scale effectively.
+
+Any such disruption in our leadership or employee base could materially and adversely affect our business, financial condition, results of operations and future prospects.
+
+**47. There could be infringement of our intellectual property rights by third parties, which may damage our reputation, dilute our brand identity, and adversely affect our business and results of operations.**
+
+The protection of our intellectual property rights may require the expenditure of significant financial, managerial, and operational resources. We rely on a combination of intellectual property laws, limited provision of confidential information, and contractual restrictions to protect our intellectual property. For further details, see “Our Business - Intellectual Property” and “Government and Other Approvals” (*) and (*) respectively.
+
+Despite our efforts to protect and enforce our intellectual property rights, unauthorized third parties may use our brand names, trademarks, copyrighted content, product designs, packaging, or website images in a manner that may result in consumer confusion, reputational harm, and dilution of brand value. Unauthorized use of our trademarks or content by such parties may mislead consumers and impact our sales, goodwill, and credibility in the market.
+
+Certain trademarks applied by us and there is no assurance that these will ultimately be registered. We may not be able to obtain or maintain intellectual property protection for all of our brands or product lines in India or in other jurisdictions where we intend to expand. Any failure to register or maintain these rights could hinder our ability to enforce them, limit our exclusivity, and negatively affect our competitive position.
+
+Additionally, the process of acquiring and defending intellectual property rights is time-consuming and expensive, and compensation for infringement is often limited or difficult to obtain, especially in foreign jurisdictions. We may also be required to rebrand or redesign our products or packaging in the event of a successful challenge by a third party, which could increase our costs and delay product launches.
+
+Further, we are partially dependent on third-party consultants, such as product and packaging designers, and photographers, for various aspects of product development, branding, and e-commerce operations. Any failure to secure or maintain appropriate ownership or licenses could force us to remove infringing content or invest additional time and expense to recreate such content.
+
+Moreover, our domain names or similar-sounding domains may be acquired or misused by unrelated third parties, leading to customer confusion or fraud. If we fail to renew or secure our key domain names, it could disrupt our online presence, harm customer experience, and adversely affect our business and operations.

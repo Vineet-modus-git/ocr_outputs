@@ -1,0 +1,31 @@
+In terms of undertaking executed by our Promoters, Equity Shares forming part of Promoter' Contribution subject to lock in will not be disposed/ sold/ transferred by our Promoter during the period starting from the date of filing of this Draft Red Herring Prospectus till the date of commencement of lock in period as stated in this Draft Red Herring Prospectus.
+
+### Details of Equity Shares Locked-in for six months
+
+Other than the Equity Shares locked-in as Promoter' Contribution for a period of 3 years as stated in the table above, the entire pre-Issue capital of the Company, including the excess of minimum Promoter' Contribution, as per Regulation 238 & 239 of the SEBI (ICDR) Regulations, shall be locked in for a period of 1 year from the date of Allotment of Equity Shares in the Issue. Such lock - in of the Equity Shares would be created as per the bye laws of the Depositories.
+
+### Inscription or recording of non-transferability
+
+In terms of Regulation 241 of the SEBI (ICDR) Regulations, 2018, the Equity Shares which are subject to lock-in shall carry inscription 'non-transferable' along with the Ratio of specified non-transferable period mentioned in the face of the security certificate. The shares which are in dematerialized form, if any, shall be locked in by the respective depositories. The details of lock-in of the Equity Shares shall also be provided to the Designated Stock Exchange before the listing of the Equity Shares.
+
+### Pledge of Locked in Equity Shares
+
+Pursuant to Regulation 242 of the SEBI ICDR Regulations, the locked-in Equity Shares held by our Promoters can be pledged with any scheduled commercial bank or public financial institution or systematically important non-banking finance company or a housing finance company as collateral security for loans granted by them, provided that:
+
+a) if the equity shares are locked in in terms of clause (a) of Regulation 238, the loan has been granted to the company or its subsidiary(ies) for the purpose of financing one or more of the objects of the Issue and pledge of equity shares is one of the terms of sanction of the loan.
+
+b) if the specified securities are locked in in terms of clause (b) of Regulation 238 and the pledge of specified securities is one of the terms of sanction of the loan.
+
+Provided that such lock-in shall continue pursuant to the invocation of the pledge and such transferee shall not be eligible to transfer the equity shares till the lock-in period stipulated in these regulations has expired.
+
+### Transferability of Locked in Equity Shares
+
+a) Pursuant to Regulation 243 of the SEBI ICDR Regulations, Equity Shares held by our Promoters, which are locked in as per Regulation 238 of the SEBI ICDR Regulations, may be transferred to and amongst our Promoters/ Promoter Group or to a new promoter or persons in control of our Company subject to continuation of the lock-in in the hands of the transferees for the remaining period and compliance with SEBI SAST Regulations as applicable.
+
+b) Pursuant to Regulation 243 of the SEBI ICDR Regulations, Equity Shares held by shareholders other than our Promoters, which are locked-in as per Regulation 239 of the SEBI ICDR Regulations, may be transferred to any other person holding shares, subject to continuation of the lock-in in the hands of the transferees for the remaining period and compliance with SEBI SAST Regulations as applicable.
+
+1. The Company, its Promoter, Directors and the Book Running Lead Manager have no existing buyback arrangements or any other similar arrangements for the purchase of Equity Shares being issued through the Issue.
+
+1. All Equity Shares Issue ed pursuant to the Issue shall be fully paid-up at the time of Allotment and there are no partly paid-up Equity Shares as on the date of this Draft Red Herring Prospectus. Further, since the entire money in respect of the Issue is being called on application, all the successful Applicants will be Issue ed fully paid-up Equity Shares.
+
+2. As on the date of this Draft Red Herring Prospectus, the Book Running Lead Manager and their respective associates (as defined under the SEBI MB Regulations) do not hold any Equity Shares of our Company. The Book Running Lead Manager and their affiliates may engage in the transactions with and perform services for

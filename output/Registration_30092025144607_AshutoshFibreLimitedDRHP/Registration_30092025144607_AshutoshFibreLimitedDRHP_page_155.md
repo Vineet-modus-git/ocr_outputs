@@ -1,0 +1,33 @@
+17265:2019 (Polypropylene Multifilament Yarns), IS 13344:1992 (High Tenacity Industrial Yarn), IS 667:1981 (Textile Yarns Count Method), among others. Compliance with such standards is often required for supply to institutional or industrial customers.
+
+For the Financial Years ended March 31, 2025, 2024 and 2023, we have maintained defect and rejection rates at 0.40%, 0.03% and 0.13% of revenue from operation respectively.
+
+## Alignment with global sustainability and ESG mandates
+
+We have undertaken several sustainability and compliance initiatives across our operations to align with global environmental, social and governance (ESG) practices and to meet the expectations of our customers in technical yarn markets.
+
+The Company has successfully commissioned a 380 KW rooftop solar power system at its manufacturing unit in Petlad for captive consumption, aimed at reducing electricity costs and supporting sustainable operations. The solar connection was released by MGVCL on January 19, 2022, pursuant to an agreement dated January 03, 2022. This initiative demonstrates the Company's commitment to renewable energy adoption and long-term cost efficiency. Further, one of our key initiatives has been the successful commissioning of a 4 MW solar power plant for captive consumption, aimed at reducing electricity expenses and minimizing carbon emissions. The solar plant is located on leased land bearing Survey No. 843/72/01, 843/73/01 and 843/74/01, situated at Village Kankanpur, Taluka Godhra, District Panchmahal, Gujarat. For further details on the properties refer "*Our Business – Immovable Property*" at page 171.
+
+The Company received the Erection and Commissioning Certificate from Gujarat Energy Transmission Corporation Limited (GETCO) on February 07, 2025 and the Certificate of Commissioning from the Gujarat Energy Development Agency (GEDA) on April 30, 2025, confirming successful commissioning. The plant is expected to substitute a significant portion of our electricity requirements from Financial Year 2025-26 onwards, thereby contributing to cost savings and sustainability objectives. As part of its responsibility towards the environment, the Company continues to explore initiatives that lower its carbon footprint and promote long-term sustainability.
+
+In addition, our commitment to quality, environmental responsibility and occupational health and safety is validated by the certifications we hold:
+
+* ISO 9001:2015 – Quality Management System, issued by Alcumus ISOQAR Limited.
+* ISO 14001:2015 – Environmental Management System, issued by Alcumus ISOQAR Limited.
+* ISO 45001:2018 – Occupational Health & Safety Management System, issued by Alcumus ISOQAR Limited.
+* 5S Certification – Workplace Management System, issued by 4C Consulting Private Limited.
+* OEKO-TEX® Standard 100 Certification – for textile safety from harmful substances, issued by Shirley Technologies Limited.
+
+These certifications provide assurance that our processes are aligned with globally recognised standards for quality, environmental stewardship, occupational health and safety and product safety.
+
+We have also introduced digital systems for financial and operational management, which improve traceability, compliance monitoring and reporting. This digital integration is increasingly valued by global customers who demand supply chain transparency and adherence to ESG principles.
+
+Through renewable energy adoption, sustainable fibre recycling, workplace safety practices and internationally recognised certifications, we are reliable partner to the industries where compliance with ESG and sustainability mandates is becoming an essential requirement for supplier selection.
+
+## BUSINESS STRATEGY
+
+### Production Capacity Enhancement and Cost Optimization
+
+Our Company aims to scale up its production capacity by expanding operations within our existing facility in Petlad, Gujarat. As a manufacturer of technical yarns in India, we currently cater to diverse end-use industries such as defence, filtration, protective clothing, automotive and composites. To meet growing demand, especially in the technical and high-performance yarn segments, we plan to deploy additional compact spinning systems and high-value yarn attachments such as the Pinter Hard Core system, which will allow for the manufacture of core-spun and specialty yarns.
+
+By expanding within the existing industrial framework, we aim to optimise capital expenditure while leveraging shared resources such as infrastructure, skilled workforce and administrative functions. This will help us reduce overhead duplication, lower logistics costs and ensure agile allocation of machinery and staff across operations.

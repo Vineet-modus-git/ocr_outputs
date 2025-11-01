@@ -1,0 +1,7 @@
+Q-Line Biotech Limited
+
+<table><tr><td>WTD</td><td>Whole Time Director</td></tr><tr><td>w.e.f.</td><td>With effect from</td></tr><tr><td>-, (Rs.)</td><td>Represent Outflow</td></tr></table>
+
+The words and expressions used but not defined in this Draft Red Herring Prospectus will have the same meaning as assigned to such terms under the Companies Act, 2013, the Securities and Exchange Board of India Act, 1992 (the “SEBI Act”), the SCRA, SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 the Depositories Act and the rules and regulations made thereunder.
+
+15

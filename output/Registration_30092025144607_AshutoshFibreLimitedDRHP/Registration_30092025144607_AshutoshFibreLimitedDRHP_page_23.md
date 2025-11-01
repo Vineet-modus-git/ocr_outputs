@@ -1,0 +1,27 @@
+# SECTION II – SUMMARY OF THE DRAFT RED HERRING PROSPECTUS
+
+The section is a general summary of the terms of the Issue, certain disclosures included in this Draft Red Herring Prospectus and is neither exhaustive, nor purports to contain a summary of all the disclosures in this Draft Red Herring Prospectus, or all details relevant to prospective investors. This summary should be read in conjunction with and is qualified in its entirety by, the more detailed information appearing elsewhere in this Draft Red Herring Prospectus, including the section titled “Risk Factors”, “The Issue”, “Capital Structure”, “Objects of the Issue”, “Industry Overview”, “Our Business”, “Restated Financial Statements”, “Outstanding Litigation and Material Developments”, “Our Promoters and Promoters Group”, “Issue Structure” and “Description of Equity Shares and Terms of the Articles of Association” on pages 27, 57, 72, 92, 115, 145, 228, 249, 217, 279 and 319, respectively of this Draft Red Herring Prospectus.
+
+## A. OVERVIEW OF THE BUSINESS
+
+Our Company was originally incorporated on May 21, 1985 under the name “Ashutosh Fibre Private Limited” under the provisions of the Companies Act, 1956 and the Certificate of Incorporation was issued by Registrar of Companies, Ahmedabad, bearing Registration Number 007831 of 1985. Pursuant to a special resolution passed by our Shareholders in the Extra-Ordinary General Meeting held on July 29, 2024, our Company was converted from a private limited company to public limited company and consequently, the name of our Company was changed to “Ashutosh Fibre Limited” and a fresh certificate of incorporation dated April 21, 2025 was issued to our Company by the Registrar of Companies, Central Processing Centre, Manesar, Haryana. The present CIN of our Company is U24299GJ1985PLC007831. For details of change in registered office of our Company, please refer to chapter titled “History and Certain Corporate Matters” beginning on page 194.
+
+In 1995, the ownership of the Company was transferred to the family of our current promoter through a transfer of shares. At the time, the Company was engaged in both manufacturing and trading activities. Trading continued to contribute significantly to the business until FY 2006–07; however, over time, manufacturing emerged as the primary area of focus. In 2010, Abhishek Rajendrakumar Agarwal, who possesses relevant industry experience, joined the Company through a transfer of shares and contributed to the further development and expansion of the Company’s manufacturing capabilities. Currently, the business is managed by our promoters, Siddharth Prakash Patel and Abhishek Rajendrakumar Agarwal. Under their leadership, the Company has scaled its operations and established a manufacturing facility in Petlad, Gujarat, specializing in the production of various technical and synthetic yarns.
+
+Technical textiles products are specifically designed to deliver functional and performance-based characteristics. These are engineered to meet defined technical requirements such as high tensile strength, thermal resistance, flame retardancy, chemical stability, durability, lightweight characteristics, moisture management and more depending on their end-use application. They are widely used across various industrial, protective and specialized sectors where functional performance is the primary consideration.
+
+*For more details, please refer chapter titled “Our Business” beginning on the page 145 of this Draft Red Herring Prospectus.*
+
+## B. OVERVIEW OF THE INDUSTRY
+
+The global technical textile industry has evolved into a dynamic, innovation-driven sector that emphasizes functionality over aesthetics. These specialized textiles are used in a wide range of industries such as automotive, medical, construction, agriculture, Industrial and defence. Their ability to deliver properties like strength, thermal resistance, flame retardancy and filtration has made them essential in both industrial and consumer applications. As industrial activity continues to grow globally, the demand for high-performance textiles—particularly in transport and industrial use cases—has steadily increased.
+
+India’s technical textile sector has gained strategic importance in recent years, transitioning from a niche category to a key focus area for industrial modernization and import substitution. These textiles designed for functional and performance-based use are increasingly integrated into essential industries such as transportation, Industrial, healthcare, environmental protection, packaging, defence and civil engineering.
+
+Driven by advancements in material science and changing market needs, technical textiles are enabling product innovation and efficiency across a wide range of applications. The industry is witnessing accelerated adoption, supported by policy interventions, rising awareness among end-users and growing emphasis on safety, hygiene and sustainability.
+
+*For more details, please refer chapter titled “Industry Overview” beginning on page 115 of this Draft Red Herring Prospectus.*
+
+## C. OUR PROMOTERS
+
+As on the date of filing of this Draft Red Herring Prospectus, Siddharth Prakash Patel & Abhishek Rajendrakumar Agarwal being individual promoters and Prahash Fin-stock Private Limited being corporate promoter.

@@ -1,0 +1,3 @@
+43. No person connected with the Issue shall offer any incentive, whether direct or indirect, in the nature of discount, commission, and allowance, or otherwise, whether in cash, kind, services or otherwise, to any Applicant.
+
+44. We shall ensure that transactions in Equity Shares by the Promoters and members of the Promoter Group, if any, between the date of filing the Red Herring Prospectus with the RoC and the Issue Closing Date shall be reported to the Stock Exchanges within 24 hours of such transactions being completed.

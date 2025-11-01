@@ -1,0 +1,35 @@
+Q-Line Biotech Limited
+
+# ANNEXURE-IV & ANNEXURE V TO RESTATED CONSOLIDATED FINANCIAL STATEMENTS OF Q-LINE BIOTECH LIMITED
+
+## SIGNIFICANT ACCOUNTING POLICY AND NOTES TO THE RESTATED CONSOLIDATED FINANCIAL STATEMENTS
+
+### A. BACKGROUND
+
+The Company was originally incorporated as “Q-LINE BIOTECH Private Limited” on November 10th, 2010 under the provisions of the Companies Act, 1956 with the Registrar of Companies, Kanpur, Uttar-Pradesh. Subsequently, the Company was converted into a Public Limited Company and consequently the name of the Company was changed from “Q-LINE BIOTECH PRIVATE LIMITED” to “Q-LINE BIOTECH LIMITED” vide a fresh certificate of incorporation consequent upon conversion from private company to public company dated 07th March, 2025 issued by the Registrar of Companies, CPC, bearing CIN U74120UP2010PLC042528. Company is currently engaged in Manufacturing and Trading into Biochemistry Reagents and Consumables.
+
+### B. STATEMENT OF SIGNIFICANT ACCOUNTING POLICIES
+
+#### 1. BASIS OF PREPARATION OF CONSOLIDATED FINANCIAL STATEMENTS
+
+The Consolidated Restated Statement of Assets and Liabilities of the Company as at March 31, 2025, March 31, 2024, and March 31, 2023 and the Consolidated Restated Statement of Profit and Loss and Consolidated Restated Statements of Cash Flows for the year ended on March 31, 2025, March 31, 2024, and March 31, 2023 and the annexure thereto (collectively, the “Restated Consolidated Financial Statements”) have been extracted by the management from the respective Consolidated Audited Financial Statements of the Company.
+
+The financial statements of the company have been prepared and presented in accordance with the Generally Accepted Accounting Principles (GAAP). GAAP comprises the Accounting Standards notified u/s 133 read with Section 469 of the Companies Act, 2013. The accounting policies used for Restated financial statement is similar and followed consistently unless if the policy used in the Audited financial statement is not in accordance with the Accounting Standards and therefore suitable policy changes also adopted by the management while preparing the restated financial statement. Accounting policies have been framed, keeping in view the fundamental accounting assumptions of Going Concern, Historical cost convention, Consistency and Accrual, as also basic considerations of Prudence, Substance over form, and Materiality.
+
+The Financial Statements have been prepared on a going concern basis, in as much as the management neither intends to liquidate the company nor to cease operations. Accordingly, assets, liabilities, income and expenses are recorded on a Going Concern basis. Based on the nature of products and services, and the time between the acquisition of assets and realization in cash or cash equivalents, the company has ascertained its operating cycle as 12 months for the purposes of current and non-current classification of assets and liabilities.
+
+The Restated Financial Statements have been prepared in Rs Lakhs, unless otherwise specified in respective schedules, notes, etc.
+
+The Consolidated Financial Statements have been prepared in accordance with Accounting Standard (AS) 21 – Consolidated Financial Statements, notified under the Companies (Accounting Standards) Rules, and other applicable accounting standards.
+
+* The financial statements of the parent company and its subsidiaries have been consolidated on a **line-by-line basis** by adding together like items of assets, liabilities, income, and expenses. Inter-company balances and transactions, including unrealized profits/losses arising from intra-group transactions, have been fully eliminated.
+
+* **Minority interest**, where applicable, in the net assets of consolidated subsidiaries is presented separately from the parent's equity in the consolidated balance sheet. The share of profit or loss attributable to minority interest is also separately disclosed in the consolidated statement of profit and loss.
+
+* **Investments in associates** have been accounted for using the **equity method** in accordance with AS 23 – Accounting for Investments in Associates in Consolidated Financial Statements. Under this method, the investment is initially recorded at cost and adjusted thereafter for the post-acquisition change in the investor's share of net assets of the associate.
+
+* During the year, the Group:
+
+**Acquired control** over certain entities which have been consolidated from the date on which control was obtained.
+
+**Disposed of certain subsidiaries and associates**, and accordingly, their financial results have been excluded from the consolidation from the date of disposal.

@@ -1,0 +1,5 @@
+<table><thead><tr><th rowspan="2">(V) Actuarial Assumptions :</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Discount rate</td><td>6.71%</td><td>7.13%</td><td>7.30%</td></tr><tr><td>Expected rate of return on assets</td><td>0.00%</td><td>0.00%</td><td>0.00%</td></tr><tr><td>Withdrawal /attrition rate</td><td>10.00%</td><td>10.00%</td><td>10.00%</td></tr><tr><td>Salary Growth Rate</td><td>8.00%</td><td>8.00%</td><td>8.00%</td></tr><tr><td>Mortality*</td><td>IALM 2012-14</td><td>IALM 2012-14</td><td>IALM 2012-14</td></tr><tr><td>Average Future Service (In years)</td><td>25.77 Years</td><td>25.34 Years</td><td>25.93 Years</td></tr></tbody></table>
+
+* IAL: India Assured Lives Mortality modified Ult.
+
+\#Kindly note that provision as per AS-15 were specifically prepared for the restated consolidated financial statement as per Generally Accepted Accounting Principles in India.

@@ -1,0 +1,17 @@
+SHREYAS FABTECH LIMITED
+
+Plot No.H37, MIDC Ambad, Nashik-422010, Maharashtra, India
+
+CIN: U28999MH2022PLC391593
+
+Annexure V - Notes to special purpose combined financial statements
+
+(All amounts in Indian Rupees in Lakhs unless otherwise stated)
+
+26 Restated Statement of Other Expenses
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>Year ended<br>March 31, 2025</th><th>Year ended<br>March 31, 2024</th><th>Year ended<br>March 31, 2023</th></tr></thead><tbody><tr><td><strong>Office Administrative Expenses</strong></td><td></td><td></td><td></td></tr><tr><td>Payment to Auditors (Refer Note 26.1)</td><td>1.60</td><td>1.40</td><td>1.30</td></tr><tr><td>Professional fees</td><td>26.88</td><td>12.56</td><td>16.10</td></tr><tr><td>Rates and taxes</td><td>1.51</td><td>21.46</td><td>1.91</td></tr><tr><td>Travelling Expenses</td><td>18.27</td><td>22.77</td><td>35.31</td></tr><tr><td>Communication Expense</td><td>1.34</td><td>0.24</td><td>1.42</td></tr><tr><td>Corporate Social Responsibility Contribution</td><td>6.80</td><td>-</td><td>0.00</td></tr><tr><td>Insurance Premium</td><td>4.26</td><td>1.34</td><td>1.36</td></tr><tr><td>Membership Subscription Fees</td><td>0.07</td><td>0.12</td><td>0.18</td></tr><tr><td>Office Expenses</td><td>5.97</td><td>2.79</td><td>2.33</td></tr><tr><td>Repairs & Maintenance</td><td>0.23</td><td>8.60</td><td>2.33</td></tr><tr><td>Sundry Balance Written Off (Net)</td><td>43.02</td><td>0.00</td><td>0.25</td></tr><tr><td>Security Charges</td><td>5.24</td><td>2.94</td><td>0.00</td></tr><tr><td>Other Expenses</td><td>12.29</td><td>8.69</td><td>13.70</td></tr><tr><td><strong>Total</strong></td><td><strong>127.47</strong></td><td><strong>82.91</strong></td><td><strong>76.19</strong></td></tr><tr><td><strong>Selling and Distribution Expenses</strong></td><td></td><td></td><td></td></tr><tr><td>Advertisement Expenses</td><td></td><td></td><td></td></tr><tr><td>Business Promotion</td><td>2.07</td><td>1.63</td><td>1.29</td></tr><tr><td>Clearing and Forwarding Expense</td><td>7.36</td><td>2.74</td><td>2.74</td></tr><tr><td>Freight Outward</td><td>42.48</td><td>27.58</td><td>25.15</td></tr><tr><td><strong>Total</strong></td><td><strong>51.92</strong></td><td><strong>31.96</strong></td><td><strong>29.18</strong></td></tr><tr><td><strong>Total</strong></td><td><strong>179.38</strong></td><td><strong>114.87</strong></td><td><strong>105.37</strong></td></tr></tbody></table>
+
+26.1 Payment to auditor
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>Year ended<br>March 31, 2025</th><th>Year ended<br>March 31, 2024</th><th>Year ended<br>March 31, 2023</th></tr></thead><tbody><tr><td>Statutory Audit fees</td><td>1.10</td><td>0.90</td><td>1.30</td></tr><tr><td>Tax Audit fees</td><td>0.50</td><td>0.50</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>1.60</strong></td><td><strong>1.40</strong></td><td><strong>1.30</strong></td></tr></tbody></table>

@@ -1,0 +1,27 @@
+are employed, or were employed, on any day of the preceding twelve months; such other establishments or class of establishments, in which ten or more employees are employed, on any day of the preceding twelve months, as the Central Government, may by notification, specify in this behalf. A shop or establishment to which this Act has become applicable shall be continued to be governed by this Act irrespective of the number of persons falling below ten at any day. The gratuity shall be payable to an employee on termination of his employment after he has rendered continuous service of not less than five years on superannuation or his retirement or resignation or death or disablement due to accident or disease. The five year period shall be relaxed in case of termination of service due to death or disablement.
+
+**Maternity Benefit Act, 1961 (the "Act")**
+
+The Act provides for leave and right to payment of maternity benefits to women employees in case of confinement or miscarriage etc. The Act is applicable to every establishment which is a factory, mine or plantation including any such establishment belonging to government and to every establishment of equestrian, acrobatic and other performances, to every shop or establishment within the meaning of any law for the time being in force in relation to shops and establishments in a state, in which ten or more persons are employed, or were employed, on any day of the preceding twelve months; provided that the state government may, with the approval of the Central Government, after giving at least two months' notice shall apply any of the provisions of this Act to establishments or class of establishments, industrial, commercial, agricultural or otherwise.
+
+**Child Labour Prohibition and Regulation Act, 1986 (the "Child Labour Act")**
+
+The Child Labour Act prohibits employment of children below 14 years of age in certain occupations and processes and provides for regulation of employment of children in all other occupations and processes. Employment of Child Labour in our industry is prohibited as per Part B (Processes) of the Schedule.
+
+**Trade Union Act, 1926 and Trade Union (Amendment) Act, 2001 (the "Act")**
+
+The Act provides that any dispute between employers and workmen or between workmen and workmen, or between employers and employers which is connected with the employment, or non-employment, or the terms of employment or the conditions of labour, of any person shall be treated as trade dispute. For every trade dispute a trade union has to be formed. For the purpose of Trade Union Act, 1926, Trade Union means combination, whether temporary or permanent, formed primarily for the purpose of regulating the relations between workmen and employers or between workmen and workmen, or between employers and employers, or for imposing restrictive condition on the conduct of any trade or business etc.
+
+**The Sexual Harassment of Women at workplace (Prevention, Prohibition and Redressal) Act, 2013 (the "Act")**
+
+In order to curb the rise in sexual harassment of women at workplace, this Act was enacted for prevention and redressal of complaints and for matters connected therewith or incidental thereto. The terms sexual harassment and workplace are both defined in the Act. Every employer should also constitute an "Internal Complaints Committee" and every officer and member of the company shall hold office for a period of not exceeding three years from the date of nomination. Any aggrieved woman can make a complaint in writing to the Internal Committee in relation to sexual harassment of female at workplace. Every employer has a duty to provide a safe working environment at workplace which shall include safety from the persons coming into contact at the workplace, organising awareness programs and workshops, display of rules relating to the sexual harassment at any conspicuous part of the workplace, provide necessary facilities to the internal or local committee for dealing with the complaint, such other procedural requirements to assess the complaints.
+
+**Industrial Disputes Act, 1947 ("ID Act") and Industrial Dispute (Central) Rules, 1957**
+
+The ID Act and the Rules made there under provide for the investigation and settlement of industrial disputes. Workmen under the ID Act have been provided with several benefits and are protected under various labour legislations, whilst those persons who have been classified as managerial employees and earning salary beyond prescribed amount may not generally be afforded statutory benefits or protection, except in certain cases. Employees may also be subject to the terms of their employment contracts with their employer, which contracts are regulated by the provisions of the Indian Contract Act, 1872. The ID Act also sets out certain requirements in relation to the termination of the services of the workman. The ID Act includes detailed procedure prescribed for resolution of disputes with labour, removal and certain financial obligations up on retrenchment. The Industrial Dispute (Central) Rules, 1957 specify procedural guidelines for lock-outs, closures, lay-offs and retrenchment.
+
+# TAX RELATED LEGISLATIONS
+
+**Goods and Service Tax ("GST Act")**
+
+Goods and Services Tax (GST) is levied on supply of goods or services or both jointly by the Central and State Governments. It was introduced as The Constitution (One Hundred and First Amendment) Act, 2017 and is governed by the GST Council. GST

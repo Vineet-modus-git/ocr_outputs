@@ -1,0 +1,37 @@
+attributable to the market demand and pricing.
+
+### Other Income:
+
+Other income declined by 64.34% from ₹4.88 Lakhs in Fiscal 2023 to ₹1.74 Lakhs in Fiscal 2024. The decrease was primarily due to reduction of interest income and non-occurrence of balances written off during the year.
+
+### Total Expenses:
+
+Total expenses increased by ₹669.79 Lakhs (7.17%) from ₹9,340.93 Lakhs in Fiscal 2023 to ₹10,010.72 Lakhs in Fiscal 2024. The increase is primarily attributable to increase in Cost of Material Consumed, Purchase of Stock in Trade, Finance cost, Employees Benefit Expenses and was partially offset by decrease in Change in Inventories of WIP, Finished Goods & Stock in Trade and also Other expenses.
+
+### Cost of Material Consumed:
+
+The cost of material consumed increased by ₹927.81 (15.80%) from ₹5,871.82 Lakhs in Fiscal 2023 to ₹6,799.63 Lakhs in Fiscal 2024. The cost of material consumed stood at 61.89% of revenue from operations in Fiscal 2024, as compared to 59.96% in Fiscal 2023. The increase in the cost is primarily attributable to a rise in the prices of raw materials procured by the Company during the fiscal period by ₹1,181.03 lakhs from ₹5,862.81 lakhs in Fiscal 2023 to ₹7,043.84 in Fiscal 2024, also offset by an increase in the closing stock of raw materials by ₹244.20 lakhs as of March 31, 2024.
+
+### Changes in Inventories of WIP, Finished Goods & Stock in Trade:
+
+The reported change in inventories of finished goods, work-in-progress and traded goods was at negative ₹103.49 Lakhs in Fiscal 2024, compared to a positive ₹27.54 Lakhs in Fiscal 2023, reflecting increase in the closing stock of work-in-progress of the Company by ₹94.51 Lakhs from ₹194.12 Lakhs in Fiscal 2023 to ₹288.63 Lakhs in Fiscal 2024 which is primarily attributable to higher production during the period, as well as improved inventory management practices aimed at ensuring adequate stock availability to meet the anticipated demand for the Company's products.
+
+### Employee Benefit Expenses:
+
+Employee benefit expenses increased by 22.53% from ₹431.28 Lakhs in Fiscal 2023 to ₹528.46 Lakhs in Fiscal 2024, the increase in employee benefit expenses is primarily attributable to an increase in salary and wages, director's remuneration & sitting fee, gratuity expense and staff welfare expense.
+
+### Finance Costs:
+
+Finance costs increased by 8.28%, from ₹307.02 Lakhs in Fiscal 2023 to ₹332.44 Lakhs in Fiscal 2024, the increase is mainly attributable to the increase in secured term loans from Citi Bank N.A. and other finance cost in Fiscal 2024 compared to Fiscal 2023.
+
+### Depreciation and Amortisation Expenses:
+
+Depreciation and amortisation expenses increased by 5.02% from ₹290.88 Lakhs in Fiscal 2023 to ₹305.48 Lakhs in Fiscal 2024, driven by increase in the Property plant and Equipment mainly additions of Plant and Machinery, furniture & fixtures, vehicles for the company during Fiscal 2024.
+
+### Other Expenses:
+
+Other expenses declined by ₹ 284.74 Lakhs (12.66%) from ₹ 2,249.09 Lakhs in Fiscal 2023 to ₹1,964.35 Lakhs in Fiscal 2024. Primarily on account of decline in (i) purchase Incidental Expense of ₹115.26 lakhs in Fiscal 2024 (ii) labour Expense of ₹ 40.07 Lakhs (iii) bad debts written off of ₹ 133.77 lakhs (iv) repairs and maintenance of ₹149.76 and compensated by increase in (i) freight and transport expense of ₹ 42.25 lakhs and (ii) professional fees and legal charges of ₹ 9.45 lakhs in fiscal 2024.
+
+### Profit before Tax:
+
+The Company's profit before tax increased by ₹ 521.71 lakhs (114.29%) to ₹978.20 lakhs in Fiscal 2024 from ₹456.49 lakhs in Fiscal 2023, primarily on account of higher export sales and other operating income. However, this was partially offset by a 7.17% rise in total expenses, mainly due to increased raw material costs, higher employee benefit expenses, higher finance cost and depreciation. These factors outweighed cost efficiencies achieved through reduced other expenses, resulted in overall increase in profitability of the company.

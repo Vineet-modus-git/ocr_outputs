@@ -1,0 +1,25 @@
+Q-Line Biotech Limited
+
+As per NSE Circular dated April 24, 2025 our Company may migrate its securities from SME Platform of NSE Limited to main board platform of the NSE Limited:
+
+<table><thead><tr><td>Parameter</td><td>Listing Criterion</td></tr></thead><tbody><tr><td>Paid up Capital & Market Capitalisation</td><td>Paid-up equity capital is not less than INR 10 crores and Average capitalisation shall not be less than INR 100 crores. For this purpose, capitalisation will be the product of the price (average of the weekly high and low of the closing prices of the related shares quoted on the stock exchange for 3 months preceding the application date) and the post issue number of equity shares</td></tr><tr><td>Revenue from Operation & EBIDTA</td><td>The revenue from operations should be greater than INR 100 Cr in the last financial year. and Should have positive operating profit from operations for at least 2 out 3 financial years.</td></tr><tr><td>Listing period</td><td>Should have been listed on SME platform of the Exchange for at least 3 years.</td></tr><tr><td>Public Shareholders</td><td>The total number of public shareholders should be at least 500 on the date of application.</td></tr><tr><td>Promoter & Promoter Group Holding</td><td>Promoter and Promoter Group shall be holding at least 20% of the Company at the time of making application. Further, as on date of application for migration the holding of Promoter's should not be less than 50% of shares held by them on the date of listing.</td></tr><tr><td>Other Listing conditions</td><td><ul><li>No proceedings have been admitted under Insolvency and Bankruptcy Code against Applicant company and promoting company.</li><li>The company has not received any winding up petition admitted by NCLT/IBC.</li><li>The net worth of the company should be at least 75 crores.</li><li>No Material regulatory action in the past 3 years like suspension of trading against the applicant Company and Promoter by any Exchange.</li><li>No debarment of Company/Promoter, subsidiary Company by SEBI.</li><li>No Disqualification/Debarment of director of the Company by any regulatory authority.</li><li>The applicant company has no pending investor complaints in SCORES.</li><li>Cooling period of two months from the date the security has come out of the trade-to-trade category or any other surveillance action, by other exchanges where the security has been actively listed.</li><li>No Default in respect of payment of interest and/or principal to the debenture/bond/fixed deposit holders by the applicant, promoter/ Subsidiary Company.</li></ul></td></tr></tbody></table>
+
+## Market Making
+
+The shares offered through this Issue are proposed to be listed on the NSE (Emerge platform of NSE), wherein the Book Running Lead Managers to this Issue shall ensure compulsory Market Making through the registered Market Makers of the SME Exchange for a minimum period of 3 (three) years from the date of listing on the Emerge platform of NSE.
+
+For further details of the agreement entered into between the Company, the Book Running Lead Managers and the Market Maker please refer to section titled "General Information - Details of the Market Making Arrangements for this Issue" on page 68 of this Draft Red Herring Prospectus.
+
+## Arrangements for disposal of odd lots
+
+The trading of the Equity Shares will happen in the minimum contract size of [●] shares of face value of ₹10/- each in terms of the SEBI circular No. CIR/MRD/DSA/06/2012 dated February 21, 2012. However, the Market Maker shall buy the entire shareholding of a shareholder in one lot, where value of such shareholding is less than the minimum contract size allowed for trading on the Emerge platform of National Stock Exchange of India Limited.
+
+## As per the extent Guideline of the Government of India, OCBs cannot participate in this Issue
+
+The current provisions of the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000, provides a general permission for the NRIs, FPIs and foreign venture capital investors registered with SEBI to invest in shares of Indian companies by way of subscription in an IPO. However, such investments would be subject to other investment restrictions under the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000, RBI and/or SEBI regulations as may be applicable to such investors.
+
+The Allotment of the Equity Shares to Non-Residents shall be subject to the conditions, if any, as may be prescribed by the Government of India/RBI while granting such approvals.
+
+## Allotment of Equity Shares in Dematerialized Form
+
+338

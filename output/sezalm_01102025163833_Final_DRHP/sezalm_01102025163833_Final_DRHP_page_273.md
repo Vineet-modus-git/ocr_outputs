@@ -1,0 +1,27 @@
+The Equity Shares have not been and will not be registered under the U.S. Securities Act 1933, as amended (the "Securities Act") or any state securities laws in the United States and may not be Issue ed or sold within the United States or to, or for the account or benefit of, "U.S. persons" (as defined in Regulation S of the Securities Act), except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act. Accordingly, the Equity Shares will be Issue ed and sold (i) in the United States only to "qualified institutional buyers", as defined in Rule 144A of the Securities Act, and (ii) outside the United States in offshore transactions in reliance on Regulation S under the Securities Act and in compliance with the applicable laws of the jurisdiction where those Issue s and sales occur.
+
+Accordingly, the Equity Shares are being Issue ed and sold only outside the United States in offshore transactions in
+compliance with Regulation S under the Securities Act and the applicable laws of the jurisdictions where those Issue s
+and sales occur.
+
+The Equity Shares have not been, and will not be, registered, listed or otherwise qualified in any other jurisdiction outside India and may not be Issue ed or sold, and Applications may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction. Further, each Bidder where required agrees that such Bidder will not sell or transfer any Equity Share or create any economic interest therein, including any off-shore derivative instruments, such as participatory notes, issued against the Equity Shares or any similar security, other than pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and in compliance with applicable laws and legislations in each jurisdiction, including India.
+
+LISTING
+
+Our Company has obtained In-Principal approval from National Stock Exchange of India Limited vide letter dated [•]
+to use name of National Stock Exchange of India Limited in this Issue document for listing of equity shares on Emerge
+Platform of NSE, with which Basis of Allotment will be finalized.
+
+In terms of Chapter IX of the SEBI (ICDR) Regulations, 2018, there is requirement of obtaining In-Principle approval from National Stock Exchange of India Limited. Application will be made to the National Stock Exchange of India Limited for obtaining permission to deal in and for an official quotation of our Equity Shares. NSE India is the Designated Stock Exchange, with which the Basis of Allotment will be finalized for the issue.
+
+If the permission to deal in and for an official quotation of the Equity Shares on the Emerge Platform of NSE is not granted by NSE, our Company shall forthwith repay, without interest, all moneys received from the Bidders in pursuance of this Draft Red Herring Prospectus. The allotment letters shall be issued or application money shall be refunded / unblocked within such time prescribed by SEBI or else the application money shall be refunded to the Bidders forthwith, failing which interest shall be due to be paid to the Bidders at the rate of fifteen per cent per annum for the delayed period as prescribed under Companies Act, 2013, the SEBI (ICDR) Regulations and other applicable law.
+
+Our Company shall ensure that all steps for the completion of the necessary formalities for listing and commencement of trading at the Emerge Platform of NSE mentioned above are taken within 6 Working Days of the Issue Closing Date.
+
+CONSENTS
+
+The written consents of our Promoters, Directors, Company Secretary & Compliance Officer, Chief Financial Officer, Statutory Auditor, Peer Reviewed Auditor, Legal Advisor to the Issue, Bankers to our Company, Book Running Lead Manager, Registrar to the Issue, Underwriter, Market Maker, Banker to Issue and Sponsor Bank to act in their respective capacities have been obtained and will be filed along with a copy of the Prospectus with the ROC, as required under Sections 26 of the Companies Act, 2013 and such consents shall not be withdrawn up to the time of delivery of the Prospectus for registration with the RoC.
+
+In accordance with the Companies Act and the SEBI (ICDR) Regulations, M/s. Bagaria & Co.LLP, Peer Review Auditors, of the Company have agreed to provide their written consent to the inclusion of their report, Restated Consolidated Financial Statements and statement of Tax Benefits dated June 27, 2024 and June 27, 2024 respectively, which may be available to the Company and its shareholders, included in this Draft Red Herring Prospectus in the form and context in which they appear therein and such consent and reports have not been withdrawn up to the time of delivery of the Prospectus with ROC.
+
+IMPERSONATION

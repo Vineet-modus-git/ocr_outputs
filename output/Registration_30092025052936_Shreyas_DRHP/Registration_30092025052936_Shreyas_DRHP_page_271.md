@@ -1,0 +1,26 @@
+SHREYAS FABTECH LIMITED
+Plot No.H37, MIDC Ambad, Nashik-422010, Maharashtra, India
+
+CIN: U28999MH2022PLC391593
+
+As per the Guidance Note, the procedure for preparing combined financial statements of the Combining Businesses is the same as that for consolidated financial statements as per the applicable Accounting Standards. The information presented in the Special Purpose Combined Financial Statements may not be representative of the position which has prevailed after the transaction in relation to transfer of M/s Shreyas Engineers. The Special Purpose Combined Financial Statements have been prepared on a going concern basis considering the material accounting policies stated below. The procedure followed for the preparation of the Special Purpose Combined Financial Statements is as given below:
+
+(a) The financial information for the Shreyas Group included in the Special Purpose Combined Financial Statements have been extracted from the audited financial statements of Shreyas Fabtech Limited & M/s Shreys Engineers (Proprietorship) to the extent considered necessary, for the years ended March 31, 2025, March 31, 2024 and March 31, 2023 as applicable, which had been prepared basis in accordance Accounting Standards ('AS') notified under the Section 133 of the Companies Act, 2013 ('the Act') and other generally accepted accounting principles in India.
+
+(b) Since these Special Purpose Combined Financial Statements have been prepared for use in connection with the proposed IPO of the Company as stated above, the same has been presented based on the latest audited Financial Statements of the Company and has been prepared in accordance with the accounting policies applied therein.
+
+(c) The historical costs and expenses reflected in the Special Purpose Combined Financial Statements include an allocation for certain corporate and shared service functions are based on the individual unit level financial statements wherein the same have been allocated either on the basis of actual usage when identifiable or on such other basis which provides a reasonable reflection of the historical utilisation levels of these services.
+
+(d) Deferred Tax liability in respect of the Business has been determined considering the applicability of various provisions of the Income Tax Act and having regard to the expert opinion obtained in this regard, which has been appropriately recognised in the Special Purpose Combined Financial Statements, with corresponding adjustment in the Owner's Net Investment.
+
+(e) Since these statements have been prepared on carve out combined basis, it is not meaningful to show a share capital or provide an analysis of reserves for the period prior to the date of incorporation of the Company. Proprietor's Capital (representing owner's investment) disclosed in the Special Purpose Combined Financial Statements therefore represents the difference between the assets and liabilities pertaining to the Moving Media Group, duly adjusted for the balances carried in reserves and surplus. The balance in reserves and surplus represents retained earnings pertaining to the Combining Businesses which has been determined based on the closing balances as of March 31, 2022 duly adjusted for the profit for the respective financial year.
+
+(f) The paid-up share capital of the Company increased from 10,000 equity shares of ₹10 each to 5,49,739 equity shares of ₹10 each pursuant to a Business Transfer Agreement dated August 28, 2023. Under the agreement, the business undertakings (assets and liabilities) of M/s. Shreyas Engineers were transferred to the Company, and consideration was discharged through the issuance of 5,39,739 equity shares at a price of ₹215 per share.
+
+Management believes the assumptions underlying the Special Purpose Combined Financial Statements including the assumptions regarding the allocation of general corporate expenses, are reasonable. Nevertheless, the Special Purpose Combined Financial Statements may not include all of the actual expenses that would have been incurred had it been operated as a standalone company during the periods presented and may not reflect the combined results of operations, financial position and cash flows had it operated as a standalone company during the periods presented, since the actual costs that would have been incurred if it had been operated as a standalone company would depend on multiple factors, including organisational structure and strategic decisions made in various areas, including information technology and infrastructure and other additional costs. Events occurring after the date of approval of the financial statements of Shreyas Group for the respective years, if any, have not been adjusted in the Special Purpose Combined Financial Statements.
+
+These combined financials have been prepared on a combined basis to present the assets and liabilities of the Shreyas Group at these dates, as if the Group had been in existence as at these dates. As a result, these financial statements may not be suitable for any other purpose.
+
+The financial statements are presented in Indian Rupees (INR) and all values are rounded off to nearest rupee in lakhs except otherwise stated.
+
+F - 60

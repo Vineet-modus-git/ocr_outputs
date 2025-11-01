@@ -1,0 +1,31 @@
+Dhara Rail Projects Limited
+
+in their account or any stringent provision to punish them in the event of such cheque not being honoured by their bankers and returned unpaid. Section 138 of the Act creates statutory offence in the matter of dishonour of cheques on the ground of insufficiency of funds in the account maintained by a person with the banker which is punishable with imprisonment for a term which may extend to two year or with fine which may extend to twice the amount of the cheque, or with both.
+
+## INDIAN STAMP ACT, 1899
+
+Under the Indian Stamp Act, 1899 (the "Stamp Act") stamp duty is payable on instruments evidencing a transfer or creation or extinguishment of any right, title or interest in immovable property. Stamp duty must be paid on all instruments specified under the Stamp Act at the rates specified in the schedules to the Stamp Act. The applicable rates for stamp duty on instruments chargeable with duty vary from state to state. Instruments chargeable to duty under the Stamp Act, which are not duly stamped are incapable of being admitted in court as evidence of the transaction contained therein and it also provides for impounding of instruments that are not sufficiently stamped or not stamped at all.
+
+## THE REGISTRATION ACT, 1908 ("REGISTRATION ACT")
+
+The Registration Act was passed to consolidate the enactments relating to the registration of documents. The main purpose for which the Registration Act was designed to ensure information about all deals concerning land so that correct land records could be maintained. The Registration Act is used for proper recording of transactions relating to other immovable property also. The Registration Act provides for registration of other documents also, which can give these documents more authenticity. Registering authorities have been provided in all the districts for this purpose.
+
+## THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023 ("DPDP ACT")
+
+The DPDP Act was notified on August 11, 2023 and is yet to come into effect. It replaces the existing data protection provision, as contained in Section 43A of the IT Act. The DPDP Act shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of the DPDP Act. The DPDP Act seeks to balance the rights of individuals to protect their digital personal data with the need to process personal data for lawful and other incidental purposes. The DPDP Act provides that personal data may be processed only for a lawful purpose after obtaining the consent of the individual. A notice must be given before seeking consent, except in case of legitimate uses as provided under the DPDP Act. It further imposes certain obligations on data fiduciaries including (i) make reasonable efforts to ensure the accuracy and completeness of data, (ii) build reasonable security safeguards to prevent a data breach, (iii) inform the Data Protection Board of India (the "DPB") and affected persons in the event of a breach, and (iv) erase personal data as soon as the purpose has been met and retention is not necessary for legal purposes (storage limitation). In case of government entities, storage limitation and the right of the data principal to erasure will not apply. The DPDP Act imposes certain additional obligations on a significant data fiduciary, such as appointment of a data protection officer, appointment of an independent data auditor and undertaking of other measures namely, periodic data protection impact assessment, periodic audit and such other measures as may be prescribed under the DPDP Act. The Central Government will establish the DPB. Key functions of the DPB include: (i) monitoring compliance and imposing penalties, (ii) directing data fiduciaries to take necessary measures in the event of a data breach, and (iii) hearing grievances made by affected persons. The DPB members will be appointed for two years and will be eligible for re-appointment. The Central Government will prescribe details such as the number of members of the DPB and the selection process.
+
+## INTELLECTUAL PROPERTY RELATED LEGISLATIONS
+
+In general, the Intellectual Property Rights include but are not limited to the following enactments:
+
+a) Trademarks Act, 1999
+
+b) Indian Copyright Act, 1957
+
+c) The Patents Act, 1970
+
+d) Design Act, 2000
+
+## TRADEMARKS ACT, 1999 ("TRADEMARKS ACT")
+
+The Trademarks Act governs the statutory protection of trademarks and prevention of the use of fraudulent marks in India. It provides for the application and registration of trademarks in India. It also provides for exclusive rights to marks such as brand, label, and heading and to obtain relief in case of infringement for commercial purposes as a trade description. Under the

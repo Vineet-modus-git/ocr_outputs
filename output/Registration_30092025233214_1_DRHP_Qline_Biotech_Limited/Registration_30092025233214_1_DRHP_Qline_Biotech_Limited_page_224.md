@@ -1,0 +1,25 @@
+Q-Line Biotech Limited
+
+Trade Receivables ageing schedule as at 31st March 2025
+
+(Rs. in Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="8">Outstanding for following periods from due date of payment</th></tr><tr><th>Unbilled</th><th>Not Due</th><th>Less than 6 months</th><th>6 months -1 year</th><th>1-2 years</th><th>2-3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>(i) Undisputed Trade receivables -considered good</td><td>484.84</td><td>1,191.31</td><td>6,086.42</td><td>176.85</td><td>282.45</td><td>21.40</td><td>9.50</td><td>8,252.76</td></tr><tr><td>(i) Undisputed Trade receivables -considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>10.76</td><td>8.46</td><td>5.05</td><td>24.27</td></tr><tr><td>(iii) Disputed trade receivables considered good</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(iv) Disputed trade receivables considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+Trade Receivables ageing schedule as at 31st March 2024
+
+(Rs. in Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="8">Outstanding for following periods from due date of payment</th></tr><tr><th>Unbilled</th><th>Not Due</th><th>Less than 6 months</th><th>6 months -1 year</th><th>1-2 years</th><th>2-3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>(i) Undisputed Trade receivables -considered good</td><td></td><td>1,282.65</td><td>1,099.29</td><td>104.51</td><td>51.31</td><td>0.66</td><td>19.82</td><td>2,558.25</td></tr><tr><td>(i) Undisputed Trade receivables -considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>65.18</td><td>187.37</td><td>73.49</td><td>326.03</td></tr><tr><td>(iii) Disputed trade receivables considered good</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(iv) Disputed trade receivables considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+Trade Receivables ageing schedule as at 31st March 2023
+
+(Rs. in Lakhs)
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="8">Outstanding for following periods from due date of payment</th></tr><tr><th>Unbilled</th><th>Not Due</th><th>Less than 6 months</th><th>6 months -1 year</th><th>1-2 years</th><th>2-3 years</th><th>More than 3 years</th><th>Total</th></tr></thead><tbody><tr><td>(i) Undisputed Trade receivables -considered good</td><td>-</td><td>1,332.64</td><td>1,432.68</td><td>383.11</td><td>24.55</td><td>22.10</td><td>6.50</td><td>3,201.58</td></tr><tr><td>(i) Undisputed Trade receivables -considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>188.87</td><td>37.72</td><td>36.09</td><td>262.68</td></tr><tr><td>(iii) Disputed trade receivables considered good</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>(iv) Disputed trade receivables considered doubtful</td><td></td><td></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies in which any director is a partner or a director or a member
+
+<table><thead><tr><th>Particulars</th><th>31-Mar-25</th><th>31-Mar-24</th><th>31-Mar-23</th></tr></thead><tbody><tr><td>Trade receivables related to debts due by:</td><td></td><td></td><td></td></tr><tr><td>Directors</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Other officers of the Company</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Firm in which director is a partner</td><td>3,228.01</td><td>0.37</td><td>296.16</td></tr><tr><td>Private Company in which director is a member</td><td>0.10</td><td>58.32</td><td>390.84</td></tr><tr><td>Total</td><td>3,228.11</td><td>58.68</td><td>687.00</td></tr></tbody></table>
+
+221

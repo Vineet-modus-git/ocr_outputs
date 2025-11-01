@@ -1,0 +1,21 @@
+<table><tr><td>Ring frame</td><td>19</td></tr><tr><td>Autoconer -winding</td><td>8</td></tr><tr><td>Assembly winder</td><td>18</td></tr><tr><td>Two for one (TFO)</td><td>29</td></tr><tr><td>Dref -friction spinning machine</td><td>1</td></tr><tr><td>Pinter core yarn attachment</td><td>3</td></tr><tr><td>Compressor</td><td>5</td></tr><tr><td>Yarn conditioning plant (YCP)</td><td>1</td></tr><tr><td colspan="2"><strong>Quality Control Laboratory Machine</strong></td></tr><tr><td>Premier tester -7000</td><td>1</td></tr><tr><td>Premier classi -7000</td><td>1</td></tr><tr><td>Auto twist- tester</td><td>1</td></tr><tr><td>CSP - RKM Combo</td><td>1</td></tr><tr><td>Eveness & hairiness tester</td><td>1</td></tr></table>
+
+Note: The list of machineries at our plant have been certified by B.P. Oza & Associates (Chartered Engineer Registration No: M131433-5), Independent Chartered Engineer vide their certificate dated September 18, 2025.
+
+## OUR CUSTOMERS
+
+The following are the details of Revenue earned from our top 10 customers along with the percentage of the same to the Revenue from Operations:
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Sr. No.</th><th>Details of Customer</th><th>FY 2025</th><th>% of revenue from operation</th><th>Details of Customer</th><th>FY 2024</th><th>% of revenue from operation</th><th>Details of Customer</th><th>FY 2023</th><th>% of revenue from operation</th></tr></thead><tbody><tr><td>1.</td><td>Customer 1</td><td>2,252.65</td><td>19.75%</td><td>Customer 1</td><td>2,804.77</td><td>25.53%</td><td>Polyspin Thread Mills</td><td>1,571.56</td><td>16.05%</td></tr><tr><td>2.</td><td>Polyspin Thread Mills</td><td>1,263.76</td><td>11.08%</td><td>Polyspin Thread Mills</td><td>1,513.65</td><td>13.78%</td><td>Customer 2</td><td>1,446.82</td><td>14.77%</td></tr><tr><td>3.</td><td>Shingora Textiles Private Limited</td><td>1,019.15</td><td>8.94%</td><td>Customer 3</td><td>938.71</td><td>8.54%</td><td>Customer 3</td><td>1,250.02</td><td>12.77%</td></tr><tr><td>4.</td><td>Customer 4</td><td>774.63</td><td>6.79%</td><td>Customer 4</td><td>640.38</td><td>5.83%</td><td>Customer 4</td><td>634.05</td><td>6.47%</td></tr><tr><td>5.</td><td>Customer 5</td><td>571.52</td><td>5.01%</td><td>Customer 5</td><td>465.05</td><td>4.23%</td><td>Customer 5</td><td>461.59</td><td>4.71%</td></tr><tr><td>6.</td><td>Customer 6</td><td>491.22</td><td>4.31%</td><td>Customer 6</td><td>442.38</td><td>4.03%</td><td>Customer 6</td><td>446.29</td><td>4.56%</td></tr><tr><td>7.</td><td>Customer 7</td><td>464.47</td><td>4.07%</td><td>Customer 7</td><td>377.87</td><td>3.44%</td><td>Customer 7</td><td>252.65</td><td>2.58%</td></tr><tr><td>8.</td><td>Customer 8</td><td>299.97</td><td>2.63%</td><td>Customer 8</td><td>322.13</td><td>2.93%</td><td>Customer 8</td><td>217.79</td><td>2.22%</td></tr><tr><td>9.</td><td>NEO Enterprise</td><td>282.79</td><td>2.48%</td><td>Customer 9</td><td>216.98</td><td>1.97%</td><td>Customer 9</td><td>193.91</td><td>1.98%</td></tr><tr><td>10.</td><td>Customer 10</td><td>265.39</td><td>2.33%</td><td>Customer 10</td><td>200.52</td><td>1.83%</td><td>Customer 10</td><td>190.54</td><td>1.95%</td></tr><tr><td colspan="2"><strong>Revenue from Top Ten Customers</strong></td><td><strong>7,685.55</strong></td><td><strong>67.39%</strong></td><td>-</td><td><strong>7,922.44</strong></td><td><strong>72.11%</strong></td><td>-</td><td><strong>6,665.22</strong></td><td><strong>68.06%</strong></td></tr></tbody></table>
+
+Note: The above details have been confirmed by our Statutory Auditors, M/s. Shah & Patel, Chartered Accountants, vide their Certificate dated September 29, 2025.
+
+For the risk involved related to our customers, please refer to Risk Factor No. 02 under section titled "Risk Factors" at page 27.
+
+## OUR SUPPLIERS
+
+The following are the details of our total purchases from our top 10 suppliers along with the percentage of the same from total purchases.
+
+164

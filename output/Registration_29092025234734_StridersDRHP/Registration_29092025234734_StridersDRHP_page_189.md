@@ -1,0 +1,5 @@
+Our Company has following Domain as on the date of the Draft Red Herring Prospectus:
+
+<table><thead><tr><td>Sr No.</td><td>Domain Name and ID</td><td>Registrar ID</td><td>Registrant Name, ID and Address</td><td>Creation Date</td><td>Registry Expiry Date</td></tr></thead><tbody><tr><td>1.</td><td>striders.biz</td><td>BigRock Solutions Ltd.- 1495</td><td>Striders Impex Private Limited<br>SS-121, Sector No 2, Vashi Navi Mumbai, Thane, Maharashtra 400703</td><td>4th Jun, 2019</td><td>4th June, 2029</td></tr></tbody></table>
+
+180

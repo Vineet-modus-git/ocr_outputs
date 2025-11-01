@@ -1,0 +1,17 @@
+As on the date of this Red Herring Prospectus, we have not entered into any bridge finance arrangements that will be repaid from the Net Proceeds. However, in case of delay in the IPO and consequent delay in accessing the net proceeds of the Issue, we may draw down such amounts, as may be required, from an overdraft arrangement/ cash credit/ term loan facility with our lenders or through unsecured loans to finance setting up of facilities as described in the section 'Objects of the Issue' until completion of the Issue. Any amount that is drawn down from such facility availed from any Bank/NBFC or Financial Institution or through unsecured loans during this period to finance 'Objects of the Issue' will be repaid from the Net Proceeds of the Issue.
+
+## MONITORING UTILIZATION OF FUND
+
+As per Regulation 262(1) of the SEBI ICDR Regulations, 2018, the requirement of appointing a Monitoring Agency is not mandatory if the Issue size is below ₹10,000 Lakhs. Since our Issue size does not exceed the prescribed limit, our Company has not appointed a Monitoring Agency for this Issue. However, as per Section 177 of the Companies Act, 2013, the Audit Committee of our Company shall monitor the utilization of the Issue proceeds. A Monitoring Agency will be appointed in the future in accordance with the applicable requirements.
+
+## INTERIM USE OF PROCEEDS
+
+Our Company, in accordance with the applicable law, policies established by our Board from time to time and in order to attain the Objects set out above, will have flexibility to deploy the Net Proceeds. Pending utilisation of the Net Proceeds for the purposes described in this section, our Company may temporarily invest the Net Proceeds in deposits in one or more scheduled commercial banks included in the Second Schedule of the Reserve Bank of India Act, 1934, as may be approved by our Board. In accordance with Section 27 of the Companies Act, our Company confirms that, other than as specified in this section for the purposes of the Objects, it shall not use the Net Proceeds for buying, trading or otherwise dealing in equity securities or any equity linked securities.
+
+## VARIATION IN OBJECTS
+
+In accordance with Section 27 of the Companies Act, 2013, our Company shall not vary the objects of the Issue without our Company being authorized to do so by the Shareholders by way of a special resolution. In addition, the notice issued to the Shareholders in relation to the passing of such special resolution shall specify the prescribed details as required under the Companies Act and shall be published in accordance with the Companies Act and the rules there under. As per the current provisions of the Companies Act, our Promoters or controlling Shareholders would be required to provide an exit opportunity to such shareholders who do not agree to the proposal to vary the objects, at such price, and in such manner, as may be prescribed by SEBI, in this regard.
+
+## OTHER CONFIRMATIONS
+
+There are no material existing or anticipated transactions with our Promoter, our Directors, our Company's key Managerial personnel, in relation to the utilization of the Net Proceeds. No part of the Net Proceeds will be paid by us as consideration to our Promoters, our Directors or key managerial personnel except in the normal course of business and in compliance with the applicable laws.

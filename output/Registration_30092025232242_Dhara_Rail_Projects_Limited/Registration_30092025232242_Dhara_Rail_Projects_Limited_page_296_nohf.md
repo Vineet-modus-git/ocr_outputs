@@ -1,0 +1,13 @@
+advised to refer to the exact text of the relevant statutory provisions of law before investing and / or subsequent purchase or sale transaction in the Equity Shares of our Company.
+
+As per the existing policy of the Government of India, OCBs cannot participate in this Issue.
+
+As per the FDI Policy, FDI in companies engaged in manufacturing sector is permitted up to 100% of the paid-up share capital of such company under the automatic route.
+
+For further details, see "Issue Procedure" on page 263. Each Bidder should seek independent legal advice about its ability to participate in the Issue. In the event such prior approval of the Government of India is required, and such approval has been obtained, the Bidder shall intimate our Company and the Registrar in writing about such approval along with a copy thereof within the Bid/Issue Period.
+
+**The Equity Shares have not been and will not be registered under the U.S. Securities Act of 1933, as amended (the "U.S. Securities Act"), or the securities laws of any state of the United States and may not be offered or sold within the United States, except pursuant to exemption from, or in a transaction not subject to, the registration requirements of the U.S. Securities Act and applicable state securities laws. Accordingly, the Equity Shares are being offered and sold only outside the United States in offshore transactions in reliance on Regulation S under the U.S. Securities Act and the applicable laws of the jurisdiction where those offers and sale occur. The Equity Shares have not been and will not be registered, listed or otherwise qualified in any other jurisdiction outside India and may not be offered or sold, and Applications may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction.**
+
+**The Equity Shares have not been and will not be registered, listed or otherwise qualified in any other jurisdiction outside India and may not be offered or sold, and Bids may not be made by persons in any such jurisdiction, except in compliance with the applicable laws of such jurisdiction.**
+
+**The above information is given for the benefit of the Bidders. Our Company and the BRLM are not liable for any amendments or modification or changes in applicable laws or regulations, which may occur after the date of this Draft Red Herring Prospectus. Bidders are advised to make their independent investigations and ensure that the Bids are not in violation of laws or regulations applicable to them.**

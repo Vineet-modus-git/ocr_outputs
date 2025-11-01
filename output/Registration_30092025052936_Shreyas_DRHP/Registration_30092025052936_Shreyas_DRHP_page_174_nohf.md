@@ -1,0 +1,28 @@
+amongst others.
+
+OTHERS LAWS:
+
+Foreign Trade (Development and Regulation) Act, 1992
+
+The FTDRA is the main legislation concerning foreign trade in India. The FTDRA, read along with the Foreign Trade (Regulation) Rules, 1993, provides for the development and regulation of foreign trade by facilitating imports into, and augmenting exports from, India and for matters connected therewith or incidental thereto. It authorizes the government to formulate as well as announce the export and import policy and to keep amending the same on a timely basis. The government has also been given wide power to prohibit, restrict and regulate the exports and imports in general as well as specified cases of foreign trade. The FTDRA read with the Foreign Trade Policy, 2023, prohibits anybody from undertaking any import or export except under an importer-exporter code (“IEC”) number granted by the Director General of Foreign Trade. Hence, every entity in India engaged in any activity involving import/export is required to obtain an IEC unless specifically exempted from doing so. The IEC shall be valid until it is cancelled by the issuing authority. An IEC number allotted to an applicant is valid for all its branches, divisions, units and factories. Failure to obtain the IEC number shall attract a penalty under the FTDRA.
+
+The Conservation of Foreign Exchange and Prevention of Smuggling Activities Act, 1974
+
+COFEPOSA came into force for the reason to provide preventive detention and to protect and augment the guidelines of foreign exchange. The Act also aims to control smuggling activities and other issues in relation to these activities. COFEPOSA confers power on the Central and the State Governments to issue orders for detaining a person if it is satisfied that the person has acted detrimental to the protection of foreign exchange. The Government shall also issue an order of detention on the ground that the person has engaged in the activity of smuggling goods, assists any person in smuggling goods, transports or conceals such goods, harbours any person employed in the smuggling activities or does any other activity related with smuggling. Such an order shall be issued by the Joint Secretary to the Central Government or Secretary to the State Government or any senior officer authorized by the Government
+
+The Foreign Direct Investment
+
+The Government of India, from time to time, has made policy pronouncements on Foreign Direct Investment (“FDI”) through press notes and press releases. The Department of Industrial Policy and Promotion (“DIPP”), Ministry of Commerce and Industry, Government of India, has issued consolidated FDI Policy Circular of 2020 (“FDI Policy 2020”), which with effect from October 15,2020, consolidates and supersedes all previous press notes, press releases and clarifications on FDI Policy issued by the DIPP that were in force. The Government proposes to update the consolidated circular on FDI policy once every year and therefore, FDI Policy 2020 will be valid until the DIPP issues an updated circular.
+
+The Reserve Bank of India (“RBI”) also issued Master Directions Foreign Investment in India and updates at the same
+from time to time. Presently, FDI in India is being governed by Master Directions on Foreign Investment No.
+RBI/FED/2017-18/60 FED Master Direction No. 11/2017-18 dated January 4, 2018, as updated from time to time by RBI.
+In terms of the Master Directions, an Indian company may issue fresh shares to people resident outside India (who is eligible
+to make investments in India, for which eligibility criteria are as prescribed). Such fresh issue of shares shall be subject to
+inter-alia; the pricing guidelines prescribed under the master directions. The Indian company making such fresh issue of
+shares would be subject to the reporting requirements, inter-alia with respect to consideration for issue of shares and also
+subject to making certain filings including the filing of Form FC-GPR.
+
+Foreign Exchange Management Act, 1999 & Rules thereunder
+
+Foreign investment in India is governed primarily by the provisions of the FEMA, and the rules, regulations and notifications thereunder, as issued by the RBI from time to time and the FEMA Rules and the Consolidated FDI Policy. In terms of the Consolidated FDI Policy, foreign investment is permitted (except in the prohibited sectors) in Indian companies either through the automatic route or the Government route, depending upon the sector in which the foreign investment is sought to be made. In terms of the Consolidated FDI Policy, the work of granting government approval for foreign investment under the Consolidated FDI Policy and FEMA has now been entrusted to the concerned administrative ministries/departments.

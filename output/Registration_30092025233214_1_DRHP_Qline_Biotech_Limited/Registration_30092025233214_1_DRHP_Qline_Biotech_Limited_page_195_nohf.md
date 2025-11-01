@@ -1,0 +1,41 @@
+(i) Deferred income taxes reflect the impact of timing differences between taxable income and accounting income originating during the current year and reversal of timing differences for the earlier years. Deferred tax is measured using the tax rates and the tax laws enacted or substantively enacted at the reporting date.
+
+(ii) Deferred tax liabilities are recognized for all taxable timing differences. Deferred tax assets are recognized for deductible timing differences only to the extent that there is reasonable certainty that sufficient future taxable income will be available against which such deferred tax assets can be realized. In situations where the Company has unabsorbed depreciation or carry forward tax losses, all deferred tax assets are recognized only if there is virtual certainty supported by convincing evidence that they can be realized against future taxable profits.
+
+The carrying amount of deferred tax assets are reviewed at each reporting date. The company writes-down the carrying amount of a deferred tax asset to the extent that it is no longer reasonably certain or virtually certain, as the case may be, that sufficient future taxable income will be available against which deferred tax asset can be realized. Any such write-down is reversed to the extent that it becomes reasonably certain or virtually certain, as the case may be, that sufficient future taxable income will be available.
+
+## 13. CONTINGENT LIABILITIES AND PROVISIONS
+
+Provisions are recognized only when there is a present obligation as a result of past events and when a reliable estimate of the amount of obligation can be made.
+
+Contingent Liability is disclosed for
+
+a) Possible obligation which will be confirmed only by future events not wholly within the control of the Company or
+
+b) Present obligations arising from the past events where it is not probable that an outflow of resources will be required to settle the obligation or a reliable estimate of the amount of the obligation cannot be made.
+
+c) A disclosure for a contingent liability is made when there is a possible obligation or a present obligation that may, but probably will not, require an outflow of resources. Where there is a possible obligation or a present obligation that the likelihood of outflow of resources is remote, no provision or disclosure is made.
+
+Contingent Assets are not recognized in the financial statements since this may result in the recognition of income that may never be realized.
+
+## 14. EXTRAORDINARY, EXCEPTIONAL, PRIOR PERIOD ITEMS AND CHANGES IN ACCOUNTING POLICIES
+
+a) Income or expenses that arise from events or transactions that are clearly distinct from the ordinary activities of the group are classified as extraordinary items. Specific disclosure of such events/transactions is made in the financial statements. Similarly, any external event beyond the control of the group, significantly impacting income or expense, is also treated as extraordinary item and disclosed as such.
+
+b) On certain occasions, the size, type or incidence of an item of income or expense, pertaining to the ordinary activities of the group, is such that its disclosure improves an understanding of the performance of the group. Such income or expense is classified as an exceptional item and accordingly disclosed in the notes to accounts.
+
+## 15. EARNINGS PER SHARE:
+
+The basic earnings per share is computed by dividing the net profit attributable to owners of the Company for the reporting years by the weighted average number of Equity shares outstanding during the reporting years.
+
+The number of shares used in computing diluted earnings per share comprises the weighted average shares considered for deriving basic earnings per share and all dilutive potential equity shares.
+
+There are no potential dilutive instruments issued by the Company, therefore Weighted average number of Equity shares for Basic and Dilutive remain same during the reporting years.
+
+EPS has been calculated to show the Impact of Extra ordinary items during the reporting years.
+
+In case of bonus issue of equity shares, EPS have been calculated as if the bonus shares were issued at the beginning of the earliest period reporting period.
+
+## 16. CASH FLOW:
+
+Cash flows are reported using the indirect method, whereby profit before tax is adjusted for the effects of transactions of non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and item of income or expenses associated with

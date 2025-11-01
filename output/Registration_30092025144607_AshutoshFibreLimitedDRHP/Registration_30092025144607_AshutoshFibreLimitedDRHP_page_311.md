@@ -1,0 +1,37 @@
+## LIMITED
+
+Summary statement of price information of past issues handled by Mefcom Capital Markets Limited is as follows:
+
+<table><thead><tr><th>Sr. No.</th><th>Issue Name</th><th>Issue Size (₹ In Lakhs)</th><th>Issue Price (₹)</th><th>Listing date</th><th>Opening price on listing date</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 30th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 90th calendar days from listing</th><th>+/- % change in closing price, [+/- % change in closing benchmark]- 180th calendar days from listing</th></tr></thead><tbody><tr><td>1</td><td>Globe Civil Projects Ltd</td><td>11,900.00</td><td>71.00</td><td>July 01, 2025</td><td>91.10</td><td>16.79% [-2.65%]</td><td>-0.90% [-3.91%]</td><td>NA</td></tr></tbody></table>
+
+* Data not available.
+
+**Notes:**
+
+1. Data is sourced either from www.nseindia.com or www.bseindia.com, as per the designated stock exchange disclosed by the respective Issuer Company.
+
+2. Similarly, benchmark index considered is "NIFTY 50" where NSE is the designated stock exchange and "S&P BSE SENSEX" where BSE is the designated stock exchange, as disclosed by the respective Issuer Company.
+
+3. 30th, 90th, 180th calendar day from listed day have been taken as listing day plus 29, 89 and 179 calendar days, except wherever 30th, 90th, 180th calendar day is a holiday, in which case we have considered the closing data of the previous trading day.
+
+## Summary statement of price information of past public issues handled by Mefcom Capital Markets Ltd.
+
+<table><thead><tr><th rowspan="2">Financial year</th><th rowspan="2">Total no. of IPO</th><th rowspan="2">Total funds raised (₹ in Lakhs)</th><th colspan="3">Nos of IPOs trading at discount on 30th Calendar Day from listing date</th><th colspan="3">Nos of IPOs trading at premium on 30th Calendar Day from listing date</th><th colspan="4">Nos of IPOs trading at discount on 180th Calendar Day from listing date</th><th colspan="3">Nos of IPOs trading at premium on 180th Calendar Day from listing date</th></tr><tr><th>Over 50%</th><th>Between 25-50%</th><th>Less than 25%</th><th>Over 50%</th><th>Between 25-50%</th><th>Less than 25%</th><th>Over 50%</th><th>Between 50%</th><th>25-50%</th><th>Less than 25%</th><th>Over 50%</th><th>Between 25-50%</th><th>Less than 25%</th></tr></thead><tbody><tr><td>2025-26*</td><td>1</td><td>11,900.00</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2024-25</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2023-24</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+* This data covers issues up to YTD
+
+## Track record of past issues handled by the Book Running Lead Manager
+
+For details regarding the track record of the Book Running Lead Manager, as specified in circular (reference CIR/MIRSD/1/2012) dated January 10, 2012 issued by SEBI, please see the website of the Book Running Lead Manager, i.e., https://www.mefcom.in
+
+For further details in relation to the BRLM, see "General Information" beginning on page 62 of this Draft Red Herring Prospectus.
+
+## MECHANISM FOR REDRESSAL OF INVESTOR GRIEVANCES
+
+The Registrar Agreement provides for retention of records with the Registrar to the Issue for a period of at least eight years from the date of listing and commencement of trading of the Equity Shares on the Stock Exchange, subject to agreement with our Company for storage of such records for longer period, to enable the investors to approach the Registrar to the Issue for redressal of their grievances.
+
+Investors can contact the Company Secretary and Compliance Officer, the Book Running Lead Manager or the Registrar to the Issue in case of any Pre-Issue or Post-Issue related problems such as non-receipt of letters of Allotment, non-credit of Allotted Equity Shares in the respective beneficiary account, non-receipt of refund orders or non-receipt of funds by electronic mode, etc.
+
+All grievances relating to the Issue, may be addressed to the Registrar to the Issue with a copy to the relevant Designated Intermediary to whom the Application Form was submitted, giving full details such as name of the Applicant, Application Form number, Applicant's DP ID, Client ID, PAN, address of Applicant, number of Equity Shares applied for, ASBA Account number in which the amount equivalent to the Application Amount was blocked or the UPI ID, date of Application Form and the name and address of the relevant Designated Intermediary where the Application was submitted. Further, the Applicant must enclose the Acknowledgment Slip or the application number from the Designated Intermediary in addition to the documents or information mentioned hereinabove. All grievances relating to the Application submitted through Registered Brokers may be addressed to the Stock Exchanges with a copy to the Registrar to the Issue.
+
+267

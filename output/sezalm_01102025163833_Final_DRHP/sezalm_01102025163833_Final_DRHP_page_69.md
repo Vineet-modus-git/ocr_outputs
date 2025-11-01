@@ -1,0 +1,25 @@
+Herring Prospectus and in the Bid cum Application Form;
+
+Bid/ Issue Program:
+
+<table><thead><tr><td>Event</td><td>Indicative Dates</td></tr></thead><tbody><tr><td>Bid/ Issue Opening Date*</td><td>[•]</td></tr><tr><td>Bid/ Issue Closing Date**^</td><td>[•]</td></tr><tr><td>Finalization of Basis of Allotment with the Designated Stock Exchange</td><td>[•]</td></tr><tr><td>Initiation of Allotment / Refunds / Unblocking of Funds from ASBA Account or UPI ID linked bank account</td><td>[•]</td></tr><tr><td>Credit of Equity Shares to Demat accounts of Allottees</td><td>[•]</td></tr><tr><td>Commencement of trading of the Equity Shares on the Stock Exchange</td><td>[•]</td></tr></tbody></table>
+
+*Our Company may, in consultation with the BRLM, consider participation by Anchor Investors in accordance with the SEBI ICDR Regulations. The Anchor Investor Bid/ Offer Period shall be one Working Day prior to the Bid/ Offer Opening Date.
+
+**Our Company may, in consultation with the BRLM, consider closing the Bid/ Offer Period for QIBs one Working Day prior to the Bid/ Offer Closing Date in accordance with the SEBI ICDR Regulations.
+
+^ UPI mandate end time and date shall be at 5:00 pm on the Bid/ Offer Closing Date.
+
+In case of any delay in unblocking amounts in the ASBA Accounts (including amounts blocked through the UPI Mechanism) exceeding four Working Days from the Bid/ Offer Closing Date, the Bidder shall be compensated at a uniform rate of ₹ 100 per day for the entire duration of delay exceeding four Working Days from the Bid/ Offer Closing Date by the intermediary responsible for causing such delay in unblocking. The BRLM shall, in their sole discretion, identify and fix the liability on such an intermediary or entity responsible for such delay in unblocking. For the avoidance of doubt, the provisions of the SEBI circular dated March 16, 2021, as amended pursuant to SEBI circular dated June 2, 2021, shall be deemed to be incorporated in the agreements to be entered into by and between the Company and the relevant intermediaries, to the extent applicable.
+
+The above timetable is indicative and does not constitute any obligation or liability on our Company or the Book Running Lead Manager.
+
+Whilst our Company shall ensure that all steps for the completion of the necessary formalities for the listing and the commencement of trading of the Equity Shares on the Stock Exchange are taken within 3 Working Days of the Bid/Offer Closing Date, the timetable may change due to various factors, such as extension of the Bid/ Offer Period by our Company, revision of the Price Band or any delays in receiving the final listing and trading approval from the Stock Exchange. The Commencement of trading of the Equity Shares will be entirely at the discretion of the Stock Exchange and in accordance with the applicable laws.
+
+Bid Cum Application Forms and any revisions to the same will be accepted only between 10.00 a.m. to 5.00 p.m. (IST) during the Offer Period (except for the Bid/Offer Closing Date). On the Bid/ Offer Closing Date, the Bid Cum Application Forms will be accepted only between 10.00 a.m. to 3.00 p.m. (IST) for individual investor and non-individual Bidders. The time for applying for Individual Applicant on Bid/ Offer Closing Date maybe extended in consultation with the BRLM, RTA and National Stock Exchange of India Limited Emerge taking into account the total number of applications received up to the closure of timings.
+
+Due to the limitation of time available for uploading the Bid Cum Application Forms on the Bid/ Offer Closing Date, Bidders are advised to submit their applications one (1) day prior to the Bid/ Offer Closing Date and, in any case, not later than 3.00 p.m. (IST) on the Bid/ Offer Closing Date. Any time mentioned in this Draft Red Herring Prospectus is IST. Bidders are cautioned that, in the event a large number of Bid Cum Application Forms are received on the Bid/Offer Closing Date, as is typically experienced in public Offer, some Bid Cum Application Forms may not get uploaded due to the lack of sufficient time. Such Bid Cum Application Forms that cannot be uploaded will not be considered for allocation under this Offer. Applications will be accepted only on Working Days, i.e., Monday to Friday (excluding any public holidays). Neither our Company nor the BRLM is liable for any failure in uploading the Bid Cum Application Forms due to faults in any software/hardware system or otherwise.
+
+In accordance with SEBI ICDR Regulations, QIBs and Non-Institutional Applicants are not allowed to withdraw or lower the size of their application (in terms of the quantity of the Equity Shares or the Application amount) at any stage. Individual Applicants can revise or withdraw their Bid Cum Application Forms prior to the Bid/ Offer Closing Date. Allocation to Individual Applicants, in this Offer will be on a proportionate basis.
+
+In case of discrepancy in the data entered in the electronic book vis-à-vis the data contained in the physical Bid Cum Application Form, for a particular Applicant, the details as per the file received from Stock Exchange may be taken as

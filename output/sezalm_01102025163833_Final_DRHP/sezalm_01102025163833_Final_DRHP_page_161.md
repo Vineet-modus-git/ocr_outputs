@@ -1,0 +1,13 @@
+contract may be entered into, executed, implementation of the provisions of a contract and effects of breach of a contract. The Contract Act consists of limiting factors subject to which contract may be entered into, executed and the breach enforced. The contracting parties themselves decide the rights and duties of parties and terms of agreement.
+
+### Sale of Goods Act, 1930 (the "Sale of Goods Act")
+
+The Sale of Goods Act governs contracts relating to sale of goods in India. The contracts for sale of goods are subject to the general principles of the law relating to contracts. A contract of sale may be an absolute one or based on certain conditions. The Sale of Goods Act contains provisions in relation to the essential aspects of such contracts, including the transfer of ownership of the goods, delivery of goods, rights and duties of the buyer and seller, remedies for breach of contract and the conditions and warranties implied under a contract for sale of goods.
+
+### Competition Act, 2002 ("Competition Act")
+
+The Competition Act aims to prevent anti-competitive practices that cause or are likely to cause an appreciable adverse effect on competition in the relevant market in India. The Competition Act regulates anti-competitive agreements, abuse of dominant position and combinations. The Competition Commission of India ("Competition Commission") which became operational from May 20, 2009, has been established under the Competition Act to deal with inquiries relating to anti-competitive agreements and abuse of dominant position and regulate combinations. The Competition Act also provides that the Competition Commission has the jurisdiction to inquire into and pass orders in relation to an anti-competitive agreement, abuse of dominant position or a combination, which even though entered into, arising, or taking place outside India or signed between one or more non-Indian parties, but causes an appreciable adverse effect in the relevant market in India.
+
+## H. Other Laws
+
+In addition to the above, our Company is required to comply with the provisions of the Prevention of Corruption Act, 1988, Rent Control Act, Information technology act and other applicable laws and regulations imposed by the Central and State Governments and other authorities for its day-to-day operations.

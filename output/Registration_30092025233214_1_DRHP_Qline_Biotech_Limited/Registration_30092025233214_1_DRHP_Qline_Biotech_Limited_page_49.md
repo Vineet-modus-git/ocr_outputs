@@ -1,0 +1,29 @@
+Q-Line Biotech Limited
+
+The methodology for computation of any data set may be different from the practice we use for computation of that data point as included in this offer document
+
+Further, industry sources and publications are prepared based on information as of specific dates, and may also base their information on estimates, projections, forecasts and assumptions, which may be subject to change. Statements from third parties that involve estimates are subject to change, and actual amounts may differ materially from those included in this offer document. In particular, we are informed that Careedge regularly conducts data review and validation exercises as part of its data quality control processes. Although such review and validation exercises vary by data type. Accordingly, investors should read the industry-related disclosure in this offer document in this context and should not base their investment decision solely on the information included in this offer document from the Careedge Report and Careedge Dataset. For the disclaimer associated with the Careedge Report and Careedge Dataset, see "Certain Conventions, Presentation of Financial, Industry and Market Data – Industry and Market Data" on page 16.
+
+**54. Our success depends largely upon the services of our Directors, Promoters and other Key Managerial Personnel and our ability to attract and retain them and hire new talent. Demand for key managerial personnel in the industry is intense and our inability to attract and retain key managerial, may affect the business and operations of our Company.**
+
+Success of our Company is substantially dependent on the expertise and services of our Directors, Promoters and our Key Managerial Personnel. They provide expertise which enables us to make well informed decisions in relation to our business and our future prospects. Our Company's future performance will depend upon the continued services of these persons. Demand for Key Managerial Personnel in the industry is intense. We cannot assure you that we will be able to retain any or all, or that our succession planning will help to replace, the key members of our management. The loss of the services of such key members of our management team and the failure of any succession plans to replace such key members could have an adverse effect on our business and the results of our operations. We cannot assure that we will be able to retain the services of our Directors, Promoters and other Key Managerial Personnel in the future or that our inability to retain will not have any adverse impact on our business operations.
+
+**55. Failure to deal effectively with any fraudulent transactions, employee misconduct and illegal activity by Suppliers, Customers, Service providers, workers and our employees could harm our business and reputation and expose us to liability.**
+
+Our coverage area spans across Customers, Suppliers, Service providers, workers and employees among others, we are poised for the risk of unauthorized data access, data sharing, professional misconduct and alteration of information which may lead to data breach and sharing of confidential data and reports to our competitors, government bodies etc. Certain cases of fraudulent transactions include wrong/inadequate quality material supply, inadequate mix up of additives, confidential data sharing by employees etc.
+
+Although we have taken various measures steps to detect, penalise and reduce the occurrence of fraudulent or other malicious activities, there can be no assurance that such measures will be completely effective or will scale efficiently with our business. In addition, any delay in resolving cases of fraudulent behaviour on our platform may lead to the loss of trust by our users.
+
+Moreover, illegal, fraudulent or collusive activities by our employees could also subject us to liability or negative publicity.
+
+**56. The average cost of acquisition of Equity Shares by our Promoter, are lower than the face value of Equity Share.**
+
+The average cost of acquisition of Equity Shares of our Promoters are lower than the face value of Equity Shares i.e., ₹10/-. For further details regarding the average cost of acquisition of Equity Shares by our Promoter in our Company and build-up of Equity Shares of our Promoter in our Company, please see Chapter titled "Capital Structure" beginning on page 71 of this Draft Red Herring Prospectus.
+
+**57. Our Promoter Group will continue to retain majority shareholding in our Company after this Offer which will allow it to exercise significant influence over us.**
+
+Upon completion of this Issue, our Promoter Group will continue to own 67.15% of our post issue equity share capital. As a result, our Promoter Group will have the ability to exercise significant influence over all matters requiring shareholder's approval, including the election of directors and approval of significant corporate transactions. Our Promoter Group will also be in a position to influence any shareholder action or approval requiring a majority vote, except where it is required by applicable laws to abstain from voting. Such a concentration of ownership may also have the effect of delaying, preventing or deterring a change in control.
+
+**58. Any future issuance of Equity Shares may dilute your shareholdings, and sale of the Equity Shares by our major shareholders may adversely affect the trading price of our Equity Shares.**
+
+Any future equity issuance by our Company may lead to the dilution of investors' shareholdings in our Company. In addition, any sale of substantial Equity Shares in the public market after the completion of this Issue, including by our major shareholders, or the

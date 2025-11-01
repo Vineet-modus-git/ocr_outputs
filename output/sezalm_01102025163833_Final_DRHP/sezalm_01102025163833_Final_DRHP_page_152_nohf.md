@@ -1,0 +1,13 @@
+<table><tr><td>2.</td><td>Sales</td><td>8</td></tr><tr><td>3.</td><td>Engineers</td><td>7</td></tr><tr><td>4.</td><td>Human Resources</td><td>3</td></tr><tr><td>5.</td><td>Heavy Vehicle Conversion</td><td>17</td></tr><tr><td>6.</td><td>Support Staff</td><td>6</td></tr><tr><td>7.</td><td>Others*</td><td>8</td></tr><tr><td colspan="2">TOTAL</td><td>55</td></tr></table>
+
+* "Other" primarily include personnel engaged in warehouse operations and maintenance services.
+
+## INSURANCE POLICIES
+
+We hold insurance coverage for different aspects such as our employees and commercial vehicles as needed. We are confident that we have all essential insurance policies in place, aligned with industry norms. Regular reviews are conducted to ensure the adequacy of coverage. While we strive to minimize liability for damages, it's important to note that our insurance may not always provide full protection or be enforceable in every situation, potentially leaving us partially liable for damages.
+
+(₹ in lakhs)
+
+<table><thead><tr><td>Policy No</td><td>Type of Policy</td><td>Policy Period</td><td>Nature of Coverage</td><td>Policy Issuing Office</td><td>Total Sum Assured</td></tr></thead><tbody><tr><td>131400/11/2024/720</td><td>Udyam Suraksha Policy</td><td>11/2024-11/2025</td><td>Furniture & Fittings, Stock</td><td>The Oriental Insurance Company Limited</td><td>1,050</td></tr><tr><td>131400/11/2024/834</td><td>Udyam Suraksha Policy</td><td>11/2024-11/2025</td><td>Furniture & Fittings, Stock</td><td>The Oriental Insurance Company Limited</td><td>1,250</td></tr><tr><td>131400/11/2024/833</td><td>Udyam Suraksha Policy</td><td>11/2024-11/2025</td><td>Furniture & Fittings, Stock</td><td>The Oriental Insurance Company Limited</td><td>250</td></tr><tr><td>4016/X/O/384425066/00/000</td><td>ICICI Lombard</td><td>03/2025-03/2026</td><td></td><td>Group Health Insurance Policy</td><td>0.86</td></tr><tr><td>4016/X/O/384425066/00/000</td><td>Group Health (Floater) Insurance</td><td></td><td></td><td>ICICI Lombard</td><td>36.00</td></tr></tbody></table>
+
+Note: We have marine insurance for the imported cargo, which is secured based on the import invoices to ensure the safety and protection of goods during transit. This insurance covers any potential risks associated with shipping, protecting the kits from damage or loss.

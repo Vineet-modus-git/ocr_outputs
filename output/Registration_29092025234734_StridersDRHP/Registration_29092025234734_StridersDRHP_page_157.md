@@ -1,0 +1,25 @@
+INDIA TOYS MARKET, BY MATERIAL TYPE, 2019-2035 (USD BILLION)
+
+<table><thead><tr><th>Material Type</th><th>2019-h</th><th>2020-h</th><th>2021-h</th><th>2022-h</th><th>2024-b</th><th>2035-p</th><th>CAGR (2025-2035)</th></tr></thead><tbody><tr><td>Plastic Toys</td><td>3.635</td><td>2.598</td><td>3.151</td><td>4.004</td><td>4.663</td><td>11.039</td><td>8.31%</td></tr><tr><td>Wooden Toys</td><td>0.819</td><td>0.595</td><td>0.734</td><td>0.948</td><td>1.141</td><td>3.214</td><td>10.04%</td></tr><tr><td>Metal Toys</td><td>0.422</td><td>0.304</td><td>0.371</td><td>0.475</td><td>0.561</td><td>1.439</td><td>9.10%</td></tr><tr><td>Fabric Plush Toys</td><td>0.842</td><td>0.603</td><td>0.732</td><td>0.932</td><td>1.087</td><td>2.614</td><td>8.46%</td></tr><tr><td>Biodegradable Sustainable Toys</td><td>0.115</td><td>0.093</td><td>0.126</td><td>0.177</td><td>0.245</td><td>1.147</td><td>14.94%</td></tr><tr><td>Total</td><td>5.834</td><td>4.193</td><td>5.114</td><td>6.536</td><td>7.698</td><td>19.454</td><td>8.96%</td></tr></tbody></table>
+
+h: Historic, b: Base, p: Predicted/forecasted
+
+Source: Global Toys Market Research Report
+
+INDIA TOYS MARKET, BY DISTRIBUTION CHANNEL, 2019-2035 (USD BILLION)
+
+<table><thead><tr><th>Distribution Channel</th><th>2019-h</th><th>2020-h</th><th>2021-h</th><th>2022-h</th><th>2024-b</th><th>2035-p</th><th>CAGR (2025-2035)</th></tr></thead><tbody><tr><td>Offline Retail</td><td>3.849</td><td>2.755</td><td>3.345</td><td>4.257</td><td>4.971</td><td>11.958</td><td>8.47%</td></tr><tr><td>Toy Stores</td><td>2.275</td><td>1.629</td><td>1.979</td><td>2.519</td><td>2.944</td><td>7.110</td><td>8.51%</td></tr><tr><td>Department Stores</td><td>0.515</td><td>0.366</td><td>0.441</td><td>0.556</td><td>0.640</td><td>1.406</td><td>7.58%</td></tr><tr><td>Supermarkets Hypermarkets</td><td>0.747</td><td>0.541</td><td>0.665</td><td>0.857</td><td>1.027</td><td>2.794</td><td>9.69%</td></tr><tr><td>Specialty Hobby Stores</td><td>0.312</td><td>0.219</td><td>0.260</td><td>0.324</td><td>0.360</td><td>0.648</td><td>5.57%</td></tr><tr><td>Online Retail E-Commerce</td><td>1.985</td><td>1.438</td><td>1.769</td><td>2.279</td><td>2.865</td><td>7.496</td><td>9.79%</td></tr><tr><td>Brand-Owned Websites</td><td>0.467</td><td>0.338</td><td>0.415</td><td>0.534</td><td>0.670</td><td>1.727</td><td>9.64%</td></tr><tr><td>Marketplaces</td><td>1.061</td><td>0.773</td><td>0.956</td><td>1.239</td><td>1.576</td><td>4.380</td><td>10.39%</td></tr><tr><td>Subscription-Based Toy Boxes</td><td>0.457</td><td>0.327</td><td>0.397</td><td>0.506</td><td>0.619</td><td>1.389</td><td>8.25%</td></tr><tr><td>Total</td><td>5.834</td><td>4.193</td><td>5.114</td><td>6.536</td><td>7.836</td><td>19.454</td><td>8.96%</td></tr></tbody></table>
+
+h: Historic, b: Base, p: Predicted/forecasted
+
+Source: Global Toys Market Research Report
+
+INDIA TOYS MARKET, BY END USER, 2019-2035 (USD BILLION)
+
+<table><thead><tr><th>End User</th><th>2019-h</th><th>2020-h</th><th>2021-h</th><th>2022-h</th><th>2024-b</th><th>2035-p</th><th>CAGR (2025-2035)</th></tr></thead><tbody><tr><td>Boys</td><td>1.980</td><td>1.415</td><td>1.717</td><td>2.183</td><td>2.544</td><td>6.043</td><td>8.34%</td></tr><tr><td>Girls</td><td>1.769</td><td>1.271</td><td>1.550</td><td>1.980</td><td>2.331</td><td>5.873</td><td>8.93%</td></tr><tr><td>Unisex Gender-Neutral Toys</td><td>2.085</td><td>1.506</td><td>1.847</td><td>2.373</td><td>2.823</td><td>7.538</td><td>9.50%</td></tr><tr><td>Total</td><td>5.834</td><td>4.193</td><td>5.114</td><td>6.536</td><td>7.698</td><td>19.454</td><td>8.96%</td></tr></tbody></table>
+
+h: Historic, b: Base, p: Predicted/forecasted
+
+Source: Global Toys Market Research Report
+
+148

@@ -1,0 +1,25 @@
+SCSBs only). All applications shall be stamped and thereby acknowledged by the Designated Intermediaries at the time of receipt.
+
+6. The Designated Intermediaries will enter each application option into the electronic collecting system as a separate application and generate a TRS and give the same to the applicant.
+
+7. Upon receipt of the Application Form, submitted whether in physical or electronic mode, the Designated Intermediary shall verify if sufficient funds equal to the Application Amount are available in the ASBA Account, as mentioned in the Application Form, prior to uploading such applications with the Stock Exchange.
+
+8. If sufficient funds are not available in the ASBA Account, the Designated Intermediary shall reject such applications and shall not upload such applications with the Stock Exchange.
+
+9. If sufficient funds are available in the ASBA Account, the SCSB shall block an amount equivalent to the Application Amount mentioned in the Application Form and will enter each application option into the electronic collecting system as a separate application and generate a TRS for each price and demand option. The TRS shall be furnished to the Applicant on request. The registration of the Application by the Designated Intermediary does not guarantee that the Equity Shares shall be allocated/ allotted. Such Acknowledgement will be non-negotiable and by itself will not create any obligation of any kind. When an Applicant revises his or her Application (in case of revision in the Price), he/she shall surrender the earlier Acknowledgement Slip and may request for a revised TRS from the relevant Designated Intermediary as proof of his or her having revised the previous Application.
+
+10. The Application Amount shall remain blocked in the aforesaid ASBA Account until finalization of the Basis of Allotment and consequent transfer of the Application Amount against the Allotted Equity Shares to the Public Issue Account, or until withdrawal/ failure of the issue or until withdrawal/ rejection of the Application Form, as the case may be. Once the Basis of Allotment is finalized, the Registrar to the issue shall send an appropriate request to the Controlling Branch of the SCSB for unblocking the relevant ASBA Accounts and for transferring the amount allocable to the successful Applicants to the Public Issue account. In case of withdrawal/ failure of the issue, the blocked amount shall be unblocked on receipt of such information from the Registrar to the issue.
+
+## TERMS OF PAYMENT
+
+The entire Offer price of ₹ [●] per share is payable on application. In case of allotment of lesser number of Equity Shares than the number applied, the Registrar shall instruct the SCSBs to unblock the excess amount paid on Application to the Bidders.
+
+SCSBs will transfer the amount as per the instruction of the Registrar to the Public Issue Account, the balance amount after transfer will be unblocked by the SCSBs.
+
+The Bidders should note that the arrangement with Bankers to the Offer or the Registrar is not prescribed by SEBI and has been established as an arrangement between our Company, Banker to the Offer and the Registrar to the Offer to facilitate collections from the Bidders.
+
+## PAYMENT MECHANISM
+
+The Bidders shall specify the bank account number in their Bid Cum Application Form and the SCSBs shall block an amount equivalent to the Application Amount in the bank account specified in the Bid Cum Application Form. The SCSB shall keep the Application Amount in the relevant bank account blocked until withdrawal / rejection of the Application or receipt of instructions from the Registrar to unblock the Application Amount. However, Non-Individual Bidders shall neither withdraw nor lower the size of their applications at any stage. In the event of withdrawal or rejection of the Bid Cum Application Form or for unsuccessful Bid Cum Application Forms, the Registrar to the Offer shall give instructions to the SCSBs to unblock the application money in the relevant bank account within one day of receipt of such instruction. The Application Amount shall remain blocked in the ASBA Account until finalization of the Basis of Allotment in the Offer and consequent transfer of the Application Amount to the Public Issue Account, or until withdrawal / failure of the Offer or until rejection of the Application by the ASBA Bidder, as the case may be.
+
+Please note that, in terms of SEBI Circular No. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015 and the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, all the investors applying in a public offer shall use only Application Supported by Blocked Amount (ASBA) process for application providing details of the bank account which will be blocked by the Self-Certified Syndicate Banks (SCSBs) for the same. Further, pursuant to SEBI Circular No. SEBI/HO/CFD/DIL2/CIR/P/2018/138 dated November 01, 2018, Individual Investors applying in public offer have to use UPI as a payment mechanism with Application Supported by Blocked Amount for making application.

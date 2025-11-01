@@ -1,0 +1,57 @@
+SHREYAS FABTECH LIMITED
+Plot No.H37, MIDC Ambad, Nashik-422010, Maharashtra, India
+
+CIN: U28999MH2022PLC391593
+
+Annexure III- Restated Cash flow Statement
+
+(All amounts in Indian Rupees in Lakhs unless otherwise stated)
+
+<table><thead><tr><th rowspan="2">PARTICULARS</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>Year ended<br>March 31, 2025</th><th>Year ended<br>March 31, 2024</th><th>Year ended<br>March 31, 2023</th></tr></thead><tbody><tr><td><strong>A. Cash Flow From Operating Activities</strong></td><td></td><td></td><td></td></tr><tr><td>Net Profit before tax and extraordinary items</td><td>1247.06</td><td>667.65</td><td>-2.81</td></tr><tr><td>Adjustments for non Cash/ Non trade items:</td><td></td><td></td><td></td></tr><tr><td>Depreciation & Amortization Expenses</td><td>75.08</td><td>52.03</td><td>0.00</td></tr><tr><td>Finance Cost</td><td>26.62</td><td>15.42</td><td>0.00</td></tr><tr><td>Interest Income</td><td>-38.87</td><td>-15.96</td><td>0.00</td></tr><tr><td>Provision for Gratuity</td><td>12.66</td><td>80.89</td><td></td></tr><tr><td><strong>Operating Profits Before Change In Working Capital</strong></td><td><strong>1322.55</strong></td><td><strong>800.03</strong></td><td><strong>-2.81</strong></td></tr><tr><td>Adjustments For Change In Working Capital:</td><td></td><td></td><td></td></tr><tr><td>(Increase) / Decrease in trade receivables</td><td>-979.22</td><td>-407.99</td><td>0.00</td></tr><tr><td>(Increase) / Decrease in other current assets</td><td>-87.85</td><td>-405.08</td><td>-0.46</td></tr><tr><td>Increase / (Decrease) in trade payables</td><td>68.51</td><td>152.76</td><td>0.32</td></tr><tr><td>(Increase) / Decrease in inventories</td><td>242.23</td><td>-497.82</td><td>0.00</td></tr><tr><td>Increase / (Decrease) in other current liabilities</td><td>-26.83</td><td>121.88</td><td>0.25</td></tr><tr><td>(Increase) / Decrease in short term loans and advances</td><td>236.28</td><td>300.23</td><td>0.00</td></tr><tr><td>(Increase) / Decrease in other non current assets</td><td>-34.10</td><td>-38.99</td><td>-1.00</td></tr><tr><td><strong>Cash generated from Operations</strong></td><td><strong>741.57</strong></td><td><strong>25.02</strong></td><td><strong>-3.70</strong></td></tr><tr><td>Income Tax Paid</td><td>366.76</td><td>142.51</td><td>-</td></tr><tr><td><strong>Net Cash flow from Operating Activities(A)</strong></td><td><strong>374.82</strong></td><td><strong>-117.49</strong></td><td><strong>-3.70</strong></td></tr><tr><td><strong>B. Cash Flow From Investing Activities</strong></td><td></td><td></td><td></td></tr><tr><td>Purchase of tangible assets</td><td>-372.24</td><td>-29.55</td><td>-</td></tr><tr><td>Purchase of intangible assets</td><td>-0.33</td><td>-0.62</td><td>-</td></tr><tr><td>Investment in term deposits</td><td>-200.00</td><td>-68.03</td><td>-</td></tr><tr><td>Purchase of non current investment</td><td>-</td><td>-5.50</td><td>-</td></tr><tr><td>Sale of non-current investment</td><td>4.98</td><td>-</td><td>-</td></tr><tr><td>(Increase) / Decrease in Long term loans and advances</td><td>-</td><td>-46.00</td><td>-</td></tr><tr><td>Net Cash aquired from business tranfer acquisition of Propritorship</td><td>-</td><td>118.79</td><td>-</td></tr><tr><td>Interest Received</td><td>38.87</td><td>15.96</td><td>-</td></tr><tr><td><strong>Net Cash used in Investing Activities(B)</strong></td><td><strong>-528.73</strong></td><td><strong>-14.96</strong></td><td><strong>-</strong></td></tr><tr><td><strong>C. Cash Flow From Financing Activities</strong></td><td></td><td></td><td></td></tr><tr><td>Finance cost</td><td>-26.62</td><td>-15.42</td><td>-</td></tr><tr><td>Proceeds from Short term Borrowings</td><td>126.81</td><td>159.80</td><td>3.75</td></tr><tr><td>Repayment of long term borrowings</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Proceeds from long term borrowings</td><td>53.48</td><td>-</td><td>-</td></tr><tr><td>Proceeds from Issue of share capital</td><td>-</td><td>-</td><td>1.00</td></tr><tr><td><strong>Net Cash used in Financing Activities(C)</strong></td><td><strong>153.66</strong></td><td><strong>144.38</strong></td><td><strong>4.75</strong></td></tr><tr><td><strong>D. Net Increase / (Decrease) in Cash & Cash Equivalents(A+B+C)</strong></td><td><strong>-0.25</strong></td><td><strong>11.93</strong></td><td><strong>1.05</strong></td></tr><tr><td>E. Cash & Cash Equivalents at Beginning of period</td><td>12.98</td><td>1.05</td><td>0.00</td></tr><tr><td>F. Cash & Cash Equivalents at End of period</td><td>12.73</td><td>12.98</td><td>1.05</td></tr><tr><td><strong>G. Net Increase / (Decrease) in Cash & Cash Equivalents(F-E)</strong></td><td><strong>-0.25</strong></td><td><strong>11.93</strong></td><td><strong>1.05</strong></td></tr></tbody></table>
+
+Non Cash Investing Transaction
+
+During FY 2023-24, the company has acquired 'M/s Shreyas Engineers' through the issuance of 5,49,739 equity shares. Since this transaction does not involve cash, it has not been reflected in the Cash Flow Statement and is disclosed separately in accordance with AS 3. (refer note 35)
+
+Summary of significant accounting policies
+Notes to Restated Financial Statement
+
+1
+2 to 54
+
+As per our report of even dated attached
+**For SANVY & Associates**
+**Chartered Accountants**
+Firm Registration Number: 131547W
+
+for and on behalf of the Board of Directors of
+SHREYAS FABTECH LIMITED
+
+Sd/-
+Sahil Garud
+
+Partner
+
+Membership Number: 144395
+
+Place : Nashik
+
+Date : 26.09.2025
+
+UDIN: 25144395BMJPXJ4439
+
+Sd/-
+Shreyas K Patel
+CMD and CFO
+DIN: 01638788
+
+Sd/-
+Rakesh V Deore
+Director
+DIN: 05122982
+
+Sd/-
+Manisha Issrani
+Company Secretary
+
+F - 7

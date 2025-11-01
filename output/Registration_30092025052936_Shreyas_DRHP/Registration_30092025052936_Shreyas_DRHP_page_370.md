@@ -1,0 +1,27 @@
+amount, whichever is higher from the date on which such excess amounts were blocked till the date of actual unblock;
+(iv) any delay in unblocking of non-allotted / partially allotted Application, exceeding four Working Days from the Offer Closing Date, the Applicant shall be compensated at a uniform rate of ₹ 100 per day or 15% per annum of the Application Amount, whichever is higher for the entire duration of delay exceeding four Working Days from the Offer Closing Date by the SCSB responsible for causing such delay in unblocking. The post Offer Book Running Lead Manager shall be liable for compensating the Applicant at a uniform rate of 100 per day or 15% per annum of the Application Amount, whichever is higher from the date of receipt of the Investor grievance until the date on which the blocked amounts are unblocked.
+For the avoidance of doubt, the provisions of the SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M dated March 16, 2021, as amended pursuant to SEBI circular no. SEBI/HO/CFD/DIL2/P/CIR/2021/570 dated June 2, 2021 shall be deemed to be incorporated in the deemed agreement of the Company with the SCSBs to the extent applicable.
+
+Note - Our Company, in consultation with the Book Running Lead Manager, may consider participation by Anchor Investors in accordance with the SEBI ICDR Regulations. The Anchor Investor Bid/Offer Period shall be one Working Day prior to the Bid/Offer Opening Date in accordance with the SEBI ICDR Regulations.
+
+The above timetable is indicative and does not constitute any obligation on our Company or the Book Running Lead Manager. Whilst our Company shall ensure that all steps for the completion of the necessary formalities for the listing and the commencement of trading of the Equity Shares on the Stock Exchange are taken within 3 Working Days of the Bid / Offer Closing Date, the timetable may change due to various factors, such as extension of the Bid / Offer Period by our Company, revision of the Price Band or any delays in receiving the final listing and trading approval from the Stock Exchange. The Commencement of trading of the Equity Shares will be entirely at the discretion of the Stock Exchange and in accordance with the applicable laws.
+
+Submission of Application Forms:
+
+<table><tr><td colspan="2">Offer period (except the Offer Closing Date)</td></tr><tr><td>Submission and Revision of Application Form</td><td>Only between 10.00 a.m. to 5.00 p.m. IST</td></tr><tr><td colspan="2">Offer Closing Date</td></tr><tr><td>Submission and Revision of Application Form</td><td>Only between 10.00 a.m. to 3.00*# p.m. IST</td></tr></table>
+
+* Pursuant to NSE circular no. 07/2025 dated June 18, 2025, bidding for all categories shall close at 4:00 PM & UPI mandate end time and date shall be at 5:00 pm IST on Bid/ Offer Closing Date, i.e. [•].
+
+Submission of Bids
+
+a) Bids at Cut-off price shall not permitted for all category of investors.
+
+b) Downward Modification and cancellation shall not be applicable to any of the category of bidding.
+
+SEBI vide circular SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 9, 2023 has reduced the post offer timeline for IPOs. The revised timeline of T+3 days has been made applicable in two phases, i.e., voluntary for all public issues opening on or after September 1, 2023 and mandatory on or after December 1, 2023. Accordingly, the Offer has been made under UPI Phase III, subject to the timing of the Offer and any circulars, clarification or notification issued by the SEBI from time to time, including with respect to SEBI circular SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 9, 2023.
+
+The SEBI is in the process of streamlining and reducing the post offer timeline for initial public offerings. Any circulars or notifications from the SEBI after the date of the Draft Red Herring Prospectus may result in changes to the abovementioned timelines. Further, the Offer procedure is subject to change to any revised circulars issued by the SEBI to this effect.
+
+The Book Running Lead Manager will be required to submit reports of compliance with listing timelines and activities, identifying non-adherence to timelines and processes and an analysis of entities responsible for the delay and the reasons associated with it.
+
+Due to the limitation of time available for uploading the Bid-Cum-Application Forms on the Bid / Offer Closing Date, Applicants are advised to submit their applications 1(one) day prior to the Offer Closing Date and, in any case, not later than 3:00 p.m. (IST) on the Bid / Offer Closing Date. Any time mentioned in this Draft Red Herring Prospectus is IST. Applicants are cautioned that, in the event a large number of Bid-Cum-Application Forms are received on the Offer Closing Date, as is typically experienced in public Offer, some Bid-Cum-Application Forms may not get uploaded due to the lack of sufficient time. Such Bid-Cum-Application Forms that cannot be uploaded will not be considered for allocation under this Offer. Bid-Cum-Applications will be accepted only on Working Days, i.e., Monday to Friday (excluding any public holidays). Neither our Company nor the Book Running Lead Manager is liable for any failure in uploading the Bid-Cum-Application Forms due to faults in any software / hardware system or otherwise.

@@ -1,0 +1,39 @@
+Bidders, Individual Bidders, who applies for minimum application size, who applied, the Company has a right to reject Applications based on technical grounds.
+
+## IMPERSONATION
+
+Attention of the Bidders is specifically drawn to the provisions of sub-section (1) of Section 38 of the Companies Act, 2013 which is reproduced below:
+
+### "Any person who—
+
+(a) Makes or abets making of an application in a fictitious name to a company for acquiring, or subscribing for, its securities; or
+
+(b) Makes or abets making of multiple applications to a company in different names or in different combinations of his name or surname for acquiring or subscribing for its securities; or
+
+(c) Otherwise induces directly or indirectly a company to allot, or register any transfer of, securities to him, or to any other person in a fictitious name, shall be liable for action under Section 447."
+
+## UNDERTAKINGS BY OUR COMPANY
+
+We undertake as follows:
+
+1. That the complaints received in respect of the Offer shall be attended expeditiously and satisfactorily;
+
+2. That all steps will be taken for the completion of the necessary formalities for listing and commencement of trading on Stock Exchange where the Equity Shares are proposed to be listed within six working days from Offer Closure date.
+
+3. That if the Company do not proceed with the Offer, the reason thereof shall be given as a public notice to be issued by our Company within two days of the Offer Closing Date. The public notice shall be issued in the same newspapers where the pre-offer advertisements were published. The stock exchange on which the Equity Shares are proposed to be listed shall also be informed promptly;
+
+4. That the funds required for making refunds as per the modes disclosed or dispatch of allotment advice by registered post or speed post shall be made available to the Registrar and Share Transfer Agent to the Offer by our Company;
+
+5. Where refunds (to the extent applicable) are made through electronic transfer of funds, a suitable communication shall be sent to the applicant within 3 (three) Working Days from the Offer Closing Date, giving details of the bank where refunds shall be credited along with amount and expected date of electronic credit of refund;
+
+6. That our Promoters' contribution in full has already been brought in;
+
+7. That except for any allotment pursuant to the pre-ipo placement, no further Issue of Equity Shares shall be made till the Equity Shares Issued through the Prospectus are listed or until the Application monies are refunded on account of non-listing, undersubscription etc.;
+
+8. That adequate arrangement shall be made to collect all Applications Supported by Blocked Amount while finalizing the Basis of Allotment;
+
+9. If our Company does not proceed with the Offer after the Bid / Offer Opening Date but before allotment, then the reason thereof shall be given as a public notice to be issued by our Company within two days of the Bid / Offer Closing Date. The public notice shall be issued in the same newspapers where the Pre-Offer advertisements were published. The stock exchange on which the Equity Shares are proposed to be listed shall also be informed promptly;
+
+10. If our Company withdraws the Offer after the Bid / Offer Closing Date, our Company shall be required to file a fresh Draft Red Herring Prospectus with the Stock exchange / Registrar of Companies / SEBI, in the event our Company subsequently decides to proceed with the Offer;
+
+309

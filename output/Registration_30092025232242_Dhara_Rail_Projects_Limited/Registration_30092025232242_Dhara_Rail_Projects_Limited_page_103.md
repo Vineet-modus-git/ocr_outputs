@@ -1,0 +1,3 @@
+Dhara Rail Projects Limited
+
+information along with "Our Business", "Risk Factors" and "Restated Consolidated Financial Statements" on pages 116, 32 and 166 respectively, to have a more informed view. The trading price of the Equity Shares of our Company could decline due to the factors mentioned in "Risk Factors" or any other factors that may arise in the future and you may lose all or part of your investments.

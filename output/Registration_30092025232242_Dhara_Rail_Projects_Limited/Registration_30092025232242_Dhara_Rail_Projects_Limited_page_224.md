@@ -1,0 +1,17 @@
+Dhara Rail Projects Limited
+
+1) The Authorized Share Capital of the Company was increased from Rs.20,00,000/- divided into 2,00,000 Equity Shares of Rs.10/- each to Rs. 20,00,00,000/- divided into 2,00,00,000 Equity Shares of Rs. 10/- vide Extra Ordinary General Meeting held on July 28, 2025.
+
+2) A special resolution passed by the shareholders at the Extra Ordinary General Meeting held on August 09, 2025, the name of our Company was changed from “Dhara Rail Projects Private Limited” to “Dhara Rail Projects Limited” vide a fresh Certificate of Incorporation consequent upon Conversion to public company dated August 25, 2025 issued by the Registrar of Companies, Central Processing Centre.
+
+3) The Board of Directors in their meeting held on September 24, 2025 allotted 1,10,00,000 Bonus shares in the ratio of 110:1 i.e. One Hundred Ten (110) Equity shares for every Ten (1) Equity share held by each shareholder.
+
+4) Our company has approved the audited financial statements for the financial year ended March 31, 2025 in the Board meeting dated September 16, 2025.
+
+5) The Issue has been authorized by our Board pursuant to a resolution passed at its meeting held on September 26, 2025 and by our Shareholders pursuant to a special resolution passed pursuant to Section 62(1)(c) of the Companies Act, 2013 at the Extra-Ordinary General meeting held on September 27, 2025 to raise funds by making an Initial Public Offering.
+
+6) The Company has approved the Restated Consolidated Financial Statements for the financial year ended March 31, 2025, March 31, 2024 and March 31, 2023 in the Board meeting dated September 27, 2025.
+
+7) Our Company has approved the Draft Red Herring Prospectus vide resolution in the Board Meeting dated September 30, 2025.
+
+222

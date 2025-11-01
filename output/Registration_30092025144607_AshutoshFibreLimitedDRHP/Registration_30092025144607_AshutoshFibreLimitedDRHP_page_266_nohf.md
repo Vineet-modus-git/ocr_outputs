@@ -1,0 +1,14 @@
+ASHUTOSH FIBRE LIMITED
+[FORMERLY KNOWN AS ASHUTOSH FIBRE PRIVATE LIMITED]
+
+CIN No. : U24299GJ1985PLC007831
+
+ANNEXURE - XXXIV : RESTATED STATEMENT OF RELATED PARTY DISCLOSURES
+
+As required under Accounting Standard 18 "Related Party Disclosures" as notified pursuant to Company (Accounting Standard) Rules 2006, following are details of transactions during the year with related parties of the company as defined in AS 18.
+
+i. List of Related Parties and Nature of Relationship :
+
+<table><thead><tr><td>Particulars</td><td>Name of Related Parties</td><td>Relation</td></tr></thead><tbody><tr><td rowspan="7">(a) Key Managerial Person (KMP)</td><td>Siddharth Prakash Patel</td><td>Director and Managing Director (W.e.f. 23.07.2025)</td></tr><tr><td>Abhishek R. Agrawal</td><td>Director and Whole Time Director (W.e.f. 23.07.2025)</td></tr><tr><td>Piyush Ravishanker Bhatt</td><td>Independent Director (W.e.f. 23.07.2025)</td></tr><tr><td>Dhwani Lalitbhai Nagar</td><td>Independent Director (W.e.f. 23.07.2025)</td></tr><tr><td>Jayshree Vikram Patel</td><td>Independent Director (W.e.f. 23.07.2025)</td></tr><tr><td>Sonal Bankim Bhansali</td><td>Company Secretary (W.e.f. 01.08.2025)</td></tr><tr><td>Alpesh R. Bhavsar</td><td>Chief Financial Officer (W.e.f. 11.09.2025)</td></tr></tbody></table>
+
+<table><thead><tr><td>Particulars</td><td>Name of Related Parties</td></tr></thead><tbody><tr><td rowspan="15">(a) Relatives of KMP</td><td>Vinodbhai S. Agrawal</td></tr><tr><td>Malav P. Patel</td></tr><tr><td>Binaben P. Patel</td></tr><tr><td>Prakash P. Patel</td></tr><tr><td>Anar Siddharth Patel</td></tr><tr><td>Vivaan Siddharth Patel</td></tr><tr><td>Shaan Siddharth Patel</td></tr><tr><td>Palak Romal Shah</td></tr><tr><td>Shilpa Abhishek Agarwal</td></tr><tr><td>Ankur Agrawal</td></tr><tr><td>Swapnil Hasmukh Patel</td></tr><tr><td>Shradha Sankit Agarwal</td></tr><tr><td>Rahul S Patel</td></tr><tr><td rowspan="7">(b) Concerns in which KMP are Interested</td><td>Prahash Finstock Pvt. Ltd.</td></tr><tr><td>Shree Prakash Textiles (G) Pvt. Ltd.</td></tr><tr><td>Pitex Corporation</td></tr><tr><td>Shri Bajrangbali Intermediate and Dyes Pvt Ltd</td></tr><tr><td>Shyam Prakash Spinning Mills Ltd.</td></tr><tr><td>R. K. Agrawal Trading Co. Pvt. Ltd.</td></tr></tbody></table>

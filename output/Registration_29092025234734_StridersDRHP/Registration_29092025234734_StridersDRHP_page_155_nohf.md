@@ -1,0 +1,25 @@
+China, Japan, India, and South Korea play a major role in manufacturing and consumption, with China serving as a global hub for toy production. The sector is experiencing a shift towards educational and interactive toys, fueled by parental preferences for products that support child development. E-commerce and digital platforms have also significantly expanded market reach, enabling both global brands and local startups to tap into diverse consumer bases across urban and rural regions. Sustainability trends are gaining traction as well, prompting manufacturers to explore eco-friendly materials and practices. Additionally, popular franchises and character-based toys continue to drive sales especially through strategic licensing deals. The region's strong innovation ecosystem and tech integration are positioning it as a global leader in the evolution of smart and connected toys.
+
+ASIA PACIFIC TOYS MARKET, BY COUNTRY, 2019-2035 (USD BILLION)
+
+<table><thead><tr><th>Country</th><th>2019-h</th><th>2020-h</th><th>2021-h</th><th>2022-h</th><th>2024-b</th><th>2035-p</th><th>CAGR (2025-2035)</th></tr></thead><tbody><tr><td>China</td><td>11.292</td><td>8.011</td><td>9.646</td><td>12.174</td><td>13.966</td><td>31.037</td><td>7.69%</td></tr><tr><td>India</td><td>5.834</td><td>4.193</td><td>5.114</td><td>6.536</td><td>7.698</td><td>19.454</td><td>8.96%</td></tr><tr><td>Japan</td><td>2.484</td><td>1.777</td><td>2.158</td><td>2.747</td><td>3.206</td><td>7.785</td><td>8.56%</td></tr><tr><td>South Korea</td><td>2.038</td><td>1.438</td><td>1.723</td><td>2.163</td><td>2.457</td><td>5.140</td><td>7.10%</td></tr><tr><td>Malaysia</td><td>0.664</td><td>0.467</td><td>0.557</td><td>0.696</td><td>0.784</td><td>1.544</td><td>6.52%</td></tr><tr><td>Thailand</td><td>0.503</td><td>0.357</td><td>0.429</td><td>0.540</td><td>0.617</td><td>1.346</td><td>7.50%</td></tr><tr><td>Indonesia</td><td>0.565</td><td>0.393</td><td>0.463</td><td>0.572</td><td>0.633</td><td>1.053</td><td>4.89%</td></tr><tr><td>Rest of Asia-Pacific</td><td>1.806</td><td>1.255</td><td>1.478</td><td>1.825</td><td>1.981</td><td>3.254</td><td>4.69%</td></tr><tr><td>Total</td><td>25.186</td><td>17.891</td><td>21.568</td><td>27.253</td><td>31.343</td><td>70.611</td><td>7.82%</td></tr></tbody></table>
+
+h: Historic, b: Base, p: Predicted/forecasted
+
+Source: Global Toys Market Research Report
+
+## South America
+
+The toys sector in South America is a dynamic and growing industry, driven by a young population and increasing consumer spending. Countries like Brazil, Argentina, and Colombia are key markets, with Brazil being the largest in the region. The industry benefits from a strong demand for both traditional toys and modern, tech-driven products such as educational and electronic toys. Global brands like Mattel and Hasbro maintain a strong presence, but local manufacturers also play a significant role by offering culturally relevant products at more affordable prices. E-commerce is expanding rapidly, especially post-pandemic, giving consumers wider access to international brands. However, the market faces challenges such as economic instability, import regulations, and fluctuating exchange rates. Despite these hurdles, the sector remains resilient, with innovation and digital transformation opening new opportunities for growth and market diversification across the continent.
+
+SOUTH AMERICA TOYS MARKET, BY COUNTRY, 2019-2035 (USD BILLION)
+
+<table><thead><tr><th>Country</th><th>2019-h</th><th>2020-h</th><th>2021-h</th><th>2022-h</th><th>2024-b</th><th>2035-p</th><th>CAGR (2025-2035)</th></tr></thead><tbody><tr><td>Brazil</td><td>1.131</td><td>0.784</td><td>0.921</td><td>1.136</td><td>1.242</td><td>2.133</td><td>5.19%</td></tr><tr><td>Mexico</td><td>0.780</td><td>0.546</td><td>0.648</td><td>0.806</td><td>0.898</td><td>1.704</td><td>6.15%</td></tr><tr><td>Argentina</td><td>0.515</td><td>0.359</td><td>0.423</td><td>0.524</td><td>0.579</td><td>1.044</td><td>5.67%</td></tr><tr><td>Rest of South America</td><td>0.150</td><td>0.103</td><td>0.120</td><td>0.147</td><td>0.158</td><td>0.242</td><td>4.16%</td></tr><tr><td>Total</td><td>2.576</td><td>1.791</td><td>2.112</td><td>2.612</td><td>2.876</td><td>5.124</td><td>5.55%</td></tr></tbody></table>
+
+h: Historic, b: Base, p: Predicted/forecasted
+
+Source: Global Toys Market Research Report
+
+## Middle East and Africa
+
+The Middle East and Africa (MEA) toys sector is witnessing steady growth, driven by rising disposable incomes, a young population, and increasing awareness of early childhood development. Countries like the UAE and Saudi Arabia are leading the market, with growing demand for educational toys, licensed merchandise, and tech-integrated products such as smart toys and interactive games. In Africa, urbanization and the expansion of retail infrastructure are boosting accessibility to international toy brands. E-commerce is also playing a key role, enabling wider product reach and variety. Additionally, parents are placing more

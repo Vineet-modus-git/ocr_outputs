@@ -1,0 +1,33 @@
+that patent protection may not be granted to certain specified types of inventions and materials even if they satisfy the above criteria.
+
+## E. Foreign Investment Regulations
+
+The foreign investment in India is governed, among others, by the Foreign Exchange Management Act, 1999, the Foreign Exchange Management (Non-debt Instruments) Rules, 2019 ("FEMA Rules") and the consolidated FDI policy (effective from October 15, 2020) issued by the Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry, Government of India (earlier known as the Department of Industrial Policy and Promotion ("FDI Policy"), each as amended. Further, the Reserve Bank of India has enacted the Foreign Exchange Management (Mode of Payment and Reporting of Non-Debt Instruments) Regulations, 2019 on October 17, 2019 which regulates mode of payment and remittance of sale proceeds, among others. The FDI Policy and the FEMA Rules prescribe inter alia the method of calculation of total foreign investment (i.e. direct foreign investment and indirect foreign investment) in an Indian company.
+
+### Foreign Trade (Development and Regulation) Act, 1992 ("FTA")
+
+In India, the main legislation concerning foreign trade is the FTA. The FTA read along with relevant rules provides for the development and regulation of foreign trade by facilitating imports into, and augmenting exports from, India and for matters connected therewith or incidental thereto.
+
+As per the provisions of the Act, the Government: -
+
+(i) may make provisions for facilitating and controlling foreign trade;
+
+(ii) may prohibit, restrict and regulate exports and imports, in all or specified cases as well as subject them to exceptions, if any;
+
+(iii) is authorized to formulate and announce an export and import policy and also amend the same from time to time, by notification in the Official Gazette;
+
+(iv) is also authorized to appoint a Director General of Foreign Trade for the purpose of the Act, including formulation and implementation of the Export-Import (EXIM) Policy.
+
+FTA read with the Indian foreign trade policy provides that no export or import can be made by a company without an importer-exporter code number unless such company is specifically exempt. An application for an importer exporter code number has to be made to the office of the Joint Director General of Foreign Trade, Ministry of Commerce.
+
+### FEMA Rules
+
+The RBI, in exercise of its power under the FEMA, has notified the Foreign Exchange Management (Mode of Payment and Reporting of Non-Debt Instruments) Regulations, 2019 by Notification No. FEMA. 395/2019-RB dated October 17, 2019 ("FEMA Rules") to prohibit, restrict, or regulate transfer by or issue security to a person resident outside India. As laid down by the FEMA Rules, no prior consents and approvals are required from the RBI for Foreign Direct Investment ("FDI") under the "automatic route" within the specified sectoral caps. In respect of all industries not specified as FDI under the automatic route, and in respect of investment in excess of the specified sectoral limits under the automatic route, approval may be required from the RBI. At present, the FDI Policy does not prescribe any cap on the foreign investments in the sector in which the Company operates. Therefore, foreign investment up to 100% is permitted in the Company under the automatic route.
+
+## F. Taxation Laws
+
+### Income Tax Act, 1961
+
+Income Tax Act, 1961 is applicable to every domestic or foreign company whose income is taxable under the provisions of this Act or rules made under it depending upon its "Residential Status" and "Type of Income" involved. Under section 139(1) every Company is required to file its income tax return for every previous year by October 31 of the assessment year. Other compliances like those relating to tax deduction at source, fringe benefit tax, advance tax, and minimum alternative tax and the like are also required to be complied with by every company.
+
+### Goods and Service Tax (GST)

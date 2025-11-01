@@ -1,0 +1,27 @@
+Q-Line Biotech Limited
+
+In case of Bids made pursuant to a power of attorney or by limited companies, corporate bodies, registered societies, FIIs, Mutual Funds, insurance companies and provident funds with a minimum corpus of ₹ 2500 Lakhs (subject to applicable law) and pension funds with a minimum corpus of ₹2500 Lakhs, a certified copy of the power of attorney or the relevant resolution or authority, as the case may be, along with a certified copy of the memorandum of association and articles of association and/or bye laws must be lodged along with the Bid cum Application Form. Failing this, our Company, in consultation with the BRLMs, reserves the right to accept or reject any Bid in whole or in part, in either case without assigning any reason therefor. In addition to the above, certain additional documents are required to be submitted by the following entities:
+
+a) With respect to Bids by FIIs and Mutual Funds, a certified copy of their SEBI registration certificate must be lodged along with the Bid cum Application Form.
+
+b) With respect to Bids by insurance companies registered with the Insurance Regulatory and Development Authority, in addition to the above, a certified copy of the certificate of registration issued by the Insurance Regulatory and Development Authority must be lodged along with the Bid cum Application Form.
+
+c) With respect to Bids made by provident funds with a minimum corpus of ₹ 2500 Lakhs (subject to applicable law) and pension funds with a minimum corpus of ₹ 2500 Lakhs, a certified copy of a certificate from a chartered accountant certifying the corpus of the provident fund/pension fund must be lodged along with the Bid cum Application Form.
+
+d) With respect to Bids made by limited liability partnerships registered under the Limited Liability Partnership Act, 2008, a certified copy of certificate of registration issued under the Limited Liability Partnership Act, 2008, must be attached to the Bid cum Application Form
+
+e) Our Company in consultation with the Book Running Lead Managers in their absolute discretion, reserves the right to relax the above condition of simultaneous lodging of the power of attorney along with the Bid cum Application form, subject to such terms and conditions that our Company and the Book Running Lead Managers may deem fit.
+
+## BIDS BY PROVIDENT FUNDS / PENSION FUNDS:
+
+In case of Bids made by provident funds with minimum corpus of ₹25 Crore (subject to applicable law) and pension funds with minimum corpus of ₹ 25 Crore, a certified copy of certificate from a chartered accountant certifying the corpus of the provident fund/ pension fund must be lodged along with the Bid cum Application Form. Failing this, the Company reserves the right to accept or reject any bid in whole or in part, in either case, without assigning any reason thereof.
+
+## BIDS BY BANKING COMPANY:
+
+In case of Bids made by banking companies registered with RBI, certified copies of: (i) the certificate of registration issued by RBI, and (ii) the approval of such banking company's investment committee are required to be attached to the Bid cum Application Form, failing which our Company reserves the right to reject any Bid by a banking company without assigning any reason.
+
+The investment limit for banking companies in non-financial services companies as per the Banking Regulation Act, 1949, as amended (the "Banking Regulation Act"), and the Reserve Bank of India (Financial Services provided by Banks) Directions, 2016, is 10% of the paid-up share capital of the investee company not being its subsidiary engaged in non-financial services or 10% of the banks' own paid-up share capital and reserves, whichever is lower. However, a banking company would be permitted to invest in excess of 10% but not exceeding 30% of the paid-up share capital of such investee company if (i) the investee company is engaged in non-financial activities permitted for banks in terms of Section 6(1) of the Banking Regulation Act, or (ii) the additional acquisition is through restructuring of debt / corporate debt restructuring / strategic debt restructuring, or to protect the banks' interest on loans / investments made to a company. The bank is required to submit a time bound action plan for disposal of such shares within a specified period to RBI. A banking company must obtain prior RBI approval to make: (i) investment in a subsidiary or in a financial services company that is not a subsidiary (subject to exemptions, including profitability, minimum capital, and prescribed holding limits under 10% individually and 20% cumulatively); and (ii) investment in a non-financial services company exceeding 10% of such investee's paid-up share capital, as specified under Clause 5(a)(v)(c)(i) of the Reserve Bank of India (Financial Services provided by Banks) Directions, 2016
+
+## BIDS BY SCSB'S:
+
+SCSBs participating in the Issue are required to comply with the terms of the SEBI circulars dated September 13, 2012 and January 2, 2013. Such SCSBs are required to ensure that for making Bid cum Applications on their own account using ASBA, they should have a separate account in their own name with any other SEBI registered SCSBs. Further, such account shall be used solely for the purpose of making Bid cum application in public Issues and clear demarcated funds should be available in such account for such Bid cum applications.

@@ -1,0 +1,29 @@
+management. Jagruti Tejas Mehta is responsible for general business and HR & administration functions. Our management team has substantial experience in the sectors which we serve, which enables us to capture market opportunities, formulate and execute business strategies, manage client expectations as well as proactively respond to changes in the market conditions.
+
+For details regarding the Key Managerial Personnel, please refer to chapter titled "Our Management" on page 143 of this Draft Red Herring Prospectus.
+
+## OUR STRATEGIES:
+
+### Continue to focus on operational efficiency:
+
+We intend to continue to focus on improving our project execution and operational efficiencies. Manpower plays a key role in the delivery of essential services under various railway projects. As of August 31, 2025, we have employed more than 800 skilled and semi-skilled workers across multiple locations, deployed in accordance with project requirements. We will continue to train our employees to increase operational efficiency to meet the required standards as per the required specification of Indian railways. Effective training improves client service, leading to increased operational efficiency.
+
+### Focus on consistently meeting quality standards
+
+Safety and quality assurance are paramount in any industry, ensuring the well-being of individuals and the reliability of services. In order to ensure the well-being of our workers, we are always looking for ways to improve our safety regulations to prevent mishaps, injuries and hazards. Quality assurance processes, on the other hand, focus on maintaining and improving the excellence of services through systematic inspections, adherence to standards and continuous refinement of processes. Together, these measures create a robust framework that not only safeguards against potential risks but also guarantees the consistent delivery of high-quality outcomes, fostering trust and confidence among stakeholders.
+
+### Expanding our Geographical Footprints
+
+For the Financial Years 2024-25, 2023-24 and 2022-23, our revenue from operations were Rs. 4448.42 lakhs, Rs. 3146.84 lakhs and Rs. 2660.11 lakhs respectively. Currently, we are delivering our goods and services to Indian Railways in various Zones. Our Resources are located at various Railway Zones such as Central Railway, Western Railway, Eastern Railway, Northern Railway, North Eastern Railway, Northeast Frontier Railway, East Coast Railway, Southern Railway, South Central Railway, South Eastern Railway, North Western Railway etc. We plan to continue our strategy of diversifying and expanding our presence in these zones for the growth of our business. We further seek to identify other untouched zones also where we can provide with our goods and services. Through further diversification of our operations geographically, we hope to hedge against risks of operations in only specific areas and protection from fluctuations resulting from business concentration in limited geographical areas. Thus, we intend to focus on current markets and to tap new market to increase our geographical reach.
+
+### Maintaining cordial relationship with our Suppliers and Clients
+
+We believe in maintaining good relationship with our suppliers and clients which is the most important factor to keep our Company growing. Our dedicated and focused approach and efficient and timely delivery of our services and products has helped us build strong relationships with our existing clients over a number of years. We bag and place repetitive order with our clients as well as with our suppliers. For us, establishing strong, mutually beneficial long-term relationships with strategic supplier relationship management is a critical step in improving performance across the supply chain, generating greater cost efficiency and enabling the business to grow and develop.
+
+## OUR SERVICES:
+
+Our range of services Include:
+
+### 1. Annual Maintenance Contracts and repair services for train lighting equipment :
+
+This contract covers the comprehensive maintenance and repair services of train lighting equipment installed in passenger coaches. We ensure optimal performance, safety compliance and uninterrupted functionality of the lighting systems

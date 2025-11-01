@@ -1,0 +1,23 @@
+# INTERNAL RISK FACTORS
+
+## A. BUSINESS RELATED RISKS
+
+1. Our business operations are geographically concentrated in India, and our inability to expand into new markets may adversely impact our growth and revenue potential.
+
+Our business operations are primarily concentrated in India, and our revenue is largely dependent on the domestic market. This geographic limitation exposes us to risks associated with regional economic conditions, government policies, regulatory changes, and market demand fluctuations. Any adverse changes in fuel pricing policies, environmental regulations, taxation structures, or restrictions on the use of alternative fuel kits in India could negatively impact our business growth and profitability.
+
+Additionally, our dependence on a single market restricts our ability to mitigate risks through geographic diversification. Unlike businesses operating in multiple countries, we may not have alternative markets to offset losses in case of economic downturns, geopolitical instability, or sudden policy changes in India. Furthermore, market saturation and increased competition from new entrants or established players could limit our growth potential.
+
+To address these challenges, we continuously explore opportunities for market expansion, strategic partnerships, and diversification of our product portfolio. However, our success in entering new markets depends on regulatory approvals, logistical feasibility, and competitive positioning, which may not be achieved in a timely manner or at all. Any failure to expand beyond our current operational territory could adversely affect our future growth prospects and financial performance.
+
+2. Our inability to obtain or renew necessary approvals from government agencies may adversely affect our business operations and growth prospects.
+
+We require several statutory and regulatory permits, licenses and approvals to operate our business. Many of these approvals are subject to periodical renewal. Any failure to renew the approvals that may expire, or to apply for the required approvals, licenses, registrations or permits, or any suspension or revocation of any of the approvals, licenses, registrations and permits that have been or may be issued to us, could result in delaying the operations of our business, which may adversely affect our business, financial condition, results of operations and prospects. We believe that we have obtained all the material licenses required for running our business and operations. For more details relating to licenses and approvals relating to our business, see "Government and Other Approvals" on page 262.
+
+While, we have not had any material instances of failure to renew approvals, licenses, and registrations required to conduct our businesses, we cannot assure you that approvals, licenses and registrations will be successfully granted or renewed in a timely manner or at all in the future. We also cannot assure you that our approvals and consents will not be suspended or revoked in the future. Failure to obtain, maintain or renew the approvals, licenses and registrations required to operate our business could adversely affect our business, financial condition, cash flows and results of operations.
+
+Further, some of our permits, licenses and approvals are subject to several conditions and we cannot provide any assurance that we will be able to continuously meet such conditions or be able to prove compliance with such conditions to the statutory authorities, which may lead to the cancellation, revocation or suspension of relevant permits, licenses or approvals which may result in the interruption of our operations and may have a material adverse effect on our business, financial condition, cash flows and results of operations. For more details relating to licenses and approvals relating to our business, see "Government and Other Approvals" on page 262.
+
+3. Changes in government policies in India and Italy may adversely impact our supply chain, market demand, and overall business operations.
+
+We are highly dependent on our exclusive distribution agreement with Landi Renzo S.p.A., our primary supplier of alternative fuel kits. As their sole distributor in India, we oversee all aspects of Lovato-branded products, including promotion, distribution, marketing, sales, installation, and after-sales support. This exclusive arrangement strengthens our market position but also exposes us to risks associated with supplier dependency and regulatory changes.

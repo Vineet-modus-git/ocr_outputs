@@ -1,0 +1,42 @@
+# SECTION IX – OTHER INFORMATION
+## MATERIAL CONTRACTS AND DOCUMENTS FOR INSPECTION
+
+The copies of the following documents and contracts which have been entered into or are to be entered into by our Company (not being contracts entered into in the ordinary course of business carried on by our Company) which are or may be deemed material will be attached to the copy of the Red Herring Prospectus and the Prospectus which will be filed with the Registrar of Companies and will also be available on the website of the Company. Copies of the contracts and also the documents for inspection referred to hereunder, may be inspected at the Registered Office of our Company between 10.00 a.m. and 5.00 p.m. (IST) on all Working Days from the date of the Red Herring Prospectus until the Issue Closing Date except for such agreements executed after the Bid / Issue Closing Date).
+
+Any of the contracts or documents mentioned in this Draft Red Herring Prospectus may be amended or modified at any time if so, required in the interest of our Company or if required by the other parties, without reference to the shareholders, subject to compliance of the provisions contained in the Companies Act and other applicable law.
+
+### A) Material contracts for the Issue
+
+1. Issue Agreement dated February 05, 2025, between our Company and Book Running Lead Manager
+
+2. Registrar Agreement dated January 9, 2025, between our Company and Registrar to the Issue
+
+3. Monitoring Agency Agreement dated [●] entered into between our Company and the Monitoring Agency.
+
+4. Underwriting Agreement dated [●] amongst our Company, the Underwriter and Book Running Lead Manager.
+
+5. Market Making Agreement dated [●] amongst our Company, Market Maker and the Book Running Lead Manager.
+
+6. Share Escrow Agreement dated [●] entered into between our Company and the Share Escrow Agent.
+
+7. Bankers to the Issue Agreement dated [●] amongst our Company, the Book Running Lead Manager, Banker(s) to the Issue and the Registrar to the Issue.
+
+8. Tripartite agreement dated December 04, 2024, amongst our Company, Central Depository Services (India) Limited and Registrar to the Issue.
+
+9. Tripartite agreement dated November 05, 2024, amongst our Company, National Securities Depository Limited and Registrar to the Issue.
+
+### B) Material documents for the Issue
+
+1. Certified true copy of Certificate of Incorporation, the Memorandum of Association and Articles of Association of our Company, as amended.
+
+2. Resolutions of the Board of Directors dated February 07, 2025 in relation to the Issue and other related matters.
+
+3. Shareholders' resolution dated February 10, 2025, in relation to the Issue and other related matters.
+
+4. Consents letter of our Promoter, Directors, our Company Secretary and Compliance Officer, our Chief Financial Officer, Statutory Auditor, Peer Reviewed Auditor, Book Running Lead Manager, Legal Advisor to the Issue, the Registrar to the Issue, Underwriter to the Issue, Bankers to our Company, Market Maker and Banker to the Issue to include their names in this Draft Red Herring Prospectus and to act in their respective capacities.
+
+5. Peer Review Auditors Report dated September 06, 2025 on Restated Consolidated Financial Statements of our Company for the financial year ended on March 31, 2025, March 31, 2024 and March 31, 2023.
+
+6. The Report dated September 22, 2025 from the Peer Reviewed Auditors of our Company, confirming the Statement of Possible Tax Benefits available to our Company and its Shareholders as disclosed in this Draft Red Herring Prospectus.
+
+7. Copy of approval from NSE vide letter dated [●] to use their name in the Issue document.

@@ -1,0 +1,31 @@
+<table><tr><td>Fees to the legal advisor, audit / chartered accountant fees</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Advertising and marketing expenses</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Fees payable to regulators including stock exchange</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Printing and distribution expenses</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Fees payable to Industry Report provider</td><td>●</td><td>●</td><td>●</td></tr><tr><td>Miscellaneous</td><td>●</td><td>●</td><td>●</td></tr><tr><td><strong>Total Expenses</strong></td><td><strong>●</strong></td><td><strong>●</strong></td><td><strong>●</strong></td></tr></table>
+
+Issue expenses include goods and services tax, where applicable. Issue expenses will be incorporated at the time of filing of the Prospectus. Issue expenses are estimates and are subject to change.
+
+1) Selling commission payable to the SCSBs on the portion for IIs and Non-Institutional Bidders which are directly procured and uploaded by the SCSBs, would be as follows:
+
+<table><tr><td>Portion for IIs*</td><td>0.25% of the Amount Allotted (plus applicable taxes)</td></tr><tr><td>Portion for Non-Institutional Bidders*</td><td>0.15% of the Amount Allotted (plus applicable taxes)</td></tr></table>
+
+* Amount Allotted is the product of the number of Equity Shares Allotted and the Issue Price. Selling commission payable to the SCSBs will be determined on the basis of the bidding terminal ID as captured in the bid book of BSE. No additional processing fees shall be payable to the SCSBs on the applications directly procured by them.
+
+2) No processing fees shall be payable by our Company to the SCSBs on the applications directly procured by them. Processing fees payable to the SCSBs on the portion for IIs and Non-Institutional Bidders (excluding UPI Bids) which are procured by the members of the Syndicate / sub-Syndicate / Registered Broker / CRTAs / CDPs and submitted to SCSB for blocking, would be as follows.
+
+<table><tr><td>Portion for Non-Institutional Bidders*</td><td>₹ 10 per valid application (plus applicable taxes)</td></tr></table>
+
+* Processing fees payable to the SCSBs on the ASBA Form for Non-Institutional Bidders and Qualified Institutional Bidders with bids above ₹ 5.00 Lakh would be ₹ 10 plus applicable taxes, per valid application.
+
+Notwithstanding anything contained above the total processing fee payable under this clause will not exceed ₹ 0.5 lakh (plus applicable taxes) and in case if the total processing fees exceeds ₹ 0.5 lakh (plus applicable taxes) then processing fees will be paid on pro-rata basis.
+
+3) Selling commission on the portion for IIs (up to ₹2.00 Lakh) and Non-Institutional Bidders which are procured by members of the Syndicate Members, Registered Brokers, CRTAs and CDPs or for using 3-in-1 type accounts-linked online trading, demat & bank account provided by some of the Registered Brokers would be as follows:
+
+## APPRAISAL
+
+None of the Objects have been appraised by any bank or financial institution or any other independent third-party organization. The funding requirements of our Company and the deployment of the proceeds of the Issue are currently based on available quotations and management estimates. The funding requirements of our Company are dependent on a number of factors which may not be in the control of our management, including but not limited to variations in interest rate structures, changes in our financial condition and current commercial conditions of our Business and are subject to change in light of changes in external circumstances or in our financial condition, business or strategy.
+
+## SHORTFALL OF FUNDS
+
+Any shortfall in meeting the fund requirements will be met by way of internal accruals and or unsecured Loans.
+
+## BRIDGE FINANCING FACILITIES
+
+106

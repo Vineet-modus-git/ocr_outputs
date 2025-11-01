@@ -1,0 +1,25 @@
+We believe that the audit evidence we have obtained and the audit evidence obtained by the other auditors in terms of their reports referred to the 'Other Matters' paragraph below is sufficient and appropriate to provide a basis for our opinion on the Special Purpose Combined Financial Statements.
+
+## Emphasis of Matter
+
+We draw attention to Note 1 (B) to the Special Purpose Combined Financial Statements, which describes the basis of preparation.
+
+Our opinion is not modified in respect of the above matter.
+
+## Other Matters:
+
+1. We did not audit the financial statements / financial information of M/s Shreyas Engineers for the year ended March 31, 2023 whose total assets, total revenues and net cash inflow, included in the Special Purpose Combined Financial Statements for the relevant period is Rs. 516.67 Lakhs, Rs. 4,530.84 Lakhs and Rs. 29.58 Lakhs respectively and period till April 2024. This financial information has been audited by the statutory auditor of M/s Shreyas Engineers M/s A.S. Kothawade & Co., whose report has been furnished to us by the management and our opinion on the Special Purpose Combined Financial Statements in so far as it relates to the amounts and disclosures included in respect of the Shreyas Fabtech Limited is based solely on the report of the other auditor.
+
+2. These Special Purpose Combined Financial Statements of Shreyas Group were approved by the Board of Shreyas Fabtech Limited in its meeting held on September 26, 2025, on which we have issued our audit report dated September 26, 2025. As stated in Note 1 (b), these Special Purpose Combined Financial Statements of Shreyas Group have been approved by the Board of Directors of Shreyas Fabtech Limited in its meeting held on September 26, 2025, for the purposes stated thereunder.
+
+Our opinion is not modified in respect of the above matters.
+
+## Management's Responsibility for the Special Purpose Combined Financial Statements
+
+The Company's & Issuer's Management and Board of Directors are responsible for preparation of these Special Purpose Combined Financial Statements that give a true and fair view of the state of affairs, profit, changes in equity/owner's net investment and its cash flows of the Shreyas Group in accordance with the accounting principles generally accepted in India, specified under Section 133 of the Act read with relevant rules, as amended issued there under.
+
+This responsibility also includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Shreyas Group and for preventing and detecting frauds and other irregularities; selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant to the preparation and presentation of the Special Purpose Combined Financial Statements that give a true and fair view and are free from material misstatement, whether due to fraud or error.
+
+In preparing the Special Purpose Combined Financial Statements, the respective Management and Board of Directors of the combining businesses included in the Shreyas Group are responsible for assessing the ability of each combining business to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the respective Board of Directors either intends to liquidate the combining business or to cease operations, or has no realistic alternative but to do so.
+
+F - 53

@@ -1,0 +1,13 @@
+<table><tr><td>(Mutation serial no.1506 & FAI-FAA No. 1849 dated September 09,2025)</td><td></td><td></td><td></td><td>Taluka Dindorii, Nashik, Maharashtra, India</td><td></td></tr></table>
+
+## INSURANCE COVERAGE
+
+Our Company maintains insurance against various risks inherent in our business activities. While we believe that the insurance coverage which we maintain is in keeping with industry standards and would be reasonably adequate to cover the normal risks associated with the operation of our businesses, we cannot assure you that any claim under the insurance policies maintained by us will be honoured fully, in part or on time, or that we have taken out sufficient insurance to cover all our losses. The following are the details of the insurance policies obtained by our Company.
+
+<table><thead><tr><td>Sr. No.</td><td>Name of the Insurance Policy Company</td><td>Policy Type</td><td>Policy No.</td><td>Validity</td><td>Sum Insured</td><td>Premium</td></tr></thead><tbody><tr><td>1</td><td>HDFC ERGO GIC Ltd.</td><td>Business Secure Sookshma Udyam: Section I - Material Damage Section II -Burglary & Housebreaking</td><td>21000000005717</td><td>September 30, 2025 to September 29, 2026</td><td>₹3,889.9 Lakhs</td><td>₹18,809/-</td></tr></tbody></table>
+
+For further information, see chapter "Risk Factors" on page 32 of this Draft Red Herring Prospectus. Our insurance coverage may not be adequate to cover risks associated with our business and operations.
+
+## FINANCIAL INDEBTEDNESS OF THE COMPANY
+
+As on the date of this Draft Red Herring Prospectus, our Company has availed secured and unsecured loans. For further details, please refer to the section "Statement of Financial Indebtedness" beginning on page 233 of this Draft Red Herring Prospectus.

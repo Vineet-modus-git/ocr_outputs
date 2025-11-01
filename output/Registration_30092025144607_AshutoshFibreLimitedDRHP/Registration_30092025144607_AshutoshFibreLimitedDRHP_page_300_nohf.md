@@ -1,0 +1,17 @@
+<table><tr><td></td><td>Export House</td><td>Regulation) Act, 1992</td><td></td><td></td><td></td><td></td></tr><tr><td>10.</td><td>Erection and Commissioning Certificate</td><td>Electricity Act, 2003</td><td>Gujarat Energy Transmission Corporation</td><td>24-25/DN/GDRTECH/RE solar/Tuva/175</td><td>February 07, 2025</td><td>-*</td></tr><tr><td>11.</td><td>Certificate of Commissioning</td><td>Electricity Act, 2003</td><td>Gujarat Energy Development Agency</td><td>GEDA/SOL-532/2025/04/OW/740</td><td>April 30, 2025</td><td>-*</td></tr></table>
+
+* The lease period on which solar panels have been installed is for 29 year and 5 months. For further details on the properties, please refer "Business - Immovable Property" at page 171 of the Draft Red Herring Prospectus.
+
+## V. QUALITY RELATED APPROVALS
+
+<table><thead><tr><td>Sr. No.</td><td>Description</td><td>Issuing Authority</td><td>Registration Number</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Quality related Certificate of ISO 9001:2015</td><td>Alcumus ISOQAR Limited</td><td>10657-QMS-001</td><td>October 24, 2012</td><td>October 24, 2027</td></tr><tr><td>2.</td><td>Scope Certificate</td><td>Intertek India Private Limited</td><td>ITS-GRS-C-0171658</td><td>November 25, 2024</td><td>November 24, 2025</td></tr><tr><td>3.</td><td>5S (workplace management system)</td><td>4C Consulting Private Limited</td><td>4CPL/5S/0518</td><td>January 12, 2025</td><td>January 11, 2026</td></tr><tr><td>4.</td><td>Oeko-Tex Standard100</td><td>Shirley Technologies Limited</td><td>11-70576</td><td>May 13, 2025</td><td>April 16, 2026</td></tr><tr><td>5.</td><td>Quality Management related Certificate of ISO 14001:2015 &amp; 45001:2018</td><td>Alcumus ISOQAR Limited</td><td>10657 - EMS - 001 &amp; 10657 - OHS - 001</td><td>April 28, 2022</td><td>April 28, 2028</td></tr></tbody></table>
+
+## VI. LABOUR RELATED APPROVALS*
+
+<table><thead><tr><td>Sr. No.</td><td>Description</td><td>Applicable Laws</td><td>Issuing Authority</td><td>Registration Number</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Registration under Employees' Provident Funds*</td><td>Employees (Provident Fund and Miscellaneous Provisions) Act, 1952</td><td>Employees' Provident Fund Organization</td><td>GJAHD0053857000</td><td>November 11, 2007</td><td>Valid Until Cancelled</td></tr></tbody></table>
+
+* Employee State Insurance Corporation ("ESIC") is not applicable at our factory unit as it is exempted as per section 1(3) of the ESIC Act, 1948. The registered office of the Company is exempted as per Section 2(9) of the ESIC Act, 1948 as all employees of the registered office are paid above the threshold of ₹ 21,000.
+
+## VII. ENVIRONMENT RELATED APPROVALS
+
+<table><thead><tr><td>Sr. No.</td><td>Description</td><td>Applicable Laws</td><td>Issuing Authority</td><td>Registration Number</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Consolidated Consent to Operate and Authorization</td><td>Water (Prevention &amp; Control of Pollution) Act, 1974 &amp; Air (Prevention &amp; Control of Pollution) Act, 1981</td><td>Gujarat Pollution Control Board</td><td>WH-27904</td><td>March 05, 2018</td><td>December 31, 2027</td></tr></tbody></table>

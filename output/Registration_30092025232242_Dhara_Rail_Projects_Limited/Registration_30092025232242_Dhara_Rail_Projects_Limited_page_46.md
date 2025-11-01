@@ -1,0 +1,35 @@
+Dhara Rail Projects Limited
+
+**33. Technology failures or Cyber-attacks or other security breaches could have a material adverse effect on our business, results of operation or financial condition.**
+
+IT systems are critical to our ability to manage our operations. Our IT systems enable us to coordinate our operations, from planning, material ordering, invoicing, delivery, client relationship, management and decision support. If we do not allocate and effectively manage the resources necessary to build and sustain the proper IT infrastructure, we could be subject to transaction errors, processing inefficiencies, client service disruptions and, in some instances, loss of clients.
+
+We face cyber threats, threats to the physical security of our facilities and employees, the potential for business disruptions associated with IT failures, natural disasters, or public health crises. We have installed anti-virus software to prevent our systems and infrastructure from being infected and crippled by computer viruses. All our internet facing servers installed at all our data centres as well as at all our offices are also secured with firewalls and intrusion prevention systems to prevent hacking. Even though we have always been cautious in managing our IT system and have not faced any cyber threats in past, if we are unable to protect sensitive information in future, our clients could question the adequacy of our threat mitigation and detection processes and procedures. Due to the evolving nature of these security threats, the impact of any future incident cannot be predicted.
+
+**34. Our actual results could differ from the estimates and projections used to prepare our financial statements.**
+
+The estimates and projections are based on and reflect our current expectations, assumptions and/or projections as well as our perception of historical trends and current conditions, as well as other factors that we believe are appropriate and reasonable under the circumstances. There can be no assurance that our expectations, estimates, assumptions and/or projections, including with respect to the future earnings and performance will prove to be correct or that any of our expectations, estimates or projections will be achieved.
+
+**35. Any unfavorable publicity in service quality may cause the Company substantial costs which in turn could adversely affect our goodwill and our sales could be diminished.**
+
+Like any other business our business also relies on our service quality which enables us to gain client trust. In this scenario it is very crucial for us to always maintain positive image of the Company. Any unfavorable publicity regarding our Company, brand, or facility we provide or any other unpredicted events could affect our reputation and our results from operations. We currently carry no service liability insurance with respect to our services. Although we attempt to maintain quality standards, we cannot assure that all our services would be of uniform quality, which in turn could adversely affect the value of our brand, and our sales could be diminished if we are associated with negative publicity.
+
+**36. We have incurred indebtedness which exposes us to various risks which may have an effect on our business and results of operations**
+
+Our ability to borrow and the terms of our borrowings will depend on our financial condition, the stability of our cash flows, general market conditions, economic and political conditions in the markets where we operate and our capacity to service debt. As on March 31, 2025, our total outstanding indebtedness was Rs. 2132.96 lakhs
+
+Our significant indebtedness in future may result in substantial amount of debt service obligations which could lead to:
+
+1. increasing our vulnerability to general adverse economic, industry and competitive conditions;
+
+2. limiting our flexibility in planning for, or reacting to, changes in our business and the industry;
+
+3. affecting our credit rating;
+
+4. limiting our ability to borrow more money both now and in the future; and
+
+5. increasing our interest expenditure and adversely affecting our profitability.
+
+If the loans are recalled on a shorter notice, we may be required to arrange for funds to fulfil the necessary requirements. The occurrence of these events may have an effect on our cash flow and financial conditions of the company. For further details regarding our indebtedness, see "Statement of Financial Indebtedness" on page 213 of this Draft Red Herring Prospectus.
+
+**37. Loans availed by Our Company has been secured on personal guarantees of our directors.**

@@ -1,0 +1,5 @@
+GOVERNMENT AND OTHER APPROVALS FOR THE MATERIAL SUBSIDIARY COMPANY
+
+SHREYAS FABTECH INC
+
+<table><thead><tr><th>Sr. No.</th><th>Nature of License/Approval</th><th>Registration/ License No.</th><th>Issuing Authority</th><th>Date of Issue</th><th>Validity</th></tr></thead><tbody><tr><td colspan="6">Incorporation Related Approval</td></tr><tr><td>1.</td><td>Certificate of Incorporation in the name of Shreyas Fabtech Inc.</td><td>805416378</td><td>Republic Registered Agent LLC</td><td>February 12, 2024</td><td>Valid Until Cancelled</td></tr><tr><td colspan="6">Tax Related Approval</td></tr><tr><td>2.</td><td>Employer Identification Number (EIN)</td><td>99-1298921</td><td>Department Of the Treasury Internal Revenue Service</td><td>December 02, 2024</td><td>Valid Until Cancelled</td></tr></tbody></table>

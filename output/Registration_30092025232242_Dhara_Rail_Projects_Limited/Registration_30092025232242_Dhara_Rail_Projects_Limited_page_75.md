@@ -1,0 +1,23 @@
+Dhara Rail Projects Limited
+
+CAPITAL STRUCTURE
+
+Set forth below are the details of the Share Capital of our Company as on the date of this Draft Red Herring Prospectus.
+
+(Rs. in Lakhs, except share data)
+
+<table><thead><tr><th>Sr. No.</th><th>Particulars</th><th>Aggregate Value at Face Value</th><th>Aggregate Value at Issue Price*</th></tr></thead><tbody><tr><td>A</td><td><strong>Authorized Share Capital</strong><br>2,00,00,000 Equity Shares of face value of ₹10 each.</td><td>2000.00</td><td>-</td></tr><tr><td>B</td><td><strong>Issued, Subscribed & Paid-up Share Capital prior to the Issue</strong><br>1,11,00,000 Equity Shares of face value of ₹10 each.</td><td>1110.00</td><td>-</td></tr><tr><td>C</td><td><strong>Present Issue in terms of this Draft Red Herring Prospectus*</strong><br>Issue of upto 39,84,000 Equity Shares of face value of ₹10 each at a Premium of ₹[●] per share <sup>(1)</sup></td><td>398.40</td><td>[●]</td></tr><tr><td colspan="4"><strong>Which comprises of:</strong></td></tr><tr><td></td><td><strong> Reservation for Market Maker Portion</strong><br>Upto [●] Equity Shares of face value of ₹10 each at a Premium of ₹[●] per share reserved as Market Maker Portion</td><td>[●]</td><td>[●]</td></tr><tr><td></td><td><strong> Net Issue to Public</strong><br>Net Issue to Public of [●] Equity Shares of face value of ₹10 each at a Premium of ₹[●] per share to the Public</td><td>[●]</td><td>[●]</td></tr><tr><td colspan="4"><strong>Of which <sup>2)</sup>:</strong></td></tr><tr><td></td><td>i) At least [●] Equity Shares of face value of ₹10 each aggregating upto ₹[●] lakhs will be available for allocation to Individual Investors</td><td>[●]</td><td>[●]</td></tr><tr><td></td><td>ii) At least [●] Equity Shares of face value of ₹10 each aggregating upto ₹[●] lakhs will be available for allocation to Non-Institutional Investors</td><td>[●]</td><td>[●]</td></tr><tr><td></td><td>iii) Not more than [●] Equity Shares of face value of ₹10 each aggregating upto ₹[●] lakhs will be available for allocation to Qualified Institutional Buyers, five per cent. of which shall be allocated to mutual funds.</td><td>[●]</td><td>[●]</td></tr><tr><td>D</td><td><strong>Issued, Subscribed and Paid-up Capital after the Issue*</strong><br>Up to [●] Equity Shares of face value of ₹10 each.</td><td></td><td>[●]</td></tr><tr><td>E</td><td><strong>Securities Premium Account</strong><br>Before the Issue (as on date of this Draft Red Herring Prospectus)<br>After the Issue</td><td></td><td>Nil</td></tr></tbody></table>
+
+*To be updated upon finalization of Issue Price and subject to finalisation of Basis of Allotment.
+
+1) The Present Issue of upto 39,84,000 Equity Shares in terms of this Draft Red Herring Prospectus has been authorized pursuant to a resolution of our Board of Directors dated September 26, 2025 and by special resolution passed under Section 62(1)(c) of the Companies Act, 2013 at an Extra Ordinary General Meeting of the members held on September 27, 2025.
+
+2) Allocation to all categories shall be made on a proportionate basis subject to valid applications received at or above the Issue Price. Under subscription, if any, in any of the categories, would be allowed to be met with spill-over from any of the other categories or a combination of categories at the discretion of our Company in consultation with the BRLM and Designated Stock Exchange. Such inter-se spill over, if any, would be affected in accordance with applicable laws, rules, regulations and guidelines.
+
+### Classes of Shares: -
+
+As on the date of this Draft Red Herring Prospectus, our Company has only one class of share capital i.e., Equity Shares of ₹10/- each. All Equity Shares issued are fully paid-up. Our Company has no outstanding convertible instruments as on the date of this Draft Red Herring Prospectus.
+
+### Notes to the Capital Structure:
+
+73

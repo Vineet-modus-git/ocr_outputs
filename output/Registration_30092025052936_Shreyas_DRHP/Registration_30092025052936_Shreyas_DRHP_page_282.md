@@ -1,0 +1,17 @@
+SHREYAS FABTECH LIMITED
+
+Plot No.H37, MIDC Ambad, Nashik-422010, Maharashtra, India
+
+CIN: U28999MH2022PLC391593
+
+Annexure V - Notes to special purpose combined financial statements
+
+(All amounts in Indian Rupees in Lakhs unless otherwise stated)
+
+As on 31st March, 2024
+
+Consolidated
+
+<table><thead><tr><th rowspan="2">Description</th><th colspan="5">Gross Block</th><th colspan="3">Depreciation</th><th colspan="2">Net Block</th></tr><tr><th>As at<br>April 1, 2023</th><th>Additions during<br>the year</th><th>Deletions/<br>Adjustments<br>during the year</th><th>As at<br>March 31, 2024</th><th>Accumulated<br>upto<br>March 31, 2023</th><th>For the Year</th><th>Deletions/<br>Adjustments<br>during the<br>year</th><th>Accumulated<br>upto<br>March 31, 2024</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td><strong>Tangible Assets:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Land</td><td>42.04</td><td>42.04</td><td>42.04</td><td>42.04</td><td>0.00</td><td>-</td><td>0.00</td><td>-</td><td>42.04</td><td>42.04</td></tr><tr><td>Buildings</td><td>386.86</td><td>118.66</td><td>386.86</td><td>118.66</td><td>268.20</td><td>13.29</td><td>268.20</td><td>13.29</td><td>105.36</td><td>118.66</td></tr><tr><td>Computers</td><td>12.33</td><td>2.84</td><td>12.33</td><td>2.84</td><td>10.55</td><td>1.58</td><td>10.55</td><td>1.58</td><td>1.26</td><td>1.77</td></tr><tr><td>Furniture & Fixtures</td><td>5.62</td><td>2.29</td><td>5.62</td><td>2.29</td><td>3.70</td><td>0.46</td><td>3.70</td><td>0.46</td><td>1.83</td><td>1.92</td></tr><tr><td>Office Equipments</td><td>7.17</td><td>0.75</td><td>7.17</td><td>0.75</td><td>5.54</td><td>0.18</td><td>5.54</td><td>0.18</td><td>0.57</td><td>1.63</td></tr><tr><td>Plant & Machinery</td><td>613.23</td><td>235.48</td><td>613.23</td><td>235.48</td><td>406.76</td><td>34.82</td><td>406.76</td><td>34.82</td><td>200.66</td><td>206.46</td></tr><tr><td>Vehicle</td><td>277.16</td><td>0.06</td><td>277.16</td><td>0.06</td><td>141.47</td><td>0.02</td><td>141.47</td><td>0.02</td><td>0.04</td><td>135.69</td></tr><tr><td><strong>Total</strong></td><td><strong>1380.34</strong></td><td><strong>410.59</strong></td><td><strong>1380.34</strong></td><td><strong>410.59</strong></td><td><strong>863.68</strong></td><td><strong>51.76</strong></td><td><strong>863.68</strong></td><td><strong>51.76</strong></td><td><strong>358.83</strong></td><td><strong>516.66</strong></td></tr><tr><td><strong>Intangible Assets:</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Computer Software</td><td>0.45</td><td>0.62</td><td>0.45</td><td>0.62</td><td>0.44</td><td>0.26</td><td>0.44</td><td>0.26</td><td>0.36</td><td>0.01</td></tr><tr><td><strong>Total</strong></td><td><strong>0.45</strong></td><td><strong>0.62</strong></td><td><strong>0.45</strong></td><td><strong>0.62</strong></td><td><strong>0.44</strong></td><td><strong>0.26</strong></td><td><strong>0.44</strong></td><td><strong>0.26</strong></td><td><strong>0.36</strong></td><td><strong>0.01</strong></td></tr><tr><td><strong>Grand Total</strong></td><td><strong>1380.79</strong></td><td><strong>411.21</strong></td><td><strong>1380.79</strong></td><td><strong>411.21</strong></td><td><strong>864.12</strong></td><td><strong>52.03</strong></td><td><strong>864.12</strong></td><td><strong>52.03</strong></td><td><strong>359.19</strong></td><td><strong>516.67</strong></td></tr></tbody></table>
+
+F - 71

@@ -1,0 +1,27 @@
+(1) Our Company in consultation with the Book Running Lead Managers may consider participation by Anchor Investors in accordance with the SEBI ICDR Regulations. The Anchor Investor Bid/ Issue Period shall be one Working Day prior to the Bid/ Issue Opening Date in accordance with the SEBI ICDR Regulations.
+
+The above timetable is indicative and does not constitute any obligation on our Company or the Book Running Lead Managers. Whilst our Company shall ensure that all steps for the completion of the necessary formalities for the listing and the commencement of trading of the Equity Shares on the Stock Exchange are taken within 3 Working Days of the Bid/ Issue Closing Date, the timetable may change due to various factors, such as extension of the Bid/Issue Period by our Company, revision of the Price Band or any delays in receiving the final listing and trading approval from the Stock Exchange. The Commencement of trading of the Equity Shares will be entirely at the discretion of the Stock Exchange and in accordance with the applicable laws.
+
+Bid Cum Application Forms and revisions to the same will be accepted only between 10.00 A.M. to 5.00 P.M. (IST) during the Issue Period (except for the Bid/ Issue Closing Date). On the Bid/ Issue Closing Date, the Bid Cum Application Forms will be accepted only between 10.00 A.M. to 4.00 P.M. (IST) for all Bidders. The time for applying for Individual Applicant on Bid/Issue Closing Date may be extended in consultation with the BRLMs, RTA and NSE taking into account the total number of applications received up to the closure of timings.
+
+Due to the limitation of time available for uploading the Bid Cum Application Forms on the Bid/Issue Closing Date, Bidders are advised to submit their applications one (1) day prior to the Bid/ Issue Closing Date and, in any case, not later than 3.00 P.M. (IST) on the Bid/ Issue Closing Date. Any time mentioned in this Draft Red Herring Prospectus is IST. Bidders are cautioned that, in the event a large number of Bid Cum Application Forms are received on the Bid/Issue Closing Date, as is typically experienced in public Issue, some Bid Cum Application Forms may not get uploaded due to the lack of sufficient time. Such Bid Cum Application Forms that cannot be uploaded will not be considered for allocation under this Issue. Applications will be accepted only on Working Days, i.e., Monday to Friday (excluding any public holidays). Neither our Company nor the BRLMs is liable for any failure in uploading the Bid Cum Application Forms due to faults in any software/hardware system or otherwise.
+
+In accordance with SEBI ICDR Regulations, Bidders/ Applicants are not allowed to withdraw or lower the size of their application (in terms of the quantity of the Equity Shares or the Application amount) at any stage.
+
+In case of discrepancy in the data entered in the electronic book vis-à-vis the data contained in the physical Bid Cum Application Form, for a particular Applicant, the details as per the file received from Stock Exchange may be taken as the final data for the purpose of Allotment. In case of discrepancy in the data entered in the electronic book vis-à-vis the data contained in the physical or electronic Bid Cum Application Form, for a particular ASBA Applicant, the Registrar to the Issue shall ask the relevant SCSBs/ RTAs / DPs / stock brokers, as the case may be, for the rectified data.
+
+## WITHDRAWAL OF THE ISSUE
+
+Our Company in consultation with the BRLMs, reserve the right to not to proceed with the Issue at any time before the Bid/ Issue Opening Date without assigning any reason thereof.
+
+If our Company withdraws the Issue any time after the Bid/ Issue Opening Date but before the allotment of Equity Shares, a public notice within 2 (two) working days of the Bid/ Issue Closing Date, providing reasons for not proceeding with the Issue shall be issued by our Company. The notice of withdrawal will be issued in the same newspapers where the pre- Issue and price band advertisements have appeared and the Stock Exchange will also be informed promptly. The BRLMs, through the Registrar to the Issue, will instruct the SCSBs to unblock the ASBA Accounts within 1 (one) working Day from the day of receipt of such instruction.
+
+If our Company withdraws the Issue after the Bid/ Issue Closing Date and subsequently decides to proceed with an Issue of the Equity Shares, our Company will have to file a fresh Draft Red Herring Prospectus with the stock exchange where the Equity Shares may be proposed to be listed.
+
+Notwithstanding the foregoing, the Issue is subject to obtaining (i) the final listing and trading approvals of the Stock Exchange with respect to the Equity Shares issued through the Red Herring Prospectus, which our Company will apply for only after Allotment; and (ii) the Filing of Red Herring Prospectus/ Prospectus with RoC.
+
+## DETAILS OF THE MARKET MAKING ARRANGEMENT FOR THIS ISSUE
+
+Our Company has entered into a Market Making Agreement dated [•] with the following Market Maker for fulfilling the Market Making obligations under this Issue:
+
+<table><tr><td>Name</td><td>[•]</td></tr><tr><td>Correspondence Address:</td><td>[•]</td></tr></table>

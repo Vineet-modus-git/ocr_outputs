@@ -1,0 +1,26 @@
+DIVIDEND POLICY
+
+Our Company does not have a formal dividend policy. The quantum of dividend, if any, and our ability to pay dividend
+will depend on a number of factors, including but not limited to the capital expenditure requirements, profit earned
+during the financial year and profit available for distribution, working capital requirements, business expansion and
+growth, cost of borrowing, economic environment, capital markets, and other factors considered by our Board. Our
+Company may also, from time to time, pay interim dividends. We may retain all our future earnings, if any, for use in
+the operations and expansion of our business.
+
+The declaration and payment of dividends will be recommended by our Board and approved by our Shareholders, at
+their discretion, subject to the provisions of the Articles of Association and applicable law, including the Companies
+Act
+
+In addition, our ability to pay dividends may be impacted by a number of other factors, including restrictive covenants under our current or future loan or financing documents. For more information on restrictive covenants under our current loan agreements, see "*Financial Indebtedness*" on page 253. Our Company may pay dividend by cheque, or electronic clearance service, as will be approved by our Board in the future. Our Board may also declare interim dividend from time to time.
+
+Further, our Board may not declare or recommend dividend for a particular period if it is of the view that it would be
+prudent to conserve capital for the then ongoing or planned business expansion or other factors which may be considered
+by the Board.
+
+Retained earnings may be utilized by our Company for making investments for future growth and expansion plans, for
+the purpose of generating higher returns for the shareholders or for any other specific purpose, as approved by the Board.
+For details in relation to risks involved in this regard, see "Risk Factors" on page 22.
+
+We have not declared and paid any dividends on the Equity Shares in any of the five Financial Years preceding the date
+of this Draft Red Herring Prospectus and until the date of this Draft Red Herring Prospectus. The dividend history in
+the past is not necessarily indicative of our dividend amounts, if any, in the future.

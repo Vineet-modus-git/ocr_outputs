@@ -1,0 +1,39 @@
+We identified certain discrepancies, delays, and errors in past filings. While corrective measures have been implemented, the following examples illustrate the nature and potential implications of these non-compliances:
+
+* **Incorrect Disclosure in Form MGT-7:**
+
+Form MGT-7 filed for the Financial Year 2022-23 with the ROC, contained details for the financial year 2023-24 instead of 2022-23.
+
+* **Discrepancies in Form DPT-3:**
+
+The details of loans taken disclosed in Form DPT-3 for Financial year ended March 31, 2023, and March 31, 2024 does not match with amount stated in Audited Financial Statement of that respective financial year. The difference in the opening and closing balance is primarily due to changes in figures post audit by statutory auditor and certain adjustments. The Company has now adopted a system of verifying the details of secured/ unsecured loans that are too filed in DPT-3 with the Auditor to remove any anomalies.
+
+* **Delay and Errors in Form ADT-1 (Auditor Appointment):**
+
+The ADT-1 was filed with wrong consent. The auditor was appointed on November 02, 2023 however the consent was received on November 03, 2022. To rectify the error a revised ADT-1 was filed with ROC on September 15, 2025
+
+* **Increase in Authorized Share Capital (Forms MGT-14 and SH-7):**
+
+The Company increased its authorized share capital with requisite approvals. However, Form MGT-14 contained incorrect notice dispatch dates, and Form SH-7 was filed 16 days late.
+
+* **Allotment of Securities:**
+
+The form MGT-14 filed for the Business Transfer Agreement of M/s. Shreyas Engineers, mentioned the date of agreement to be effective from August 28, 2028, a revised rectification form was filed on August 21, 2025 with corrective date (i.e. May 01, 2025).
+
+* **Appointment of Statutory Auditor (Timing of Consent):**
+
+The letter from the auditor, giving consent and confirming eligibility Section 139 of the Companies Act, 2013 was obtained on October 11, 2023 which was after the date of appointment in the Annual General Meeting held on September 30, 2023. Further resolution attached to Form ADT-1 mentions the date of the meeting as September 30, 2018. The revised ADT was filed on September 15, 2025 to rectify the error Corrective.
+
+* **Delay in Filing DIR-12 (Appointment of CFO):**
+
+The appointment of the Chief Financial Officer was approved on October 5, 2024, however, DIR-12 was filed on July 16, 2025, after a delay of 254 days.
+
+For all above non-compliances, although no notices have been issued upon our Company yet, but there may be instances whereby notices may be issued to our company and penalties/ additional fees may be imposed upon our Company. There can be no assurance that no penal action will be taken against us by the regulatory authorities with respect to non-compliance.
+
+We further confirm that none of the non-compliances disclosed here warrant Compounding Application with Registrar of Companies.
+
+8. Our revenues and purchases of raw materials are concentrated in the state of Maharashtra. Any adverse changes in the conditions affecting the state and our inability to grow our business in new geographic markets may adversely impact our business, results of operations, profitability and margins, cash flows and financial condition.
+
+The table below sets forth our revenue from different states for the financial year ended March 31, 2025, 2024 and 2023:
+
+<table><thead><tr><th rowspan="2">Geographic Segment</th><th colspan="2">FY 2024-25</th><th colspan="2">FY 2023-24</th><th colspan="2">FY 2022-23</th></tr><tr><th>Amount (₹ in Lakhs)</th><th>% of Revenue</th><th>Amount (₹ in Lakhs)</th><th>% of Revenue</th><th>Amount (₹ in Lakhs)</th><th>% of Revenue</th></tr></thead><tbody><tr><td><strong>Domestic (1)</strong></td><td><strong>2749.50</strong></td><td><strong>36.39</strong></td><td><strong>2684.46</strong></td><td><strong>70.59</strong></td><td><strong>2943.08</strong></td><td><strong>67.33</strong></td></tr><tr><td>Maharashtra</td><td>1556.21</td><td>20.60</td><td>1864.92</td><td>49.04</td><td>2041.56</td><td>46.70</td></tr><tr><td>Goa</td><td>1047.92</td><td>13.87</td><td>814.99</td><td>21.43</td><td>887.09</td><td>20.29</td></tr><tr><td>Karnataka</td><td>145.37</td><td>1.92</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>

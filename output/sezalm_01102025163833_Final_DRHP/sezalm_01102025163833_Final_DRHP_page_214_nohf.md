@@ -1,0 +1,40 @@
+# ECO Fuel Systems (India) Limited
+(Formerly known as ECO Fuel Systems (India) Private Limited)
+
+## Notes to Ind AS Restated Consolidated Financial Statements
+
+(Amount in Rs. Lakhs)
+
+### 5.1. RIGHT OF USE ASSETS
+
+Right to use assets and lease liabilities
+
+#### As Lessee
+
+(i) Carrying value of right of use assets at the year end by class
+
+<table><thead><tr><th>Particulars</th><th>Building</th></tr></thead><tbody><tr><td><strong>Gross block</strong></td><td></td></tr><tr><td><strong>Balance as at April 1, 2022</strong></td><td>100.20</td></tr><tr><td>Additions</td><td>-</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2023</strong></td><td>100.20</td></tr><tr><td>Additions</td><td>127.71</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2024</strong></td><td>227.91</td></tr><tr><td>Additions</td><td>-</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2025</strong></td><td>227.91</td></tr><tr><td><strong>Accumulated depreciation and impairment</strong></td><td></td></tr><tr><td><strong>Balance as at April 1, 2022</strong></td><td>41.12</td></tr><tr><td>Depreciation charge for the year</td><td>21.68</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2023</strong></td><td>62.80</td></tr><tr><td>Depreciation charge for the year</td><td>46.23</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2024</strong></td><td>109.03</td></tr><tr><td>Depreciation charge for the year</td><td>46.23</td></tr><tr><td>Disposals</td><td>-</td></tr><tr><td><strong>Balance as at March 31, 2025</strong></td><td>155.25</td></tr><tr><td><strong>Net carrying amount as on March 31, 2023</strong></td><td>37.40</td></tr><tr><td><strong>Net carrying amount as on March 31, 2024</strong></td><td>118.88</td></tr><tr><td><strong>Net carrying amount as on March 31, 2025</strong></td><td>72.65</td></tr></tbody></table>
+
+(ii) The following is the break-up of lease liability as at reporting date
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31-Mar-25</th><th>As at<br>31-Mar-24</th><th>As at<br>31-Mar-23</th></tr></thead><tbody><tr><td>Current lease liability</td><td>24.09</td><td>48.11</td><td>20.59</td></tr><tr><td>Non-current lease liability</td><td>53.75</td><td>77.84</td><td>22.24</td></tr><tr><td><strong>Total</strong></td><td><strong>77.83</strong></td><td><strong>125.95</strong></td><td><strong>42.83</strong></td></tr></tbody></table>
+
+(iii) The following is the movement of lease liability during the year
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31-Mar-25</th><th>As at<br>31-Mar-24</th><th>As at<br>31-Mar-23</th></tr></thead><tbody><tr><td><strong>Opening Balance</strong></td><td>125.95</td><td>42.83</td><td>65.08</td></tr><tr><td>Additions</td><td>-</td><td>127.71</td><td>-</td></tr><tr><td>Finance cost incurred</td><td>6.54</td><td>10.06</td><td>3.30</td></tr><tr><td>Payment of lease liabilities</td><td>(54.65)</td><td>(54.65)</td><td>(25.55)</td></tr><tr><td><strong>Total</strong></td><td><strong>77.84</strong></td><td><strong>125.95</strong></td><td><strong>42.83</strong></td></tr></tbody></table>
+
+(iv) The table below provides details regarding the contractual maturities of lease liabilities as at reporting date on an undiscounted basis
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31-Mar-25</th><th>As at<br>31-Mar-24</th><th>As at<br>31-Mar-23</th></tr></thead><tbody><tr><td>Less than one year</td><td>28.80</td><td>54.65</td><td>22.25</td></tr><tr><td>One to five years</td><td>57.60</td><td>86.40</td><td>22.25</td></tr><tr><td>More than five years</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>86.40</strong></td><td><strong>141.05</strong></td><td><strong>44.50</strong></td></tr></tbody></table>
+
+(v) Amount recognised in Statement of Profit and Loss
+
+<table><thead><tr><th>Particulars</th><th>As at<br>31-Mar-25</th><th>As at<br>31-Mar-24</th><th>As at<br>31-Mar-23</th></tr></thead><tbody><tr><td>Interest on lease liability (Refer note 30)</td><td>6.54</td><td>10.06</td><td>3.30</td></tr><tr><td>Expense relating to short-term leases and low value assets (Refer note 32)</td><td>3.46</td><td>1.66</td><td>3.62</td></tr><tr><td>Depreciation (Refer note 31)</td><td>46.23</td><td>46.23</td><td>21.68</td></tr><tr><td><strong>Total</strong></td><td><strong>56.23</strong></td><td><strong>57.95</strong></td><td><strong>28.60</strong></td></tr></tbody></table>
+
+**Notes:**
+
+a) Total cash outflow for leases for the year ended March 31, 2025 was Rs. 58.10 lakhs (March 31, 2024 -Rs. 56.31 lakhs).
+
+b) There are no variable lease payments included in the measurement of lease liability.
+
+c) Extension and termination options: Extension and termination options are included in the lease contracts of the Company. These are used to maximise operational flexibility in terms of managing the assets of the Company. All the extension and termination options held are exercisable both by the Company and the respective lessor.

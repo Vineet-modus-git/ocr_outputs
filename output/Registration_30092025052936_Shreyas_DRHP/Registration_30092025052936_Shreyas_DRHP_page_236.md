@@ -1,0 +1,19 @@
+14 Restated Statement of Other Non-Current Asset
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>(Unsecured, Considered good)</td><td></td><td></td><td></td></tr><tr><td>Balance with Gratuity Fund with LIC</td><td>14.05</td><td>19.76</td><td>-</td></tr><tr><td>Security Deposits</td><td>59.44</td><td>19.44</td><td>-</td></tr><tr><td>Preliminary expenses (to the extent not written off or adjusted)</td><td>0.60</td><td>0.80</td><td>1.00</td></tr></tbody><tfoot><tr><td><strong>Total</strong></td><td><strong>74.09</strong></td><td><strong>39.99</strong></td><td><strong>1.00</strong></td></tr></tfoot></table>
+
+15 Restated Statement of Inventories
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Raw materials</td><td>165.90</td><td>393.43</td><td>-</td></tr><tr><td>Work-in-progress</td><td>95.59</td><td>112.68</td><td>-</td></tr><tr><td>Finished Goods</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Consumables and Spares</td><td>6.47</td><td>5.36</td><td>-</td></tr><tr><td>Packing Material</td><td>3.53</td><td>2.25</td><td>-</td></tr></tbody><tfoot><tr><td><strong>Total</strong></td><td><strong>271.49</strong></td><td><strong>513.72</strong></td><td><strong>-</strong></td></tr></tfoot></table>
+
+(Valued at Cost or NRV, whichever is less)
+
+16 Restated Statement of Trade receivables
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>Secured, considered good</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Unsecured, considered good</td><td>1829.70</td><td>799.26</td><td>-</td></tr><tr><td>Unsecured, considered good -<br>Disputed</td><td>-</td><td>51.21</td><td>-</td></tr><tr><td>Doubtful</td><td>-</td><td>-</td><td>-</td></tr></tbody><tfoot><tr><td><strong>Total</strong></td><td><strong>1829.70</strong></td><td><strong>850.48</strong></td><td><strong>0.00</strong></td></tr></tfoot></table>
+
+Ageing for trade receivables
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">Consolidated</th><th>Standalone</th></tr><tr><th>As at<br>March 31, 2025</th><th>As at<br>March 31, 2024</th><th>As at<br>March 31, 2023</th></tr></thead><tbody><tr><td>(i) Undisputed Trade Receivables</td><td></td><td></td><td></td></tr><tr><td>- Considered Good</td><td></td><td></td><td></td></tr><tr><td>a) Less than 6 months</td><td>1829.70</td><td>799.26</td><td>-</td></tr><tr><td>b) 6 months - 1 year</td><td>-</td><td>-</td><td>-</td></tr><tr><td>c) 1 - 2 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d) 2 - 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>e) More than 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>1829.70</strong></td><td><strong>799.26</strong></td><td><strong>-</strong></td></tr><tr><td>- Consider Doubtful</td><td></td><td></td><td></td></tr><tr><td>a) Less than 6 months</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b) 6 months - 1 year</td><td>-</td><td>-</td><td>-</td></tr><tr><td>c) 1 - 2 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d) 2 - 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td>e) More than 3 years</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>-</strong></td></tr></tbody></table>
+
+F - 25

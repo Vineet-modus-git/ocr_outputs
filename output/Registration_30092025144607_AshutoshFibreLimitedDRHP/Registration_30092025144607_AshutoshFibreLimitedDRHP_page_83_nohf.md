@@ -1,0 +1,1 @@
+on the Website of the NSE i.e. https://www.nseindia.com/ before commencement of trading of such Equity Shares.

@@ -1,0 +1,19 @@
+transaction, during the 18 months preceding the date of the Draft Red Herring Prospectus, where either acquisition or sale is equal to or more than 5% of the fully diluted paid-up share capital of the Company (calculated based on the pre-Issue share capital before such transaction/s), in a single transaction or multiple transactions combined together over a span of rolling 30 days.
+
+### C. In case there are no such transaction(s) to report to under (A) and (B) above, the details of the last five primary and secondary transactions (secondary transactions where Promoters, Promoter Group or shareholder(s) having the right to nominate director(s) on our Board of Director, are a party to the transaction), not older than three years prior to the date of this Draft Red Herring Prospectus irrespective of the size of transactions:
+
+Since there are no transactions to report under (A) and (B) above therefore, information based on last 5 primary or secondary transactions (secondary transactions where Promoters / Promoter Group entities or shareholder(s) having the right to nominate director(s) in the Board of our Company, are a party to the transaction) not older than 3 years prior to the date of this Certificate irrespective of the size of transactions are disclosed below:
+
+#### Primary transactions
+
+Except disclosed below, there have been no primary transactions in the last three years preceding the date of this certificate.
+
+<table><thead><tr><th>Date of transaction</th><th>No. of Equity Shares</th><th>Face value per Equity Share (₹)</th><th>Name of the Shareholder</th><th>Nature of Transaction</th><th>Transaction price per Equity Share (₹)</th><th>Total Consideration in (₹)</th></tr></thead><tbody><tr><td>15/09/2025</td><td>11,30,400</td><td>10</td><td>Siddharth Prakashbhai Patel</td><td>Bonus Issue</td><td>NIL</td><td>NIL</td></tr><tr><td>15/09/2025</td><td>20,80,000</td><td>10</td><td>Abhishek Agrawal</td><td>Bonus Issue</td><td>NIL</td><td>NIL</td></tr><tr><td>15/09/2025</td><td>13,60,000</td><td>10</td><td>Shree Bajrangbali Intermediate &amp; Dyechem Pvt. Ltd.</td><td>Bonus Issue</td><td>NIL</td><td>NIL</td></tr><tr><td>15/09/2025</td><td>13,60,000</td><td>10</td><td>R. K. Agrawal Trading Co. Pvt. Ltd.</td><td>Bonus Issue</td><td>NIL</td><td>NIL</td></tr><tr><td>15/09/2025</td><td>24,40,800</td><td>10</td><td>Prahash Finstock private Limited</td><td>Bonus Issue</td><td>NIL</td><td>NIL</td></tr><tr><td>Total</td><td>83,71,200</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan="6">Weighted average cost of acquisition during the 3 years preceding the date of this certificate</td><td>NIL</td></tr></tbody></table>
+
+#### Secondary transactions:
+
+Except as disclosed below, there have been no Secondary transactions in the last three years preceding the date of this certificate:
+
+<table><thead><tr><th>Date of transaction</th><th>No. of Equity Shares</th><th>Face value per Equity Share (₹)</th><th>Name of Transferor</th><th>Name of Transferee</th><th>Nature of Transaction</th><th>Transaction price per Equity Share (₹)</th></tr></thead><tbody><tr><td>20/08/2024</td><td>31,300</td><td>10</td><td>Binaben Prakashbhai Patel</td><td>Siddharth Prakashbhai Patel</td><td>Transfer via Gift</td><td>NIL</td><td>NIL</td></tr><tr><td>20/08/2024</td><td>10,000</td><td>10</td><td>Prakash P. Patel</td><td>Siddharth Prakashbhai Patel</td><td>Transfer via Gift</td><td>NIL</td><td>NIL</td></tr><tr><td>Total</td><td>41,300</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan="6">Weighted average cost of acquisition during the 3 years preceding the date of this certificate</td><td>NIL</td></tr></tbody></table>
+
+110

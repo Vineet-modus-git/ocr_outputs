@@ -1,0 +1,7 @@
+## Variation in Objects
+
+In accordance with Section 27 of the Companies Act, 2013, our Company shall not vary the objects of the Issue without our Company being authorized to do so by the Shareholders by way of a special resolution. In addition, the notice issued to the Shareholders in relation to the passing of such special resolution shall specify the prescribed details as required under the Companies Act and shall be published in accordance with the Companies Act and the rules there under. As per the current provisions of the Companies Act, our Promoters or controlling Shareholders would be required to provide an exit opportunity to such shareholders who do not agree to the proposal to vary the objects, at such price, and in such manner, as may be prescribed by SEBI, in this regard.
+
+## Other confirmations
+
+There are no material existing or anticipated transactions with our Promoter, our Directors, our Company's key Managerial personnel, in relation to the utilization of the Net Proceeds. No part of the Net Proceeds will be paid by us as consideration to our Promoters, our Directors or key managerial personnel except in the normal course of business and in compliance with the applicable laws.

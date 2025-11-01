@@ -1,0 +1,25 @@
+* In categories where there is proportionate allotment, the Registrar will prepare the proportionate working based on the oversubscription times.
+* In categories where there is undersubscription, the Registrar will do full allotment for all valid applications.
+* On the basis of the above, the RTA will work out the allotees, partial allotees and non-allottees, prepare the fund transfer letters and advice the SCSBs to debit or unblock the respective accounts.
+
+**Phased implementation of Unified Payments Interface:**
+
+SEBI has issued a circular bearing number SEBI/HO/CFD/DIL2/CIR/P/2018/138 dated November 1, 2018, circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/50 dated April 3, 2019 circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/76 dated June 28, 2019, circular no. SEBI/HO/CFD/DIL2/CIR/P/2019/85 dated July 26, 2019 and circular no. SEBI/HO/CFD/DCR2/CIR/P/2019/133 dated November 08, 2019 and circular number SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 9, 2023 (collectively the "UPI Circulars") in relation to streamlining the process of public issue of equity shares and convertibles. Pursuant to the UPI Circular, UPI will be introduced in a phased manner as a payment mechanism (in addition to mechanism of blocking funds in the account maintained with SCSBs under the ASBA) for applications by Individual Bidders through intermediaries with the objective to reduce the time duration from public issue closure to listing from six working days to up to three working days. Considering the time required for making necessary changes to the systems and to ensure complete and smooth transition to the UPI Mechanism, the UPI Circular proposes to introduce and implement the UPI Mechanism in three phases in the following manner:
+
+**Phase I:** This phase has become applicable from January 1, 2019 and will continue till June 30, 2019. Under this phase, a Individual Applicant would also have the option to submit the Application Form with any of the intermediary and use his / her UPI ID for the purpose of blocking of funds. The time duration from public issue closure to listing would continue to be six Working Days.
+
+**Phase II:** This phase commenced on completion of Phase I and will continue till March 31, 2020. Under this phase, submission of the Application Form by a Individual Applicant through intermediaries to SCSBs for blocking of funds will be discontinued and will be replaced by the UPI Mechanism. However, the time duration from public issue closure to listing would continue to be six Working Days during this phase.
+
+**Phase III:** This phase has become applicable on a voluntary basis for all issues opening on or after September 1, 2023 and on a mandatory basis for all issues opening on or after December 1, 2023, vide SEBI circular bearing number SEBI/HO/CFD/TPD1/CIR/P/2023/140 dated August 9, 2023 ("T+3 Notification"). In this phase, the time duration from public issue closure to listing has been reduced to three Working Days. The issue shall be undertaken pursuant to the processes and procedures as notified in the T+3 Notification as applicable, subject to any circulars, clarification or notification issued by the SEBI from time to time, including any circular, clarification or notification which may be issued by SEBI.
+
+The Issue will be made under UPI Phase II of the UPI Circular, unless UPI Phase III of the UPI Circular becomes effective and applicable on or prior to the Bid/Issue Opening Date. If the Issue is made under UPI Phase III of the UPI Circular, the same will be published in one English national daily newspaper with wide circulation, Hindi national daily newspaper with wide circulation and one regional language newspaper with wide circulation at the place where the Registered Office of our Company is situated and shall be made available to the Stock Exchanges for the purpose of uploading on their respective websites.
+
+All SCSBs offering the facility of making applications in public issues shall also provide the facility to make applications using the UPI Mechanism. The Issuers will be required to appoint one of the SCSBs as a sponsor bank to act as a conduit between the Stock Exchanges and NPCI in order to facilitate the collection of requests and/or payment instructions of the Individual Applicants into the UPI payment mechanism.
+
+For further details, refer to the General Information Document available on the websites of the Stock Exchanges and the Book Running Lead Manager.
+
+The processing fees for applications made by UPI Bidders using the UPI Mechanism may be released to the remitter banks (SCSBs) only after such banks make an application as prescribed in Annexure I of SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2022/51 dated April 20, 2022 and provide written confirmation on compliance with SEBI circular no. SEBI/HO/CFD/DIL2/P/CIR/2021/570 dated June 2, 2021, read with SEBI circular no. SEBI/HO/CFD/DIL2/CIR/P/2021/2480/1/M dated March 16, 2021.
+
+**PHASED IMPLEMENTATION OF UNIFIED PAYMENTS INTERFACE**
+
+The phase wise implementation of Unified Payments Interface has been implemented in the following manner:

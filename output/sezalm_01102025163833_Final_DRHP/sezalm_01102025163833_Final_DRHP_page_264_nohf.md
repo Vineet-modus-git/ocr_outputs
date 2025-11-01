@@ -1,0 +1,5 @@
+The details pertaining to net outstanding dues towards our material creditors as on September 22, 2025 along with the names and amounts involved for each such material creditor) are available on the website of our Company at www.ecofuel.in. It is clarified that such details available on our website do not form a part of this Draft Red Herring Prospectus.
+
+## Material Developments
+
+Other than as stated in the section entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations" on beginning on page 238, there have not arisen, since the date of the last financial information disclosed in this Draft Red Herring Prospectus, any circumstances which materially and adversely affect, or are likely to affect, our operations, our profitability taken as a whole or the value of our consolidated assets or our ability to pay our liabilities within the next 12 months.

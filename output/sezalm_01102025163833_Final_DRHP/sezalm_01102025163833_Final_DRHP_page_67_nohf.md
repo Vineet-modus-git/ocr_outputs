@@ -1,0 +1,25 @@
+(a) widely circulated Marathi daily newspaper, Marathi being the regional language of Maharashtra, where our Registered Office is located), at least two Working Days prior to the Bid/ Offer Opening Date, at least two working days prior to the Bid/ Offer Opening date. The Issue Price shall be determined by our Company in consultation with the Book Running Lead Manager in accordance with the Book Building Process after the Bid/Offer Closing Date. Principal parties involved in the Book Building Process are:
+
+1. Our Company
+
+2. The Book Running Lead Manager
+
+3. The Syndicate Member(s) who are intermediaries registered with SEBI / registered as brokers with National Stock Exchange of India Limited and eligible to act as Underwriters. The Syndicate Member(s) will be appointed by the Book Running Lead Manager.
+
+4. The Registrar to the Offer, in this case being Skyline Financial Services Private Limited
+
+5. The Escrow Collection Banks/ Bankers to the issue and
+
+6. The Designated Intermediaries and Sponsor bank
+
+The SEBI ICDR Regulations have permitted the Issue of securities to the public through the Book Building Process, wherein allocation to the public shall be made as per Regulation 253 of the SEBI ICDR Regulations.
+
+The Offer is being made through the Book Building Process wherein 50% of the Net Issue shall be available for allocation on a proportionate basis to QIBs, provided that our Company may in consultation with the BRLM allocate up to 60% of the QIB Portion to Anchor Investors on a discretionary basis in accordance with the SEBI ICDR Regulations (the "Anchor Investor Portion"), out of which one third shall be reserved for domestic Mutual Funds, subject to valid Bids being received from domestic Mutual Funds at or above the Anchor Investor Issue Price. In the event of undersubscription, or non-allocation in the Anchor Investor Portion, the balance Equity Shares shall be added to the Net QIB Portion. Further, 5% of the QIB Portion shall be available for allocation on a proportionate basis only to Mutual Funds, and the remainder of the Net QIB Portion shall be available for allocation on a proportionate basis to all QIB Bidders, including Mutual Funds, subject to valid Bids being received at or above the Offer Price. Further, not less than 15% of the Net Issue shall be available for allocation on a proportionate basis to Non-Institutional Investors wherein (a) one third of the portion available to Non-Institutional Investors shall be reserved for Applicants with Application size of more than two lots and up to such lots equivalent to not more than ₹10 lakhs; (b) two third of the portion available to Non-Institutional Investors shall be reserved for Applicants with Application size of more than ₹10 lakhs; and (c) any unsubscribed portion in either of the sub-categories specified in clauses (a) or (b), may be allocated to Applicants in the other sub-category of Non-Institutional Investors; and not less than 35% of the Net Issue shall be available for allocation to Individual Investors, in accordance with the SEBI ICDR Regulations, subject to valid Bids being received at or above the Issue Price.
+
+All potential Bidders may participate in the Issue through an ASBA process by providing details of their respective bank account which will be blocked by the SCSBs. All Bidders are mandatorily required to utilize the ASBA process to participate in the Issue. Under-subscription if any, in any category, except in the QIB Category, would be allowed to be met with spill overs from any other category or a combination of categories at the discretion of our Company in consultation with the BRLM and the Designated Stock Exchange.
+
+All Bidders, other than Anchor Investors are mandatorily required to use the ASBA process by providing the details of their respective ASBA Account in which the corresponding Bid Amount will be blocked by the SCSBs or, in the case of UPI Bidders, by using the UPI Mechanism. Anchor Investors are not permitted to participate in the Issue through the ASBA process.
+
+In accordance with the SEBI ICDR Regulations, QIB and Non-Institutional Bidders are not allowed to withdraw or lower the size of their Bids (in terms of the quantity of the Equity Shares or the Bid Amount) at any stage. Anchor Investors are not allowed to revise and withdraw their Bids after the Anchor Investor Bidding Date. Individual Investors can revise their Bids during the Bid/Issue Period and withdraw their Bids until the Bid/Issue Closing Date.
+
+Subject to the valid Bids being received at or above the Issue Price, allocation to all categories in the Net Issue, shall be made on a proportionate basis, except for Individual Investors Portion where allotment to each Individual Investor shall not be less than the minimum bid lot, subject to availability of Equity Shares in Individual Investors Portion, and the remaining available Equity Shares, if any, shall be allotted on a proportionate basis. Under - subscription, if any, in any

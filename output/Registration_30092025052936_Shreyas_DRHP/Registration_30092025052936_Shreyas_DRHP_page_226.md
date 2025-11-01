@@ -1,0 +1,16 @@
+SHREYAS FABTECH LIMITED
+Plot No.H37, MIDC Ambad, Nashik-422010, Maharashtra, India
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="2">As at<br>March 31, 2025</th><th colspan="2">As at<br>March 31, 2024</th><th colspan="2">As at<br>March 31, 2023</th></tr><tr><th>Nos.</th><th>% Holding</th><th>Nos.</th><th>% Holding</th><th>Nos.</th><th>% Holding</th></tr></thead><tbody><tr><td>Mr. Shreyas Kantilal Patel</td><td>9,277,563</td><td>99.27%</td><td>9,277,563</td><td>99.27%</td><td>6,000</td><td>60.00%</td></tr><tr><td>Mrs. Ushma S. Patel</td><td>51,000</td><td>0.55%</td><td>51,000</td><td>0.55%</td><td>3,000</td><td>30.00%</td></tr><tr><td>Mr. Rakesh V. Deore</td><td>3,400</td><td>0.04%</td><td>3,400</td><td>0.04%</td><td>200</td><td>2.00%</td></tr><tr><td>Mr. Arjav S. Patel</td><td>3,400</td><td>0.04%</td><td>3,400</td><td>0.04%</td><td>200</td><td>2.00%</td></tr><tr><td>Ms. Kshama A. Bhatnagar</td><td>3,400</td><td>0.04%</td><td>3,400</td><td>0.04%</td><td>200</td><td>2.00%</td></tr><tr><td>Smt. Madhukanta K. Patel</td><td></td><td></td><td></td><td></td><td>200</td><td>2.00%</td></tr><tr><td>Mr. Pankaj R. Pandya</td><td></td><td></td><td></td><td></td><td>200</td><td>2.00%</td></tr></tbody><tfoot><tr><td>Total</td><td>9,338,763</td><td>99.93%</td><td>9,338,763</td><td>99.93%</td><td>10,000</td><td>100.00%</td></tr></tfoot></table>
+
+## 2.5 Change In Promoters shareholding During the year
+
+<table><thead><tr><th rowspan="3">Promoter Name</th><th colspan="4">Consolidated</th><th colspan="2">Standalone</th></tr><tr><th colspan="2">As at<br>March 31, 2025</th><th colspan="2">As at<br>March 31, 2024</th><th colspan="2">As at<br>March 31, 2023</th></tr><tr><th>No. of Shares</th><th>% change<br>during the<br>year</th><th>No. of Shares</th><th>% change<br>during the<br>year</th><th>No. of Shares</th><th>% change<br>during the<br>year</th></tr></thead><tbody><tr><td>Mr. Shreyas Kantilal Patel</td><td>9,277,563</td><td>-</td><td>9,277,563</td><td>154,526.05</td><td>6,000</td><td>-</td></tr><tr><td>Mrs. Ushma S. Patel</td><td>51,000</td><td>-</td><td>51,000</td><td>1,600.00</td><td>3,000</td><td>-</td></tr><tr><td>Mr. Rakesh V. Deore</td><td>3,400</td><td>-</td><td>3,400</td><td>1,600.00</td><td>200</td><td>-</td></tr><tr><td>Mr. Arjav S. Patel</td><td>3,400</td><td>-</td><td>3,400</td><td>1,600.00</td><td>200</td><td>-</td></tr><tr><td>Ms. Kshama A. Bhatnagar</td><td>3,400</td><td>-</td><td>3,400</td><td>1,600.00</td><td>200</td><td>-</td></tr></tbody><tfoot><tr><td>Total</td><td>9,338,763</td><td>-</td><td>9,338,763</td><td>160,926</td><td>9,600</td><td>-</td></tr></tfoot></table>
+
+## 2.6 Terms/ Rights attached to equity shares
+
+(a) The company has only one class of equity shares having a par value of ₹ 10/- per share with voting rights as to dividend and voting. During the year no dividend has been paid/declared during the year.
+
+(b) In the event of liquidation of the company, after distribution of all preferential payments, the holders of equity shares will be entitled to receive the remaining assets of the company. The distribution will be in proportion to the number of equity shares held by the company.
+
+F - 15

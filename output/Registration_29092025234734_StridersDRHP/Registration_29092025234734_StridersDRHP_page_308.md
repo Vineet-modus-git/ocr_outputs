@@ -1,0 +1,13 @@
+<table><thead><tr><td>Sr. No.</td><td>Description</td><td>Registration Number</td><td>Issuing Authority</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Registration under the Employees State Insurance Corporation (ESIC) #</td><td>34000745050001019</td><td>Employees State Insurance Corporation, Ministry of labour and Employment</td><td>October 11, 2023</td><td>Valid till Cancelled</td></tr><tr><td>2.</td><td>Registration under the Employees Provident fund (EPF) #</td><td>10000641752VSH</td><td>Employees' Provident Fund Organisation, Ministry of Labour and Employment</td><td>July 30, 2025</td><td>Valid till Cancelled</td></tr></tbody></table>
+
+\*Our company is yet to make applications to respective authorities for updating each of the aforesaid certificates to reflect its current name pursuant to conversion into a public limited company.
+
+## 5. Business Related Approvals
+
+<table><thead><tr><td>Sr. No.</td><td>Description</td><td>Registration Number</td><td>Issuing Authority</td><td>Date of Issue</td><td>Date of Expiry</td></tr></thead><tbody><tr><td>1.</td><td>Legal Entity Identifier Code (LEI)</td><td>335800WPGHZLGU8VQD22</td><td>LEI Register India Private Limited</td><td>July 29, 2025</td><td>July 29, 2026</td></tr><tr><td>2.</td><td>Importer Exporter Code (IEC)*</td><td>ABFCS9910E</td><td>Ministry of Commerce and Industry, Directorate General of Foreign Trade</td><td>August 30, 2021</td><td>Valid till Cancelled</td></tr><tr><td>3.</td><td>Udyam Registration Certificate</td><td>UDYAM-MH-33-0117638</td><td>Ministry of Micro Small & Medium Enterprises</td><td>September 01, 2021</td><td>Valid till Cancelled</td></tr><tr><td>4.</td><td>Registration under Maharashtra Shops & Establishment Act, 2017</td><td>820406491/ N Ward/ Commercial II</td><td>Office of the Chief Facilitator, Maharashtra Shop & Establishment Act, 2017</td><td>September 15, 2025</td><td>Valid till Cancelled</td></tr><tr><td>5.</td><td>Trade License obtained for providing general trading activity#</td><td>13502/2018</td><td>Fujairah Creative City -Free Zone Authority, UAE</td><td>May 27, 2025</td><td>October 23, 2026</td></tr></tbody></table>
+
+\*Our company has filed an application to Directorate General of Foreign Trade for updating IEC Registration Certificate to reflect its present name pursuant to its conversion into a public limited company.
+
+\#Our company is yet to make application to Fujairah Creative City -Free Zone Authority, UAE for updating the Trade License to reflect its current name pursuant to conversion into a public limited company.
+
+238

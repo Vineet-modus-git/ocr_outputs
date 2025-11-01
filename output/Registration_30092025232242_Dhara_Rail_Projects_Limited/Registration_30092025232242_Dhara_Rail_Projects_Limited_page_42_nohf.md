@@ -1,0 +1,25 @@
+Litigations against the Promoters and Directors of the company:
+
+(Rs. in lakhs)
+
+<table><thead><tr><td>Nature of Cases</td><td>No. of Outstanding Cases</td><td>Amount</td></tr></thead><tbody><tr><td>Income Tax Demand</td><td>01</td><td>0.47</td></tr><tr><td>Total</td><td></td><td>0.47</td></tr></tbody></table>
+
+Further, in addition to that, there could be other litigations & claims filed against the Company, Promoters & directors which the Company may not be aware of as on the date of this Draft Red Herring Prospectus. There can be no assurance that these litigations will be decided in favour of our Company and consequently it may divert the attention of our management and Promoter and waste our corporate resources and we may incur significant expenses in such proceedings and may have to make provisions in our financial statements, which could increase our expenses and liabilities. If such claims are determined against us, there could be a material adverse effect on our reputation, business, financial condition and results of operations.
+
+For the details of the cases please refer the chapter titled "Outstanding Litigations and Material Developments" on page 224 of this Draft Red Herring Prospectus.
+
+**19. Our historical performance is not indicative of our future growth or financial results and we may not be able to sustain our historical growth rates.**
+
+Our business has experienced significant growth in prior periods. Our revenue from operations has increased from Rs. 2660.11 lakhs in financial year 2022-23, to Rs. 3146.84 Lakhs and Rs. 4448.42 Lakhs in Financial Years 2023-24 and 2024-25 respectively and our Profit after tax has increased from Rs. 106.42 lakhs in FY 2022-23 to Rs. 296.78 Lakhs and Rs. 652.78 lakhs in FY 2023-24 and 2024-25 respectively. We cannot assure you that we will be able to sustain the levels of revenue and profit growth that we have had in the past. Further, a number of our strategic initiatives are in initial stages. While we may experience initial success with such initiatives, there is no assurance that these will succeed in the long term.
+
+**20. Any disproportionate increase in labour costs including increase in wage/salary demand, labour unrest or labour claims arising from accidents may adversely affect our business operations and financial conditions.**
+
+Our increasing business operations may require our employee strength to increase in future. In the past our Company has not experienced any labour unrest, but there is no assurance that it will not experience the same at any time in the future. Also, there is a possibility that the labour costs increase disproportionately due to increase in wage/salary demand. In this event, if our Company is unable to pass on the increased costs to our clients, our business operations and financial conditions may be adversely affected.
+
+**21. Our Company operates under several statutory and regulatory permits, licenses and approvals. Our inability to obtain, renew or retain the statutory and regulatory licenses, permits and approvals required to operate our business may have an adverse effect on our business & operations.**
+
+We require certain statutory and regulatory permits, licenses and approvals to operate our business. Though we believe that we have obtained those permits and licenses which are adequate to run our business, we cannot assure that there is no other statutory/regulatory requirement which we are required to comply with. Further, some of these approvals are granted for fixed periods of time and need renewal from time to time. We are required to renew such permits, licenses and approvals. Failure by us to renew, maintain or obtain the required permits or approvals in time may result in the interruption of our operations and may have a material adverse effect on our business, financial condition and results of operations.
+
+Further, our Company has not registered itself under labour welfare fund and also is in the process of making application for change in its name in some of the required Government approvals, which are not in its name as on the date of this Draft Red Herring Prospectus. We cannot assure you that the approvals, licenses, registrations and permits required will be issued to us and those already issued will not be suspended or revoked in the event of non-compliance with any terms or conditions thereof, or pursuant to any regulatory action. Any denial, suspension or revocation of the approvals, licenses, registrations and permits that has been or may be issued to us may affect our business and results of operations. Our Company is in the process of making an application for a change in name in all the permits, licenses, and approvals, which are currently under the Company's former name.
+
+For further details regarding the material approvals, licenses, registrations and permits, which have not been obtained by our

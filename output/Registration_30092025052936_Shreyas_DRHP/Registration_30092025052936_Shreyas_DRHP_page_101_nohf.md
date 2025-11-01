@@ -1,0 +1,25 @@
+<table><tr><td></td><td>March 31, 2025. There has been decrease over the years in the holding period due to better asset utilization, more efficient financial management, and improved cash flow. Further the company is anticipating to maintain other current assets holding days on a similar level i.e. 26 days for 2025-26 and 29 days for 2026-2027</td></tr><tr><td>Trade Payable</td><td>Trade Payables holding period is 60 days, 62 days and 37 days for the F.Y. 2022-23, 2023-24 and 2024-25 respectively. The reason for decrease in holding period in the F.Y. 2024-25 as compared to F.Y. 2023-24 is efficient cash flow and supplier management. For the FY 2023-24 while there was increase in holding period from 60 to 62 days due to optimization of cash flows, negotiation with supplier for better terms. For the upcoming period of the FY 2026-26 and FY 2026-27, we are expecting the holding period to be at 31 days and 26 days each with efficient cash flow and supplier management, leverage of cash discounts from suppliers, empowerment to negotiate more favourable terms and prices, fostering stronger supplier relationship with prompt payments.</td></tr><tr><td>Other Current Liabilities</td><td>Other Current Liabilities mainly includes Advance from customers. Other current liability holding days for the F.Y. 2022-23, 2023-24 and 2024-25 are 6 days, 9 days and 5 days respectively. The holding level for F.Y. 2025 was decreased due to faster settlement of short-term obligations, effective cash flow and working capital management. It is further expected to stay at the same level of 3 days in FY 2025-26 and 2 days in 2026-27.</td></tr><tr><td>Short Term Provision</td><td>Short Term Provision includes provision for gratuity and taxation. The holding levels for short-term provisions was 8 in F.Y. 2022-23 which increased to 13 in F.Y. 2023-24 due to inclusion of provision of gratuity and tax expenses. It got significantly reduced to 3 in FY 2024-25 indicating that the company was managing its short-term obligations effectively. It is estimated that the holding period will remain constant for 1 day in FY 2025-26, and which slightly decrease to 1 in FY 2026-27.</td></tr></table>
+
+Pursuant to the certificate dated September 29, 2025, M/s. S A N V Y & Associates, Chartered Accountants, have verified the working capital requirements for the period ended on March 31, 2025, from the Special Purpose Combined Financial Information and working capital estimates for the financial year 2026 and 2027 as approved by the Board pursuant to its resolution dated September 26, 2025.
+
+### 3. General Corporate Purposes
+
+The Net Proceeds will be first utilized towards the Objects as mentioned above. The balance Net Fresh Offer Proceeds to the tune of ₹ [●] Lakhs is proposed to be utilized for general corporate purposes, subject to such utilization not exceeding 15% of the Gross Proceeds or ₹ 10 crores whichever is lower, in compliance with the SEBI (ICDR) Regulations, 2018. Our Company intends to deploy the balance Net Proceeds, if any, for general corporate purposes, subject to above mentioned limit, as may be approved by our management, including but not restricted to, the following:
+
+(i) Strategic initiatives
+
+(ii) Brand building and strengthening of marketing activities; and
+
+(iii) On-going general corporate exigencies or any other purposes as approved by the Board subject to compliance with the necessary regulatory provisions.
+
+The quantum of utilization of funds towards each of the above purposes will be determined by our Board of Directors based on the permissible amount actually available under the head "General Corporate Purposes" and the business requirements of our Company, from time to time. We, in accordance with the policies of our Board, will have flexibility in utilizing the Net Proceeds for general corporate purposes, as mentioned above
+
+### Proposed Year wise Deployment of Funds / Schedule of Implementation
+
+The entire Net Fresh Offer proceeds are proposed to be deployed in the Financial Year 2025-26 and 2026-27.
+
+### Public Issue Expense:
+
+The total expenses for this Offer are estimated to be approximately ₹ [●] Lakhs. All the Offer related expenses shall be met out of the proceeds of the Offer and the break-up of the same is as follows:
+
+<table><thead><tr><td>Particulars^</td><td>Expenses*<br>(₹ In Lakhs)</td><td>% of Total<br>Offer Expenses</td><td>% of Total<br>Offer size</td></tr></thead><tbody><tr><td>Payment to Book Running Lead Managers</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Market Making Fees</td><td>[●]</td><td>[●]</td><td>[●]</td></tr></tbody></table>

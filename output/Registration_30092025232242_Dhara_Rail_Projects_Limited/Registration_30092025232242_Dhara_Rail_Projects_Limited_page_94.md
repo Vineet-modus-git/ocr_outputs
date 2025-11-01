@@ -1,0 +1,25 @@
+Dhara Rail Projects Limited
+
+### 3. General Corporate Purpose
+
+Our management, in accordance with the policies of our Board, will have flexibility in utilizing the proceeds earmarked for general corporate purposes. We intend to deploy the balance Fresh Issue proceeds aggregating Rs. [●] towards the general corporate purposes to drive our business growth. In accordance with the policies set up by our Board, we have flexibility in applying the remaining Net Proceeds, for general corporate purpose including but not restricted to, meeting operating expenses, initial development costs for projects other than the identified projects, and the strengthening of our business development and marketing capabilities, meeting exigencies, which the Company in the ordinary course of business may not foresee or any other purposes as approved by our Board of Directors, subject to compliance with the necessary provisions of the Companies Act, 2013.
+
+We confirm that any issue related expenses shall not be considered as a part of General Corporate Purpose. Further in case, our actual issue expenses turn to be lesser than the estimated issue expenses of Rs. [●] lakhs, such surplus amount shall be utilized for General Corporate Purpose in such a manner that the amount for general corporate purposes, as mentioned in the Prospectus, shall not exceed 15% of the amount raised by our Company through this Issue or Rs. 10 crores whichever is lower.
+
+#### Public Issue Expenses
+
+The total expenses for this Issue are estimated to be approximately Rs. [●] Lakhs, which is [●] % of the Issue Size. All the Issue related expenses shall be proportionately met out from proceeds of the Issue as per applicable laws. The break-up of the same is as follows:
+
+<table><thead><tr><th>Particulars</th><th>Estimated expenses (Rs. in Lakhs)*</th><th>As a % of total estimated Issue related expenses</th><th>As a % of the total Issue Size</th></tr></thead><tbody><tr><td>Book Running Lead Manger fees</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Fees Payable to Registrar to the Issue</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Fees Payable for Advertising and Publishing Expenses</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Fees Payable to Regulators including Stock Exchanges</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Payment for Printing & Stationery, Postage, etc.</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Fees Payable to Auditor, Legal Advisors and other Professionals</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td>Others, if any (Fees payable for Marketing & distribution expenses, Selling Commission, Brokerage, depositories, secretarial, advisors, consultancy, Statutory auditors, Processing Fees*, Underwriting fees and Miscellaneous Expenses)</td><td>[●]</td><td>[●]</td><td>[●]</td></tr><tr><td><strong>Total Estimated Issue Expenses</strong></td><td><strong>[●]</strong></td><td><strong>[●]</strong></td><td><strong>[●]</strong></td></tr></tbody></table>
+
+*Issue expenses will be finalized on determination of Issue Price and incorporated at the time of filing of the Prospectus. Issue expenses are estimates and are subject to change.
+
+(1) Amounts will be finalised and incorporated in the Prospectus on determination of Issue Price. Issue expenses include applicable taxes, where applicable. Issue expenses are estimates and are subject to change.
+
+(2) Selling commission payable to the SCSBs on the portion for Individual Bidders. Non-Institutional Bidders, which are directly procured by the SCSBs, would be as follows
+
+<table><tr><td>Portion for Individual Bidders*</td><td>[●] % of the Amount Allotted* (plus applicable taxes)</td></tr><tr><td>Portion for Non-Institutional Bidders*</td><td>[●] % of the Amount Allotted* (plus applicable taxes)</td></tr></table>
+
+*Amount allotted is the product of the number of Equity Shares Allotted and the Issue Price. The selling commission payable to the SCSBs will be determined on the basis of the bidding terminal ID as captured in the Bid Book of BSE or NSE
+
+(3) No uploading/ processing fees shall be payable by our Company to the SCSBs on the applications directly procured by them. Processing fees payable to the SCSBs on the portion for Individual Bidders and Non-Institutional Bidders which are procured by the members of the Syndicate/ sub-Syndicate/ Registered Broker/ CRTAs/ CDPs and submitted to SCSB for blocking, would be as follows:

@@ -1,0 +1,3 @@
+* All Pre-IPO Equity Shares of our Company will be locked in as mentioned above prior to listing of shares on the Emerge Platform of NSE.
+
+Our Company will file the shareholding pattern in the form prescribed under Regulation 31 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, one day prior to the Listing of the Equity Shares. The Shareholding Pattern will be uploaded on the Website of the NSE before commencement of trading of such Equity Shares.

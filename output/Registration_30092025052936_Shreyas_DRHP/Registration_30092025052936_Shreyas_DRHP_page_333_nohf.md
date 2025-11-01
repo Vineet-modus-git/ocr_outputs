@@ -1,0 +1,45 @@
+Total Income decreased by ₹ 662.58 Lakhs in the financial year ended March 31, 2024 which comprises of about 14.62%, with ₹ 3,868.26 Lakhs worth of total income as compared to ₹ 4,530.84 Lakhs in March 31, 2023 due to the following factors:
+
+### Revenue from Operations
+
+Revenue from Operations decreased by ₹ 568.21 Lakhs in the financial year ended March 31, 2024 which comprises of about 13%, with ₹ 3,803.00 Lakhs worth of revenue as compared to ₹ 4,371.21 Lakhs in March 31, 2023. This is mainly due to decrease in Sale of Manufactured Products and Sale of Scrap.
+
+### Break up of revenue from Operations:
+
+(₹ in Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>FY 2023-24</th><th>FY 2022-23</th></tr></thead><tbody><tr><td>Sale of Manufactured Products- (A)</td><td>3750.82</td><td>4303.92</td></tr><tr><td>Other Operating Revenue - (B)</td><td>52.18</td><td>67.29</td></tr><tr><td>Revenue from Operations - C= (A+B)</td><td>3,803.00</td><td>4371.21</td></tr><tr><td><strong>Total Additional Revenue between FY 2023-24 &amp; FY 2022-23</strong></td><td>(568.21)</td><td></td></tr></tbody></table>
+
+### Sales of Manufactured Products
+
+The Sales of Manufactured Products decreased by ₹ 553.10 Lakhs in the financial year ended March 31, 2024, with ₹ 3,750.82 Lakhs worth of sales as compared to ₹ 4,303.92 Lakhs in March 31, 2023. This is mainly due to decrease in export revenue.
+
+### Other Operating Revenue
+
+Other Operating Revenue decreased by ₹ 15.11 Lakhs in the financial year ended March 31, 2024 with ₹ 52.18 Lakhs worth of operating revenue as compared to ₹ 67.29 Lakhs in March 31, 2023, due to decrease in Sale of Scrap.
+
+### Other Income
+
+Other Income decreased by ₹ 94.37 Lakhs in the financial year ended March 31, 2024, which comprises of about 59.12% with ₹ 65.25 Lakhs worth of other income as compared to ₹ 159.63 Lakhs in March 31, 2023. This decrease is mainly due to decrease in Export Incentives, Interest Income and Exchange Gain / (Loss) on Foreign Currency Transactions and Translation.
+
+### Total Expenses
+
+Total expenses decreased by ₹ 907.11 Lakhs in the financial year ended March 31, 2024 which comprises of about 22.75%, with ₹ 3,080.56 Lakhs worth of total expenses as compared to ₹ 3,987.67 Lakhs in March 31, 2023 excluding Finance Cost & Depreciation/Amortisation Expenses, due to following factors :
+
+### Cost of Materials Consumed
+
+Cost of Materials Consumed decreased by ₹ 988.07 Lakhs in the financial year ended March 31, 2024 which comprises of about 25.70%, with ₹ 2,856.90 Lakhs worth of cost as compared to ₹ 3,844.97 Lakhs in March 31, 2023 due to decrease in purchase, Direct wages, power and fuel, Carraige in ward, handling and freight charges etc.
+
+### Increase/(Decrease) in Inventories of Work-in-Progress and Finished Goods :
+
+Inventories of Work-in-Progress increased to ₹ 112.68 Lakhs in the financial year ended March 31, 2024, from ₹ 18.95 in the financial year ended March 31, 2023.
+
+### Employee Benefit Expenses
+
+Our Employee Benefit Expenses increased by ₹ 184.15 Lakhs in the financial year ended March 31, 2024 which comprises of about 493.20%, with ₹ 221.48 Lakhs worth of cost as compared to ₹ 37.34 Lakhs in March 31, 2023 due to mainly increase in salaries & wages to employees by ₹ 75.98 Lakhs, Gratuity Expenses by ₹ 62.15 Lakhs, Director remuneration by ₹ 34 Lakhs and also increase in Contributions to Provident and other funds and Staff welfare expenses.
+
+### Other Expenses
+
+Our Other Expenses increased by ₹ 9.50 Lakhs in the financial year ended March 31, 2024 which comprises of about 9.02%, with ₹ 114.87 Lakhs worth of cost as compared to ₹ 105.37 Lakhs in March 31, 2023 due to major increase in Rates and Taxes, Repair & Maintenance, freight-out-ward and Security Charges etc.
+
+### Finance Costs

@@ -1,0 +1,30 @@
+Dhara Rail Projects Limited
+
+4. FOB value of Earnings in Foreign Currency:
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>FY 2024-25</th><th>FY 2023-24</th><th>FY 2022-23</th></tr></thead><tbody><tr><td>Export</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+5. Geographical Information
+- Revenue
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>FY 2024-25</th><th>FY 2023-24</th><th>FY 2022-23</th></tr></thead><tbody><tr><td>India</td><td>4448.42</td><td>3146.84</td><td>2660.11</td></tr><tr><td>Outside India</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
+
+- **Non-Current Assets**
+
+All the non-current assets of the Company are situated within India.
+
+6. Employee benefits:
+
+The Company has adopted the Accounting Standard 15 (revised 2005) on Employee Benefits as per an actuarial valuation carried out by an independent actuary. The disclosures as envisaged under the standard are as under:
+
+**Gratuity:**
+
+(Amount in Rs. Lakhs)
+
+<table><thead><tr><th>Particulars</th><th>31-03-2025</th><th>31-03-2024</th><th>31-03-2023</th></tr></thead><tbody><tr><td colspan="4"><strong>1. The amounts recognized in the Balance Sheet are as follows:</strong></td></tr><tr><td>Defined benefit obligation as at the end of the period</td><td>31.60</td><td>24.89</td><td>37.24</td></tr><tr><td>Fair Value of Plan Assets at the end of the period</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td><strong>Net Liability/(Asset)</strong></td><td><strong>31.60</strong></td><td><strong>24.89</strong></td><td><strong>37.24</strong></td></tr><tr><td>- Current</td><td>1.03</td><td>0.53</td><td>0.42</td></tr><tr><td>- Non-Current</td><td>30.57</td><td>24.36</td><td>36.81</td></tr><tr><td colspan="4"><strong>2. The amounts recognized in the Profit & Loss A/c are as follows:</strong></td></tr><tr><td>Current Service Cost</td><td>18.74</td><td>14.90</td><td>22.67</td></tr><tr><td>Interest on Defined Benefit Obligation</td><td>1.74</td><td>2.61</td><td>1.24</td></tr><tr><td>Expected Return on Plan Assets</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Net actuarial losses (gains) recognised in the period</td><td>-13.78</td><td>-29.85</td><td>-4.39</td></tr><tr><td>Total, Included in "Salaries, Allowances & Welfare"</td><td><strong>6.71</strong></td><td><strong>-12.35</strong></td><td><strong>19.52</strong></td></tr><tr><td colspan="4"><strong>3. Changes in the present value of defined benefit obligation:</strong></td></tr><tr><td>Defined benefit obligation as at the beginning of the period</td><td>24.89</td><td>37.24</td><td>17.72</td></tr><tr><td>Service cost</td><td>18.74</td><td>14.90</td><td>22.67</td></tr><tr><td>Interest cost</td><td>1.74</td><td>2.61</td><td>1.24</td></tr><tr><td>Expected Return on Plan Assets</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Net actuarial losses (gains) recognised in the period</td><td>-13.78</td><td>-29.85</td><td>-4.39</td></tr><tr><td>Benefit paid by the Company/Fund</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td><strong>Defined benefit obligation as at the end of the period</strong></td><td><strong>31.60</strong></td><td><strong>24.89</strong></td><td><strong>37.24</strong></td></tr><tr><td colspan="4"><strong>4. Changes in the Fair Value of Plan Assets:</strong></td></tr><tr><td>Fair Value of Plan Assets at the beginning of the period</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Contributions by the Employer</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Expected Return on Plan Assets</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Net actuarial (losses) gains recognised in the period</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Benefit paid by the Fund</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td><strong>Fair Value of Plan Assets at the end of the period</strong></td><td><strong>0.00</strong></td><td><strong>0.00</strong></td><td><strong>0.00</strong></td></tr></tbody></table>
+
+183

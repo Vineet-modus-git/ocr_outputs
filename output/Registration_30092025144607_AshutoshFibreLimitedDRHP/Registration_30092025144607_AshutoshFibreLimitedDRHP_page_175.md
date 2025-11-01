@@ -1,0 +1,13 @@
+Companies Act, 2013 and the Companies (Corporate Social Responsibility Policy) Rules, 2014, as amended. The CSR policy lays down the framework and guiding principles for selection, implementation, monitoring and reporting of CSR activities to be undertaken by our Company.
+
+In accordance with the said policy, our Company has been undertaking CSR activities in areas such as Child Education, Women Empowerment, feed to needy people, Old Age Home, Gau-shala, Drug - free Nation. These initiatives are aimed at contributing towards the overall development of the communities in which we operate.
+
+The following table sets forth details of our CSR expenditure for the periods indicated:
+
+<table><thead><tr><td>Particulars</td><td>FY 2025</td><td>FY 2024</td><td>FY 2023</td></tr></thead><tbody><tr><td>Amount required to be spent (₹ in lakhs)</td><td>13.00</td><td>Nil</td><td>Nil</td></tr><tr><td>Amount actually spent (₹ in lakhs)</td><td>13.00</td><td>Nil</td><td>Nil</td></tr></tbody></table>
+
+## IMMOVABLE PROPERTY
+
+<table><thead><tr><td>Sr. No.</td><td>Details of the Property</td><td>Actual Use</td><td>Area</td><td>Owned/Leased/ Rented</td><td>Details of the Lessor/Licensor & Vendor</td><td>Adequately Stamped</td><td>Registered</td></tr></thead><tbody><tr><td>1.</td><td>Shop No. 111, New Cloth Market, Raipur, Ahmedabad - 380002, Gujarat, India*</td><td>Registered Office</td><td>107.51 square metres</td><td>Leased</td><td>The Lease Deed dated October 29, 2022 was executed between (i) Pitex Corporation and Ashutosh Fibre Private Limited (Lessor) and (ii) Ashutosh Fibre Private Limited (Lessee) for a lease term commencing from November 1, 2022 till October 31, 2027.<br>Duration: 5 years<br>Consideration: ₹ 5,000 (Rupees Five Thousand Only) Monthly</td><td>Yes</td><td>Yes</td></tr><tr><td>2.</td><td>Building No 27, 28 and 29, City Survey No.156, Station Road, Village Petlad, Ahmedabad-388450, Gujarat, India#</td><td>Factory Unit</td><td>Total area - 53,988.88 square meters out of which 20,570.89 is being utilized by the existing manufacturing unit.</td><td>Leased</td><td>The Lease Deed amended dated June 15, 2023 was executed between (i) M/s Shyam Prakash Spinning Mills Limited (Lessor) and (ii) M/s Ashutosh Fibre Private Limited (Lessee) commencing from April 01, 2023 till March 31, 2033.<br>Duration: 10 years<br>Consideration: ₹ 75,000/- (Rupees</td><td>Yes</td><td>Yes</td></tr></tbody></table>
+
+171

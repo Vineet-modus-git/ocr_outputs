@@ -1,0 +1,21 @@
+<table><tbody><tr><td></td><td></td><td></td><td></td><td></td><td>Transfer<sup>(iv)</sup></td><td></td><td></td></tr><tr><td>August 28, 2025</td><td>28,350</td><td>10</td><td>0</td><td>Other than Cash</td><td>Bonus Issue in the Ratio of 9:1</td><td>0.17</td><td>●</td></tr><tr><td><strong>Total (C)</strong></td><td><strong>31,500</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>0.19</strong></td><td><strong>●</strong></td></tr><tr><td colspan="8"><strong>(D) Ajay Kumar Mahanty</strong></td></tr><tr><td>March 30, 2019</td><td>30,000</td><td>10</td><td>125</td><td>Cash</td><td>Private Placement</td><td>0.18</td><td>●</td></tr><tr><td>June 15, 2020</td><td>30,000</td><td>10</td><td>125</td><td>Cash</td><td>Private Placement</td><td>0.18</td><td>●</td></tr><tr><td>September 23, 2021</td><td>15,000</td><td>10</td><td>417</td><td>Cash</td><td>Private Placement</td><td>0.09</td><td>●</td></tr><tr><td>August 28, 2025</td><td>6,75,000</td><td>10</td><td>0</td><td>Other than Cash</td><td>Bonus Issue in the Ratio of 9:1</td><td>4.15</td><td>●</td></tr><tr><td><strong>Total (D)</strong></td><td><strong>7,50,000</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>4.61</strong></td><td><strong>●</strong></td></tr><tr><td colspan="8"><strong>(E) Abhay Agrawal</strong></td></tr><tr><td>August 17, 2024</td><td>1</td><td>10</td><td>0</td><td>Other than Cash</td><td>Acquisition of Shares by way of Gift-Based Share Transfer<sup>(iii)</sup></td><td>Negligible</td><td>●</td></tr><tr><td>June 06, 2025</td><td>75,600</td><td>10</td><td>0</td><td>Other than Cash</td><td>Acquisition of Shares by way of Gift-Based Share Transfer<sup>(v)</sup></td><td>0.46</td><td>●</td></tr><tr><td>August 28, 2025</td><td>6,80,409</td><td>10</td><td>0</td><td>Other than Cash</td><td>Bonus Issue in the Ratio of 9:1</td><td>4.18</td><td>●</td></tr><tr><td><strong>Total (E)</strong></td><td><strong>7,56,010</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>4.65</strong></td><td><strong>●</strong></td></tr><tr><td><strong>Grand Total (A+B+C+D+E)</strong></td><td><strong>1,56,65,990</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td><strong>96.26</strong></td><td><strong>●</strong></td></tr></tbody></table>
+
+i. Details of transfer of 4,42,500 equity shares dated April 12, 2023:
+
+<table><thead><tr><td>S. No.</td><td>Date of Transfer</td><td>Name of Transferor</td><td>No. of Shares Transferred</td><td>Name of Transferee</td></tr></thead><tbody><tr><td>1.</td><td>April 12, 2023</td><td>Saurabh Garg</td><td>4,42,500</td><td>Amita Garg</td></tr></tbody></table>
+
+ii. Details of transfer of 1 equity share dated August 17, 2024:
+
+<table><thead><tr><td>S. No.</td><td>Date of Transfer</td><td>Name of Transferor</td><td>No. of Shares Transferred</td><td>Name of Transferee</td></tr></thead><tbody><tr><td>1.</td><td>August 17, 2024</td><td>Saurabh Garg</td><td>1</td><td>Ayush Garg</td></tr></tbody></table>
+
+iii. Details of transfer of 2 equity share dated August 17, 2024:
+
+<table><thead><tr><td>S. No.</td><td>Date of Transfer</td><td>Name of Transferor</td><td>No. of Shares Transferred</td><td>Name of Transferee</td></tr></thead><tbody><tr><td>1.</td><td rowspan="2">August 17, 2024</td><td rowspan="2">Amita Garg</td><td>1</td><td>Abhay Agrawal</td></tr><tr><td>2.</td><td>1</td><td>Amit Agarwal</td></tr></tbody></table>
+
+iv. Details of transfer of 6,299 equity share dated June 06, 2025:
+
+<table><thead><tr><td>S. No.</td><td>Date of Transfer</td><td>Name of Transferor</td><td>No. of Shares Transferred</td><td>Name of Transferee</td></tr></thead><tbody><tr><td>1.</td><td rowspan="2">June 06, 2025</td><td rowspan="2">Saurabh Garg</td><td>3,149</td><td>Ayush Garg</td></tr><tr><td>2.</td><td>3,150</td><td>Shubham Garg</td></tr></tbody></table>
+
+v. Details of transfer of 78,750 equity share dated June 06, 2025:
+
+<table><thead><tr><td>S. No.</td><td>Date of Transfer</td><td>Name of Transferor</td><td>No. of Shares Transferred</td><td>Name of Transferee</td></tr></thead><tbody><tr><td>1.</td><td>June 06, 2025</td><td>Amita Garg</td><td>75,600</td><td>Abhay Agrawal</td></tr></tbody></table>

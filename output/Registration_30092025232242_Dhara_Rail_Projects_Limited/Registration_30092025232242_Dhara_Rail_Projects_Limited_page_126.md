@@ -1,0 +1,9 @@
+Dhara Rail Projects Limited
+
+IMMOVABLE PROPERTIES
+
+The following table sets forth the locations and other details of the properties of our Company:
+
+<table><thead><tr><td>Sr. No.</td><td>Details of the Properties</td><td>Actual use</td><td>Owned/ Leased/Rented</td></tr></thead><tbody><tr><td>1.</td><td>Gala No. O, 196-K, Girgaum Gaiwadi, Girgaum, Mumbai-400004, Maharashtra, India</td><td>Registered Office</td><td>The said property is taken vide NOC from our Promoter i.e Tejas Lalit Mehta</td></tr><tr><td>2.</td><td>208, 2<sup>nd</sup> Floor, Plot-16, The Jewel Roxy Chambers, Mama Parmanand Marg, Opera House, Girgaon, Mumbai-400004, Maharashtra, India.</td><td>Corporate Office</td><td><strong>Rented</strong>- The said property has been obtained from Mohsin Yasin Naviwala on rent vide Leave and License Agreement dated September 22, 2025, for a period of 3 years.</td></tr></tbody></table>
+
+124

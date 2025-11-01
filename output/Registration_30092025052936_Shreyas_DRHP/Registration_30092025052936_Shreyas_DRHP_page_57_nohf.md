@@ -1,0 +1,27 @@
+In accordance with Indian law and practice, permission to list the Equity Shares will not be granted until after the Equity Shares have been issued and allotted. Approval will require all other relevant documents authorizing the issuing of our Equity Shares to be submitted. There could be a failure or delay in listing our Equity Shares on the Stock Exchanges. Any failure or delay in obtaining the approval would restrict your ability to dispose of your Equity Shares.
+
+## EXTERNAL RISKS
+
+### Industry Related Risks:
+
+**63. Changes in government regulations or their implementation could disrupt our operations and adversely affect our business and results of operations.**
+
+Our business and industry are regulated by different laws, rules and regulations framed by the Central and State Government. These regulations can be amended / changed on a short notice at the discretion of the Government. If we fail to comply with all applicable regulations or if the regulations governing our business or their implementation change adversely, we may incur increased costs or be subject to penalties, which could disrupt our operations and adversely affect our business and results of operations.
+
+**64. Malpractices by some players in the industry affect overall performance of emerging Companies**
+
+The industry in which our Company operates is subject to risk associated with unethical business practices such as unethical marketing, dishonest advertising, questionable pricing practices, inaccurate claims with regards to safety and efficacy of the product etc. Consumers' attitude toward the industry today is dominated by a sense of mistrust, paving a way for regulators for stricter entry barriers and introduction of code of conducts; making the entire industry environment regulated and controlled. Malpractices by some players in the industry affects the overall performance of the emerging Companies like us as the industry norms are applicable to all at parity. Any unethical business practices by any industry player or intermediary may impact our business and results of operations.
+
+## OTHER RISKS:
+
+**65. Investors may have difficulty enforcing foreign judgments against our Company or our management.**
+
+Our Company is incorporated under the laws of India as a company limited by shares. As a result, it may not be possible for investors to effect service of process upon our Company or such persons in jurisdictions outside India, or to enforce judgments obtained against such parties outside India. Furthermore, it is unlikely that an Indian court would enforce foreign judgments if that court was of the view that the amount of damages awarded was excessive or inconsistent with public policy, or if judgments are in breach or contrary to Indian law. In addition, a party seeking to enforce a foreign judgment in India is required to obtain approval from the RBI to execute such a judgment or to repatriate outside India any amounts recovered.
+
+**66. You may be subject to Indian taxes arising out of capital gains on the sale of the Equity Shares.**
+
+Under current Indian tax laws, unless specifically exempted, capital gains arising from the sale of equity shares are generally taxable in India. Any capital gain realized on the sale of listed equity shares on a recognized stock exchange held for more than 12 months immediately preceding the date of transfer will be subject to long term capital gains tax in India at the specified rates depending on certain factors, such as the quantum of gains, and any available treaty relief, among others. Any capital gain realized on sale of listed equity shares on a recognized stock exchange held for not more than 12 months immediately preceding the date of transfer will be subject to short term capital gains tax.
+
+The Government of India announced the interim union budget for Financial Year 2024-2025, following which the Finance Bill, 2024 ("Finance Bill") was introduced in the Lok Sabha on February 1, 2024. The Finance Bill received the assent from the President of India and became the Finance Act, 2024, with effect from April 1, 2024 ("Finance Act 2024 I"). Subsequently, upon announcement of the union budget for Financial Year 2024-2025 after the general elections, the Government of India notified the Finance Act (No.2) Act, 2024 ("Finance Act 2024 II").
+
+Pursuant to amendments notified by the Finance Act 2024 II, long term capital gains exceeding the exempted limit of ₹125,000 arising from the sale of listed equity shares on the stock exchange are subject to tax at the rate of 12.5% (plus applicable surcharge and cess), without benefit of indexation. Further, any capital gains realized on the sale of listed equity shares held for a period of 12 months or less immediately preceding the date of transfer will be subject to short term capital gains tax at the rate of 20% (plus applicable surcharges and cess) for transfers taking place after July 23, 2024. A securities transaction tax ("STT") will be levied on and collected by an Indian stock exchange on which our Equity Shares are sold.

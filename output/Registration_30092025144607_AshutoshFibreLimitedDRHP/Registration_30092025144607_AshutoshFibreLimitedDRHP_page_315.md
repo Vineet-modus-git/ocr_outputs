@@ -1,0 +1,29 @@
+# SECTION XI – ISSUE RELATED INFORMATION
+
+## TERMS OF THE ISSUE
+
+The Equity Shares being Allotted pursuant to this Issue shall be subject to the provisions of the Companies Act 2013, the SEBI ICDR Regulations, SEBI Listing Regulations, SCRA, SCRR, our Memorandum of Association and Articles of Association, the terms of this Draft Red Herring Prospectus, Prospectus, Application Form, any Revision Form, the Confirmation of Allocation Note (“CAN”) / Allotment Advice and other terms and conditions as may be incorporated in the Allotment Advice and other documents / certificates that may be executed in respect of the Issue. The Equity Shares shall also be subject to laws as applicable, guidelines, rules, notifications and regulations relating to the issue of capital and listing and trading of securities issued from time to time by SEBI, the Government of India, the Stock Exchange(s), the RBI, RoC and / or other authorities, as in force on the date of the Issue and to the extent applicable or such other conditions as may be prescribed by the SEBI, the RBI, the Government of India, the Stock Exchange(s), the RoC and / or any other authorities while granting its approval for the Issue. Please note that, in accordance with the Regulation 256 of the SEBI (ICDR) Regulations, 2018 read with SEBI circular no. CIR/CFD/POLICYCELL/11/2015 dated November 10, 2015 all the Applicants has to compulsorily apply through the ASBA Process. As an alternate payment mechanism, Unified Payments Interface (UPI) has been introduced (vide SEBI Circular Ref: SEBI/HO/CFD/DIL2/CIR/P/2018/138 dated November 1, 2018) as a payment mechanism in a phased manner with ASBA for applications in public issue by Individual investors through intermediaries (Syndicate members, Registered Stock-Brokers, Registrar and Transfer agent and Depository Participants).
+
+Further vide the said circular Registrar to the Issue and Depository Participants have been also authorized to collect the Bid-cum-Application forms. Investor may visit the official website of the concerned for any information on operational utilization of this facility of form collection by the Registrar to the Issue and Depository Participants as and when the same is made available.
+
+## THE ISSUE
+
+The Issue comprises a Fresh Issue of Equity Shares by our Company. The fees and expenses relating to the Issue shall be borne by our Company in the manner specified in the Chapter “Objects of the Issue – Public Issue Expenses” on page 98 of the Draft Red Herring Prospectus.
+
+## RANKING OF EQUITY SHARES
+
+The Equity Shares being allotted and issued shall be subject to the provisions of the Companies Act 2013, SEBI ICDR Regulations, SCRA, SCRR, the Memorandum of Association and Articles of Association will rank pari-passu in all respects with the existing Equity Shares including in respect of dividends and other corporate benefits, if any, declared by our company after the date of Allotment. The Allotees upon Allotment of Equity Shares under the Issue will be entitled to dividend and other corporate benefits. For further details, please see the section titled “Description of Equity Shares and Terms of the Articles of Association” on page 319 of this Draft Red Herring Prospectus.
+
+## AUTHORITY FOR THE PRESENT ISSUE
+
+The Issue has been authorized by the Board of Directors vide a resolution passed at its meeting held on September 16, 2025 subject to the approval of shareholders through a special resolution to be passed pursuant to section 62 (1) (c) of the Companies Act, 2013. The shareholders have authorized the Issue by a special resolution in accordance with Section 62 (1) (c) of the Companies Act, 2013 passed at the Extra-Ordinary General Meeting of the Company held on September 17, 2025.
+
+## MODE OF PAYMENT OF DIVIDEND
+
+The declaration and payment of dividend will be as per the provisions of Companies Act 2013, the SEBI Listing Regulations, the Memorandum of Association and the Articles of Association and any other rules, regulations or guidelines as may be issued by the Government of India in connection thereto and as recommended by the Board of Directors and approved by the Shareholders at their discretion and will depend on a number of factors, including but not limited to earnings, capital requirements and overall financial condition of our Company. We shall pay dividend, if declared, to our Shareholders as per the provisions of the Companies Act 2013, Memorandum of Association our Articles of Association. Further Interim Dividend (if any, declared) will be approved by the Board of Directors. For further details, see “Dividend Policy” and “Description of Equity Shares and Terms of the Articles of Association” on page 227 and 319 respectively.
+
+## FACE VALUE, ISSUE PRICE & PRICE BAND
+
+The face value of the Equity Shares is ₹ 10 each and the Issue Price at the lower end of the Price Band is ₹ [●] per Equity Share (“Floor Price”) and at the higher end of the Price Band is ₹ [●] per Equity Share (“Cap Price”). The Anchor Investor Issue Price is [●] per Equity Share.
+
+The Price Band and the minimum Bid Lot size in the Issue will be decided by our Company, in consultation with the Book

@@ -1,0 +1,29 @@
+Expansion of the distribution network to new geographies entails navigating a range of legal, logistical, financial, and operational challenges, including but not limited to: onboarding credible channel partners, establishing warehousing and logistics infrastructure, adapting to regional consumer behaviour, and ensuring compliance with diverse regulatory regimes. Further, in international markets, the Company relies on third-party distributors and agents, and any failure, underperformance, or non-renewal of such arrangements may lead to significant disruptions.
+
+The success of the Company's growth strategy is dependent on its ability to broaden its domestic reach and to scale its existing international distribution capabilities. There can be no assurance that the Company will be able to establish or maintain such relationships on favourable terms. Any delays, inefficiencies, or disruptions in expanding the distribution network may adversely affect the Company's business operations, financial performance, and growth prospects.
+
+**22. Our Company had negative operating cash flow in recent fiscals, details of which are given below. Sustained negative cash flow could adversely impact our business, financial condition and results of operations.**
+
+Our Company had reported certain negative cash flows in previous years as per the Restated Standalone Financial Information, as stated below:
+
+(₹ in lakhs)
+
+<table><thead><tr><th>Particulars</th><th>March 31,2025</th><th>March 31,2024</th><th>March 31,2023</th></tr></thead><tbody><tr><td>Net cash generated from/(used in) Operating activities</td><td>311.97</td><td>(781.62)</td><td>(281.08)</td></tr><tr><td>Net cash generated from/(used in) Investing activities</td><td>(920.65)</td><td>(121.28)</td><td>(39.22)</td></tr><tr><td>Net cash generated from/(used in) Financing activities</td><td>519.08</td><td>967.42</td><td>295.75</td></tr></tbody></table>
+
+*Note: Figures in brackets are negative in above table*
+
+Cash flow of a company is a key indicator to show the extent of cash generated from operations to meet capital expenditure, pay dividends, repay loans and make new investments without raising finance from external resources. Since our Company is in a growth phase, our working capital requirement has increased in tandem and this has resulted in negative cashflow from operating activity in the Financial Years ended 2024 and 2023 respectively. We may continue to have negative operating cashflows in the future. If our Company is not able to generate sufficient operating cash flows, it may adversely affect our business and financial operations. For further details, see "Restated Financial Statements" beginning on page 215.
+
+**23. Inability to update the Company's name in certain statutory approvals and agreements may adversely impact the business**
+
+Any failure to obtain, renew and maintain requisite statutory and regulatory permits, licenses and approvals for our operations from time to time may adversely affect our business
+
+We require certain statutory and regulatory permits, licenses, and approvals to operate our business. While we believe that we have obtained all material approvals necessary for the current operations of our Company, there can be no assurance that we are in possession of all approvals required under applicable laws, or that additional approvals will not be required in the future as our business evolves or regulations change.
+
+Several of the approvals we hold are valid only for specified periods and are subject to renewal upon expiry. We are required to make timely applications for such renewals, and there can be no assurance that the concerned regulatory authorities will renew or reissue the approvals on terms acceptable to us, or at all. Any failure or delay in obtaining, renewing, or maintaining these approvals may result in operational disruptions, penalties, or suspension of business activities, which could have a material adverse effect on our business, financial condition, and results of operations.
+
+Moreover, the approvals and licenses we hold are subject to ongoing compliance with various conditions. Any noncompliance or perceived non-compliance whether intentional or inadvertent—may lead to suspension, cancellation, or revocation of such approvals. In the event of changes to applicable laws or regulatory frameworks, we may be required to incur additional costs or make operational changes to comply with revised conditions.
+
+Additionally, our Company is in the process of updating the name change in all statutory registrations, permits, and licenses that were issued under our former name. Any delay in completing this process may lead to administrative inconvenience or inconsistencies in official records, which could potentially impact the validity or enforceability of such approvals unless corrected in a timely manner.
+
+For further details, please refer to section titled "Government and Other Approvals" beginning on page 236 of this Draft Red Herring Prospectus.

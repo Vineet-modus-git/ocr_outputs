@@ -1,0 +1,26 @@
+25. These figures highlight the Indian economy's resilience, driven by strong domestic demand, despite rising global uncertainties that are affecting global economies.
+
+The nation has shifted to a modern economy, demonstrating increased global integration, and exporting a fifth of its output, a significant rise from one-sixteenth at independence. The demographic transition, marked by a lower infant mortality rate and a consistent growth in literacy rates, further enhances India's advantageous position. With improved income distribution, heightened employment rates, and globally competitive social amenity provisions, there is potential for India's per capita GDP to expand in the next 25 years, mirroring the growth seen in the preceding 75 years.
+
+In the fiscal year 2024-25 (Union Budget Estimate), there has been a 11.1% increase in the allocation for capital expenditure, rising from Rs. 10 lakh crore (US$ 120.6 billion) in the previous year (2023-24) to Rs. 11.11 lakh crore (US$ 134 billion). The strong growth of the Indian economy in the first half of FY24 has surpassed that of major economies, contributing to the reinforcement of macroeconomic stability.
+
+The real GDP growth rate for FY25 is projected at 7.2% compared to the estimated growth rate of 8.2% in FY24. For the second quarter of 2024-25, growth is estimated at 7.0% and is expected to reach 7.4% in the third quarter of 2024-25. These figures highlight the Indian economy's resilience, driven by strong domestic demand, despite rising global uncertainties that are affecting global economies.
+
+The nation has shifted to a modern economy, demonstrating increased global integration, and exporting a fifth of its output, a significant rise from one-sixteenth at independence. The demographic transition, marked by a lower infant mortality rate and a consistent growth in literacy rates, further enhances India's advantageous position. With improved income distribution, heightened employment rates, and globally competitive social amenity provisions, there is potential for India's per capita GDP to expand in the next 25 years, mirroring the growth seen in the preceding 75 years.
+
+In the fiscal year 2024-25 (Union Budget Estimate), there has been a 11.1% increase in the allocation for capital expenditure, rising from Rs. 10 lakh crore (US$ 120.6 billion) in the previous year (2023-24) to Rs. 11.11 lakh crore (US$ 134 billion). The strong growth of the Indian economy in the first half of FY24 has surpassed that of major economies, contributing to the reinforcement of macroeconomic stability.
+
+Recently, in 2024-25, the following key indicators highlighted improved performances:
+
+*   Private consumption stood at 56.3% of the GDP in first quarter of FY25, compared to 55.9% in the same quarter last year. The growth in the private consumption remained muted mainly due to the factors like subdued monsoon and persistent food inflation.
+*   The agricultural sector maintains robust growth, showing positive advancements in Rabi sowing, where the cultivated area has expanded from 709.09 lakh hectares in 2022-23 to 709.29 lakh hectares in 2023-24 (as on February 1, 2024). To enhance production and bolster farmers' income, elevated Minimum Support Prices (MSPs) have been declared for the upcoming Rabi Marketing Season (RMS 2023-24), ranging from 2.0 to 9.1%. The area sown under the kharif crops also expanded by 8.9% compared to the same period last year, as of May 10, 2024. Crops like rice, Shree anna, coarse cereals, pulses and oilseeds contributed to this increase, which might lead to rise in the production.
+*   CPI inflation increased to 6.21% in October 2024 from 5.49% in September 2024.
+*   Services PMI increased to 56.0 in October 2024 as compared to 54.9 in September 2024.
+*   The consumption of petroleum products during FY25 (April-October 2024) stood at 137.649 MMT in volume terms.
+*   Quick Estimates for India's Index of Industrial Production (IIP) for September 2024 stood at 146.7 against 145.6 for August 2024.
+*   The combined index of eight core industries stood at 161.2 for FY25 (April-September) against 154.7 for FY24 (April-September).
+*   Cargo traffic handled at major ports stood at 481.88 million tonnes (MMT) during April-October FY25.
+*   Railway freight traffic stood at 126.97 million tonnes in August 2024.
+*   During April 2024-September 2024 (2024-25), air freight movement increased by ~15% to 1,862.9180 thousand tonnes compared to 1,619.6245 thousand tonnes in April 2023-September 2023 (2023-24) period.
+*   A total of 61.9 crore e-way bills were raised in April-September 2024.
+*   India registered a broad-based expansion of 7% in FY23, supported by robust domestic demand and upbeat investment activity. Sectoral analysis reveals that growth was driven by demand from the services sector, and enhanced agriculture export activity was aided by increased infrastructure investment. Private consumption has peaked, marking the highest level during all second quarters in the last 11 years, accounting for 60.6% of

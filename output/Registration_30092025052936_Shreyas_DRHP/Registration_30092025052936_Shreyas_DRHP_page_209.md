@@ -1,0 +1,11 @@
+DIVIDEND POLICY
+
+Under the Companies Act, 2013, an Indian Company pays dividends upon recommendation by its Board of Directors and approval by majority of the Shareholders at the general meeting. Under the Companies Act, 2013, dividends may be paid out of profits of a company in the year in which the dividend is declared or out of the undistributed profits or reserves of the previous years or out of both.
+
+The Articles of Association of our Company also gives the discretion to our Board of Directors to declare and pay interim dividends. No dividend shall be payable for any financial year except out of profits of our Company for that year or that of any previous financial year or years, which shall be arrived at after providing for depreciation in accordance with the provisions of Companies Act, 2013.
+
+Our Company does not have a formal dividend policy for declaration of dividend in respect of Equity shares. Any dividends to be declared shall be recommended by the Board of Directors depending upon the financial condition, results of operations, capital requirements and surplus, contractual obligations and restrictions, the terms of the credit facilities and other financing arrangements of our Company at the time a dividend is considered, and other relevant factors and approved by the Equity Shareholders at their discretion.
+
+Our Company has not paid / declared any dividend in last three years from date of this Draft Red Herring Prospectus. Our Company's corporate actions pertaining to payment of dividends in the past are not to be taken as being indicative of the payment of dividends by our Company in the future.
+
+205

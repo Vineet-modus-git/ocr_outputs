@@ -1,0 +1,25 @@
+<table><thead><tr><th>Types of transactions</th><th>Weighted average cost of acquisition (₹ per Equity Share)*</th><th>Floor price (i.e., ₹ [•])*</th><th>Cap price (i.e., ₹ [•])*</th></tr></thead><tbody><tr><td>issue capital before such transaction/s and excluding employee stock options granted but not vested), in a single transaction or multiple transactions combined together over a span of rolling 30 days. ("Secondary Transactions").<br>Note: Since there were no primary or secondary transactions of equity shares of our Company during the eighteen months to report (a) and (b), the information has been disclosed for price per share of our Company based on the last five primary or secondary transactions where Promoter, members of the Promoter Group, or shareholder(s) having the right to nominate directors on our Board, are a party to the transaction, not older than three years prior to the date of filing of this Draft Red Herring Prospectus irrespective of the size of the transaction, is as below:</td><td></td><td></td><td></td></tr><tr><td>Last 5 Primary Transaction</td><td>[•]</td><td>[•]</td><td>[•]</td></tr><tr><td>Last 5 Secondary Transaction</td><td>90.41</td><td>[•]</td><td>[•]</td></tr></tbody></table>
+
+*To be included on finalisation of Price Band
+
+Certified by M/s. Vishal H Shah & Associates, Chartered Accountants, pursuant to their certificate dated September 22, 2025
+
+## 9. Justification for Basis of Issue Price
+
+a. Explanation for Issue Price / Cap Price being [•] times of weighted average cost of acquisition of primary issuance price / secondary transaction price of Equity Shares along with our Company's KPIs and financial ratios for period ended March 31, 2025, March 31, 2024, and March 31, 2023.
+[•]*
+
+
+
+*To be included upon finalisation of Price Band
+
+b. The following provides an explanation to the Issue Price/ Cap Price being [•] times of weighted average cost of acquisition of Equity Shares that were issued by our Company or acquired by our Promoter, the members of our Promoter Group by way of primary and secondary transactions in the last eighteen months preceding the date of this Draft Red Herring Prospectus in view of external factors, if any, which may have influenced the pricing of the Issue.
+[•]*
+
+
+
+*To be included on finalisation of Price Band
+
+## 10. The Issue Price is [•] times of the Face Value of the Equity Shares.
+
+The issue Price of ₹ [•] has been determined by our Company in consultation with the BRLM, on the basis of market demand from investors for Equity Shares, as determined through the Book Building Process, and is justified in view of the above qualitative and quantitative parameters. Investors should read the above-mentioned information along with “Risk Factors”, “Business Overview”, “Management Discussion and Analysis of Financial Position and Results of Operations” and “Summary of Financial Statement” on pages 22, 130, 238 and 54, respectively, to have a more informed view. The trading price of the Equity Shares could decline due to the factors mentioned in the “Risk Factors” and you may lose all or part of your investment.

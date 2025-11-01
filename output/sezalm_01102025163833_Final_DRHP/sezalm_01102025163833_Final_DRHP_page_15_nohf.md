@@ -1,0 +1,27 @@
+## Currency and Units of Presentation
+
+All references to “₹” or “Rupees” or “Rs” “INR” are to Indian National Rupee, the official currency of the Republic of India. All references to “US$”, “U.S. Dollar”, “USD” or “$” are to United States Dollars, the official currency of the United States of America.
+
+In this Draft Red Herring Prospectus, our Company has presented certain numerical information. All figures have been expressed in lakhs, except where specifically indicated. One lakh represents 1,00,000. One million represents 10,00,000 and one crore represents 1,00,00,000. However, where any figures that may have been sourced from third party industry sources are expressed in denominations other than lakhs in their respective sources, such figures appear in this Draft Red Herring Prospectus expressed in such denominations as provided in such respective sources.
+
+In this Draft Red Herring Prospectus, unless the context otherwise requires, all references to one gender also refers to another gender and the word “Lac / Lakh” means “one hundred thousand”.
+
+## Industry and Market Data
+
+Unless stated otherwise, industry and market data and forecast used throughout this Draft Red Herring Prospectus has been derived from Company reports, data, websites and industry sources as well as Government publications etc. Industry publications data and website data generally state that the information contained therein has been obtained from sources believed to be reliable but that their accuracy and completeness are not guaranteed, and their reliability cannot be assured.
+
+Although, we believe that the industry and market data used in this Draft Red Herring Prospectus is reliable, it has not been independently verified by us or the BRLM or any affiliates or advisors. Similarly, internal Company reports and data, while believed by us to be reliable, have not been verified by any independent source. The extent to which the market and industry data used in this Draft Red Herring Prospectus is meaningful depends on the reader's familiarity with and understanding of the methodologies used in compiling such data.
+
+In accordance with SEBI (ICDR) Regulations, 2018 the chapter titled “Basis of Issue Price” on page 85 of this Draft Red Herring Prospectus includes information relating to our peer group companies. Such information has been derived from publicly available sources, and neither we, nor the BRLM, have independently verified such information.
+
+## Exchange Rates
+
+This Draft Red Herring Prospectus may contain conversions of certain other currency amounts into Indian Rupees that have been presented solely to comply with the SEBI ICDR Regulations. These conversions should not be construed as a representation that these currency amounts could have been, or can be converted into Indian Rupees, at any particular rate or at all.
+
+The following table sets forth, for the periods indicated, information with respect to the exchange rate between the Indian Rupee and other foreign currencies:
+
+<table><thead><tr><td>Currency<sup>(1)</sup></td><td>Exchange rate as on March 31, 2025</td><td>Exchange rate as on March 31, 2024</td><td>Exchange rate as on March 31, 2023</td></tr></thead><tbody><tr><td>1 USD</td><td>85.58</td><td>83.37</td><td>82.22</td></tr><tr><td>1 EUR</td><td>92.32</td><td>89.44</td><td>89.61</td></tr></tbody></table>
+
+Source: www.fbil.org.in
+
+(1) The reference rates are rounded off to two decimal places. In case of a public holiday, the previous working day not being a public holiday has been considered.

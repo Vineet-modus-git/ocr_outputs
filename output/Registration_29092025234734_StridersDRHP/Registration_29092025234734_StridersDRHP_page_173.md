@@ -1,0 +1,33 @@
+## 5. Global Market Expansion
+
+As part of its long-term international growth roadmap, Striders Impex Limited is preparing to target key global markets as per data insights.
+
+**Market Entry Strategy:**
+
+In its global expansion, the Company will focus on scaling its proprietary intellectual properties (IPs), such as *Pugs at Play*, *Furry Pals*, *Gurliez*, *Boujees*, and *Beezy Kids*. The international go-to-market strategy involves establishing alliances with established distributors, large-format retail chains, and leading e-commerce platforms, aimed at enhancing reach while maintaining an asset-light model.
+
+**Brand Positioning:**
+
+Striders Impex Limited intends to position its in-house brands in alignment with global consumer trends, focusing on product design, innovation, and value-driven pricing. This strategy will cater to digitally engaged, character-led consumer segments, while reinforcing the brand's identity as a creator of original, emotionally resonant toys and lifestyle products.
+
+This international expansion initiative is expected to drive meaningful brand visibility, open new revenue channels, and support the Company's evolution from a regional toy supplier to an emerging global brand in the toy and consumer products space.
+
+## 6. Strong Omnichannel & Direct-to-Consumer Focus
+
+Striders Impex Limited is strategically investing in building its direct-to-consumer online channels through e-commerce platforms, while continuing to strengthen its offline distribution network. This omnichannel approach enhances brand visibility, expands global reach, provides valuable consumer insights, and improves long-term profitability by reducing reliance on intermediaries. The ability to launch products quickly, test collections, and gather immediate feedback positions the Company as an agile, future-ready player aligned with evolving consumer behaviour.
+
+By developing robust online storefronts, we aim to:
+
+* **Strengthen Brand Visibility:** Enhance the discoverability of our brands by establishing a direct connection with customers.
+* **Expand Global Reach:** Overcome geographical barriers by reaching international buyers directly, thereby reducing dependence on intermediaries.
+* **Maximize Customer Insights:** Collect valuable consumer data to refine product offerings, improve engagement, and build long-term loyalty.
+* **Improve Bottom Line in the Long Term:** Drive profitability by selling directly to customers without relying heavily on distributors or retailers.
+* **Enable Agility in Launches:** Rapidly introduce new products, test collections, and capture real-time feedback to accelerate innovation cycles.
+
+## OUR PRODUCTS
+
+Striders offers a diverse and evolving range of toys and kid's across multiple categories, catering to various age groups and consumer preferences. Its portfolio includes both licensed merchandise and proprietary brands in segments such as novelties, plush and interactive plush, stationery, activity sets, children's accessories, school bags, water bottles, and lunch boxes. Additionally, its wholly-owned subsidiary, Striders FZ LLC, focuses on pocket money toys, footballs, and other outdoor play products.
+
+Leveraging strong associations with globally recognized licensors, we bring character-led products to market that enjoy widespread appeal across multiple international territories. Alongside this, our proprietary brands- *Furry Pals*, *Pugs at Play*, *Gurliez*, *Fanster*, *Minds at Play*, *Boujees*, *Beezy Kits* among others - enable us to deliver differentiated, value-driven offerings and full control over product design, positioning, and lifecycle.
+
+Our integrated design capabilities, coupled with a hybrid manufacturing model and agent-supported supply chain, allow us to maintain operational agility, product quality, and speed-to-market. This approach supports our ability to serve a geographically diversified customer base and adapt quickly to evolving consumer trends across domestic and global markets.

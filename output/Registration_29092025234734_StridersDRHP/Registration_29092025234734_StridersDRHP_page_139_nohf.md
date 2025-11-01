@@ -1,0 +1,18 @@
+* On January 22, 2024, Prime Minister Mr. Narendra Modi announced the 'Pradhan Mantri Suryodaya Yojana'. Under this scheme, 1 crore households will receive rooftop solar installations.
+* On September 17, 2023, Prime Minister Mr. Narendra Modi launched the Central Sector Scheme PM-VISHWAKARMA in New Delhi. The new scheme aims to provide recognition and comprehensive support to traditional artisans & craftsmen who work with their hands and basic tools. This initiative is designed to enhance the quality, scale, and reach of their products, as well as to integrate them with MSME value chains.
+* On August 6, 2023, Amrit Bharat Station Scheme was launched to transform and revitalize 1309 railway stations across the nation. This scheme envisages development of stations on a continuous basis with a long-term vision.
+* On June 28, 2023, the Ministry of Environment, Forests, and Climate Change introduced the 'Draft Carbon Credit Trading Scheme, 2023'.
+* From April 1, 2023, Foreign Trade Policy 2023 was unveiled to create an enabling ecosystem to support the philosophy of 'Aatmanirbhar Bharat' and 'Local goes Global'.
+* To enhance India's manufacturing capabilities by increasing investment and production in the sector, the government of India has introduced the Production Linked Incentive Scheme (PLI) for Pharmaceuticals.
+* Prime Minister's Development Initiative for North-East Region (PM-DevINE) was announced in the Union Budget 2022-23 with a financial outlay of Rs. 1,500 crore (US$ 182.35 million).
+* Prime Minister Mr. Narendra Modi has inaugurated a new food security scheme for providing free food grains to Antyodaya Ann Yojna (AAY) & Primary Household (PHH) beneficiaries, called Pradhan Mantri Garib Kalyan Ann Yojana (PMGKAY) from January 1, 2023.
+
+Source: https://www.ibef.org/economy/indian-economy-overview
+
+## Market Dynamics of Global Toy Market
+
+A dynamic rapidly changing industry, the global toy market is essential to children's and families' lives everywhere. The toy market serves a variety of age groups, tastes, and developmental needs by offering a broad range of products, such as classic toys, educational games, electronic devices, collectibles, puzzles, and outdoor play equipment. Toys hold excellent emotional and cultural value and serve as tools for learning, creativity, socialization, and cognitive development in addition to providing entertainment.
+
+Given that toys are viewed as crucial to both child development and parental involvement, the toy market has demonstrated resilience by continuing to grow in spite of economic ups and downs. Innovation, accessibility, and changing consumer expectations are expected to fuel the global toy market's steady growth as emerging economies grow and digital technologies become more widely available. Digital technology is also changing the industry; modern toys use augmented reality, artificial intelligence, and app connectivity to provide more immersive and interactive experiences.
+
+Furthermore, the market is growing beyond its typical demographic as a growing segment of adult consumers, referred to as "kidults," are driving demand for nostalgic and collectible toys. In terms of retail, e-commerce has completely changed the way toys are sold by giving customers more convenience and access to a wider variety of goods, whereas physical stores put more of an emphasis on delivering fun, interactive shopping experiences. Geographically, Asia-Pacific is becoming a significant growth region as a result of growing middle class, urbanization, and disposable incomes, while North America and Europe continue to be mature markets.

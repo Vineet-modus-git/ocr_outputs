@@ -1,0 +1,33 @@
+# GOVERNMENT AND OTHER STATUTORY APPROVALS
+
+Our Company has received the necessary licenses, permissions and approvals from the Central and State Governments and other government agencies/regulatory authorities/certification bodies required to undertake the issue or continue our business activities and except as mentioned below, no further approvals are required for carrying on our present or proposed business activities. For the risk involved related to pending approvals, please refer to the section titled "Risk Factors" starting from page 27 of this Draft Red Herring Prospectus.
+
+In view of the approvals listed below, we can undertake this issue and our current business activities and no further major approvals from any governmental or regulatory authority or any other entity are required to be undertaken in respect of the issue or to continue our business activities. It must be distinctly understood that, in granting these approvals, the Government of India does not take any responsibility for our financial soundness or for the correctness of any of the statements made or opinions expressed in this behalf.
+
+The main objects clause of the Memorandum of Association of our Company and the objects incidental, enable our Company to carry out its activities.
+
+The Company has got following licenses/registrations/approvals/consents/permissions from the Government and various other Government agencies required for its present business.
+
+## I. APPROVALS FOR THE ISSUE
+
+The following approvals have been obtained or will be obtained in connection with the Issue. For further information, please refer to the section titled "Other Regulatory and Statutory Disclosures" starting from page 259 of this Draft Red Herring Prospectus.
+
+### Corporate Approvals:
+
+a. Our Board, pursuant to its resolution dated September 16, 2025 authorized the Issue subject to approval of the shareholders of our Company under Section 62(1)(c) of the Companies Act, 2013 and such other authorities as may be necessary;
+
+b. The shareholders of our Company have, pursuant to their resolution passed at the Extra-Ordinary general meeting of our Company held on September 17, 2025 under Section 62(1)(c) of the Companies Act, 2013, authorized the Issue;
+
+c. Our Board approved this Draft Red Herring Prospectus pursuant to its resolution dated September 29, 2025.
+
+### Approval from the Stock Exchange:
+
+d. In-principal approval dated [●] from the National Stock Exchange of India Limited ("NSE") or using the name of the Exchange in the issue documents for listing of the equity shares issued by our Company pursuant to the issue.
+
+### Agreements with NSDL and CDSL:
+
+e. The company has entered into an agreement dated May 29, 2025 with the Central Depository Services (India) Limited ("CDSL") and the Registrar and Transfer Agent, who in this case is KFin Technologies Limited for the dematerialization of its shares.
+
+f. Similarly, the Company has also entered into an agreement dated October 18, 2024 with the National Securities Depository Limited ("NSDL") and the Registrar and Transfer Agent, who in this case is KFin Technologies Limited for the dematerialization of its shares.
+
+g. The Company's International Securities Identification Number is: INE19FR01012.

@@ -1,0 +1,14 @@
+ASHUTOSH FIBRE LIMITED
+[FORMERLY KNOWN AS ASHUTOSH FIBRE PRIVATE LIMITED]
+
+CIN No. : U24299GJ1985PLC007831
+
+SUB ANNEXURE - XVII : Ageing of Restated Statement of Trade Receivables
+
+(₹ in Lakhs otherwise Stated)
+
+<table><thead><tr><th>Particulars</th><th>Less than 6 Months</th><th>6 Months to 1 Year</th><th>1 to 2 Year</th><th>2 to 3 Year</th><th>More than 3 Year</th><th>Total</th></tr></thead><tbody><tr><td><strong>As at March 31, 2025</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Undisputed Considered Good</td><td>1,704.36</td><td>220.79</td><td>-</td><td>-</td><td>2.97</td><td>1,928.12</td></tr><tr><td>Undisputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Good</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>1,704.36</strong></td><td><strong>220.79</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>2.97</strong></td><td><strong>1,928.12</strong></td></tr><tr><td><strong>As at March 31, 2024</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Undisputed Considered Good</td><td>1,428.20</td><td>100.00</td><td>8.16</td><td>2.97</td><td>-</td><td>1,539.33</td></tr><tr><td>Undisputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Good</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>1,428.20</strong></td><td><strong>100.00</strong></td><td><strong>8.16</strong></td><td><strong>2.97</strong></td><td><strong>-</strong></td><td><strong>1,539.33</strong></td></tr><tr><td><strong>As at March 31, 2023</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Undisputed Considered Good</td><td>1,370.79</td><td>-</td><td>2.97</td><td>-</td><td>-</td><td>1,373.76</td></tr><tr><td>Undisputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Good</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Disputed Considered Doubtful</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td><strong>Total</strong></td><td><strong>1,370.79</strong></td><td><strong>-</strong></td><td><strong>2.97</strong></td><td><strong>-</strong></td><td><strong>-</strong></td><td><strong>1,373.76</strong></td></tr></tbody></table>
+
+This Space has Left Blank Intentionally
+
+F29

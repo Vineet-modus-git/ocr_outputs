@@ -1,0 +1,27 @@
+The demand and pricing of these yarns are influenced by multiple factors beyond our control, including changes in raw material costs, competition from domestic and international manufacturers, customer preferences and overall market conditions. Any unfavourable movement in these factors may materially and adversely impact our revenues and profitability.
+
+Further, since we do not have long-term agreements with most of our customers, there is no assurance that they will continue to place orders for para-aramid based spun yarn and 100% polypropylene yarn at the same level, or at all, in the future. If our customers reduce their demand, switch to other suppliers, or if we are unable to maintain consistent quality standards, our ability to generate revenues from these products may be significantly affected.
+
+Given our dependence on these product lines, any adverse development relating to the production, demand, or pricing of para-aramid based spun yarn and 100% polypropylene yarn could materially and adversely affect our business, financial condition, results of operations and cash flows.
+
+**6. We operate in a single business segment i.e. spinning of technical textile yarn and any adverse developments in this segment could have a material adverse effect on our business, financial condition and results of operations**
+
+Our revenues are entirely derived from the spinning of technical textile yarns, including para-aramid based yarns, polypropylene yarns, meta-aramid/viscose blends and other specialty fibres. Unlike companies with diversified operations across multiple business segments, we do not have alternate lines of business to mitigate the impact of downturns in this segment. Any reduction in demand for technical textile yarn, adverse changes in industry trends, increasing competition, regulatory developments, changes in customer preference, or pricing pressures could directly impact our revenues and profitability.
+
+Further, our dependence on a single segment makes us more vulnerable to risks such as volatility in raw material costs, disruptions in supply of speciality fibres, technological obsolescence, or the entry of competing substitute materials. In the past, industry participants in technical textiles have faced challenges due to fluctuations in crude-linked fibre pricing, changes in international trade policies and evolving performance standards. Similar adverse developments could significantly affect our operations, margins and cash flows, given our concentrated business model.
+
+**7. If we are unable to make adequate investments in manufacturing technologies and our capital-intensive production facilities at optimal efficiency, our competitiveness, business, results of operations and financial condition may be adversely affected.**
+
+Our business is both capital and technology intensive. The manufacture of high-performance technical yarns such as aramid-based yarns, flame-retardant viscose blends, modacrylic yarns and polypropylene yarns requires significant investment in specialized spinning technologies (including ring spun, open-end and DREF friction spun systems), twisting and splicing machinery and advanced electronic yarn clearing and testing equipment. These facilities also require continuous maintenance and periodic upgrades to meet customer specifications and international performance standards.
+
+Further, advanced yarn technologies such as melt spinning, microfilament yarn production and hybrid yarn processing often involve patented know-how or licensing costs from global technology providers. Any inability to secure access to such technologies on commercially viable terms may constrain our ability to diversify into newer product categories and reduce our competitiveness.
+
+During Fiscal 2025, 2024 and 2023, our total capital expenditure was as follows:
+
+<table><thead><tr><th rowspan="2">Particulars</th><th colspan="3">For the Financial Year ended on</th></tr><tr><th>March 31, 2025</th><th>March 31, 2024</th><th>March 31, 2023</th></tr></thead><tbody><tr><td>Capital Expenditure (₹ in lakhs)</td><td>2,822.64</td><td>906.93</td><td>285.73</td></tr><tr><td>% of Revenue from Operations</td><td>24.75%</td><td>8.25%</td><td>2.92%</td></tr></tbody></table>
+
+These investments, while critical to sustaining our production capabilities, increase our fixed cost base. Underutilization of our production facilities due to raw material supply disruptions, demand fluctuations, or machinery downtime may adversely impact our operating margins. Additionally, our operations require highly skilled technical personnel to manage advanced production technologies, quality assurance and R&D. Any shortage of such talent, attrition, or delays in skill development could impact our operational efficiency.
+
+If we are unable to sustain our investment requirements, adopt newer technologies in line with industry trends, or operate our facilities at optimal utilization levels, our ability to remain competitive and profitable may be significantly impaired.
+
+**8. Our Company is dependent on a limited number of customer-approved suppliers for raw material for para-aramid fibres, viscose fibres and acrylic fibres and this dependency may adversely affect our production, revenues and financial condition.**

@@ -1,0 +1,19 @@
+<table><tr><td></td><td>electrical equipment across all categories of rolling stock; to provide outsourcing and support services for passenger coaches including en-route operations and troubleshooting; and to undertake such other incidental or ancillary activities as may be necessary or desirable for the attainment of the foregoing objects and providing labour, workforce, skilled and unskilled manpower for execution, operation, supervision, repair, servicing and maintenance of railway and allied infrastructure, turnkey projects and contracts.</td></tr><tr><td></td><td>3. Operations & Maintenance of such Railway Projects and related services including the turnkey projects Railways including pre bid arrangements with major OEM's for Railway. Also providing Operations & Maintenance services after completion and/or of projects completed by pre bid arrangements for any utility companies or other process industries or projects and to apply for, tender purchase or otherwise acquire, contract and concession for all or any of them and to enter into pre bid arrangements in contract from time to time and upon such terms and conditions as may be thought expedient.</td></tr><tr><td></td><td>4. To carry on the business of undertaking, executing and managing contracts for Operations, Maintenance, Engineering, Power, Infrastructure, Technology and related services, mainly with Railway Authorities, Metro Rail Corporations, Government Departments, Public Sector Undertakings, and other organizations in India and abroad, including trading, procuring, importing, exporting, supplying and dealing in all types of materials, equipment, plant and machinery required for such contracts, and to undertake operation, supervision, repair, servicing and maintenance contracts relating thereto.</td></tr></table>
+
+## Major Key Events, Milestone and Achievements of our Company:
+
+The table below sets forth some of the major events in the history of our company:
+
+<table><thead><tr><td>Calendar Year</td><td>Key Events / Milestone / Achievements</td></tr></thead><tbody><tr><td>2010</td><td>Incorporation of our Company.</td></tr><tr><td>2010</td><td>Takeover of business of proprietorship firm, M/s. Dhara Industries</td></tr><tr><td>2024</td><td>Crossed turnover of ₹30 crores</td></tr><tr><td>2025</td><td>Conversion of the Company from Private Limited to Public Limited Company.</td></tr></tbody></table>
+
+## Key Awards, Certifications, Accreditations and Recognitions
+
+For Key Awards, Certifications, Accreditations, please refer to the section "Business Overview" on Page 116 of this Draft Red Herring Prospectus.
+
+## Other details about our Company:
+
+For details regarding the description of our Company's activities, products, market, growth, awards & recognitions, capacity, locations, technology, marketing strategy, competition and our customers, managerial competence, standing with reference to prominent competitors, launch of key products, entry in new geographies or exit from existing markets, major distributors and customers, segment, marketing and competition, please refer to the chapters titled "Our Business", "Management's Discussion and Analysis of Financial Conditions and Results of Operations" and "Basis for Issue Price" on pages 116, 215 and 96 respectively of this Draft Red Herring Prospectus. For details of our management and managerial competence and for details of shareholding of our Promoters, please refer to sections titled "Our Management" and "Capital Structure" beginning on page 143 and 73 of this Draft Red Herring Prospectus respectively.
+
+## Capital Raising (Debt / Equity):
+
+For details in relation to our capital raising activities through equity, please refer to the chapter titled "Capital Structure" beginning on page 73 of this Draft Red Herring Prospectus. For details of our Company's debt facilities, see "Statement of Financial Indebtedness" on page 213 of this Draft Red Herring Prospectus.

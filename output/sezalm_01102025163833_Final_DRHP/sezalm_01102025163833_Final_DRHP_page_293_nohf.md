@@ -1,0 +1,19 @@
+<table><thead><tr><td>Particulars <sup>(2)</sup></td><td>Market Maker Reservation Portion</td><td>QIBs <sup>(1)</sup></td><td>Non-Institutional Bidders / Investors</td><td>Individual Bidders / Investors</td></tr></thead><tbody><tr><td></td><td colspan="4">In case of all other Bidders: Full Bid Amount shall be blocked by the SCSBs in the bank account of the ASBA Bidder (other than Anchor Investors) or by the Sponsor Bank through the UPI Mechanism, that is specified in the ASBA Form at the time of submission of the ASBA Form.</td></tr></tbody></table>
+
+* Assuming full subscription in the Issue.
+
+(1) Our Company may, in consultation with the BRLM, allocate up to 60% of the QIB Portion to Anchor Investors on a discretionary basis in accordance with the SEBI ICDR Regulations. One-third of the Anchor Investor Portion shall be reserved for domestic Mutual Funds, subject to valid Bids being received from domestic Mutual Funds at or above the price Anchor Investor Allocation Price.
+
+(2) In terms of Rule 19(2) of the SCRR read with Regulation 252 of the SEBI (ICDR) Regulations, 2018 this is an Issue for at least 25% of the post issue paid-up Equity share capital of the Company. This Issue is being made through Book Building Process, wherein allocation to the public shall be as per Regulation 252 of the SEBI (ICDR) Regulations.
+
+(3) Subject to valid Bids being received at or above the Issue Price, undersubscription, if any, in any category, except in the QIB Portion, would be allowed to be met with spill-over from any other category or combination of categories of Bidders at the discretion of our Company in consultation with the BRLM and the Stock Exchange, subject to applicable laws.
+
+(4) Full Bid Amount shall be payable by the Anchor Investors at the time of submission of the Anchor Investor Application Forms provided that any difference between the Anchor Investor Allocation Price and the Anchor Investor Issue Price shall be payable by the Anchor Investor Pay-In Date as indicated in the CAN.
+
+The Bids by FPIS with certain structures as described under “**Issue Procedure - Bids by FPIS**” on page 303 and having same PAN may be collated and identified as a single Bid in the Bidding process. The Equity Shares Allocated and Allotted to such successful Bidders (with same PAN) may be proportionately distributed.
+
+If the Bid is submitted in joint names, the Bid cum Application Form should contain only the name of the first Bidder whose name should also appear as the first holder of the depository account held in joint names. The signature of only the first Bidder would be required in the Bid cum Application Form and such first Bidder would be deemed to have signed on behalf of the joint holders.
+
+Bidders will be required to confirm and will be deemed to have represented to our Company, the Underwriters, their respective directors, officers, agents, affiliates and representatives that they are eligible under applicable law, rules, regulations, guidelines and approvals to acquire the Equity Shares.
+
+(Remainder of the page has been intentionally left blank)

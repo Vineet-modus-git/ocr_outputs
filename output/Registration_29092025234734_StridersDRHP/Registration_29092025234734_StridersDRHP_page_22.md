@@ -1,0 +1,25 @@
+CERTAIN CONVENTIONS, CURRENCY OF PRESENTATION, USE OF FINANCIAL INFORMATION AND MARKET DATA
+
+CERTAIN CONVENTIONS
+
+In this Draft Red Herring Prospectus, the terms “we”, “us”, “our”, the “Company”, “our Company”, unless the context otherwise indicates or implies, refers to Striders Impex Limited. All references to “India” in this Draft Red Herring Prospectus are to the Republic of India and its territories and possession and all references herein to the “Government”, “Indian Government”, “GoI”, “Central Government” or the “State Government” are to the Government of India, central or state, as applicable.
+
+All references to the “US”, “U.S.” “USA” or “United States” are to the United States of America and its territories and possessions.
+
+Unless stated otherwise, all references to page numbers in this Draft Red Herring Prospectus are to the page numbers of this Draft Red Herring Prospectus.
+
+FINANCIAL DATA
+
+Unless the context otherwise requires or indicates, the financial information (including financial ratios) and any percentage amounts (excluding certain operational metrics), as set forth in **“Risk Factors”, “Our Business”, “Management’s Discussion and Analysis of Financial Position and Results of Operations”** on pages 32, 153 and 220, respectively, and elsewhere in this Draft Red Herring Prospectus have been derived from our Restated Financial Statements on Consolidated basis for the Financial Year ended March 31, 2025 and Restated Financial Statement on Standalone Basis for the Financial Year ended March 31, 2025, March 31, 2024, and March 31, 2024 in accordance with Indian GAAP, the Companies Act and SEBI (ICDR) Regulations, 2018.
+
+The consolidated financial statement for the Financial Year ended March 31, 2025 relates to Striders Impex Limited and its Wholly Subsidiary companies i.e., Striders Distribution and Services Private Limited and Striders FZ LLC. These Restated consolidated financial statements are prepared in accordance with Indian Generally Accepted Accounting Principles (GAAP), Companies Act, 2013 read with Companies (Accounts) Rules, 20214 and SEBI (ICDR) Regulations, 2018.
+
+The Restated Financial Statements on Standalone Basis of our Company, for the financial year ended March 31, 2025, March 31, 2024, and March, 31, 2023 prepared in terms of the requirements of Section 26 of Part I of Chapter III of the Companies Act, 2013, the SEBI ICDR Regulations; and the Guidance Note on Reports in Company Prospectuses (Revised 2019) issued by the Institute of Chartered Accountants of India, as amended from time to time (the “Guidance Note”), comprising the restated statement of assets and liabilities for the financial year ended March 31, 2025, March 31, 2024, and March, 31, 2023, the restated statements of profit and loss (including other comprehensive income), the restated statement of changes in equity, the restated cash flow statement for the financial year ended March 31, 2025, March 31, 2024, and March, 31, 2023, the summary statement of significant accounting policies, and other explanatory information.
+
+For further information on our Company’s financial information, see **“Restated Financial Statements” and “Management’s Discussion and Analysis of Financial Position and Results of Operations”** on pages 215 and 220, respectively.
+
+Our Company’s financial year commences on April 1 and ends on March 31 of the next year; accordingly, all references to a particular financial year, unless stated otherwise, are to the 12 months period ended on March 31 of that calendar year. Reference in this Draft Red Herring Prospectus to the terms Fiscal or Fiscal Year or Financial Year is to the 12 months ended on March 31 of such year, unless otherwise specified.
+
+There are significant differences between Indian GAAP, the International Financial Reporting Standards (“IFRS”) and the Generally Accepted Accounting Principles in the United States of America (“U.S. GAAP”). Accordingly, the degree to which the Indian GAAP financial statements included in this Draft Red Herring Prospectus will provide meaningful information is entirely dependent on the reader’s level of familiarity with Indian accounting practice and Indian GAAP. Any reliance by persons not familiar with Indian accounting practices on the financial disclosures presented in this Draft Red Herring Prospectus should accordingly be limited. We have not attempted to explain those differences or quantify their impact on the financial data included herein, and we urge you to consult your own advisors regarding such differences and their impact on our financial data.
+
+Any percentage amounts, as set forth in **“Risk Factors”, “Our Business”, “Management’s Discussion and Analysis of Financial Position and Results of Operations”** and elsewhere in the Draft Red Herring Prospectus unless otherwise indicated, have been calculated on the basis of the Company’s restated financial statements prepared in accordance with the applicable provisions of the

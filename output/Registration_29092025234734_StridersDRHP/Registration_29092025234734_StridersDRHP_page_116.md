@@ -1,0 +1,27 @@
+<table><tr><td>Trade Payables</td><td>699.67</td><td>579.18</td><td>537.76</td><td>538.40</td><td>721.92</td></tr><tr><td>Other Current Liabilities</td><td>112.48</td><td>101.87</td><td>289.05</td><td>250.69</td><td>401.10</td></tr><tr><td>Short Term Provisions</td><td>257.31</td><td>166.52</td><td>140.80</td><td>334.00</td><td>559.54</td></tr><tr><td><strong>Total (B)</strong></td><td><strong>1,461.64</strong></td><td><strong>2,274.28</strong></td><td><strong>2,961.50</strong></td><td><strong>2,523.09</strong></td><td><strong>3,082.56</strong></td></tr><tr><td><strong>III Net Working Capital Gap (Except Cash) (A-B)</strong></td><td><strong>178.58</strong></td><td><strong>440.01</strong></td><td><strong>804.49</strong></td><td><strong>2,131.72</strong></td><td><strong>3,618.01</strong></td></tr><tr><td><strong>IV Funding Pattern</strong></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Long Term Owned Funds and Short Term Bank Borrowing</td><td>178.58</td><td>440.01</td><td>804.49</td><td>1,465.26</td><td>2,984.47</td></tr><tr><td>Proceeds from IPO</td><td>-</td><td>-</td><td>-</td><td>666.46</td><td>633.54</td></tr></table>
+
+*As certified by our Peer Review Auditor, M/s. V R Sabnis and Associates, Chartered Accountant, vide their certificate dated September 27, 2025, being UDIN: 25135589BMIEOQ2269.
+
+**Holding levels:**
+
+The following table sets forth the details of the holding period (with days rounded to the nearest whole number) considered for financial years ended March 31, 2025, March 31, 2024 and March 31, 2023, as well as projections for financial year ended March 31, 2026 and March 31, 2027.
+
+<table><thead><tr><th rowspan="2">Particulars</th><th rowspan="2">Unit *</th><th>Actual</th><th>Actual</th><th>Actual</th><th>Projected</th><th>Projected</th></tr><tr><th>March 31, 2023</th><th>March 31, 2024</th><th>March 31, 2025</th><th>March 31, 2026</th><th>March 31, 2027</th></tr></thead><tbody><tr><td>Debtors</td><td>Days</td><td>91</td><td>96</td><td>125</td><td>120</td><td>98</td></tr><tr><td>Creditors</td><td>Days</td><td>118</td><td>70</td><td>45</td><td>38</td><td>31</td></tr><tr><td>Inventories</td><td>Days</td><td>126</td><td>150</td><td>107</td><td>106</td><td>92</td></tr></tbody></table>
+
+*1) Debtor days are calculated as a ratio on Sales (Debtors/Sales*365)
+
+2) Creditor days are calculated as a ratio on COGS (Creditors/Purchases*365)
+
+3) Inventory days are calculated as a ratio on COGS (Inventory/Purchases*365)
+
+**Key Assumptions and Justification for Holding levels**
+
+<table><thead><tr><th>Particulars</th><th>Assumptions and Justifications #</th></tr></thead><tbody><tr><td><strong>Debtors</strong></td><td>Up to FY 2024-25, the Company's holding period was around 91-125 days. Following the proposed Initial Public Offering (IPO), the company intends to expand its operations and implement certain control measures for timely collection of the receivables. Hence, the debtor holding period is projected to be 120 days in FY 2025-26 before gradually stabilizing to 98 days in FY 2026-27.</td></tr><tr><td><strong>Creditors</strong></td><td>During FY 2022-23 and FY 2023-24, the company's average creditor holding period remained high at approximately 118 and 70 days. In FY 2024-25, the company had a payable period of 45 days. Following the proposed Initial Public Offering (IPO), the company intends to pay off its Creditors into 38 days then gradually stabilizing to 31 days in FY 2026-27.</td></tr><tr><td><strong>Inventories</strong></td><td>Up to FY 2024-25, the Company's inventory holding period remained high at 107 days. However, from FY 2025-26, the management is aiming to keep a lower inventory level to control the holding costs and avoid working capital blockage. Hence, from FY 2025-26, the Inventory days are projected to range from 106-92 days.</td></tr></tbody></table>
+
+# The assumptions and justifications stated above are received from the management of the Company.
+
+**2. Investment in Striders FZ LLC, wholly owned subsidiary, to fund its working capital requirements.**
+
+Our Company acquired Striders FZ LLC as a wholly owned subsidiary pursuant to the Deferred Share Purchase Agreement dated
+
+107
